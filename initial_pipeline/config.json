@@ -1,0 +1,18 @@
+search_headers = {
+    "project_proponents": [
+        "project proponent",
+        "projectpropoonent",
+        "promotorul de proiect",
+        "proponente del proyecto",
+    ],
+    "other_entities": [
+        "other entities",
+        "roles and responsibilities, including contact information",
+        "other project participant",
+        "alte entități implicate în proiect",
+    ],
+    "ghg_emission_reductions": [
+        "estimated ghg emission reductions",
+        "reduceri și eliminări nete de emisii de ges",
+    ],
+}

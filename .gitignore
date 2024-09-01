@@ -1,0 +1,9 @@
+analysis/downloaded_files/*
+*.ipynb_checkpoints
+*.pyc
+data/downloaded_files/*
+*.env
+test/*
+log/vector-store/*
+log/*
+sidejob/data/*
