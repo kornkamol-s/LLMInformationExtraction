@@ -1,0 +1,34 @@
+{
+    "project_proponents": [
+        "project proponent",
+        "name of person",
+        "participant",
+        "ownership"
+    ],
+    "ghg_emission_reductions": [
+        "emission reduction",
+        "emissions reduction",
+        "ghg emission"
+    ],
+    "methodology": [
+        "methodology",
+        "methodologies"
+    ],
+    "project_description": [
+        "project description",
+        "additional information",
+        "location",
+        "summary description"
+    ],
+    "crediting period": [
+        "crediting period",
+        "credit"
+    ],
+    "sector": [
+        "project type",
+        "sectoral",
+        "sector",
+        "type of project"
+    ]
+}
+
