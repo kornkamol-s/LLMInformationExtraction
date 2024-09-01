@@ -1,0 +1,1131 @@
+id,filename,heading,mapped_categories,start_page,end_page,heading_name,heading_number,section
+1002,1002_gautami_power_vcs_pd-final.pdf,First Section,project_title,1,1,First Section,0,0
+1002,1002_gautami_power_vcs_pd-final.pdf,1.1 Project title,project_title,1,1,Project title,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.2 Type/Category of the project,ghg_emission_reduction,1,2,Type/Category of the project,1.2,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.3 Estimated amount of emission reductions over the,ghg_emission_reduction,2,2,Estimated amount of emission reductions over the,1.3,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.4 A brief description of the project:,ghg_emission_reduction,2,4,A brief description of the project:,1.4,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.4 A brief description of the project:,project_summary,2,4,A brief description of the project:,1.4,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.4 A brief description of the project:,project_size,2,4,A brief description of the project:,1.4,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.5 Project location including geographic and physical,project_location,4,4,Project location including geographic and physical,1.5,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.6 Duration of the project activity/crediting period:,ghg_emission_reduction,4,5,Duration of the project activity/crediting period:,1.6,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.7 Conditions prior to project initiation:,project_location,5,5,Conditions prior to project initiation:,1.7,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.8 A description of how the project will achieve GHG,ghg_emission_reduction,5,6,A description of how the project will achieve GHG,1.8,1
+1002,1002_gautami_power_vcs_pd-final.pdf,"1.9 Project technologies, products, services and the",ghg_emission_reduction,6,10,"Project technologies, products, services and the",1.9,1
+1002,1002_gautami_power_vcs_pd-final.pdf,"1.9 Project technologies, products, services and the",project_summary,6,10,"Project technologies, products, services and the",1.9,1
+1002,1002_gautami_power_vcs_pd-final.pdf,"1.9 Project technologies, products, services and the",baseline_analysis,6,10,"Project technologies, products, services and the",1.9,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,project_proponent,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,ghg_emission_reduction,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,project_lifetime,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,standard,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,project_country,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,project_location,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,project_summary,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,additional_analysis,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,leakage_analysis,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.10 Compliance with relevant local laws and regulations,baseline_analysis,10,11,Compliance with relevant local laws and regulations,1.1,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.11 Identification of risks that may substantially,ghg_emission_reduction,11,11,Identification of risks that may substantially,1.11,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.12 Demonstration to confirm that the project was not,ghg_emission_reduction,11,11,Demonstration to confirm that the project was not,1.12,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.12 Demonstration to confirm that the project was not,project_title,11,11,Demonstration to confirm that the project was not,1.12,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.12 Demonstration to confirm that the project was not,project_country,11,11,Demonstration to confirm that the project was not,1.12,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.12 Demonstration to confirm that the project was not,project_summary,11,11,Demonstration to confirm that the project was not,1.12,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.13 Demonstration that the project has not created,ghg_emission_reduction,11,12,Demonstration that the project has not created,1.13,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.14 Project rejected under other GHG programs (if,project_proponent,12,12,Project rejected under other GHG programs (if,1.14,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.14 Project rejected under other GHG programs (if,standard,12,12,Project rejected under other GHG programs (if,1.14,1
+1002,1002_gautami_power_vcs_pd-final.pdf,"1.15 Project proponent’s roles and responsibilities,",project_proponent,12,13,"Project proponent’s roles and responsibilities,",1.15,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.16 Any information relevant for the eligibility of the,project_proponent,13,14,Any information relevant for the eligibility of the,1.16,1
+1002,1002_gautami_power_vcs_pd-final.pdf,1.17 List of commercially sensitive information (if,project_proponent,14,14,List of commercially sensitive information (if,1.17,1
+1002,1002_gautami_power_vcs_pd-final.pdf,2.1 Title and reference of the VCS methodology applied to,standard,14,15,Title and reference of the VCS methodology applied to,2.1,2
+1002,1002_gautami_power_vcs_pd-final.pdf,2.2 Justification of the choice of the methodology and,baseline_analysis,15,17,Justification of the choice of the methodology and,2.2,2
+1002,1002_gautami_power_vcs_pd-final.pdf,"2.3 Identifying GHG sources, sinks and reservoirs for the",ghg_emission_reduction,17,18,"Identifying GHG sources, sinks and reservoirs for the",2.3,2
+1002,1002_gautami_power_vcs_pd-final.pdf,2.4 Description of how the baseline scenario is,baseline_analysis,18,36,Description of how the baseline scenario is,2.4,2
+1002,1002_gautami_power_vcs_pd-final.pdf,3.1 Title and reference of the VCS methodology (which,ghg_emission_reduction,36,36,Title and reference of the VCS methodology (which,3.1,3
+1002,1002_gautami_power_vcs_pd-final.pdf,"3.2 Monitoring, including estimation, modelling,",ghg_emission_reduction,36,38,"Monitoring, including estimation, modelling,",3.2,3
+1002,1002_gautami_power_vcs_pd-final.pdf,"3.2 Monitoring, including estimation, modelling,",leakage_analysis,36,38,"Monitoring, including estimation, modelling,",3.2,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.3 Data and parameters monitored / Selecting relevant,ghg_emission_reduction,38,40,Data and parameters monitored / Selecting relevant,3.3,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.3 Data and parameters monitored / Selecting relevant,leakage_analysis,38,40,Data and parameters monitored / Selecting relevant,3.3,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.3 Data and parameters monitored / Selecting relevant,baseline_analysis,38,40,Data and parameters monitored / Selecting relevant,3.3,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.4 Description of the monitoring plan,ghg_emission_reduction,40,44,Description of the monitoring plan,3.4,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.4 Description of the monitoring plan,leakage_analysis,40,44,Description of the monitoring plan,3.4,3
+1002,1002_gautami_power_vcs_pd-final.pdf,3.4 Description of the monitoring plan,baseline_analysis,40,44,Description of the monitoring plan,3.4,3
+1002,1002_gautami_power_vcs_pd-final.pdf,4.1 Explanation of methodological choice:,ghg_emission_reduction,44,48,Explanation of methodological choice:,4.1,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.1 Explanation of methodological choice:,baseline_analysis,44,48,Explanation of methodological choice:,4.1,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.1 Explanation of methodological choice:,leakage_analysis,44,48,Explanation of methodological choice:,4.1,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.2 Quantifying GHG emissions and/or removals for the,ghg_emission_reduction,48,51,Quantifying GHG emissions and/or removals for the,4.2,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.2 Quantifying GHG emissions and/or removals for the,baseline_analysis,48,51,Quantifying GHG emissions and/or removals for the,4.2,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.3 Quantifying GHG emission reductions and removal,ghg_emission_reduction,51,58,Quantifying GHG emission reductions and removal,4.3,4
+1002,1002_gautami_power_vcs_pd-final.pdf,4.3 Quantifying GHG emission reductions and removal,baseline_analysis,51,58,Quantifying GHG emission reductions and removal,4.3,4
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_proponent,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,ghg_emission_reduction,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_title,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,version_of_file,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,date_issue_of_project,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_start_date,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_lifetime,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,expected_first_vintage_of_credit_issuance,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_country,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_location,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_summary,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,standard,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.1 Proof of Title:,project_size,58,59,Proof of Title:,8.1,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.2 Projects that reduce GHG emissions from activities,ghg_emission_reduction,59,63,Projects that reduce GHG emissions from activities,8.2,8
+1002,1002_gautami_power_vcs_pd-final.pdf,8.2 Projects that reduce GHG emissions from activities,project_proponent,59,63,Projects that reduce GHG emissions from activities,8.2,8
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_proponent,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",ghg_emission_reduction,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_title,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_country,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_location,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_summary,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",standard,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",project_size,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",natural_catastrophe_climate_change,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",additional_analysis,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",leakage_analysis,63,70,"MCMD. Against this demand, the availability",6.12,6
+1002,1002_gautami_power_vcs_pd-final.pdf,"6.12 MCMD. Against this demand, the availability",baseline_analysis,63,70,"MCMD. Against this demand, the availability",6.12,6
+1750,1750_pdd.pdf,First Section,version_of_file,1,6,First Section,0,0
+1750,1750_pdd.pdf,First Section,project_country,1,6,First Section,0,0
+1750,1750_pdd.pdf,First Section,ghg_emission_reduction,1,6,First Section,0,0
+1750,1750_pdd.pdf,First Section,project_location,1,6,First Section,0,0
+1750,1750_pdd.pdf,First Section,project_size,1,6,First Section,0,0
+1750,1750_pdd.pdf,First Section,project_title,1,6,First Section,0,0
+1750,1750_pdd.pdf,3.3 Pot Controller,project_size,6,6,Pot Controller,3.3,3
+1750,1750_pdd.pdf,3.4 Supervisory computer MicroVAX 3400 HP Integrity rx 2620,project_size,6,6,Supervisory computer MicroVAX 3400 HP Integrity rx 2620,3.4,3
+1750,1750_pdd.pdf,4.8 Alarm system + voice,additional_analysis,6,6,Alarm system + voice,4.8,4
+1750,1750_pdd.pdf,4.8 Alarm system + voice,baseline_analysis,6,6,Alarm system + voice,4.8,4
+1750,1750_pdd.pdf,4.8 Alarm system + voice,leakage_analysis,6,6,Alarm system + voice,4.8,4
+1750,1750_pdd.pdf,4.13 Data history monitoring 10 pots/ line All pots,version_of_file,6,7,Data history monitoring 10 pots/ line All pots,4.13,4
+1750,1750_pdd.pdf,4.13 Data history monitoring 10 pots/ line All pots,date_issue_of_project,6,7,Data history monitoring 10 pots/ line All pots,4.13,4
+1750,1750_pdd.pdf,4.13 Data history monitoring 10 pots/ line All pots,project_title,6,7,Data history monitoring 10 pots/ line All pots,4.13,4
+1750,1750_pdd.pdf,5.1 Parameter modification Limited for individual par Optimum individual par,natural_catastrophe_climate_change,7,7,Parameter modification Limited for individual par Optimum individual par,5.1,5
+1750,1750_pdd.pdf,5.4 R & D purpose Not applicable Applicable,baseline_analysis,7,46,R & D purpose Not applicable Applicable,5.4,5
+1750,1750_pdd.pdf,5.4 R & D purpose Not applicable Applicable,project_proponent,7,46,R & D purpose Not applicable Applicable,5.4,5
+1750,1750_pdd.pdf,5.4 R & D purpose Not applicable Applicable,ghg_emission_reduction,7,46,R & D purpose Not applicable Applicable,5.4,5
+1750,1750_pdd.pdf,5.4 R & D purpose Not applicable Applicable,additional_analysis,7,46,R & D purpose Not applicable Applicable,5.4,5
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,First Section,project_location,1,2,First Section,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,First Section,ghg_emission_reduction,1,2,First Section,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,First Section,project_start_date,1,2,First Section,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,First Section,project_proponent,1,2,First Section,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.1 Summary Description of the Project,project_summary,2,2,Summary Description of the Project,1.1,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,project_location,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,project_summary,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,project_proponent,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,project_country,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,ghg_emission_reduction,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.2 Sectoral Scope and Project Type,project_title,2,2,Sectoral Scope and Project Type,1.2,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.3 Project Proponent,project_proponent,2,4,Project Proponent,1.3,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.4 Other Entities Involved in the Project,other_entities,4,4,Other Entities Involved in the Project,1.4,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.5 Project Start Date,project_start_date,4,4,Project Start Date,1.5,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.6 Project Crediting Period,project_lifetime,4,4,Project Crediting Period,1.6,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.7 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,4,5,Project Scale and Estimated GHG Emission Reductions or Removals,1.7,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.8 Description of the Project Activity,ghg_emission_reduction,5,5,Description of the Project Activity,1.8,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.8 Description of the Project Activity,project_lifetime,5,5,Description of the Project Activity,1.8,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.9 Project Location,project_location,5,6,Project Location,1.9,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.10 Conditions Prior to Project Initiation,ghg_emission_reduction,6,6,Conditions Prior to Project Initiation,1.10,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_country,6,6,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_location,6,6,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.3 Participation under Other GHG Programs,project_location,6,6,1.12.3 Participation under Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.3 Participation under Other GHG Programs,project_summary,6,6,1.12.3 Participation under Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.3 Participation under Other GHG Programs,project_proponent,6,6,1.12.3 Participation under Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.3 Participation under Other GHG Programs,project_country,6,6,1.12.3 Participation under Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.3 Participation under Other GHG Programs,project_title,6,6,1.12.3 Participation under Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.4 Other Forms of Environmental Credit,project_summary,6,7,1.12.4 Other Forms of Environmental Credit,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.5 Projects Rejected by Other GHG Programs,additional_analysis,7,7,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.5 Projects Rejected by Other GHG Programs,baseline_analysis,7,7,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.12.5 Projects Rejected by Other GHG Programs,leakage_analysis,7,7,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,1.13 Additional Information Relevant to the Project,leakage_analysis,7,7,Additional Information Relevant to the Project,1.13,1
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.1 Title and Reference of Methodology,version_of_file,7,7,Title and Reference of Methodology,2.1,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.2 Applicability of Methodology,project_proponent,7,7,Applicability of Methodology,2.2,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.3 Project Boundary,ghg_emission_reduction,7,8,Project Boundary,2.3,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.3 Project Boundary,baseline_analysis,7,8,Project Boundary,2.3,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.3 Project Boundary,leakage_analysis,7,8,Project Boundary,2.3,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.4 Baseline Scenario,baseline_analysis,8,8,Baseline Scenario,2.4,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.5 Additionality,additional_analysis,8,8,Additionality,2.5,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,2.6 Methodology Deviations,ghg_emission_reduction,8,8,Methodology Deviations,2.6,2
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,3.1 Baseline Emissions,baseline_analysis,8,8,Baseline Emissions,3.1,3
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,3.2 Project Emissions,ghg_emission_reduction,8,8,Project Emissions,3.2,3
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,3.3 Leakage,leakage_analysis,8,9,Leakage,3.3,3
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,3.4 Summary of GHG Emission Reductions and Removals,ghg_emission_reduction,9,9,Summary of GHG Emission Reductions and Removals,3.4,3
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_summary,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_country,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,ghg_emission_reduction,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_start_date,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,expected_first_vintage_of_credit_issuance,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_proponent,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,version_of_file,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,additional_analysis,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_lifetime,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,standard,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,date_issue_of_project,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,natural_catastrophe_climate_change,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,other_entities,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_title,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,baseline_analysis,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,leakage_analysis,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_location,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.1 Data and Parameters Available at Validation,project_size,9,9,Data and Parameters Available at Validation,4.1,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.2 Data and Parameters Monitored,ghg_emission_reduction,9,10,Data and Parameters Monitored,4.2,4
+1063,1063_dcw_vcs_project_description_version_1.3.pdf,4.3 Description of the Monitoring Plan,project_summary,10,10,Description of the Monitoring Plan,4.3,4
+2692,2692_pdd2692c.pdf,First Section,project_proponent,1,3,First Section,0,0
+2692,2692_pdd2692c.pdf,First Section,project_location,1,3,First Section,0,0
+2692,2692_pdd2692c.pdf,First Section,other_entities,1,3,First Section,0,0
+2692,2692_pdd2692c.pdf,First Section,ghg_emission_reduction,1,3,First Section,0,0
+2692,2692_pdd2692c.pdf,First Section,project_start_date,1,3,First Section,0,0
+2692,2692_pdd2692c.pdf,1.1 Summary Description of the Project,ghg_emission_reduction,3,4,Summary Description of the Project,1.1,1
+2692,2692_pdd2692c.pdf,1.1 Summary Description of the Project,project_location,3,4,Summary Description of the Project,1.1,1
+2692,2692_pdd2692c.pdf,1.2 Sectoral Scope and Project Type,ghg_emission_reduction,4,4,Sectoral Scope and Project Type,1.2,1
+2692,2692_pdd2692c.pdf,1.3 Project Eligibility,baseline_analysis,4,5,Project Eligibility,1.3,1
+2692,2692_pdd2692c.pdf,1.3 Project Eligibility,ghg_emission_reduction,4,5,Project Eligibility,1.3,1
+2692,2692_pdd2692c.pdf,1.3 Project Eligibility,natural_catastrophe_climate_change,4,5,Project Eligibility,1.3,1
+2692,2692_pdd2692c.pdf,1.4 Project Design,project_size,5,5,Project Design,1.4,1
+2692,2692_pdd2692c.pdf,1.5 Project Proponent,project_proponent,5,6,Project Proponent,1.5,1
+2692,2692_pdd2692c.pdf,1.6 Other Entities Involved in the Project,other_entities,6,6,Other Entities Involved in the Project,1.6,1
+2692,2692_pdd2692c.pdf,1.7 Ownership,project_proponent,6,6,Ownership,1.7,1
+2692,2692_pdd2692c.pdf,1.7 Ownership,other_entities,6,6,Ownership,1.7,1
+2692,2692_pdd2692c.pdf,1.8 Project Start Date,project_start_date,6,6,Project Start Date,1.8,1
+2692,2692_pdd2692c.pdf,1.9 Project Crediting Period,project_lifetime,6,6,Project Crediting Period,1.9,1
+2692,2692_pdd2692c.pdf,1.10 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,6,8,Project Scale and Estimated GHG Emission Reductions or Removals,1.10,1
+2692,2692_pdd2692c.pdf,1.11 Description of the Project Activity,ghg_emission_reduction,8,14,Description of the Project Activity,1.11,1
+2692,2692_pdd2692c.pdf,1.12 Project Location,project_location,14,15,Project Location,1.12,1
+2692,2692_pdd2692c.pdf,1.13 Conditions Prior to Project Initiation,ghg_emission_reduction,15,16,Conditions Prior to Project Initiation,1.13,1
+2692,2692_pdd2692c.pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",standard,16,16,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2692,2692_pdd2692c.pdf,1.15 Participation under Other GHG Programs,ghg_emission_reduction,16,16,Participation under Other GHG Programs,1.15,1
+2692,2692_pdd2692c.pdf,1.16 Other Forms of Credit,other_forms_of_environmental_credit,16,17,Other Forms of Credit,1.16,1
+2692,2692_pdd2692c.pdf,1.17 Additional Information Relevant to the Project,additional_analysis,17,18,Additional Information Relevant to the Project,1.17,1
+2692,2692_pdd2692c.pdf,1.17 Additional Information Relevant to the Project,ghg_emission_reduction,17,18,Additional Information Relevant to the Project,1.17,1
+2692,2692_pdd2692c.pdf,1.17 Additional Information Relevant to the Project,leakage_analysis,17,18,Additional Information Relevant to the Project,1.17,1
+2692,2692_pdd2692c.pdf,2.1 No Net Harm,ghg_emission_reduction,18,19,No Net Harm,2.1,2
+2692,2692_pdd2692c.pdf,2.1 No Net Harm,leakage_analysis,18,19,No Net Harm,2.1,2
+2692,2692_pdd2692c.pdf,2.2 Local Stakeholder Consultation,project_proponent,19,23,Local Stakeholder Consultation,2.2,2
+2692,2692_pdd2692c.pdf,2.2 Local Stakeholder Consultation,project_summary,19,23,Local Stakeholder Consultation,2.2,2
+2692,2692_pdd2692c.pdf,2.2 Local Stakeholder Consultation,ghg_emission_reduction,19,23,Local Stakeholder Consultation,2.2,2
+2692,2692_pdd2692c.pdf,2.3 Environmental Impact,additional_analysis,23,25,Environmental Impact,2.3,2
+2692,2692_pdd2692c.pdf,2.3 Environmental Impact,baseline_analysis,23,25,Environmental Impact,2.3,2
+2692,2692_pdd2692c.pdf,2.3 Environmental Impact,ghg_emission_reduction,23,25,Environmental Impact,2.3,2
+2692,2692_pdd2692c.pdf,2.3 Environmental Impact,natural_catastrophe_climate_change,23,25,Environmental Impact,2.3,2
+2692,2692_pdd2692c.pdf,2.3 Environmental Impact,leakage_analysis,23,25,Environmental Impact,2.3,2
+2692,2692_pdd2692c.pdf,2.4 Public Comments,project_proponent,25,25,Public Comments,2.4,2
+2692,2692_pdd2692c.pdf,3.1 Title and Reference of Methodology,ghg_emission_reduction,25,25,Title and Reference of Methodology,3.1,3
+2692,2692_pdd2692c.pdf,3.2 Applicability of Methodology,ghg_emission_reduction,25,30,Applicability of Methodology,3.2,3
+2692,2692_pdd2692c.pdf,3.2 Applicability of Methodology,baseline_analysis,25,30,Applicability of Methodology,3.2,3
+2692,2692_pdd2692c.pdf,3.3 Project Boundary,ghg_emission_reduction,30,32,Project Boundary,3.3,3
+2692,2692_pdd2692c.pdf,3.3 Project Boundary,baseline_analysis,30,32,Project Boundary,3.3,3
+2692,2692_pdd2692c.pdf,3.4 Baseline Scenario,baseline_analysis,32,42,Baseline Scenario,3.4,3
+2692,2692_pdd2692c.pdf,3.5 Additionality,additional_analysis,42,45,Additionality,3.5,3
+2692,2692_pdd2692c.pdf,3.6 Methodology Deviations,additional_analysis,45,46,Methodology Deviations,3.6,3
+2692,2692_pdd2692c.pdf,3.6 Methodology Deviations,ghg_emission_reduction,45,46,Methodology Deviations,3.6,3
+2692,2692_pdd2692c.pdf,3.6 Methodology Deviations,baseline_analysis,45,46,Methodology Deviations,3.6,3
+2692,2692_pdd2692c.pdf,4.1 Baseline Emissions,ghg_emission_reduction,46,50,Baseline Emissions,4.1,4
+2692,2692_pdd2692c.pdf,4.1 Baseline Emissions,baseline_analysis,46,50,Baseline Emissions,4.1,4
+2692,2692_pdd2692c.pdf,4.2 Project Emissions,additional_analysis,50,58,Project Emissions,4.2,4
+2692,2692_pdd2692c.pdf,4.2 Project Emissions,baseline_analysis,50,58,Project Emissions,4.2,4
+2692,2692_pdd2692c.pdf,4.2 Project Emissions,ghg_emission_reduction,50,58,Project Emissions,4.2,4
+2692,2692_pdd2692c.pdf,4.3 Leakage,leakage_analysis,58,61,Leakage,4.3,4
+2692,2692_pdd2692c.pdf,4.4 Estimated Net GHG Emission Reductions and Removals,ghg_emission_reduction,61,67,Estimated Net GHG Emission Reductions and Removals,4.4,4
+2692,2692_pdd2692c.pdf,5.1 Data and Parameters Available at Validation,additional_analysis,67,78,Data and Parameters Available at Validation,5.1,5
+2692,2692_pdd2692c.pdf,5.1 Data and Parameters Available at Validation,baseline_analysis,67,78,Data and Parameters Available at Validation,5.1,5
+2692,2692_pdd2692c.pdf,5.1 Data and Parameters Available at Validation,ghg_emission_reduction,67,78,Data and Parameters Available at Validation,5.1,5
+2692,2692_pdd2692c.pdf,5.1 Data and Parameters Available at Validation,leakage_analysis,67,78,Data and Parameters Available at Validation,5.1,5
+2692,2692_pdd2692c.pdf,5.2 Data and Parameters Monitored,additional_analysis,78,93,Data and Parameters Monitored,5.2,5
+2692,2692_pdd2692c.pdf,5.2 Data and Parameters Monitored,baseline_analysis,78,93,Data and Parameters Monitored,5.2,5
+2692,2692_pdd2692c.pdf,5.2 Data and Parameters Monitored,ghg_emission_reduction,78,93,Data and Parameters Monitored,5.2,5
+2692,2692_pdd2692c.pdf,5.2 Data and Parameters Monitored,leakage_analysis,78,93,Data and Parameters Monitored,5.2,5
+2692,2692_pdd2692c.pdf,5.3 Monitoring Plan,additional_analysis,93,104,Monitoring Plan,5.3,5
+2692,2692_pdd2692c.pdf,5.3 Monitoring Plan,baseline_analysis,93,104,Monitoring Plan,5.3,5
+2692,2692_pdd2692c.pdf,5.3 Monitoring Plan,ghg_emission_reduction,93,104,Monitoring Plan,5.3,5
+2692,2692_pdd2692c.pdf,5.3 Monitoring Plan,leakage_analysis,93,104,Monitoring Plan,5.3,5
+2692,2692_pdd2692c.pdf,6.1 Data and Parameters Monitored,additional_analysis,104,120,Data and Parameters Monitored,6.1,6
+2692,2692_pdd2692c.pdf,6.1 Data and Parameters Monitored,baseline_analysis,104,120,Data and Parameters Monitored,6.1,6
+2692,2692_pdd2692c.pdf,6.1 Data and Parameters Monitored,ghg_emission_reduction,104,120,Data and Parameters Monitored,6.1,6
+2692,2692_pdd2692c.pdf,6.1 Data and Parameters Monitored,leakage_analysis,104,120,Data and Parameters Monitored,6.1,6
+2692,2692_pdd2692c.pdf,6.2 Baseline Emissions,ghg_emission_reduction,120,123,Baseline Emissions,6.2,6
+2692,2692_pdd2692c.pdf,6.2 Baseline Emissions,baseline_analysis,120,123,Baseline Emissions,6.2,6
+2692,2692_pdd2692c.pdf,6.2 Baseline Emissions,leakage_analysis,120,123,Baseline Emissions,6.2,6
+2692,2692_pdd2692c.pdf,6.3 Project Emissions,additional_analysis,123,128,Project Emissions,6.3,6
+2692,2692_pdd2692c.pdf,6.3 Project Emissions,baseline_analysis,123,128,Project Emissions,6.3,6
+2692,2692_pdd2692c.pdf,6.3 Project Emissions,ghg_emission_reduction,123,128,Project Emissions,6.3,6
+2692,2692_pdd2692c.pdf,6.3 Project Emissions,leakage_analysis,123,128,Project Emissions,6.3,6
+2692,2692_pdd2692c.pdf,6.4 Leakage,leakage_analysis,128,130,Leakage,6.4,6
+2692,2692_pdd2692c.pdf,6.5 Net GHG Emission Reductions and Removals,baseline_analysis,130,131,Net GHG Emission Reductions and Removals,6.5,6
+2692,2692_pdd2692c.pdf,6.5 Net GHG Emission Reductions and Removals,ghg_emission_reduction,130,131,Net GHG Emission Reductions and Removals,6.5,6
+2692,2692_pdd2692c.pdf,6.5 Net GHG Emission Reductions and Removals,leakage_analysis,130,131,Net GHG Emission Reductions and Removals,6.5,6
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,First Section,project_title,1,1,First Section,0,0
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,1.12 Demonstration to confirm that the project was not,ghg_emission_reduction,1,1,Demonstration to confirm that the project was not,1.12,1
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,1.13 Demonstration that the project has not created,ghg_emission_reduction,1,1,Demonstration that the project has not created,1.13,1
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,1.14 Project rejected under other GHG programs (if,project_proponent,1,1,Project rejected under other GHG programs (if,1.14,1
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,8.1 Proof of Title:,project_proponent,1,2,Proof of Title:,8.1,8
+51,51_09.05.12_vcs_pdd_ana&ara_-_sent_to_bvqi.pdf,8.2 Projects that reduce GHG emissions from activities,ghg_emission_reduction,2,2,Projects that reduce GHG emissions from activities,8.2,8
+612,612_proj_desc_612_10may2011.pdf,First Section,project_title,1,1,First Section,0,0
+612,612_proj_desc_612_10may2011.pdf,1.1 Project title,project_title,1,1,Project title,1.1,1
+612,612_proj_desc_612_10may2011.pdf,1.2 Type/Category of the project,ghg_emission_reduction,1,2,Type/Category of the project,1.2,1
+612,612_proj_desc_612_10may2011.pdf,1.3 Estimated amount of emission reductions over the crediting,ghg_emission_reduction,2,2,Estimated amount of emission reductions over the crediting,1.3,1
+612,612_proj_desc_612_10may2011.pdf,1.3 Estimated amount of emission reductions over the crediting,baseline_analysis,2,2,Estimated amount of emission reductions over the crediting,1.3,1
+612,612_proj_desc_612_10may2011.pdf,1.4 A brief description of the project:,ghg_emission_reduction,2,2,A brief description of the project:,1.4,1
+612,612_proj_desc_612_10may2011.pdf,1.4 A brief description of the project:,baseline_analysis,2,2,A brief description of the project:,1.4,1
+612,612_proj_desc_612_10may2011.pdf,1.4 A brief description of the project:,leakage_analysis,2,2,A brief description of the project:,1.4,1
+612,612_proj_desc_612_10may2011.pdf,1.4 A brief description of the project:,additional_analysis,2,2,A brief description of the project:,1.4,1
+612,612_proj_desc_612_10may2011.pdf,1.5 Project location including geographic and physical,project_location,2,3,Project location including geographic and physical,1.5,1
+612,612_proj_desc_612_10may2011.pdf,1.6 Duration of the project activity/crediting period:,project_start_date,3,3,Duration of the project activity/crediting period:,1.6,1
+612,612_proj_desc_612_10may2011.pdf,1.6 Duration of the project activity/crediting period:,project_lifetime,3,3,Duration of the project activity/crediting period:,1.6,1
+612,612_proj_desc_612_10may2011.pdf,1.7 Conditions prior to project initiation:,baseline_analysis,3,3,Conditions prior to project initiation:,1.7,1
+612,612_proj_desc_612_10may2011.pdf,1.8 A description of how the project will achieve GHG emission,ghg_emission_reduction,3,4,A description of how the project will achieve GHG emission,1.8,1
+612,612_proj_desc_612_10may2011.pdf,"1.9 Project technologies, products, services and the expected",standard,4,4,"Project technologies, products, services and the expected",1.9,1
+612,612_proj_desc_612_10may2011.pdf,1.10 Compliance with relevant local laws and regulations,additional_analysis,4,6,Compliance with relevant local laws and regulations,1.10,1
+612,612_proj_desc_612_10may2011.pdf,1.10 Compliance with relevant local laws and regulations,project_proponent,4,6,Compliance with relevant local laws and regulations,1.10,1
+612,612_proj_desc_612_10may2011.pdf,1.11 Identification of risks that may substantially affect the,natural_catastrophe_climate_change,6,6,Identification of risks that may substantially affect the,1.11,1
+612,612_proj_desc_612_10may2011.pdf,1.12 Demonstration to confirm that the project was not,natural_catastrophe_climate_change,6,7,Demonstration to confirm that the project was not,1.12,1
+612,612_proj_desc_612_10may2011.pdf,1.13 Demonstration that the project has not created another,additional_analysis,7,7,Demonstration that the project has not created another,1.13,1
+612,612_proj_desc_612_10may2011.pdf,"1.15 Project proponents roles and responsibilities, including",project_proponent,7,7,"Project proponents roles and responsibilities, including",1.15,1
+612,612_proj_desc_612_10may2011.pdf,1.16 Any information relevant for the eligibility of the,ghg_emission_reduction,7,7,Any information relevant for the eligibility of the,1.16,1
+612,612_proj_desc_612_10may2011.pdf,1.17 List of commercially sensitive information (if,ghg_emission_reduction,7,8,List of commercially sensitive information (if,1.17,1
+612,612_proj_desc_612_10may2011.pdf,2.1 Title and reference of the VCS methodology applied to the,ghg_emission_reduction,8,8,Title and reference of the VCS methodology applied to the,2.1,2
+612,612_proj_desc_612_10may2011.pdf,2.2 Justification of the choice of the methodology and why it,project_proponent,8,8,Justification of the choice of the methodology and why it,2.2,2
+612,612_proj_desc_612_10may2011.pdf,"2.3 Identifying GHG sources, sinks and reservoirs for the",baseline_analysis,8,8,"Identifying GHG sources, sinks and reservoirs for the",2.3,2
+612,612_proj_desc_612_10may2011.pdf,2.4 Description of how the baseline scenario is identified and,baseline_analysis,8,8,Description of how the baseline scenario is identified and,2.4,2
+612,612_proj_desc_612_10may2011.pdf,2.5 Description of how the emissions of GHG by source in,baseline_analysis,8,8,Description of how the emissions of GHG by source in,2.5,2
+612,612_proj_desc_612_10may2011.pdf,3.1 Title and reference of the VCS methodology (which,ghg_emission_reduction,8,8,Title and reference of the VCS methodology (which,3.1,3
+612,612_proj_desc_612_10may2011.pdf,"3.2 Monitoring, including estimation, modelling, measurement",ghg_emission_reduction,8,9,"Monitoring, including estimation, modelling, measurement",3.2,3
+612,612_proj_desc_612_10may2011.pdf,3.3 Data and parameters monitored / Selecting relevant GHG,ghg_emission_reduction,9,9,Data and parameters monitored / Selecting relevant GHG,3.3,3
+612,612_proj_desc_612_10may2011.pdf,3.4 Description of the monitoring plan,ghg_emission_reduction,9,9,Description of the monitoring plan,3.4,3
+612,612_proj_desc_612_10may2011.pdf,4.1 Explanation of methodological choice:,project_proponent,9,9,Explanation of methodological choice:,4.1,4
+612,612_proj_desc_612_10may2011.pdf,4.2 Quantifying GHG emissions and/or removals for the baseline,baseline_analysis,9,9,Quantifying GHG emissions and/or removals for the baseline,4.2,4
+612,612_proj_desc_612_10may2011.pdf,4.3 Quantifying GHG emissions and/or removals for the project:,ghg_emission_reduction,9,9,Quantifying GHG emissions and/or removals for the project:,4.3,4
+612,612_proj_desc_612_10may2011.pdf,4.4 Quantifying GHG emission reductions and removal,ghg_emission_reduction,9,10,Quantifying GHG emission reductions and removal,4.4,4
+612,612_proj_desc_612_10may2011.pdf,8.1 Proof of Title,project_proponent,10,10,Proof of Title,8.1,8
+612,612_proj_desc_612_10may2011.pdf,8.2 Projects that reduce GHG emissions from activities that,ghg_emission_reduction,10,10,Projects that reduce GHG emissions from activities that,8.2,8
+1133,1133_proj_desc_1133_29dec2016.pdf,First Section,ghg_emission_reduction,1,3,First Section,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,First Section,other_entities,1,3,First Section,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,First Section,project_proponent,1,3,First Section,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,First Section,project_start_date,1,3,First Section,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,First Section,project_location,1,3,First Section,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.1 Summary Description of the Project,ghg_emission_reduction,3,4,Summary Description of the Project,1.1,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.1 Summary Description of the Project,project_proponent,3,4,Summary Description of the Project,1.1,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.1 Summary Description of the Project,project_location,3,4,Summary Description of the Project,1.1,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.2 Sectoral Scope and Project Type,ghg_emission_reduction,4,4,Sectoral Scope and Project Type,1.2,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.3 Project Proponent,project_proponent,4,4,Project Proponent,1.3,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.4 Other Entities Involved in the Project,other_entities,4,5,Other Entities Involved in the Project,1.4,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.5 Project Start Date,project_start_date,5,5,Project Start Date,1.5,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.6 Project Crediting Period,project_start_date,5,6,Project Crediting Period,1.6,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.6 Project Crediting Period,project_lifetime,5,6,Project Crediting Period,1.6,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.7 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,6,6,Project Scale and Estimated GHG Emission Reductions or Removals,1.7,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.8 Description of the Project Activity,ghg_emission_reduction,6,8,Description of the Project Activity,1.8,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.9 Project Location,project_location,8,12,Project Location,1.9,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.10 Conditions Prior to Project Initiation,ghg_emission_reduction,12,21,Conditions Prior to Project Initiation,1.10,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.10 Conditions Prior to Project Initiation,project_location,12,21,Conditions Prior to Project Initiation,1.10,1
+1133,1133_proj_desc_1133_29dec2016.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",ghg_emission_reduction,21,22,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1133,1133_proj_desc_1133_29dec2016.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",compliance_with_laws,21,22,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.1 Project Ownership,project_proponent,22,22,1.12.1 Project Ownership,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.3 Other Forms of Environmental Credit,ghg_emission_reduction,22,22,1.12.3 Other Forms of Environmental Credit,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_title,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,other_entities,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_proponent,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_start_date,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_summary,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,leakage_analysis,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,ghg_emission_reduction,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,date_issue_of_project,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,standard,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_size,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_location,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_country,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,version_of_file,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,expected_first_vintage_of_credit_issuance,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,additional_analysis,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,project_lifetime,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,baseline_analysis,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.4 Participation under Other GHG Programs,natural_catastrophe_climate_change,22,22,1.12.4 Participation under Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_title,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,other_entities,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_proponent,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_start_date,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_summary,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,leakage_analysis,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,ghg_emission_reduction,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,date_issue_of_project,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,standard,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_size,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_location,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_country,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,version_of_file,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,expected_first_vintage_of_credit_issuance,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,additional_analysis,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_lifetime,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,baseline_analysis,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.12.5 Projects Rejected by Other GHG Programs,natural_catastrophe_climate_change,22,22,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1133,1133_proj_desc_1133_29dec2016.pdf,1.13 Additional Information Relevant to the Project,leakage_analysis,22,23,Additional Information Relevant to the Project,1.13,1
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Title and Reference of Methodology,baseline_analysis,23,24,Title and Reference of Methodology,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Title and Reference of Methodology,leakage_analysis,23,24,Title and Reference of Methodology,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.2 Applicability of Methodology,baseline_analysis,24,25,Applicability of Methodology,2.2,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.2 Applicability of Methodology,leakage_analysis,24,25,Applicability of Methodology,2.2,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.3 Project Boundary,baseline_analysis,25,30,Project Boundary,2.3,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.3 Project Boundary,leakage_analysis,25,30,Project Boundary,2.3,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.4 Baseline Scenario,baseline_analysis,30,31,Baseline Scenario,2.4,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.5 Additionality,additional_analysis,31,37,Additionality,2.5,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.6 Methodology Deviations,ghg_emission_reduction,37,37,Methodology Deviations,2.6,2
+1133,1133_proj_desc_1133_29dec2016.pdf,3.1 Baseline Emissions,ghg_emission_reduction,37,52,Baseline Emissions,3.1,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.1 Baseline Emissions,baseline_analysis,37,52,Baseline Emissions,3.1,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.2 Project Emissions,ghg_emission_reduction,52,55,Project Emissions,3.2,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.2 Project Emissions,baseline_analysis,52,55,Project Emissions,3.2,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.3 Leakage,leakage_analysis,55,60,Leakage,3.3,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.4 Net GHG Emission Reductions and Removals,ghg_emission_reduction,60,63,Net GHG Emission Reductions and Removals,3.4,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.4 Net GHG Emission Reductions and Removals,baseline_analysis,60,63,Net GHG Emission Reductions and Removals,3.4,3
+1133,1133_proj_desc_1133_29dec2016.pdf,4.1 Data and Parameters Available at Validation,ghg_emission_reduction,63,70,Data and Parameters Available at Validation,4.1,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.1 Data and Parameters Available at Validation,baseline_analysis,63,70,Data and Parameters Available at Validation,4.1,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.1 Data and Parameters Available at Validation,leakage_analysis,63,70,Data and Parameters Available at Validation,4.1,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.2 Data and Parameters Monitored,ghg_emission_reduction,70,82,Data and Parameters Monitored,4.2,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.2 Data and Parameters Monitored,baseline_analysis,70,82,Data and Parameters Monitored,4.2,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.2 Data and Parameters Monitored,leakage_analysis,70,82,Data and Parameters Monitored,4.2,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.3 Monitoring Plan,ghg_emission_reduction,82,96,Monitoring Plan,4.3,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.3 Monitoring Plan,baseline_analysis,82,96,Monitoring Plan,4.3,4
+1133,1133_proj_desc_1133_29dec2016.pdf,4.3 Monitoring Plan,leakage_analysis,82,96,Monitoring Plan,4.3,4
+1133,1133_proj_desc_1133_29dec2016.pdf,5.1 No Net Harm,natural_catastrophe_climate_change,96,96,No Net Harm,5.1,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.2 Environmental Impact,additional_analysis,96,96,Environmental Impact,5.2,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.2 Environmental Impact,baseline_analysis,96,96,Environmental Impact,5.2,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.2 Environmental Impact,leakage_analysis,96,96,Environmental Impact,5.2,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.3 Local Stakeholder Consultation,other_entities,96,98,Local Stakeholder Consultation,5.3,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.3 Local Stakeholder Consultation,project_proponent,96,98,Local Stakeholder Consultation,5.3,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.4 Public Comments,other_entities,98,133,Public Comments,5.4,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.4 Public Comments,project_proponent,98,133,Public Comments,5.4,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.4 Public Comments,project_summary,98,133,Public Comments,5.4,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.4 Public Comments,baseline_analysis,98,133,Public Comments,5.4,5
+1133,1133_proj_desc_1133_29dec2016.pdf,5.4 Public Comments,project_location,98,133,Public Comments,5.4,5
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Accreditation of private property,other_entities,133,134,Accreditation of private property,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Accreditation of private property,project_proponent,133,134,Accreditation of private property,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Accreditation of private property,project_summary,133,134,Accreditation of private property,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Accreditation of private property,baseline_analysis,133,134,Accreditation of private property,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,2.1 Accreditation of private property,project_location,133,134,Accreditation of private property,2.1,2
+1133,1133_proj_desc_1133_29dec2016.pdf,3.1 Determination of the volume of annual cut,project_size,134,134,Determination of the volume of annual cut,3.1,3
+1133,1133_proj_desc_1133_29dec2016.pdf,3.2 Yield System,project_summary,134,136,Yield System,3.2,3
+1133,1133_proj_desc_1133_29dec2016.pdf,6.1 Maps,project_location,136,136,Maps,6.1,6
+1133,1133_proj_desc_1133_29dec2016.pdf,6.1 Field data inventory,project_location,136,140,Field data inventory,6.1,6
+1825,1825_proj_desc_1825_13mar2019.pdf,First Section,ghg_emission_reduction,1,2,First Section,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,1.1 Unique Project Benefits,project_summary,2,3,Unique Project Benefits,1.1,1
+1825,1825_proj_desc_1825_13mar2019.pdf,1.2 Standardized Benefit Metrics,ghg_emission_reduction,3,6,Standardized Benefit Metrics,1.2,1
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.1 Summary Description of the Project (G1.2),ghg_emission_reduction,6,6,2.1.1 Summary Description of the Project (G1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.1 Summary Description of the Project (G1.2),project_size,6,6,2.1.1 Summary Description of the Project (G1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.1 Summary Description of the Project (G1.2),project_summary,6,6,2.1.1 Summary Description of the Project (G1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.1 Summary Description of the Project (G1.2),project_location,6,6,2.1.1 Summary Description of the Project (G1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.2 Project Scale,project_size,6,6,2.1.2 Project Scale,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.3 Project Proponent (G1.1),project_proponent,6,7,2.1.3 Project Proponent (G1.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.4 Other Entities Involved in the Project,other_entities,7,7,2.1.4 Other Entities Involved in the Project,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.5 Physical Parameters (G1.3),project_location,7,9,2.1.5 Physical Parameters (G1.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.6 Social Parameters (G1.3),additional_analysis,9,10,2.1.6 Social Parameters (G1.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.6 Social Parameters (G1.3),project_location,9,10,2.1.6 Social Parameters (G1.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"2.1.7 Project Zone Map (G1.4-7, G1.13, CM1.2, B1.2)",project_location,10,11,"2.1.7 Project Zone Map (G1.4-7, G1.13, CM1.2, B1.2)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.8 Stakeholder Identification (G1.5),other_entities,11,12,2.1.8 Stakeholder Identification (G1.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.8 Stakeholder Identification (G1.5),project_proponent,11,12,2.1.8 Stakeholder Identification (G1.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"2.1.9 Stakeholder Descriptions (G1.6, G1.13)",project_location,12,13,"2.1.9 Stakeholder Descriptions (G1.6, G1.13)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.10 Sectoral Scope and Project Type,project_title,13,13,2.1.10 Sectoral Scope and Project Type,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.11 Project Activities and Theory of Change (G1.8),ghg_emission_reduction,13,14,2.1.11 Project Activities and Theory of Change (G1.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.11 Project Activities and Theory of Change (G1.8),project_summary,13,14,2.1.11 Project Activities and Theory of Change (G1.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.12 Sustainable Development,ghg_emission_reduction,14,14,2.1.12 Sustainable Development,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.12 Sustainable Development,natural_catastrophe_climate_change,14,14,2.1.12 Sustainable Development,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.13 Implementation Schedule (G1.9),ghg_emission_reduction,14,15,2.1.13 Implementation Schedule (G1.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.14 Project Start Date,project_start_date,15,15,2.1.14 Project Start Date,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.15 Benefits Assessment and Crediting Period (G1.9),project_lifetime,15,15,2.1.15 Benefits Assessment and Crediting Period (G1.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.16 Differences in Assessment/Project Crediting Periods (G1.9),ghg_emission_reduction,15,15,2.1.16 Differences in Assessment/Project Crediting Periods (G1.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.17 Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,15,18,2.1.17 Estimated GHG Emission Reductions or Removals,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.18 Risks to the Project (G1.10),natural_catastrophe_climate_change,18,19,2.1.18 Risks to the Project (G1.10),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.19 Benefit Permanence (G1.11),natural_catastrophe_climate_change,19,20,2.1.19 Benefit Permanence (G1.11),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.20 Financial Sustainability (G1.12),financial_sustainability,20,20,2.1.20 Financial Sustainability (G1.12),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_title,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,other_entities,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_proponent,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_start_date,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_summary,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,leakage_analysis,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,ghg_emission_reduction,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,date_issue_of_project,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,standard,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_size,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_location,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_country,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,version_of_file,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,expected_first_vintage_of_credit_issuance,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,additional_analysis,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,project_lifetime,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,baseline_analysis,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.1.21 Grouped Projects,natural_catastrophe_climate_change,20,20,2.1.21 Grouped Projects,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.2.1 Land Use Scenarios without the Project (G2.1),baseline_analysis,20,20,2.2.1 Land Use Scenarios without the Project (G2.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.2.2 Most-Likely Scenario Justification (G2.1),baseline_analysis,20,21,2.2.2 Most-Likely Scenario Justification (G2.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.2.3 Community and Biodiversity Additionality (G2.2),additional_analysis,21,21,2.2.3 Community and Biodiversity Additionality (G2.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.2.4 Benefits to be used as Offsets (G2.2),ghg_emission_reduction,21,21,2.2.4 Benefits to be used as Offsets (G2.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.2.4 Benefits to be used as Offsets (G2.2),natural_catastrophe_climate_change,21,21,2.2.4 Benefits to be used as Offsets (G2.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.1 Stakeholder Access to Project Documents (G3.1),project_summary,21,21,2.3.1 Stakeholder Access to Project Documents (G3.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.2 Dissemination of Summary Project Documents (G3.1),project_summary,21,22,2.3.2 Dissemination of Summary Project Documents (G3.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.3 Informational Meetings with Stakeholders (G3.1),other_entities,22,22,2.3.3 Informational Meetings with Stakeholders (G3.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.3 Informational Meetings with Stakeholders (G3.1),project_proponent,22,22,2.3.3 Informational Meetings with Stakeholders (G3.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"2.3.4 Community Costs, Risks, and Benefits (G3.2)",natural_catastrophe_climate_change,22,22,"2.3.4 Community Costs, Risks, and Benefits (G3.2)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.5 Information to Stakeholders on Validation and Verification Process (G3.3),project_proponent,22,22,2.3.5 Information to Stakeholders on Validation and Verification Process (G3.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.6 Site Visit Information and Opportunities to Communicate with Auditor (G3.3),project_proponent,22,22,2.3.6 Site Visit Information and Opportunities to Communicate with Auditor (G3.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.7 Stakeholder Consultations (G3.4),other_entities,22,23,2.3.7 Stakeholder Consultations (G3.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.8 Continued Consultation and Adaptive Management (G3.4),other_entities,23,23,2.3.8 Continued Consultation and Adaptive Management (G3.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.8 Continued Consultation and Adaptive Management (G3.4),project_proponent,23,23,2.3.8 Continued Consultation and Adaptive Management (G3.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.9 Stakeholder Consultation Channels (G3.5),other_entities,23,23,2.3.9 Stakeholder Consultation Channels (G3.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.9 Stakeholder Consultation Channels (G3.5),project_proponent,23,23,2.3.9 Stakeholder Consultation Channels (G3.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.10 Stakeholder Participation in Decision-Making and Implementation (G3.6),other_entities,23,23,2.3.10 Stakeholder Participation in Decision-Making and Implementation (G3.6),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.10 Stakeholder Participation in Decision-Making and Implementation (G3.6),project_proponent,23,23,2.3.10 Stakeholder Participation in Decision-Making and Implementation (G3.6),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.11 Anti-Discrimination Assurance (G3.7),other_entities,23,23,2.3.11 Anti-Discrimination Assurance (G3.7),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.12 Feedback and Grievance Redress Procedure (G3.8),other_entities,23,24,2.3.12 Feedback and Grievance Redress Procedure (G3.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.12 Feedback and Grievance Redress Procedure (G3.8),project_proponent,23,24,2.3.12 Feedback and Grievance Redress Procedure (G3.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.13 Accessibility of the Feedback and Grievance Redress Procedure (G3.8),project_lifetime,24,24,2.3.13 Accessibility of the Feedback and Grievance Redress Procedure (G3.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.14 Worker Training (G3.9),additional_analysis,24,24,2.3.14 Worker Training (G3.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.14 Worker Training (G3.9),project_proponent,24,24,2.3.14 Worker Training (G3.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.15 Community Employment Opportunities (G3.10),other_entities,24,24,2.3.15 Community Employment Opportunities (G3.10),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.15 Community Employment Opportunities (G3.10),project_proponent,24,24,2.3.15 Community Employment Opportunities (G3.10),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.16 Relevant Laws and Regulations Related to Worker’s Rights (G3.11),additional_analysis,24,25,2.3.16 Relevant Laws and Regulations Related to Worker’s Rights (G3.11),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.16 Relevant Laws and Regulations Related to Worker’s Rights (G3.11),project_proponent,24,25,2.3.16 Relevant Laws and Regulations Related to Worker’s Rights (G3.11),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.3.17 Occupational Safety Assessment (G3.12),natural_catastrophe_climate_change,25,25,2.3.17 Occupational Safety Assessment (G3.12),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.1 Project Governance Structures (G4.1),other_entities,25,26,2.4.1 Project Governance Structures (G4.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.1 Project Governance Structures (G4.1),project_proponent,25,26,2.4.1 Project Governance Structures (G4.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.2 Required Technical Skills (G4.2),ghg_emission_reduction,26,26,2.4.2 Required Technical Skills (G4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.2 Required Technical Skills (G4.2),project_proponent,26,26,2.4.2 Required Technical Skills (G4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.3 Management Team Experience (G4.2),other_entities,26,26,2.4.3 Management Team Experience (G4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.3 Management Team Experience (G4.2),project_proponent,26,26,2.4.3 Management Team Experience (G4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.4 Project Management Partnerships/Team Development (G4.2),project_management_partnerships,26,26,2.4.4 Project Management Partnerships/Team Development (G4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.5 Financial Health of Implementing Organization(s) (G4.3),other_entities,26,26,2.4.5 Financial Health of Implementing Organization(s) (G4.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.5 Financial Health of Implementing Organization(s) (G4.3),project_proponent,26,26,2.4.5 Financial Health of Implementing Organization(s) (G4.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.6 Avoidance of Corruption and Other Unethical Behavior (G4.3),other_entities,26,27,2.4.6 Avoidance of Corruption and Other Unethical Behavior (G4.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.6 Avoidance of Corruption and Other Unethical Behavior (G4.3),project_proponent,26,27,2.4.6 Avoidance of Corruption and Other Unethical Behavior (G4.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_title,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),other_entities,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_proponent,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_start_date,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_summary,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),leakage_analysis,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),ghg_emission_reduction,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),date_issue_of_project,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),standard,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_size,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_location,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_country,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),version_of_file,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),expected_first_vintage_of_credit_issuance,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),additional_analysis,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),project_lifetime,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),baseline_analysis,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),natural_catastrophe_climate_change,27,27,2.4.7 Commercially Sensitive Information (Rules 3.5.13 – 3.5.14),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.1 Statutory and Customary Property Rights (G5.1),ghg_emission_reduction,27,27,2.5.1 Statutory and Customary Property Rights (G5.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.1 Statutory and Customary Property Rights (G5.1),other_entities,27,27,2.5.1 Statutory and Customary Property Rights (G5.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.1 Statutory and Customary Property Rights (G5.1),project_proponent,27,27,2.5.1 Statutory and Customary Property Rights (G5.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.2 Recognition of Property Rights (G5.1),project_proponent,27,27,2.5.2 Recognition of Property Rights (G5.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"2.5.3 Free, Prior and Informed Consent (G5.2)",other_entities,27,28,"2.5.3 Free, Prior and Informed Consent (G5.2)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"2.5.3 Free, Prior and Informed Consent (G5.2)",project_proponent,27,28,"2.5.3 Free, Prior and Informed Consent (G5.2)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.4 Property Rights Protection (G5.3),property_rights_protection,28,28,2.5.4 Property Rights Protection (G5.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.5 Illegal Activity Identification (G5.4),natural_catastrophe_climate_change,28,28,2.5.5 Illegal Activity Identification (G5.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.6 Ongoing Disputes (G5.5),other_entities,28,28,2.5.6 Ongoing Disputes (G5.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.6 Ongoing Disputes (G5.5),project_proponent,28,28,2.5.6 Ongoing Disputes (G5.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.7 National and Local Laws (G5.6),natural_catastrophe_climate_change,28,29,2.5.7 National and Local Laws (G5.6),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.8 Approvals (G5.7),project_proponent,29,29,2.5.8 Approvals (G5.7),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.9 Project Ownership (G5.8),other_entities,29,29,2.5.9 Project Ownership (G5.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.9 Project Ownership (G5.8),project_proponent,29,29,2.5.9 Project Ownership (G5.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.10 Management of Double Counting Risk (G5.9),additional_analysis,29,29,2.5.10 Management of Double Counting Risk (G5.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.10 Management of Double Counting Risk (G5.9),baseline_analysis,29,29,2.5.10 Management of Double Counting Risk (G5.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.10 Management of Double Counting Risk (G5.9),leakage_analysis,29,29,2.5.10 Management of Double Counting Risk (G5.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.11 Emissions Trading Programs and Other Binding Limits,ghg_emission_reduction,29,29,2.5.11 Emissions Trading Programs and Other Binding Limits,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.12 Other Forms of Environmental Credit,ghg_emission_reduction,29,29,2.5.12 Other Forms of Environmental Credit,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.13 Participation under Other GHG Programs,ghg_emission_reduction,29,30,2.5.13 Participation under Other GHG Programs,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,2.5.15 Double Counting (G5.9),ghg_emission_reduction,30,30,2.5.15 Double Counting (G5.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.1.1 Title and Reference of Methodology,baseline_analysis,30,30,3.1.1 Title and Reference of Methodology,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.1.2 Applicability of Methodology,baseline_analysis,30,31,3.1.2 Applicability of Methodology,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.1.3 Project Boundary,baseline_analysis,31,32,3.1.3 Project Boundary,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.1.4 Baseline Scenario,baseline_analysis,32,36,3.1.4 Baseline Scenario,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.1.5 Additionality,additional_analysis,36,36,3.1.5 Additionality,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.2.1 Baseline Emissions,ghg_emission_reduction,36,37,3.2.1 Baseline Emissions,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.2.1 Baseline Emissions,baseline_analysis,36,37,3.2.1 Baseline Emissions,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.2.2 Project Emissions,ghg_emission_reduction,37,47,3.2.2 Project Emissions,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.2.3 Leakage,leakage_analysis,47,47,3.2.3 Leakage,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.2.4 Net anthropogenic GHG removals by sinks,ghg_emission_reduction,47,52,3.2.4 Net anthropogenic GHG removals by sinks,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.3.1 Data and Parameters Available at Validation,ghg_emission_reduction,52,54,3.3.1 Data and Parameters Available at Validation,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.3.2 Data and Parameters Monitored,ghg_emission_reduction,54,57,3.3.2 Data and Parameters Monitored,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.3.3 Monitoring Plan,ghg_emission_reduction,57,61,3.3.3 Monitoring Plan,0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,3.3.4 Dissemination of Monitoring Plan and Results (CL4.2),project_proponent,61,61,3.3.4 Dissemination of Monitoring Plan and Results (CL4.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.1 Descriptions of Communities at Project Start (CM1.1),project_location,61,63,4.1.1 Descriptions of Communities at Project Start (CM1.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.2 Interactions between Communities and Community Groups (CM1.1),other_entities,63,63,4.1.2 Interactions between Communities and Community Groups (CM1.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.2 Interactions between Communities and Community Groups (CM1.1),project_proponent,63,63,4.1.2 Interactions between Communities and Community Groups (CM1.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.3 High Conservation Values (CM1.2),other_entities,63,63,4.1.3 High Conservation Values (CM1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.3 High Conservation Values (CM1.2),project_proponent,63,63,4.1.3 High Conservation Values (CM1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.1.4 Without-Project Scenario: Community (CM1.3),natural_catastrophe_climate_change,63,63,4.1.4 Without-Project Scenario: Community (CM1.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.2.1 Expected Community Impacts (CM2.1),ghg_emission_reduction,63,64,4.2.1 Expected Community Impacts (CM2.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.2.2 Negative Community Impact Mitigation (CM2.2),natural_catastrophe_climate_change,64,64,4.2.2 Negative Community Impact Mitigation (CM2.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"4.2.3 Net Positive Community Well-Being (CM2.3, GL1.4)",natural_catastrophe_climate_change,64,65,"4.2.3 Net Positive Community Well-Being (CM2.3, GL1.4)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.2.4 High Conservation Values Protected (CM2.4),natural_catastrophe_climate_change,65,65,4.2.4 High Conservation Values Protected (CM2.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.3.1 Impacts on Other Stakeholders (CM3.1),other_entities,65,65,4.3.1 Impacts on Other Stakeholders (CM3.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.3.2 Mitigation of Negative Impacts on Other Stakeholders (CM3.2),natural_catastrophe_climate_change,65,65,4.3.2 Mitigation of Negative Impacts on Other Stakeholders (CM3.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.3.3 Net Impacts on Other Stakeholders (CM3.3),other_entities,65,65,4.3.3 Net Impacts on Other Stakeholders (CM3.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"4.4.1 Community Monitoring Plan (CM4.1, CM4.2, GL1.4, GL2.2, GL2.3, GL2.5)",project_proponent,65,66,"4.4.1 Community Monitoring Plan (CM4.1, CM4.2, GL1.4, GL2.2, GL2.3, GL2.5)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.4.2 Monitoring Plan Dissemination (CM4.3),project_proponent,66,66,4.4.2 Monitoring Plan Dissemination (CM4.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,4.5 Optional Criterion: Exceptional Community Benefits,project_proponent,66,67,Optional Criterion: Exceptional Community Benefits,4.5,4
+1825,1825_proj_desc_1825_13mar2019.pdf,5.1.1 Existing Conditions (B1.1),natural_catastrophe_climate_change,67,68,5.1.1 Existing Conditions (B1.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.1.2 High Conservation Values (B1.2),natural_catastrophe_climate_change,68,68,5.1.2 High Conservation Values (B1.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.1.3 Without-project Scenario: Biodiversity (B1.3),natural_catastrophe_climate_change,68,68,5.1.3 Without-project Scenario: Biodiversity (B1.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.1 Expected Biodiversity Changes (B2.1),natural_catastrophe_climate_change,68,68,5.2.1 Expected Biodiversity Changes (B2.1),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.2 Mitigation Measures (B2.3),natural_catastrophe_climate_change,68,68,5.2.2 Mitigation Measures (B2.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"5.2.3 Net Positive Biodiversity Impacts (B2.2, GL1.4)",natural_catastrophe_climate_change,68,70,"5.2.3 Net Positive Biodiversity Impacts (B2.2, GL1.4)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.4 High Conservation Values Protected (B2.4),natural_catastrophe_climate_change,70,70,5.2.4 High Conservation Values Protected (B2.4),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.5 Species Used (B2.5),natural_catastrophe_climate_change,70,70,5.2.5 Species Used (B2.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.6 Invasive Species (B2.5),invasive_species,70,70,5.2.6 Invasive Species (B2.5),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.7 Impacts of Non-native Species (B2.6),natural_catastrophe_climate_change,70,70,5.2.7 Impacts of Non-native Species (B2.6),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.8 GMO Exclusion (B2.7),ghg_emission_reduction,70,70,5.2.8 GMO Exclusion (B2.7),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.9 Inputs Justification (B2.8),ghg_emission_reduction,70,71,5.2.9 Inputs Justification (B2.8),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.10 Waste Products (B2.9),additional_analysis,71,71,5.2.10 Waste Products (B2.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.2.10 Waste Products (B2.9),baseline_analysis,71,71,5.2.10 Waste Products (B2.9),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.3.1 Negative Offsite Biodiversity Impacts (B3.1) and Mitigation Measures (B3.2),ghg_emission_reduction,71,72,5.3.1 Negative Offsite Biodiversity Impacts (B3.1) and Mitigation Measures (B3.2),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.3.2 Net Offsite Biodiversity Benefits (B3.3),other_entities,72,72,5.3.2 Net Offsite Biodiversity Benefits (B3.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.3.2 Net Offsite Biodiversity Benefits (B3.3),project_proponent,72,72,5.3.2 Net Offsite Biodiversity Benefits (B3.3),0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,"5.4.1 Biodiversity Monitoring Plan (B4.1, B4.2, GL1.4, GL3.4)",additional_analysis,72,73,"5.4.1 Biodiversity Monitoring Plan (B4.1, B4.2, GL1.4, GL3.4)",0,0
+1825,1825_proj_desc_1825_13mar2019.pdf,5.4.2 Biodiversity Monitoring Plan Dissemination (B4.3),project_proponent,73,73,5.4.2 Biodiversity Monitoring Plan Dissemination (B4.3),0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,First Section,ghg_emission_reduction,1,2,First Section,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,First Section,project_start_date,1,2,First Section,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,First Section,project_proponent,1,2,First Section,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,First Section,project_location,1,2,First Section,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.1 Summary Description of the Project and its Implementation Status,ghg_emission_reduction,2,3,Summary Description of the Project and its Implementation Status,1.1,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.1 Summary Description of the Project and its Implementation Status,project_start_date,2,3,Summary Description of the Project and its Implementation Status,1.1,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.1 Summary Description of the Project and its Implementation Status,project_proponent,2,3,Summary Description of the Project and its Implementation Status,1.1,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.1 Summary Description of the Project and its Implementation Status,project_location,2,3,Summary Description of the Project and its Implementation Status,1.1,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.2 Sectoral Scope and Project Type,project_proponent,3,3,Sectoral Scope and Project Type,1.2,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.3 Project Proponent,project_proponent,3,3,Project Proponent,1.3,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.4 Other Entities Involved in the Project,other_entities,3,3,Other Entities Involved in the Project,1.4,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.5 Project Start Date,project_start_date,3,4,Project Start Date,1.5,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.6 Project Crediting Period,project_lifetime,4,4,Project Crediting Period,1.6,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.7 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,4,4,Project Scale and Estimated GHG Emission Reductions or Removals,1.7,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.8 Description of the Project Activity,ghg_emission_reduction,4,5,Description of the Project Activity,1.8,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.9 Project Location,project_location,5,6,Project Location,1.9,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.10 Conditions Prior to Project Initiation,ghg_emission_reduction,6,7,Conditions Prior to Project Initiation,1.10,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_country,7,7,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.12.1 Project Ownership,project_proponent,7,7,1.12.1 Project Ownership,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.12.2 Emissions Trading Programs and Other Binding Limits,ghg_emission_reduction,7,7,1.12.2 Emissions Trading Programs and Other Binding Limits,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.12.3 Other Forms of Environmental Credit,ghg_emission_reduction,7,7,1.12.3 Other Forms of Environmental Credit,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.12.4 Participation under Other GHG Programs,ghg_emission_reduction,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,1.13 Additional Information Relevant to the Project,ghg_emission_reduction,7,8,Additional Information Relevant to the Project,1.13,1
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.1 Title and Reference of Methodology,baseline_analysis,8,9,Title and Reference of Methodology,2.1,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.2 Applicability of Methodology,baseline_analysis,9,11,Applicability of Methodology,2.2,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.3 Project Boundary,ghg_emission_reduction,11,13,Project Boundary,2.3,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.3 Project Boundary,leakage_analysis,11,13,Project Boundary,2.3,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.4 Baseline Scenario,baseline_analysis,13,13,Baseline Scenario,2.4,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.5 Additionality,additional_analysis,13,21,Additionality,2.5,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,2.6 Methodology Deviations,ghg_emission_reduction,21,21,Methodology Deviations,2.6,2
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,3.1 Baseline Emissions,ghg_emission_reduction,21,28,Baseline Emissions,3.1,3
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,3.1 Baseline Emissions,baseline_analysis,21,28,Baseline Emissions,3.1,3
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,3.2 Project Emissions,ghg_emission_reduction,28,28,Project Emissions,3.2,3
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,3.3 Leakage,leakage_analysis,28,28,Leakage,3.3,3
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,3.4 Estimated Net GHG Emission Reductions and Removals,ghg_emission_reduction,28,29,Estimated Net GHG Emission Reductions and Removals,3.4,3
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,4.1 Data and Parameters Available at Validation,ghg_emission_reduction,29,31,Data and Parameters Available at Validation,4.1,4
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,4.2 Data and Parameters Monitored,ghg_emission_reduction,31,31,Data and Parameters Monitored,4.2,4
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,4.3 Monitoring Plan,ghg_emission_reduction,31,33,Monitoring Plan,4.3,4
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,4.1 Calibration,standard,33,33,Calibration,4.1,4
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.2 Corrective actions,quality_control,33,33,Corrective actions,5.2,5
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.3. Internal audit,internal_audit,33,33,5.3. Internal audit,0,0
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.1 No Net Harm,natural_catastrophe_climate_change,33,33,No Net Harm,5.1,5
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.2 Environmental Impact,natural_catastrophe_climate_change,33,35,Environmental Impact,5.2,5
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.3 Local Stakeholder Consultation,project_summary,35,36,Local Stakeholder Consultation,5.3,5
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,5.4 Public Comments,ghg_emission_reduction,36,36,Public Comments,5.4,5
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.1 Data and Parameters Monitored,ghg_emission_reduction,36,38,Data and Parameters Monitored,6.1,6
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.2 Baseline Emissions,ghg_emission_reduction,38,39,Baseline Emissions,6.2,6
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.2 Baseline Emissions,baseline_analysis,38,39,Baseline Emissions,6.2,6
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.3 Project Emissions,ghg_emission_reduction,39,41,Project Emissions,6.3,6
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.4 Leakage,leakage_analysis,41,41,Leakage,6.4,6
+1867,1867_tvcs-joint-project-description-monitoring-report-4.10_version1.pdf,6.5 Net GHG Emission Reductions and Removals,ghg_emission_reduction,41,41,Net GHG Emission Reductions and Removals,6.5,6
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,First Section,project_start_date,1,3,First Section,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,First Section,project_proponent,1,3,First Section,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,ghg_emission_reduction,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,project_start_date,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,project_summary,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,expected_first_vintage_of_credit_issuance,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,project_lifetime,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,project_location,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.1 Summary Description of the project,project_country,3,3,Summary Description of the project,1.1,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.2 Sectoral Scope and Project Type,project_title,3,3,Sectoral Scope and Project Type,1.2,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.3 Project Eligibility,ghg_emission_reduction,3,3,Project Eligibility,1.3,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.4 Project Design,ghg_emission_reduction,3,4,Project Design,1.4,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.5 Project Proponent,project_proponent,4,4,Project Proponent,1.5,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.6 Other Entities Involved in the project,other_entities,4,5,Other Entities Involved in the project,1.6,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.7 Ownership,project_proponent,5,5,Ownership,1.7,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.8 Project Start Date,project_start_date,5,5,Project Start Date,1.8,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.9 Project Crediting Period,project_lifetime,5,5,Project Crediting Period,1.9,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.10 Project Scale and Estimated GHG Emission Reductions or,ghg_emission_reduction,5,6,Project Scale and Estimated GHG Emission Reductions or,1.10,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.11 Description of the project Activity,ghg_emission_reduction,6,8,Description of the project Activity,1.11,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.11 Description of the project Activity,project_lifetime,6,8,Description of the project Activity,1.11,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.12 Project Location,project_location,8,8,Project Location,1.12,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.13 Conditions Prior to Project Initiation,ghg_emission_reduction,8,8,Conditions Prior to Project Initiation,1.13,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",standard,8,9,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",other_entities,8,9,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_proponent,8,9,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.1 ProjectsRegistered(or seeking registration)underOther GHGProgram(s),ghg_emission_reduction,9,9,1.15.1 ProjectsRegistered(or seeking registration)underOther GHGProgram(s),0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_title,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,other_entities,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_proponent,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_start_date,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_summary,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,leakage_analysis,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,ghg_emission_reduction,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,date_issue_of_project,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,standard,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_size,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_location,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_country,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,version_of_file,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,expected_first_vintage_of_credit_issuance,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,additional_analysis,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,project_lifetime,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,baseline_analysis,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.15.2 ProjectsRejectedby Other GHGPrograms,natural_catastrophe_climate_change,9,9,1.15.2 ProjectsRejectedby Other GHGPrograms,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.16.1 Emissions Trading Programs andOther BindingLimits,ghg_emission_reduction,9,9,1.16.1 Emissions Trading Programs andOther BindingLimits,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.16.2 OtherForms of Environmental Credit,other_forms_of_environmental_credit,9,10,1.16.2 OtherForms of Environmental Credit,0,0
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.17 Additional Information Relevant to the project,ghg_emission_reduction,10,11,Additional Information Relevant to the project,1.17,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.17 Additional Information Relevant to the project,additional_analysis,10,11,Additional Information Relevant to the project,1.17,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,1.17 Additional Information Relevant to the project,project_summary,10,11,Additional Information Relevant to the project,1.17,1
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.1 No Net Harm,natural_catastrophe_climate_change,11,11,No Net Harm,2.1,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.2 Local Stakeholder Consultation,additional_analysis,11,12,Local Stakeholder Consultation,2.2,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.2 Local Stakeholder Consultation,project_proponent,11,12,Local Stakeholder Consultation,2.2,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.3 Environmental Impact,natural_catastrophe_climate_change,12,14,Environmental Impact,2.3,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.4 Public Comments,other_entities,14,14,Public Comments,2.4,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.4 Public Comments,project_proponent,14,14,Public Comments,2.4,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_title,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,other_entities,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_proponent,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_start_date,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_summary,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,leakage_analysis,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,ghg_emission_reduction,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,date_issue_of_project,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,standard,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_size,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_location,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_country,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,version_of_file,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,expected_first_vintage_of_credit_issuance,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,additional_analysis,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,project_lifetime,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,baseline_analysis,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,2.5 AFOLU-Specific Safeguards,natural_catastrophe_climate_change,14,14,AFOLU-Specific Safeguards,2.5,2
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.1 Title and Reference of Methodology,standard,14,15,Title and Reference of Methodology,3.1,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.2 Applicability of Methodology,ghg_emission_reduction,15,19,Applicability of Methodology,3.2,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.2 Applicability of Methodology,baseline_analysis,15,19,Applicability of Methodology,3.2,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.3 Project Boundary,ghg_emission_reduction,19,20,Project Boundary,3.3,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.4 Baseline Scenario,baseline_analysis,20,22,Baseline Scenario,3.4,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.5 Additionality,additional_analysis,22,22,Additionality,3.5,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.6 Methodology Deviations,baseline_analysis,22,23,Methodology Deviations,3.6,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,4.1 Baseline Emissions,ghg_emission_reduction,23,30,Baseline Emissions,4.1,4
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,4.1 Baseline Emissions,baseline_analysis,23,30,Baseline Emissions,4.1,4
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,3.6 Conversionfactor(GJ/MWh),ghg_emission_reduction,30,31,Conversionfactor(GJ/MWh),3.6,3
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,4.2 Project Emissions,ghg_emission_reduction,31,32,Project Emissions,4.2,4
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,4.3 Leakage,leakage_analysis,32,32,Leakage,4.3,4
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,4.4 Net GHG Emission Reductions and Removals,ghg_emission_reduction,32,33,Net GHG Emission Reductions and Removals,4.4,4
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,5.1 Data and Parameters Available at Validation,ghg_emission_reduction,33,34,Data and Parameters Available at Validation,5.1,5
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,5.2 Data and Parameters Monitored,ghg_emission_reduction,34,37,Data and Parameters Monitored,5.2,5
+1356,1356_renewal_pd_jiangsu_dongtaiphaseiiwind_power_project_vcs1356_clean.pdf,5.3 Monitoring Plan,ghg_emission_reduction,37,41,Monitoring Plan,5.3,5
+998,998_pdd_evn_cfls.pdf,First Section,project_title,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,version_of_file,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,project_proponent,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,baseline_analysis,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,other_entities,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,ghg_emission_reduction,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,date_issue_of_project,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,standard,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,project_size,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,project_location,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,First Section,project_country,1,40,First Section,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_title,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,other_entities,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_proponent,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_start_date,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_summary,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,leakage_analysis,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,ghg_emission_reduction,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,date_issue_of_project,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,standard,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_size,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_location,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_country,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,version_of_file,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,expected_first_vintage_of_credit_issuance,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,additional_analysis,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,project_lifetime,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,baseline_analysis,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.1. Sampling objective,natural_catastrophe_climate_change,40,41,2.1. Sampling objective,0,0
+998,998_pdd_evn_cfls.pdf,2.2. Field Measurement Objectives and Data to be collected,ghg_emission_reduction,41,41,2.2. Field Measurement Objectives and Data to be collected,0,0
+998,998_pdd_evn_cfls.pdf,2.3. Target Population and Sampling Frame,project_country,41,41,2.3. Target Population and Sampling Frame,0,0
+998,998_pdd_evn_cfls.pdf,2.4. Sample Method.,baseline_analysis,41,42,2.4. Sample Method.,0,0
+998,998_pdd_evn_cfls.pdf,2.5. Desired Precision/Expected Variance and Sample Size.,expected_first_vintage_of_credit_issuance,42,43,2.5. Desired Precision/Expected Variance and Sample Size.,0,0
+998,998_pdd_evn_cfls.pdf,3.6. Procedures for Administering Data Collection and Minimizing Non-Sampling Errors/,ghg_emission_reduction,43,44,3.6. Procedures for Administering Data Collection and Minimizing Non-Sampling Errors/,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,First Section,project_proponent,1,2,First Section,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,First Section,project_location,1,2,First Section,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.1 STEP 1: IDENTIFICATION OF ALTERNATIVE LAND-­‐USE SCENARIOS TO THE AFOLU PROJECT ACTIVITY,baseline_analysis,2,2,2.5.1 STEP 1: IDENTIFICATION OF ALTERNATIVE LAND-­‐USE SCENARIOS TO THE AFOLU PROJECT ACTIVITY,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.2 STEP 2: INVESTMENT ANALYSIS TO DETERMINE THAT THE PROPOSED PROJECT ACTIVITY IS NOT THE,ghg_emission_reduction,2,2,2.5.2 STEP 2: INVESTMENT ANALYSIS TO DETERMINE THAT THE PROPOSED PROJECT ACTIVITY IS NOT THE,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.2 STEP 2: INVESTMENT ANALYSIS TO DETERMINE THAT THE PROPOSED PROJECT ACTIVITY IS NOT THE,baseline_analysis,2,2,2.5.2 STEP 2: INVESTMENT ANALYSIS TO DETERMINE THAT THE PROPOSED PROJECT ACTIVITY IS NOT THE,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.3.1 Total ex ante estimated actual net carbon stock changes and emissions of non-­‐CO2 gasses,ghg_emission_reduction,2,6,3.3.1 Total ex ante estimated actual net carbon stock changes and emissions of non-­‐CO2 gasses,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1 Summary Description of the Project,ghg_emission_reduction,6,14,Summary Description of the Project,1.1,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1 Summary Description of the Project,additional_analysis,6,14,Summary Description of the Project,1.1,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1 Summary Description of the Project,project_summary,6,14,Summary Description of the Project,1.1,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1 Summary Description of the Project,leakage_analysis,6,14,Summary Description of the Project,1.1,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.2 Sectoral Scope and Project Type,ghg_emission_reduction,14,14,Sectoral Scope and Project Type,1.2,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.3 Project Proponent,other_entities,14,15,Project Proponent,1.3,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.3 Project Proponent,project_proponent,14,15,Project Proponent,1.3,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.4 Other Entities Involved in the Project,other_entities,15,16,Other Entities Involved in the Project,1.4,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.5 Project9:,project_start_date,16,16,Project9:,1.5,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.6 Project Crediting Period,project_lifetime,16,16,Project Crediting Period,1.6,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.7.1 Project Scale,ghg_emission_reduction,16,16,1.7.1 Project Scale,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.7.2 Estimated GHG emissions reductions generated by the Project,ghg_emission_reduction,16,18,1.7.2 Estimated GHG emissions reductions generated by the Project,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8 Description of the Project’s Activities,ghg_emission_reduction,18,19,Description of the Project’s Activities,1.8,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8 Description of the Project’s Activities,leakage_analysis,18,19,Description of the Project’s Activities,1.8,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",ghg_emission_reduction,19,20,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",baseline_analysis,19,20,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",project_summary,19,20,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",additional_analysis,19,20,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",leakage_analysis,19,20,"1.8.1 Climate, Community and Biodiversity Objectives of the Project",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8.2 Project Activities,ghg_emission_reduction,20,24,1.8.2 Project Activities,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8.2 Project Activities,additional_analysis,20,24,1.8.2 Project Activities,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8.2 Project Activities,baseline_analysis,20,24,1.8.2 Project Activities,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.8.2 Project Activities,leakage_analysis,20,24,1.8.2 Project Activities,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9 Project Location,project_location,24,25,Project Location,1.9,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,ghg_emission_reduction,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,project_location,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,additional_analysis,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,baseline_analysis,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,natural_catastrophe_climate_change,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.9.1 General Characteristics of the Project Area,leakage_analysis,25,36,1.9.1 General Characteristics of the Project Area,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,ghg_emission_reduction,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,project_location,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,additional_analysis,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,baseline_analysis,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,natural_catastrophe_climate_change,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.10 Conditions Prior to Project Initiation,leakage_analysis,36,38,Conditions Prior to Project Initiation,1.10,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"1.11 Compliance with Relevant Laws, Statutes and Other Regulatory",standard,38,38,"Compliance with Relevant Laws, Statutes and Other Regulatory",1.11,1
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.11.1 Regulations regarding conservation and REDD projects,additional_analysis,38,40,1.11.1 Regulations regarding conservation and REDD projects,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.11.1 Regulations regarding conservation and REDD projects,baseline_analysis,38,40,1.11.1 Regulations regarding conservation and REDD projects,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.11.2 Regulations regarding labor rights,additional_analysis,40,41,1.11.2 Regulations regarding labor rights,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.11.2 Regulations regarding labor rights,other_entities,40,41,1.11.2 Regulations regarding labor rights,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.1 Proof of Title,proof_of_title,41,42,1.12.1 Proof of Title,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.2 Emissions Trading Programs and Other Binding Limits,ghg_emission_reduction,42,42,1.12.2 Emissions Trading Programs and Other Binding Limits,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.3 Participation under Other GHG Programs,ghg_emission_reduction,42,42,1.12.3 Participation under Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.4 Other Forms of Environmental Credit,ghg_emission_reduction,42,42,1.12.4 Other Forms of Environmental Credit,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_title,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,other_entities,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_proponent,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_start_date,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_summary,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,leakage_analysis,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,ghg_emission_reduction,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,date_issue_of_project,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,standard,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_size,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_location,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_country,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,version_of_file,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,expected_first_vintage_of_credit_issuance,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,additional_analysis,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_lifetime,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,baseline_analysis,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.12.5 Projects Rejected by Other GHG Programs,natural_catastrophe_climate_change,42,42,1.12.5 Projects Rejected by Other GHG Programs,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.13.1 Eligibility Criteria,other_entities,42,42,1.13.1 Eligibility Criteria,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.13.1 Eligibility Criteria,project_proponent,42,42,1.13.1 Eligibility Criteria,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.13.2 Leakage Management,leakage_analysis,42,43,1.13.2 Leakage Management,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.13.3 Commercially Sensitive Information,project_proponent,43,43,1.13.3 Commercially Sensitive Information,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.13.4 Further Information,project_proponent,43,43,1.13.4 Further Information,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.1 Title and Reference of the Methodology,additional_analysis,43,44,Title and Reference of the Methodology,2.1,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.1 Title and Reference of the Methodology,baseline_analysis,43,44,Title and Reference of the Methodology,2.1,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.2 Applicability of the Methodology,baseline_analysis,44,45,Applicability of the Methodology,2.2,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.1 Spatial Boundaries,project_size,45,60,2.3.1 Spatial Boundaries,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.2 Location of each Gleba within the Project Boundary.,project_location,60,63,2.3.2 Location of each Gleba within the Project Boundary.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.3 Temporal Boundaries,project_start_date,63,64,2.3.3 Temporal Boundaries,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.3 Temporal Boundaries,baseline_analysis,63,64,2.3.3 Temporal Boundaries,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.3 Temporal Boundaries,leakage_analysis,63,64,2.3.3 Temporal Boundaries,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.4 Carbon Pools,baseline_analysis,64,65,2.3.4 Carbon Pools,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.4 Carbon Pools,project_size,64,65,2.3.4 Carbon Pools,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3.5 Sources of emissions of GHG,ghg_emission_reduction,65,65,2.3.5 Sources of emissions of GHG,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.1 Description,additional_analysis,65,68,2.4.1 Description,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.1 Description,baseline_analysis,65,68,2.4.1 Description,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.2 Data and Methods Uses,additional_analysis,68,71,2.4.2 Data and Methods Uses,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.2 Data and Methods Uses,baseline_analysis,68,71,2.4.2 Data and Methods Uses,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.3 Land Uses and Land Cover Classes (LULC classes),additional_analysis,71,74,2.4.3 Land Uses and Land Cover Classes (LULC classes),0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.3 Land Uses and Land Cover Classes (LULC classes),baseline_analysis,71,74,2.4.3 Land Uses and Land Cover Classes (LULC classes),0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.3 Land Uses and Land Cover Classes (LULC classes),leakage_analysis,71,74,2.4.3 Land Uses and Land Cover Classes (LULC classes),0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.4 Land Uses and Land Cover Categories (LULC-categories),baseline_analysis,74,75,2.4.4 Land Uses and Land Cover Categories (LULC-categories),0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.4 Land Uses and Land Cover Categories (LULC-categories),land_use_and_land_cover_categories,74,75,2.4.4 Land Uses and Land Cover Categories (LULC-categories),0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.5 Analysis of historical land-use and land-cover change,additional_analysis,75,76,2.4.5 Analysis of historical land-use and land-cover change,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.4.5 Analysis of historical land-use and land-cover change,baseline_analysis,75,76,2.4.5 Analysis of historical land-use and land-cover change,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",additional_analysis,76,92,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",baseline_analysis,76,92,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",leakage_analysis,76,92,"2.4.6 Agents, Drivers and Underlying Causes of Deforestation",0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5 Additionality,additional_analysis,92,92,Additionality,2.5,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.1 STEP 1: Identification of alternative land-use scenarios to the AFOLU,additional_analysis,92,103,2.5.1 STEP 1: Identification of alternative land-use scenarios to the AFOLU,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.1 STEP 1: Identification of alternative land-use scenarios to the AFOLU,baseline_analysis,92,103,2.5.1 STEP 1: Identification of alternative land-use scenarios to the AFOLU,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.2 STEP 2: Investment analysis to determine that the proposed Project,additional_analysis,103,104,2.5.2 STEP 2: Investment analysis to determine that the proposed Project,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.2 STEP 2: Investment analysis to determine that the proposed Project,baseline_analysis,103,104,2.5.2 STEP 2: Investment analysis to determine that the proposed Project,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.4 STEP 4: Common practice analysis,additional_analysis,104,105,2.5.4 STEP 4: Common practice analysis,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.4 STEP 4: Common practice analysis,baseline_analysis,104,105,2.5.4 STEP 4: Common practice analysis,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.4 STEP 4: Common practice analysis,leakage_analysis,104,105,2.5.4 STEP 4: Common practice analysis,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.5.5 Conclusion of the additionality analysis,additional_analysis,105,106,2.5.5 Conclusion of the additionality analysis,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.6 Methodology Deviations,ghg_emission_reduction,106,106,Methodology Deviations,2.6,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.1.1 Selection of the baseline approach,baseline_analysis,106,108,3.1.1 Selection of the baseline approach,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.1.2 Data and Methods Uses,baseline_analysis,108,108,3.1.2 Data and Methods Uses,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.1.3 Projected Deforestation Results,baseline_analysis,108,127,3.1.3 Projected Deforestation Results,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.2.1 Calculation of GHG emissions in the baseline scenario due to LULC,ghg_emission_reduction,127,148,3.2.1 Calculation of GHG emissions in the baseline scenario due to LULC,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.2.1 Calculation of GHG emissions in the baseline scenario due to LULC,baseline_analysis,127,148,3.2.1 Calculation of GHG emissions in the baseline scenario due to LULC,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.3 Leakage,leakage_analysis,148,148,Leakage,3.3,3
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.3.1 Total ex ante estimated actual net carbon stock changes and emissions of non-CO2,ghg_emission_reduction,148,151,3.3.1 Total ex ante estimated actual net carbon stock changes and emissions of non-CO2,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,3.4 Summary of GHG Emission Reductions and Removals,ghg_emission_reduction,151,156,Summary of GHG Emission Reductions and Removals,3.4,3
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,4.1 Data and Parameters Available at Validation,baseline_analysis,156,175,Data and Parameters Available at Validation,4.1,4
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,4.1 Data and Parameters Available at Validation,leakage_analysis,156,175,Data and Parameters Available at Validation,4.1,4
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,4.2 Data and Parameters Monitored,baseline_analysis,175,183,Data and Parameters Monitored,4.2,4
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,4.2 Data and Parameters Monitored,leakage_analysis,175,183,Data and Parameters Monitored,4.2,4
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,4.3 Description of the Monitoring Plan,ghg_emission_reduction,183,183,Description of the Monitoring Plan,4.3,4
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.1 Monitor the implementation of the project.,additional_analysis,183,185,1.1.1 Monitor the implementation of the project.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.1 Monitor the implementation of the project.,project_proponent,183,185,1.1.1 Monitor the implementation of the project.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_title,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,other_entities,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_proponent,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,baseline_analysis,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_summary,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,additional_analysis,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,leakage_analysis,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,ghg_emission_reduction,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_size,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,natural_catastrophe_climate_change,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_location,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.2 Monitoring change and land use within the project area.,project_country,185,187,1.1.2 Monitoring change and land use within the project area.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,ghg_emission_reduction,187,188,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,baseline_analysis,187,188,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,leakage_analysis,187,188,1.1.3 Monitoring of carbon stock changes and non-CO2 emissions from forest fires,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.4 Monitoring of the impacts of natural disturbances and other catastrophic events.,natural_catastrophe_climate_change,188,188,1.1.4 Monitoring of the impacts of natural disturbances and other catastrophic events.,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.1.5 Total ex post estimated actual net carbon stock changes and GHG emissions in the project,leakage_analysis,188,189,1.1.5 Total ex post estimated actual net carbon stock changes and GHG emissions in the project,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.2.1 Monitoring of carbon stock changes and GHG emissions associated to leakage prevention,ghg_emission_reduction,189,189,1.2.1 Monitoring of carbon stock changes and GHG emissions associated to leakage prevention,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.2.2 Monitoring of carbon stock decreases and increases in GHG emissions due to activity,ghg_emission_reduction,189,189,1.2.2 Monitoring of carbon stock decreases and increases in GHG emissions due to activity,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,1.2.2 Monitoring of carbon stock decreases and increases in GHG emissions due to activity,leakage_analysis,189,189,1.2.2 Monitoring of carbon stock decreases and increases in GHG emissions due to activity,0,0
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,"2.1 Update information on agents, drivers and underlying causes of deforestation.",natural_catastrophe_climate_change,189,189,"Update information on agents, drivers and underlying causes of deforestation.",2.1,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.2 Adjust the component of use and land-use change of the baseline.,baseline_analysis,189,190,Adjust the component of use and land-use change of the baseline.,2.2,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,2.3 Adjusting the carbon component of the baseline.,baseline_analysis,190,190,Adjusting the carbon component of the baseline.,2.3,2
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,5.1 Impacts on Communities,additional_analysis,190,191,Impacts on Communities,5.1,5
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,5.1 Impacts on Communities,project_proponent,190,191,Impacts on Communities,5.1,5
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,5.2 Impacts on Biodiversity,natural_catastrophe_climate_change,191,192,Impacts on Biodiversity,5.2,5
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.1 Villagers participation,additional_analysis,192,193,Villagers participation,6.1,6
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.1 Villagers participation,other_entities,192,193,Villagers participation,6.1,6
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.2 Plan to receive and solve conflicts and complaints,additional_analysis,193,200,Plan to receive and solve conflicts and complaints,6.2,6
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.2 Plan to receive and solve conflicts and complaints,other_entities,193,200,Plan to receive and solve conflicts and complaints,6.2,6
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.2 Plan to receive and solve conflicts and complaints,baseline_analysis,193,200,Plan to receive and solve conflicts and complaints,6.2,6
+977,977_rmdlt_vcs_pd_final_vcs_update_aug_2014.pdf,6.2 Plan to receive and solve conflicts and complaints,natural_catastrophe_climate_change,193,200,Plan to receive and solve conflicts and complaints,6.2,6
+872,872_proj_desc_872_17_may_2012.pdf,First Section,ghg_emission_reduction,1,4,First Section,0,0
+872,872_proj_desc_872_17_may_2012.pdf,First Section,project_start_date,1,4,First Section,0,0
+872,872_proj_desc_872_17_may_2012.pdf,First Section,project_proponent,1,4,First Section,0,0
+872,872_proj_desc_872_17_may_2012.pdf,First Section,project_location,1,4,First Section,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,project_title,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,ghg_emission_reduction,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,baseline_analysis,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,project_size,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,project_location,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.1. Summary Description of Project:,project_country,4,4,1.1. Summary Description of Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.2. Sectoral Scope and Project Type,ghg_emission_reduction,4,4,1.2. Sectoral Scope and Project Type,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.3. Project Proponent,project_proponent,4,5,1.3. Project Proponent,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.4. Other Project Participants,other_entities,5,5,1.4. Other Project Participants,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.5. Project Start Date and Project Crediting Period,project_start_date,5,6,1.5. Project Start Date and Project Crediting Period,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.6. Estimated GHG Emission Reductions or Removals:,ghg_emission_reduction,6,6,1.6. Estimated GHG Emission Reductions or Removals:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.7. Description of Project Activity:,ghg_emission_reduction,6,6,1.7. Description of Project Activity:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.7. Description of Project Activity:,baseline_analysis,6,6,1.7. Description of Project Activity:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.7. Description of Project Activity:,leakage_analysis,6,6,1.7. Description of Project Activity:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.7. Description of Project Activity:,additional_analysis,6,6,1.7. Description of Project Activity:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.8. Project Location:,project_location,6,8,1.8. Project Location:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.9. Conditions Prior to Project Initiation:,project_location,8,12,1.9. Conditions Prior to Project Initiation:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,"1.10. Compliance with Laws, Statutes and Other Regulatory Frameworks:",compliance_with_laws,12,13,"1.10. Compliance with Laws, Statutes and Other Regulatory Frameworks:",0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.11. Participation in Other GHG Programs:,project_proponent,13,13,1.11. Participation in Other GHG Programs:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_title,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,other_entities,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_proponent,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_start_date,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_summary,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,leakage_analysis,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,ghg_emission_reduction,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,date_issue_of_project,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,standard,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_size,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_location,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_country,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,version_of_file,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,expected_first_vintage_of_credit_issuance,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,additional_analysis,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,project_lifetime,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,baseline_analysis,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.12. Other Forms of Environmental Credit:,natural_catastrophe_climate_change,13,13,1.12. Other Forms of Environmental Credit:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,1.13. Additional Information Relevant to the Project:,leakage_analysis,13,14,1.13. Additional Information Relevant to the Project:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.1. Title and Reference of Methodology:,project_title,14,14,2.1. Title and Reference of Methodology:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.1. Title and Reference of Methodology:,version_of_file,14,14,2.1. Title and Reference of Methodology:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.2. Applicability of Methodology,ghg_emission_reduction,14,15,2.2. Applicability of Methodology,0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.2. Applicability of Methodology,baseline_analysis,14,15,2.2. Applicability of Methodology,0,0
+872,872_proj_desc_872_17_may_2012.pdf,"2.3. GHG Sources, Sinks and Reservoirs:",ghg_emission_reduction,15,17,"2.3. GHG Sources, Sinks and Reservoirs:",0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.4. Baseline Scenario,baseline_analysis,17,25,2.4. Baseline Scenario,0,0
+872,872_proj_desc_872_17_may_2012.pdf,2.5. Methodology Deviations:,leakage_analysis,25,25,2.5. Methodology Deviations:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.1. Data and Parameters Available at Validation:,baseline_analysis,25,36,3.1. Data and Parameters Available at Validation:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.2. Data and Parameters Monitored,additional_analysis,36,51,3.2. Data and Parameters Monitored,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.2. Data and Parameters Monitored,baseline_analysis,36,51,3.2. Data and Parameters Monitored,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.2. Data and Parameters Monitored,natural_catastrophe_climate_change,36,51,3.2. Data and Parameters Monitored,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.3. Description of the Monitoring Plan,ghg_emission_reduction,51,57,3.3. Description of the Monitoring Plan,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.3. Description of the Monitoring Plan,additional_analysis,51,57,3.3. Description of the Monitoring Plan,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.3. Description of the Monitoring Plan,baseline_analysis,51,57,3.3. Description of the Monitoring Plan,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.3. Description of the Monitoring Plan,leakage_analysis,51,57,3.3. Description of the Monitoring Plan,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.4. Ex-Post Calculations of Carbon Stocks,ghg_emission_reduction,57,60,3.4. Ex-Post Calculations of Carbon Stocks,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.4. Ex-Post Calculations of Carbon Stocks,project_proponent,57,60,3.4. Ex-Post Calculations of Carbon Stocks,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.4. Ex-Post Calculations of Carbon Stocks,project_summary,57,60,3.4. Ex-Post Calculations of Carbon Stocks,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.4. Ex-Post Calculations of Carbon Stocks,additional_analysis,57,60,3.4. Ex-Post Calculations of Carbon Stocks,0,0
+872,872_proj_desc_872_17_may_2012.pdf,3.4. Ex-Post Calculations of Carbon Stocks,baseline_analysis,57,60,3.4. Ex-Post Calculations of Carbon Stocks,0,0
+872,872_proj_desc_872_17_may_2012.pdf,"4.5. If changes in model assumptions or parameters are made, the baseline scenario (from the next",ghg_emission_reduction,60,60,"4.5. If changes in model assumptions or parameters are made, the baseline scenario (from the next",0,0
+872,872_proj_desc_872_17_may_2012.pdf,"4.5. If changes in model assumptions or parameters are made, the baseline scenario (from the next",baseline_analysis,60,60,"4.5. If changes in model assumptions or parameters are made, the baseline scenario (from the next",0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.1. Baseline Emissions,ghg_emission_reduction,60,73,4.1. Baseline Emissions,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.1. Baseline Emissions,baseline_analysis,60,73,4.1. Baseline Emissions,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.2. Project Emissions,ghg_emission_reduction,73,83,4.2. Project Emissions,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.2. Project Emissions,baseline_analysis,73,83,4.2. Project Emissions,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.3. Leakage,leakage_analysis,83,88,4.3. Leakage,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.4. Net GHG Emission Reductions and Removals,ghg_emission_reduction,88,93,4.4. Net GHG Emission Reductions and Removals,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.4. Net GHG Emission Reductions and Removals,leakage_analysis,88,93,4.4. Net GHG Emission Reductions and Removals,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.5. Calculation of the Uncertainty Factor,other_entities,93,97,4.5. Calculation of the Uncertainty Factor,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.5. Calculation of the Uncertainty Factor,baseline_analysis,93,97,4.5. Calculation of the Uncertainty Factor,0,0
+872,872_proj_desc_872_17_may_2012.pdf,4.5. Calculation of the Uncertainty Factor,leakage_analysis,93,97,4.5. Calculation of the Uncertainty Factor,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,ghg_emission_reduction,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,other_entities,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,project_proponent,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,standard,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,baseline_analysis,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,project_size,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.1. Proof of Title:,leakage_analysis,97,104,7.1. Proof of Title:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,ghg_emission_reduction,104,159,7.2. Emissions Trading Program:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,other_entities,104,159,7.2. Emissions Trading Program:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,project_proponent,104,159,7.2. Emissions Trading Program:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,baseline_analysis,104,159,7.2. Emissions Trading Program:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,natural_catastrophe_climate_change,104,159,7.2. Emissions Trading Program:,0,0
+872,872_proj_desc_872_17_may_2012.pdf,7.2. Emissions Trading Program:,leakage_analysis,104,159,7.2. Emissions Trading Program:,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,First Section,ghg_emission_reduction,1,2,First Section,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,First Section,project_start_date,1,2,First Section,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,First Section,project_proponent,1,2,First Section,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,First Section,project_location,1,2,First Section,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.1 Summary Description of the Project,project_title,2,2,Summary Description of the Project,1.1,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.1 Summary Description of the Project,ghg_emission_reduction,2,2,Summary Description of the Project,1.1,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.1 Summary Description of the Project,project_summary,2,2,Summary Description of the Project,1.1,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.1 Summary Description of the Project,project_location,2,2,Summary Description of the Project,1.1,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.1 Summary Description of the Project,project_country,2,2,Summary Description of the Project,1.1,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.2 Sectoral Scope and Project Type,project_size,2,2,Sectoral Scope and Project Type,1.2,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.3 Project Proponent,project_proponent,2,3,Project Proponent,1.3,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.4 Other Entities Involved in the Project,other_entities,3,3,Other Entities Involved in the Project,1.4,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.5 Project Start Date,project_start_date,3,3,Project Start Date,1.5,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.6 Project Crediting Period,ghg_emission_reduction,3,3,Project Crediting Period,1.6,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.6 Project Crediting Period,project_start_date,3,3,Project Crediting Period,1.6,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.6 Project Crediting Period,project_lifetime,3,3,Project Crediting Period,1.6,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.7 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,3,4,Project Scale and Estimated GHG Emission Reductions or Removals,1.7,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.8 Description of the Project Activity,ghg_emission_reduction,4,5,Description of the Project Activity,1.8,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.8 Description of the Project Activity,baseline_analysis,4,5,Description of the Project Activity,1.8,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.8 Description of the Project Activity,project_size,4,5,Description of the Project Activity,1.8,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.8 Description of the Project Activity,additional_analysis,4,5,Description of the Project Activity,1.8,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.9 Project Location,project_location,5,5,Project Location,1.9,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.10 Conditions Prior to Project Initiation,baseline_analysis,5,6,Conditions Prior to Project Initiation,1.10,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.10 Conditions Prior to Project Initiation,project_location,5,6,Conditions Prior to Project Initiation,1.10,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,"1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks",compliance_with_laws_and_regulations,6,7,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.11,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.1 Right of Use,ghg_emission_reduction,7,7,1.12.1 Right of Use,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.2 Emissions Trading Programs and Other Binding Limits,ghg_emission_reduction,7,7,1.12.2 Emissions Trading Programs and Other Binding Limits,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.3 Other Forms of Environmental Credit,ghg_emission_reduction,7,7,1.12.3 Other Forms of Environmental Credit,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_title,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,other_entities,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_proponent,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_start_date,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_summary,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,leakage_analysis,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,ghg_emission_reduction,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,date_issue_of_project,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,standard,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_size,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_location,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_country,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,version_of_file,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,expected_first_vintage_of_credit_issuance,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,additional_analysis,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,project_lifetime,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,baseline_analysis,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.4 Participation under Other GHG Programs,natural_catastrophe_climate_change,7,7,1.12.4 Participation under Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.5 Projects Rejected by Other GHG Programs,project_title,7,8,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.12.5 Projects Rejected by Other GHG Programs,version_of_file,7,8,1.12.5 Projects Rejected by Other GHG Programs,0,0
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,1.13 Additional Information Relevant to the Project,leakage_analysis,8,8,Additional Information Relevant to the Project,1.13,1
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.1 Title and Reference of Methodology,leakage_analysis,8,9,Title and Reference of Methodology,2.1,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.2 Applicability of Methodology,leakage_analysis,9,10,Applicability of Methodology,2.2,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.3 Project Boundary,leakage_analysis,10,15,Project Boundary,2.3,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.4 Baseline Scenario,baseline_analysis,15,16,Baseline Scenario,2.4,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.5 Additionality,additional_analysis,16,17,Additionality,2.5,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.5 Additionality,baseline_analysis,16,17,Additionality,2.5,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.5 Additionality,leakage_analysis,16,17,Additionality,2.5,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.6 Methodology Deviations,ghg_emission_reduction,17,19,Methodology Deviations,2.6,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,2.6 Methodology Deviations,leakage_analysis,17,19,Methodology Deviations,2.6,2
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.1 Baseline Emissions,ghg_emission_reduction,19,19,Baseline Emissions,3.1,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.1 Baseline Emissions,baseline_analysis,19,19,Baseline Emissions,3.1,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.2 Project Emissions,ghg_emission_reduction,19,21,Project Emissions,3.2,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.2 Project Emissions,baseline_analysis,19,21,Project Emissions,3.2,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.3 Leakage,leakage_analysis,21,25,Leakage,3.3,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,3.4 Net GHG Emission Reductions and Removals,ghg_emission_reduction,25,26,Net GHG Emission Reductions and Removals,3.4,3
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.1 Data and Parameters Available at Validation,ghg_emission_reduction,26,28,Data and Parameters Available at Validation,4.1,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.1 Data and Parameters Available at Validation,baseline_analysis,26,28,Data and Parameters Available at Validation,4.1,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.2 Data and Parameters Monitored,ghg_emission_reduction,28,37,Data and Parameters Monitored,4.2,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.2 Data and Parameters Monitored,baseline_analysis,28,37,Data and Parameters Monitored,4.2,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.2 Data and Parameters Monitored,leakage_analysis,28,37,Data and Parameters Monitored,4.2,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.3 Monitoring Plan,ghg_emission_reduction,37,41,Monitoring Plan,4.3,4
+1386,1386_vcs_project_description_recast_louisville_v2_7_final.pdf,4.3 Monitoring Plan,leakage_analysis,37,41,Monitoring Plan,4.3,4
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,First Section,ghg_emission_reduction,1,3,First Section,0,0
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,First Section,project_start_date,1,3,First Section,0,0
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,First Section,project_proponent,1,3,First Section,0,0
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,First Section,project_location,1,3,First Section,0,0
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.1 Summary Description of the Project,ghg_emission_reduction,3,4,Summary Description of the Project,1.1,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.1 Summary Description of the Project,project_proponent,3,4,Summary Description of the Project,1.1,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.1 Summary Description of the Project,project_size,3,4,Summary Description of the Project,1.1,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.1 Summary Description of the Project,project_location,3,4,Summary Description of the Project,1.1,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.2 Sectoral Scope and Project Type,ghg_emission_reduction,4,4,Sectoral Scope and Project Type,1.2,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.3 Project Eligibility,ghg_emission_reduction,4,4,Project Eligibility,1.3,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.3 Project Eligibility,standard,4,4,Project Eligibility,1.3,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.4 Project Design,ghg_emission_reduction,4,5,Project Design,1.4,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.4 Project Design,standard,4,5,Project Design,1.4,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.5 Project Proponent,project_proponent,5,5,Project Proponent,1.5,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.6 Other Entities Involved in the Project,other_entities,5,6,Other Entities Involved in the Project,1.6,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.7 Ownership,other_entities,6,6,Ownership,1.7,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.8 Project Start Date,project_start_date,6,7,Project Start Date,1.8,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.9 Project Crediting Period,project_lifetime,7,7,Project Crediting Period,1.9,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.10 Project Scale and Estimated GHG Emission Reductions or Removals,ghg_emission_reduction,7,8,Project Scale and Estimated GHG Emission Reductions or Removals,1.10,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.11 Description of the Project Activity,ghg_emission_reduction,8,16,Description of the Project Activity,1.11,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.11 Description of the Project Activity,other_entities,8,16,Description of the Project Activity,1.11,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.11 Description of the Project Activity,project_proponent,8,16,Description of the Project Activity,1.11,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.12 Project Location,project_location,16,19,Project Location,1.12,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.13 Conditions Prior to Project Initiation,ghg_emission_reduction,19,26,Conditions Prior to Project Initiation,1.13,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.13 Conditions Prior to Project Initiation,natural_catastrophe_climate_change,19,26,Conditions Prior to Project Initiation,1.13,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.13 Conditions Prior to Project Initiation,project_location,19,26,Conditions Prior to Project Initiation,1.13,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",other_entities,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_proponent,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",ghg_emission_reduction,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",standard,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_location,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,"1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks",project_country,26,27,"Compliance with Laws, Statutes and Other Regulatory Frameworks",1.14,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.15 Participation under Other GHG Programs,ghg_emission_reduction,27,27,Participation under Other GHG Programs,1.15,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.15 Participation under Other GHG Programs,other_entities,27,27,Participation under Other GHG Programs,1.15,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.15 Participation under Other GHG Programs,project_proponent,27,27,Participation under Other GHG Programs,1.15,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.16 Other Forms of Credit,ghg_emission_reduction,27,27,Other Forms of Credit,1.16,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.17 Additional Information Relevant to the Project,ghg_emission_reduction,27,29,Additional Information Relevant to the Project,1.17,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.17 Additional Information Relevant to the Project,leakage_analysis,27,29,Additional Information Relevant to the Project,1.17,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.17 Additional Information Relevant to the Project,additional_analysis,27,29,Additional Information Relevant to the Project,1.17,1
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.1 No Net Harm,natural_catastrophe_climate_change,29,29,No Net Harm,2.1,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.2 Local Stakeholder Consultation,additional_analysis,29,33,Local Stakeholder Consultation,2.2,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.2 Local Stakeholder Consultation,baseline_analysis,29,33,Local Stakeholder Consultation,2.2,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.2 Local Stakeholder Consultation,leakage_analysis,29,33,Local Stakeholder Consultation,2.2,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.2 Local Stakeholder Consultation,project_summary,29,33,Local Stakeholder Consultation,2.2,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.3 Environmental Impact,ghg_emission_reduction,33,33,Environmental Impact,2.3,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.3 Environmental Impact,natural_catastrophe_climate_change,33,33,Environmental Impact,2.3,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.4 Public Comments,ghg_emission_reduction,33,34,Public Comments,2.4,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.4 Public Comments,natural_catastrophe_climate_change,33,34,Public Comments,2.4,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.5 AFOLU-Specific Safeguards,ghg_emission_reduction,34,35,AFOLU-Specific Safeguards,2.5,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.5 AFOLU-Specific Safeguards,additional_analysis,34,35,AFOLU-Specific Safeguards,2.5,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,2.5 AFOLU-Specific Safeguards,natural_catastrophe_climate_change,34,35,AFOLU-Specific Safeguards,2.5,2
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.1 Title and Reference of Methodology,baseline_analysis,35,35,Title and Reference of Methodology,3.1,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.2 Applicability of Methodology,baseline_analysis,35,37,Applicability of Methodology,3.2,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,1.13. Such croplands under tropical conditions,baseline_analysis,37,37,1.13. Such croplands under tropical conditions,0,0
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.3 Project Boundary,baseline_analysis,37,39,Project Boundary,3.3,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.4 Baseline Scenario,baseline_analysis,39,41,Baseline Scenario,3.4,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.5 Additionality,additional_analysis,41,46,Additionality,3.5,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,3.6 Methodology Deviations,ghg_emission_reduction,46,46,Methodology Deviations,3.6,3
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,4.1 Baseline Emissions,ghg_emission_reduction,46,47,Baseline Emissions,4.1,4
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,4.2 Project Emissions,ghg_emission_reduction,47,48,Project Emissions,4.2,4
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,4.3 Leakage,leakage_analysis,48,49,Leakage,4.3,4
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,4.4 Net GHG Emission Reductions and Removals,ghg_emission_reduction,49,53,Net GHG Emission Reductions and Removals,4.4,4
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.1 Data and Parameters Available at Validation,ghg_emission_reduction,53,57,Data and Parameters Available at Validation,5.1,5
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.2 Data and Parameters Monitored,ghg_emission_reduction,57,66,Data and Parameters Monitored,5.2,5
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.2 Data and Parameters Monitored,baseline_analysis,57,66,Data and Parameters Monitored,5.2,5
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.3 Monitoring Plan,ghg_emission_reduction,66,81,Monitoring Plan,5.3,5
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.3 Monitoring Plan,baseline_analysis,66,81,Monitoring Plan,5.3,5
+2757,2757_2757-pdd_ahmedabad_(clean).pdf,5.3 Monitoring Plan,additional_analysis,66,81,Monitoring Plan,5.3,5
