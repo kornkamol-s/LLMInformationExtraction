@@ -22,22 +22,29 @@ def _transform_record(row):
         ]
     }
 
-
 def _transform_record_test(row):
     return {
-                "messages": [
-            {
-                "role": "system",
-                "content": "You are tasked with extracting relevant information from the provided context to answer the following question. If any key information is missing, omit that key from response. If no relevant information is found, do not return anything."
-            },
-            {
-                "role": "user",
-                "content": f"Question: {row['question']}\n\nContext: {row['context']}"
-            }
-        ]
+        "input": f"Question: {row['question']}\n\nContext: {row['context']}",
+        "question": f"{row['question']}",
+        "context": f"{row['context']}",
+        "groundtruth": f"{row['GHG Emission Reductions']}"
     }
 
-context_df = pd.read_parquet('data/intermediate/kita_dataset/pdd_context_retrieval_with_rag_small.parquet', engine='fastparquet')
+# def _transform_record_test(row):
+#     return {
+#                 "messages": [
+#             {
+#                 "role": "system",
+#                 "content": "You are tasked with extracting relevant information from the provided context to answer the following question. If any key information is missing, omit that key from response. If no relevant information is found, do not return anything."
+#             },
+#             {
+#                 "role": "user",
+#                 "content": f"Question: {row['question']}\n\nContext: {row['context']}"
+#             }
+#         ]
+#     }
+
+context_df = pd.read_parquet('data/intermediate/kita_dataset/refined_pdd_context_retrieval.parquet', engine='fastparquet')
 answer_df = pd.read_csv('data/intermediate/kita_dataset/processed_ground_truth_ghg.csv')
 
 context_df['id'] = context_df['id'].astype('int')
@@ -52,13 +59,13 @@ train_df, temp_df = train_test_split(df, test_size=0.3, random_state=42)
 val_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=42)
 
 
-train_df = train_df.apply(lambda row: _transform_record(row), axis=1)
-train_df.to_json('data/intermediate/ghg_reduction/ghg_reduction_train.jsonl', orient='records', lines=True)
+# train_df = train_df.apply(lambda row: _transform_record(row), axis=1)
+# train_df.to_json('data/intermediate/ghg_reduction/ghg_reduction_train.jsonl', orient='records', lines=True)
 
-val_df = val_df.apply(lambda row: _transform_record(row), axis=1)
-val_df.to_json('data/intermediate/ghg_reduction/ghg_reduction_validate.jsonl', orient='records', lines=True)
+# val_df = val_df.apply(lambda row: _transform_record(row), axis=1)
+# val_df.to_json('data/intermediate/ghg_reduction/ghg_reduction_validate.jsonl', orient='records', lines=True)
 
-test_df[['GHG Emission Reductions']].to_json('data/intermediate/ghg_reduction/ghg_reduction_test_answer.jsonl', orient='records', lines=True)
+# test_df[['GHG Emission Reductions']].to_json('data/intermediate/ghg_reduction/ghg_reduction_test_answer.jsonl', orient='records', lines=True)
 
 test_df = test_df.apply(lambda row: _transform_record_test(row), axis=1)
-test_df.to_json('data/intermediate/ghg_reduction/ghg_reduction_test_prompt.jsonl', orient='records', lines=True)
+test_df.to_json('data/intermediate/ghg_reduction/gpt35/Azure AI/ghg_reduction_test.jsonl', orient='records', lines=True)

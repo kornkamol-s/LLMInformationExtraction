@@ -7,3 +7,4 @@ test/*
 log/vector-store/*
 log/*
 sidejob/data/*
+data/input/pdds/*
