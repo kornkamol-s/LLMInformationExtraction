@@ -1,0 +1,1028 @@
+﻿inputs.question,model_answer,inputs.context,true_answer,gpt_coherence,gpt_fluency,gpt_groundedness,gpt_relevance,gpt_similarity,f1_score,index,status
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+- 01 Jun 2014 to 31 May 2015: 91266 tCO2e/yr
+- 01 Jun 2015 to 31 May 2016: 91266 tCO2e/yr
+- 01 Jun 2016 to 31 May 2017: 91266 tCO2e/yr
+- 01 Jun 2017 to 31 May 2018: 91266 tCO2e/yr
+- 01 Jun 2018 to 31 May 2019: 91266 tCO2e/yr
+- 01 Jun 2019 to 31 May 2020: 91266 tCO2e/yr
+- 01 Jun 2020 to 31 May 2021: 91266 tCO2e/yr
+- 01 Jun 2021 to 31 May 2022: 91266 tCO2e/yr
+- 01 Jun 2022 to 31 May 2023: 91266 tCO2e/yr
+- 01 Jun 2023 to 31 May 2024: 91266 tCO2e/yr
+- Total: 912660 tCO2e
+
+Please note that there are no estimated leakage emissions or net GHG emission reductions or removals for this project.","
+
+PROJECT DESCRIPTION : VCS Version 3
+3.2 Project Emissions
+The project activity involves harnessing of wind energy and its conversion to electricity. Hence,
+according to the methodology ACM0002, Version 17.0, there will be no project emissions, i.e. PE y
+= 0.
+3.3 Leakage
+As per the methodology ACM0002, Version 17.0, no leakage has been considered, therefore,
+LEy = 0.
+3.4 Net GHG Emission Reductions and Removals
+Ex-ante calculation of emission reductions is equal to ex-ante calculation of baseline emissions
+as project emissions and leakage are nil.
+BE = EG * EF y PJ, y grid, CM, y
+Where:
+BE = Baseline emissions in year y (tCO /yr) y 2
+EG = Quantity of net electricity generation that is produced and fed into the grid as a PJ,y
+result of the implementation of the CDM project activity in year y (MWh/yr)
+EF = Combined margin CO emission factor for grid connected power generation in grid,CM,y 2
+year y calculated using the latest version of the “Tool to calculate the emission factor for
+an electricity system” (tCO /MWh) 2
+Baseline emission factor (Combined Margin) (EF ) = 0.9777tCO e/MWh grid, CM, y 2
+Since, the project activity is the installation of a new grid - connected renewable power plant,
+EG = EG PJ,y facility,y
+EG = Quantity of net electricity generation supplied by the project plant/unit to the grid facility,y
+in year y (MWh/yr)
+Therefore, annual electricity supplied to the grid by the project (EG ) has been calculated as: facility,y
+EG = 59.4.MW (Capacity) x 18% (PLF) x 8760 (hours) facility,y
+= 93346.560 MWh
+As,
+EG = EG , PJ,y facility,y
+EG = 93346.560 MWh/yr PJ,y
+Therefore, annual Baseline Emissions (BE ) = EG * EF y PJ, y grid, CM, y
+= EG * EF facility,y grid, CM, y
+= 93346.560 MWh x 0.9777 tCO e/MWh 2
+= 91266 tCO e/yr 2
+v3.3 26
+
+[['Year', 'Estimated\nbaseline\nemissions or\nremovals (tCO e)\n2', '', 'Estimated', '', 'Estimated leakage\nemissions (tCO e)\n2', 'Estimated net\nGHG emission\nreductions or\nremovals (tCO e)\n2'], [None, None, None, 'project', None, None, None], [None, None, None, 'emissions or', None, None, None], [None, None, None, 'removals', None, None, None], [None, None, None, '(tCO e)\n2', None, None, None], ['01 Jun 2014 to 31\nMay 2015', '91266', '0', None, None, '0', '91266'], ['01 Jun 2015 to 31\nMay 2016', '91266', '0', None, None, '0', '91266'], ['01 Jun 2016 to 31\nMay 2017', '91266', '0', None, None, '0', '91266'], ['01 Jun 2017 to 31\nMay 2018', '91266', '0', None, None, '0', '91266'], ['01 Jun 2018 to 31\nMay 2019', '91266', '0', None, None, '0', '91266'], ['01 Jun 2019 to 31\nMay 2020', '91266', '0', None, None, '0', '91266'], ['01 Jun 2020 to 31\nMay 2021', '91266', '0', None, None, '0', '91266'], ['01 Jun 2021 to 31\nMay 2022', '91266', '0', None, None, '0', '91266'], ['01 Jun 2022 to 31\nMay 2023', '91266', '0', None, None, '0', '91266'], ['01 Jun 2023 to 31\nMay 2024', '91266', '0', None, None, '0', '91266'], ['Total', '912660', '0', None, None, '0', '91266']]
+[['', 'Data / Parameter', '', 'EF\nOM,y'], ['', 'Data unit', '', 'tCO e/MWh\n2'], ['Description', 'Description', None, 'Operating Margin Emission Factor of Western Regional Electricity\nGrid'], ['Source of data', None, None, '“CO Baseline Database for Indian Power Sector”, version 11.0\n2\npublished by the Central Electricity Authority, Ministry of Power,\nGovernment of India.\nThe “CO Baseline Database for Indian Power Sector”, version\n2\n11.0 is available at www.cea.nic.in.']]
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING
+4.1 Data and Parameters Available at Validation
+v3.3 27","{2024: 91266.0, 2023: 91266.0, 2022: 91266.0, 2021: 91266.0, 2020: 91266.0, 2019: 91266.0, 2018: 91266.0, 2017: 91266.0, 2016: 91266.0, 2015: 91266.0, 2014: 91266.0}",5,3,5,5,5,0.16,0,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"This model's maximum context length is 4096 tokens. However, you requested 4793 tokens (3993 in the messages, 800 in the completion). Please reduce the length of the messages or completion. | Apim-request-id: 238f1561-a302-42ca-9ebc-aeef9e646846","
+
+CCB + VCS PROJECT DESCRIPTION
+CCB Version 3, VCS Version 3
+3.2.3 Leakage
+The leakage is estimated as follows:
+𝐿𝐾 = 𝐿𝐾 (11) 𝑡 𝐴𝐺𝑅𝐼𝐶,𝑡
+Where:
+𝐿𝐾 𝑡 = GHG emissions due to leakage, in year t; tCO 2-e
+𝐿𝐾 = Leakage due to the displacement of agricultural activities in year 𝐴𝐺𝑅𝐼𝐶,𝑡
+t, as estimated in the tool “Estimation of the increase in GHG
+emissions attributable to displacement of pre-project agricultural
+activities in A/R CDM project activity”; tCO -e 2
+According to the A/R Methodological tool “Estimation of the increase in GHG emissions attributable
+to displacement of pre-project agricultural activities in A/R CDM project activity”, leakage emission
+resulting from displacement of the activities is composed of decrease in carbon stock in the carbon
+pools of the land and change in soil organic carbon stock due to land-use change in the land.
+44 𝐿𝐾 = ×(∆𝐶 +∆𝑆𝑂𝐶 ) (12) 𝐴𝐺𝑅𝐼𝐶,𝑡 𝐵𝐼𝑂𝑀𝐴𝑆𝑆,𝑡 𝐿𝑈𝐶,𝑡 12
+Where:
+𝐿𝐾 = Leakage due to the displacement of agricultural activities in year 𝐴𝐺𝑅𝐼𝐶,𝑡
+t; tCO -e 2
+∆𝐶 = Decrease in carbon stock in the carbon pools of the land 𝐵𝐼𝑂𝑀𝐴𝑆𝑆,𝑡
+receiving the activity displaced in year t; t d.m
+∆𝑆𝑂𝐶 = Change in soil organic carbon (SOC) stock due to land-use 𝐿𝑈𝐶,𝑡
+change in the land receiving the displaced activity in year t; tC ha
+The project was implemented by manual operation, rather than mechanical operation. Besides, no
+weeding, chopping, pruning, intermediate cutting activities are going to be conducted during the
+crediting period because of the natural condition, the economic condition and the slow growth
+pattern. Fertilization and watering are not going to take place, neither. Therefore, there is no
+expected leakage due to decrease in carbon stock in the carbon pools of the land and change in
+soil organic carbon stock. In other words, there is no expected leakage due to the displacement of
+agricultural activity from the project activity.
+Therefore, leakage is zero for the proposed project.
+3.2.4 Net GHG Emission Reductions and Removals
+Net anthropogenic GHG removals by sinks
+The net anthropogenic GHG removals by sinks shall be calculated as follows:
+∆𝐶 = ∆𝐶 −∆𝐶 −𝐿𝐾 (13) 𝐴𝑅,𝑡 𝐴𝐶𝑇𝑈𝐴𝐿,𝑡 𝐵𝑆𝐿,𝑡 𝑡
+CCB v3.0, VCS v3.3 49
+
+[['Year', '', 'Estimated', '', 'Estimated project\nremovals (tCO e)\n2', '', 'Estimated', '', '', 'Estimated net', ''], [None, None, 'baseline removals', None, None, None, 'leakage', None, None, 'GHG removals', None], [None, None, '(tCO e)\n2', None, None, None, 'removals (tCO e)\n2', None, None, '(tCO e)\n2', None], ['2014', '0', None, None, '0', '0', None, None, '0', None, None], ['2015', '0', None, None, '16,244', '0', None, None, '16,244', None, None], ['2016', '0', None, None, '20,150', '0', None, None, '20,150', None, None], ['2017', '0', None, None, '24,829', '0', None, None, '24,829', None, None], ['2018', '0', None, None, '30,581', '0', None, None, '30,581', None, None], ['2019', '0', None, None, '37,866', '0', None, None, '37,866', None, None], ['2020', '0', None, None, '47,320', '0', None, None, '47,320', None, None], ['2021', '0', None, None, '59,634', '0', None, None, '59,634', None, None], ['2022', '0', None, None, '75,064', '0', None, None, '75,064', None, None], ['2023', '0', None, None, '92,490', '0', None, None, '92,490', None, None], ['2024', '0', None, None, '108,619', '0', None, None, '108,619', None, None], ['2025', '0', None, None, '119,066', '0', None, None, '119,066', None, None], ['2026', '0', None, None, '121,730', '0', None, None, '121,730', None, None], ['2027', '0', None, None, '118,847', '0', None, None, '118,847', None, None], ['2028', '0', None, None, '114,815', '0', None, None, '114,815', None, None], ['2029', '0', None, None, '112,858', '0', None, None, '112,858', None, None], ['2030', '0', None, None, '114,037', '0', None, None, '114,037', None, None], ['2031', '0', None, None, '118,069', '0', None, None, '118,069', None, None], ['2032', '0', None, None, '124,265', '0', None, None, '124,265', None, None], ['2033', '0', None, None, '131,996', '0', None, None, '131,996', None, None], ['2034', '0', None, None, '140,809', '0', None, None, '140,809', None, None], ['2035', '0', None, None, '150,417', '0', None, None, '150,417', None, None], ['2036', '0', None, None, '160,643', '0', None, None, '160,643', None, None]]
+CCB + VCS PROJECT DESCRIPTION
+CCB Version 3, VCS Version 3
+Where:
+∆𝐶 𝐴𝑅,𝑡 = Net anthropogenic GHG removals by sinks, in year t; t CO 2-e
+∆𝐶 𝐴𝐶𝑇𝑈𝐴𝐿,𝑡 = Actual net GHG removals by sinks, in year t; t CO 2-e
+∆𝐶 𝐵𝑆𝐿,𝑡 = Baseline net GHG removals by sinks, in year t; t CO 2-e
+𝐿𝐾 𝑡 = GHG emissions due to leakage, in year t; t CO 2-e
+From the previous calculation on baseline emissions and leakage emissions, we learn that
+estimated baseline emissions and leakage emissions are both 0 tCO e for the project. The net 2
+anthropogenic GHG removals by sinks by the project are summarized below.
+CCB v3.0, VCS v3.3 50
+
+[['2037', '0', None, '0', '171,385'], ['2038', '0', '182,582', '0', '182,582'], ['2039', '0', '194,203', '0', '194,203'], ['2040', '0', '206,226', '0', '206,226'], ['2041', '0', '218,642', '0', '218,642'], ['2042', '0', '231,446', '0', '231,446'], ['2043', '0', '244,634', '0', '244,634'], ['2044', '0', '258,205', '0', '258,205'], ['2045', '0', '272,159', '0', '272,159'], ['2046', '0', '286,495', '0', '286,495'], ['2047', '0', '301,215', '0', '301,215'], ['2048', '0', '316,318', '0', '316,318'], ['2049', '0', '331,805', '0', '331,805'], ['2050', '0', '347,677', '0', '347,677'], ['2051', '0', '363,935', '0', '363,935'], ['2052', '0', '380,578', '0', '380,578'], ['2053', '0', '397,608', '0', '397,608'], ['2054', '0', '415,025', '0', '415,025'], ['2055', '0', '432,830', '0', '432,830'], ['2056', '0', '451,024', '0', '451,024'], ['2057', '0', '469,606', '0', '469,606'], ['2058', '0', '488,578', '0', '488,578'], ['2059', '0', '507,940', '0', '507,940'], ['2060', '0', '527,693', '0', '527,693'], ['2061', '0', '547,837', '0', '547,837'], ['2062', '0', '568,372', '0', '568,372'], ['2063', '0', '589,300', '0', '589,300'], ['2064', '0', '610,621', '0', '610,621'], ['2065', '0', '632,335', '0', '632,335'], ['2066', '0', '654,444', '0', '654,444'], ['2067', '0', '676,946', '0', '676,946'], ['2068', '0', '699,843', '0', '699,843'], ['2069', '0', '723,135', '0', '723,135'], ['2070', '0', '746,824', '0', '746,824']]
+CCB + VCS PROJECT DESCRIPTION
+CCB Version 3, VCS Version 3
+CCB v3.0, VCS v3.3 51
+
+[['2071', '0', None, '0', '770,908'], ['2072', '0', '795,389', '0', '795,389'], ['2073', '0', '820,268', '0', '820,268'], ['2074', '0', '845,544', '0', '845,544'], ['2075', '0', '871,217', '0', '871,217'], ['2076', '0', '897,290', '0', '897,290'], ['2077', '0', '923,761', '0', '923,761'], ['2078', '0', '950,632', '0', '950,632'], ['2079', '0', '977,902', '0', '977,902'], ['2080', '0', '1,005,573', '0', '1,005,573'], ['2081', '0', '1,033,644', '0', '1,033,644'], ['2082', '0', '1,062,116', '0', '1,062,116'], ['2083', '0', '1,090,990', '0', '1,090,990'], ['2084', '0', '1,120,265', '0', '1,120,265'], ['2085', '0', '1,149,942', '0', '1,149,942'], ['2086', '0', '1,180,022', '0', '1,180,022'], ['2087', '0', '1,210,505', '0', '1,210,505'], ['2088', '0', '1,241,391', '0', '1,241,391'], ['2089', '0', '1,272,681', '0', '1,272,681'], ['2090', '0', '1,304,375', '0', '1,304,375'], ['2091', '0', '1,336,473', '0', '1,336,473'], ['2092', '0', '1,368,976', '0', '1,368,976'], ['2093', '0', '1,401,884', '0', '1,401,884'], ['2094', '0', '1,435,198', '0', '1,435,198'], ['2095', '0', '1,468,917', '0', '1,468,917'], ['2096', '0', '1,503,042', '0', '1,503,042'], ['2097', '0', '1,537,574', '0', '1,537,574'], ['2098', '0', '1,572,513', '0', '1,572,513'], ['2099', '0', '1,607,859', '0', '1,607,859'], ['2100', '0', '1,643,613', '0', '1,643,613'], ['2101', '0', '1,679,774', '0', '1,679,774'], ['2102', '0', '1,716,344', '0', '1,716,344'], ['2103', '0', '1,753,322', '0', '1,753,322'], ['2104', '0', '1,790,709', '0', '1,790,709']]
+CCB + VCS PROJECT DESCRIPTION
+CCB Version 3, VCS Version 3
+CCB v3.0, VCS v3.3 52
+
+[['2105', '0', None, '0', '1,828,504'], ['2106', '0', '1,866,710', '0', '1,866,710'], ['2107', '0', '1,905,325', '0', '1,905,325'], ['2108', '0', '1,944,350', '0', '1,944,350'], ['2109', '0', '1,983,785', '0', '1,983,785'], ['2110', '0', '2,023,631', '0', '2,023,631'], ['2111', '0', '2,063,888', '0', '2,063,888'], ['2112', '0', '2,104,556', '0', '2,104,556'], ['2113', '0', '2,145,636', '0', '2,145,636'], ['Total', '0', '76,694,815', '0', '76,694,815']]
+[['', 'Data / Parameter', '', 'Ai'], ['', 'Data unit', '', 'ha'], ['', 'Description', '', 'Area of strata i'], ['', 'Source of data', '', 'Field measurement'], ['', 'Value applied', '', 'The total area is 13,862.4 ha, please refer to Table 3-4 for details.'], ['Justification of choice of\ndata or description of\nmeasurement methods\nand procedures applied', 'Justification of choice of', None, 'N/A'], [None, 'data or description of', None, None], [None, 'measurement methods', None, None], [None, 'and procedures applied', None, None], ['Purpose of data', None, None, 'The parameter is used to calculate actual net GHG removals.'], ['', 'Comments', '', 'N/A']]
+[['', 'Data / Parameter', '', 'BEF\nj'], ['', 'Data unit', '', 'Dimensionless'], ['Description', 'Description', None, 'Biomass expansion factor for conversion of stem biomass to\nabove-ground biomass'], ['Source of data', None, None, 'The People’s Republic of China Second National Communication\non Climate Change, issued by NDRC, 2013'], ['', 'Value applied', '', 'See Table 3-3 for details']]
+CCB + VCS PROJECT DESCRIPTION
+CCB Version 3, VCS Version 3
+3.3 Monitoring
+3.3.1 Data and Parameters Available at Validation
+CCB v3.0, VCS v3.3 53","{2015: 11317.54098, 2016: 19003.85628, 2017: 23418.89041, 2018: 28847.52055, 2019: 35598.24096, 2020: 44543.1289, 2021: 55922.93151, 2022: 70413.86301, 2023: 87061.7815, 2024: 103934.7528, 2025: 115917.589, 2026: 120927.1507, 2027: 119488.9911, 2028: 116256.9815, 2029: 113447.7808, 2030: 113681.6849, 2031: 116628.5036, 2032: 122623.0854, 2033: 129666.1096, 2034: 138153.0274, 2035: 147234.3185, 2036: 157848.3116, 2037: 168147.6849, 2038: 179207.5616, 2039: 190330.0812, 2040: 202973.3298, 2041: 214900.1918, 2042: 227587.2603, 2043: 240192.5706, 2044: 254582.0732, 2045: 267953.6849, 2046: 282174.5616, 2047: 296203.8687, 2048: 312341.3778, 2049: 327137.6849, 2050: 342893.6575, 2051: 358340.6404, 2052: 376256.9898, 2053: 392475.6712, 2054: 409776.0411, 2055: 426637.9126, 2056: 446367.0737, 2057: 464005.9452, 2058: 482860.411, 2059: 501135.3079, 2060: 522709.6099, 2061: 541766.2055, 2062: 562183.3699, 2063: 581868.0606, 2064: 605320.364, 2065: 625791.0548, 2066: 647781.0137, 2067: 668872.4035, 2068: 694234.706, 2069: 716115.4932, 2070: 739684.8493, 2071: 762178.2794, 2072: 789482.6932, 2073: 812770.2192, 2074: 837926.5753, 2075: 861816.9303, 2076: 891095.3848, 2077: 915783.4384, 2078: 942533.8904, 2079: 967816.9996, 2080: 999100.4388, 2081: 1025184.247, 2082: 1053535.397, 2083: 1080205.737, 2084: 1113524.907, 2085: 1140998.247, 2086: 1170956.795, 2087: 1199007.7, 2088: 1234393.533, 2089: 1263251.137, 2090: 1294823.384, 2091: 1324248.536, 2092: 1361731.669, 2093: 1391966.521, 2094: 1425158.164, 2095: 1455951.203, 2096: 1495561.66, 2097: 1527167.096, 2098: 1561983.438, 2099: 1597206.781, 2100: 1632837.822, 2101: 1668876.164, 2102: 1705322.904, 2103: 1738831.159, 2104: 1782788.471, 2105: 1817113.726, 2106: 1855195.863, 2107: 1890050.67, 2108: 1936225.974, 2109: 1971900.479, 2110: 2011622.616, 2111: 2047816.151, 2112: 2096239.492, 2113: 2133255.726, 2114: 646630.0274}",1,1,NaN,NaN,1,0,1,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals for this project are as follows:
+
+- 2008: 27,211 tonnes of CO2e
+- 2009: 118,735 tonnes of CO2e
+- 2010: 118,735 tonnes of CO2e
+- 2011: 118,735 tonnes of CO2e
+- 2012: 118,735 tonnes of CO2e
+- 2013: 118,735 tonnes of CO2e
+- 2014: 118,735 tonnes of CO2e
+- 2015: 91,524 tonnes of CO2e
+
+The total estimated reductions for the project over the crediting period (2008-2015) is 831,145 tonnes of CO2e. The project had a crediting period of 7 years, and the annual average over the crediting period was 118,735 tonnes of CO2e.","
+
+[['Years', 'Annual estimation of emission reductions\nin tonnes of CO e\n2'], ['2008', '27,211'], ['2009', '118,735'], ['2010', '118,735'], ['2011', '118,735'], ['2012', '118,735'], ['2013', '118,735'], ['2014', '118,735'], ['2015', '91,524'], ['Total estimated reductions\n(tonnes of CO e)\n2', '831,145'], ['Total number of crediting years', '7'], ['Annual average over the crediting period\nof estimated reductions (tonnes of COe)\n2', '118,735']]
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.1.
+CDM – Executive Board page 6
+A.4.4 Estimated amount of emission reductions over the chosen crediting perio:d
+>>
+A crediting period of 7 (seven) years (renewable twice) is selected for the project activity. An estimation of
+emissions reductions expected over from Ocotober 8th,2008 to October 7th ,2015 is provided in the table
+below.
+2
+A.4.5. Public funding of the project activity:
+>>
+There is no public funding from Annex I Parties involved in this project.","{2016: 110332.0, 2015: 100014.0, 2014: 90922.0, 2013: 82656.0, 2012: 74921.0, 2011: 65820.0, 2010: 54802.0, 2009: 41424.0, 2008: 25947.0, 2007: 8791.0}",5,5,5,5,3,0.15,2,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the provided information, the yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+- Year 1: 426,685 tCO2e
+- Year 2: 803,415 tCO2e
+- Year 3: 450,206 tCO2e
+- Year 4: 644,056 tCO2e
+- Year 5: 1,503,714 tCO2e
+- Year 6: 1,481,421 tCO2e
+- Year 7: 1,267,795 tCO2e
+- Year 8: 1,813,231 tCO2e
+- Year 9: 1,825,532 tCO2e
+- Year 10: 1,593,304 tCO2e
+- Year 11: 2,124,432 tCO2e
+- Year 12: 2,075,343 tCO2e
+- Year 13: 1,770,956 tCO2e
+- Year 14: 2,271,778 tCO2e
+- Year 15: 2,212,011 tCO2e
+- Year 16: 1,892,862 tCO2e
+- Year 17: 2,307,810 tCO2e
+- Year 18: 2,261,120 tCO2e
+- Year 19: 1,903,956 tCO2e
+- Year 20: 2,311,463 tCO2e
+- Year 21: 2,266,588 tCO2e
+- Year 22: 1,920,958 tCO2e
+- Year 23: 2,307,707 tCO2e
+- Year 24: 2,266,430 tCO2e
+- Year 25: 1,915,593 tCO2e
+- Year 26: 2,290,987 tCO2e
+- Year 27: 2,255,223 tCO2e
+- Year 28: 1,910,283 tCO2e
+- Year 29: 2,281,550 tCO2e
+- Year 30: 2,734,381 tCO2e
+
+Please note that these values are estimates and subject to change.","
+
+[['', 'Project Scale', None, None, None, ''], ['', 'Project', '', '', '', ''], ['', 'Large project', '', '', '', ''], [None, None, None, None, '✔', None], [None, None, None, None, '', None]]
+[['Project Year', None, None, '', 'Estimated GHG emission', ''], [None, None, None, None, 'reductions or removals (tCO e)\n2', None], ['', '1', '', '', '426,685', ''], ['', '2', '', '', '803,415', ''], ['', '3', '', '', '450,206', '']]
+Project Description: VCS Version 4.0
+Per the VCS guidelines, a mandatory baseline re-evaluation is to be executed at a minimum of every 10
+years after the project start. Therefore, there will be a mandatory baseline re-evaluation on or before 1
+June 2027 and on or before 1 June 2037.
+PDR.9 A timeline including the first anticipated monitoring period showing when project
+activities will be implemented.
+The first monitoring period extends from the project start date of 1 June 2017 through 31 December
+2019. Project measures have already been implemented within the initial Kamlapar ILG. These
+measures include forest patrols and remote sensing of natural and anthropogenic disturbances within
+the PAI. These are discussed in more detail in section 5.
+PDR.10 A timeline for anticipated subsequent monitoring periods.
+The first monitoring period extends from the project start date of 1 June 2017 through 31 December
+2019. Project activities have already been implemented within the Kamlapar ILG, the first PAI included
+in the project. These activities include forest inventories including land use patrols, remote sensing of
+disturbances, and community engagement focused on education and capacity building. These activities
+and measures are discussed in more detail in section 5. The project expects to verify every one to two
+years to incorporate additional project activity instances.
+The timeline for subsequent monitoring periods is flexible, but will likely happen annually when an
+additional PAI is added to the project or every other year if no additional PAI is added in the first year of
+that respective monitoring period. The project proponent anticipates the addition of a PAI each year,
+which would result in one year monitoring periods for the entirety of the project lifetime.
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals
+Table 1 provides an ex-ante estimate of credit generation across the project lifetime. These numbers
+use estimates that the project will expand over time to include additional PAIs similar to the initial
+Kamlapar PAI. These are explained in more detail in Section 4.2.4.
+17
+
+[['', '4', '', '', '644,056', ''], ['', '5', '', '', '1,503,714', ''], ['', '6', '', '', '1,481,421', ''], ['', '7', '', '', '1,267,795', ''], ['', '8', '', '', '1,813,231', ''], ['', '9', '', '', '1,825,532', ''], ['', '10', '', '', '1,593,304', ''], ['', '11', '', '', '2,124,432', ''], ['', '12', '', '', '2,075,343', ''], ['', '13', '', '', '1,770,956', ''], ['', '14', '', '', '2,271,778', ''], ['', '15', '', '', '2,212,011', ''], ['', '16', '', '', '1,892,862', ''], ['', '17', '', '', '2,307,810', ''], ['', '18', '', '', '2,261,120', ''], ['', '19', '', '', '1,903,956', ''], ['', '20', '', '', '2,311,463', ''], ['', '21', '', '', '2,266,588', ''], ['', '22', '', '', '1,920,958', ''], ['', '23', '', '', '2,307,707', ''], ['', '24', '', '', '2,266,430', ''], ['', '25', '', '', '1,915,593', ''], ['', '26', '', '', '2,290,987', ''], ['', '27', '', '', '2,255,223', ''], ['', '28', '', '', '1,910,283', ''], ['', '29', '', '', '2,281,550', ''], ['', '30', '', '', '2,734,381', ''], ['', 'Total estimated ERs', '', '', '55,090,789', '']]
+Project Description: VCS Version 4.0
+18
+
+[['', 'Total number of crediting years', '', '', '30', ''], ['', 'Average annual ERs', '', '', '1,836,360', '']]
+Project Description: VCS Version 4.0
+Table 1: Ex-ante estimate of net emissions reductions
+1.11 Description of the Project Activity
+The project has identified several factors responsible for deforestation:
+ Industrial timber operations, including high-grading and unsustainable extraction.
+ Harvest of tropical roundwood for international export.
+ Access of secondary agents of deforestation to forested areas and lack of alternative livelihood
+options
+In order to mitigate these factors and achieve solutions that will reduce deforestation, the project has
+planned the following series of actions:
+ Preventing large-scale unsustainable industrial timber harvesting and production. This is
+undertaken by the project proponent and will reduce the amount of GHG emissions by
+preventing large amounts of forest degradation.
+ Monitoring of the region to identify and prevent further illegal logging. This will reduce the
+amount of deforestation caused by secondary agents of deforestation, thus reducing the
+amount of GHG emissions from the project area. NIHT is working with the Kamlapar ILG in the
+first PAI to ensure the monitoring and reporting of any illegal logging on their land is carried out.
+ Providing electricity in region, either through solar, water, or geothermal means directly reduce
+the demand for logged or harvested firewood. This may also indirectly reduce the supply of
+wood products by increasing incomes in these areas and providing alternative livelihood
+options that do not exploit forest resources. NIHT will be supporting the implementation of this
+project activity with clan guidance and input.
+ Increasing access to co-benefits such as education, technology, clean water, and healthcare in
+the region will aid in expanding opportunities for alternative livelihoods, as well as increase
+local stakeholder capacity and support of the project which has the potential to indirectly
+decrease pressure on local forests. The project proponent will assist in building partnerships
+with relevant institutions and organizations that can support the clans in implementing these
+activities through sustainable development pathways.
+ Supporting clan business ventures and economic opportunity through supporting sustainable
+business options (coconut oil) and offering gainful employment in project activities that will
+provide alternative livelihoods that do not result in damage to the forest. The clan committees,
+specifically the community development and distribution committees, will work together to
+19","{2046: 2734381.0, 2045: 2311463.0, 2044: 2307810.0, 2043: 2307707.0, 2042: 2290987.0, 2041: 2281550.0, 2040: 2271778.0, 2039: 2266588.0, 2038: 2266430.0, 2037: 2261120.0, 2036: 2255223.0, 2035: 2212011.0, 2034: 2124432.0, 2033: 2075343.0, 2032: 1920958.0, 2031: 1915593.0, 2030: 1910283.0, 2029: 1903956.0, 2028: 1892862.0, 2027: 1825532.0, 2026: 1813231.0, 2025: 1770956.0, 2024: 1593304.0, 2023: 1503714.0, 2022: 1481421.0, 2021: 1267795.0, 2020: 803415.0, 2019: 644056.0, 2018: 450206.0, 2017: 426685.0}",5,3,5,5,5,0,3,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"I'm sorry, but I couldn't find any specific information about the yearly estimated GHG emission reductions or removals for the mentioned project in the provided context. It seems like the context you provided is not directly related to the GHG emission reductions or removals records for the project. Please provide more specific information or context related to the GHG emission reductions or removals for the project.","
+
+[['', 'Driver / Agents', ''], ['Collection of wood for charcoal', None, None], ['Conversion of forest to small-scale agriculture', None, None], ['Wood and poles for construction and domestic use\n(including tobacco curing)', None, None], ['Wood for cooking and heating locally', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Table 7. Unplanned Drivers Present in Project Areas
+To establish the baseline, at least three historical remote sensing images are used with at least one
+remote sensing image from 0-3 years before the project start date, at least one image from 4-9 years
+before the project start date, at least one image from 10-15 years before the Project start date, and no
+images older than 15 years used for the historical reference period. For specific image dates see Section
+3.1.1.4.The classification accuracy of LULC and forest cover maps was greater than 70%, see Section
+3.1.1.7.3 for details. The Project Area does not include any organic soils or peatland.
+2.2.2 Criteria Related to Eligible Project Activities
+In the Project Area and Project Zone, one or more of the following activities are being implemented, all of
+which are allowable under the applicability criteria of the methodology:
+ Strengthening of land-tenure status and forest governance. Supporting the development and
+implementation of sustainable forest and land use management plans;
+ Demarcating forest, tenure and ownership boundaries; promoting forest protection through
+patrolling of forests and forest boundaries; promoting social inclusion and stewardship in local
+communities; facilitating social fencing through capacity building; and creating mechanisms to
+alert law enforcement authorities of forest trespassing;
+ Fire prevention and suppression activities including the construction of fire breaks, reduction of
+fuel loads, prescribed burning, education to minimize intentionally started fires, support for fire
+brigades, water cisterns, fire lookouts, and communication systems;
+ Reducing fuelwood consumption and/or increasing energy efficiency by introducing fuel-efficient
+woodstoves;
+ Creation of alternative sources of fuelwood through agroforestry, farm woodlots management and
+introduction/intensification of other renewable and non-fossil fuel based energy sources (such as
+solar);
+ Sustainable intensification of agriculture on existing agricultural land; and,
+ Development of local enterprises based on sustainably harvested non-timber forest products
+(NTFPs) such as honey, coffee, macadamia, and livestock. The livestock activities supported by
+the Project are to support programs that facilitate entry into low cost & fast returns (rapid growth &
+reproduction) livestock with poultry, guinea fowl, rabbits, pigs and goats. These types of livestock
+are not part of the scope of livestock that must be accounted for under the methodology see:
+8.3.4.3 Estimate GHG Emissions from Increased Livestock Stocking Rates,
+8.3.4.3.1 Scope and Applicability
+See Section 4.2.6 of VM0006 for a list of applicability conditions when increasing livestock
+stocking rates. Livestock stocking rates must be increased through either or both of the following
+measures:
+ Increasing the stocking density of livestock on existing grazing land
+ Moving of cattle to a zero-grazing system, defined as a system of feeding cattle or other livestock
+in which forage is brought to animals that are permanently housed instead of being allowed to
+graze.
+v3.2 45","{2038: 580889.0, 2037: 577443.0, 2036: 577393.0, 2035: 576358.0, 2034: 576228.0, 2033: 575110.0, 2032: 572229.0, 2031: 571947.0, 2030: 569038.0, 2029: 568978.0, 2028: 565914.0, 2027: 563125.0, 2026: 561225.0, 2025: 559117.0, 2024: 556274.0, 2023: 550511.0, 2022: 547004.0, 2021: 544073.0, 2020: 538218.0, 2019: 537543.0, 2018: 509513.0, 2017: 487058.0, 2016: 448071.0, 2015: 431040.0, 2014: 386548.0, 2013: 714246.0, 2012: 287671.0, 2011: 201289.0, 2010: 154107.0, 2009: 71603.0}",3,1,1,1,1,0,4,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the given information, the yearly estimated GHG emission reductions or removals for this project are as follows:
+
+- Year: 19-Jan-2020 to 31-Dec-2020
+  - Baseline emissions or removals: 111,128 tCO2e
+  - Project emissions or removals: 10,702 tCO2e
+  - Leakage emissions (tCO2e): 0
+  - Net GHG emission reductions or removals: 100,426 tCO2e
+
+- Year: 01-Jan-2021 to 31-Oct-2021
+  - Baseline emissions or removals: 116,525 tCO2e
+  - Project emissions or removals: 11,213 tCO2e
+  - Leakage emissions (tCO2e): 0
+  - Net GHG emission reductions or removals: 105,312 tCO2e
+
+- Total:
+  - Baseline emissions or removals: 227,653 tCO2e
+  - Project emissions or removals: 21,915 tCO2e
+  - Leakage emissions (tCO2e): 0
+  - Net GHG emission reductions or removals: 205,738 tCO2e","
+
+[['Year', None, None, '', 'Baseline', '', '', 'Project', '', 'Leakage\nemissions\n(tCO e)\n2', 'Net GHG emission\nreductions or\nremovals (tCO e)\n2'], [None, None, None, None, 'emissions or', None, None, 'emissions or', None, None, None], [None, None, None, None, 'removals', None, None, 'removals', None, None, None], [None, None, None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, None, None], ['', '19-Jan-2020 to', '', '111,128', None, None, '10,702', None, None, '0', '100,426'], [None, '31-Dec-2020', None, None, None, None, None, None, None, None, None], ['', '01-Jan-2021 to', '', '116,525', None, None, '11,213', None, None, '0', '105,312'], [None, '31-Oct-2021', None, None, None, None, None, None, None, None, None], ['', 'Total', '', '227,653', None, None, '21,915', None, None, '0', '205,738'], [None, '(19-Jan-2020 to', None, None, None, None, None, None, None, None, None], [None, '31-Oct-2021)', None, None, None, None, None, None, None, None, None]]
+[['Leakage'], ['emissions'], ['(tCO e)\n2']]
+Joint Project Description & Monitoring Report: VCS Version 4.0
+6.5 Net GHG Emission Reductions and Removals
+Comparison of actual emission reductions with ex ante estimates:
+The monitoring period 19-Jan-2020 to 31-Oct-2021 covers 652 days, and the emission
+reductions would have been 232,198 tCO 2e 45 according to the ex ante estimates. The actual
+emission reductions achieved during this monitoring period are 205,738 tCO e, which is 11% 2
+lower46 than the estimated emission reductions. This is mainly because not all generators were
+in operation during the initial months of the monitoring period.
+If the actual number of days in operation of each generator taken into consideration, the actual
+emission reductions achieved during this monitoring period are 3.10% lower than the ex ante
+emissions, as calculated in Table 6-1.
+45 (129,988 tCO2e / 365 days) × 652 days = 232,198 tCO2e.
+46 (205,738 tCO2e – 232,198 tCO2e) / 232,198 tCO2e = – 11%
+81","{2030: 129988.0, 2029: 129988.0, 2028: 129988.0, 2027: 129988.0, 2026: 129988.0, 2025: 6410.0, 2024: 129988.0, 2023: 129988.0, 2022: 129988.0, 2021: 129988.0, 2020: 123934.0}",5,3,5,3,3,0,5,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+- Year 2020: Estimated project emissions or removals: 177,597 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 177,597 tCO2e.
+- Year 2021: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2022: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2023: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2024: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2025: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2026: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2027: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2028: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2029: Estimated project emissions or removals: 186,810 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 186,810 tCO2e.
+- Year 2030: Estimated project emissions or removals: 9,213 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 9,213 tCO2e.
+- Total: Estimated project emissions or removals: 1,868,095 tCO2e, Estimated leakage emissions: 0 tCO2e, Estimated net GHG emission reductions: 1,868,095 tCO2e.
+
+Please note that the above information is based on the provided data and may be subject to change or verification.","
+
+[['Year', None, None, '', 'Estimated', '', 'Estimated project\nemissions or\nremovals\n(tCO e)\n2', None, None, 'Estimated\nleakage\nemissions\n(tCO e)\n2', None, None, '', 'Estimated net', ''], [None, None, None, None, 'baseline', None, None, None, None, None, None, None, None, 'GHG emission', None], [None, None, None, None, 'emissions or', None, None, None, None, None, None, None, None, 'reductions or', None], [None, None, None, None, 'removals', None, None, None, None, None, None, None, None, 'removals', None], [None, None, None, None, '(tCO e)\n2', None, None, None, None, None, None, None, None, '(tCO e)\n2', None], ['', 'From', '', '177,597', '177,597', None, '0', None, None, '0', None, None, '177,597', '177,597', None], [None, '19/01/2020', None, None, None, None, None, None, None, None, None, None, None, None, None], [None, 'to', None, None, None, None, None, None, None, None, None, None, None, None, None], [None, '31/12/2020', None, None, None, None, None, None, None, None, None, None, None, None, None], ['', 'Year 2021', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2022', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2023', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', '']]
+Joint Project Description & Monitoring Report: VCS Version 4.1
+As mentioned in section 4.1 above, the only GHG emissions applicable to Salto Pilão project
+is from water reservoirs of hydro power plants (PE ). However, considering that the project has a HP,y
+power density of 1,279.2 W/m2, there are no project emissions involved in the project.
+4.3 Leakage
+According to the methodology, “no other leakage emissions are considered. The emissions
+potentially arising due to activities such as power plant construction and upstream emissions from
+fossil fuel use (e.g. extraction, processing, transport etc.) are neglected”.
+4.4 Estimated Net GHG Emission Reductions and Removals
+According to the selected approved methodology ACM0002, emission reductions are
+calculated as follows:
+E R y = B E y − P E y Equation 9
+Where:
+ER Emission reductions in year y (tCO e/yr); y 2
+BE Baseline emissions in year y (tCO e/yr); y 2
+PE Project emissions in year y (tCO e/yr). y 2
+Considering equation 1, estimated emission reductions of Salto Pilão project is presented in
+the table below.
+46
+
+[['', 'Year 2024', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2025', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2026', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2027', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2028', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'Year 2029', '', '', '186,810', '', '', '0', '', '', '0', '', '', '186,810', ''], ['', 'From', '', '9,213', '9,213', None, '0', '0', None, '0', '0', None, '9,213', '9,213', None], [None, '01/01/2030', None, None, None, None, None, None, None, None, None, None, None, None, None], [None, 'to', None, None, None, None, None, None, None, None, None, None, None, None, None], [None, '18/01/2030', None, None, None, None, None, None, None, None, None, None, None, None, None], ['', 'Total', '', '', '1,868,095', '', '', '0', '', '', '0', '', '', '1,868,095', '']]
+[['Data / Parameter', None, None, '', 'Cap\nBL', ''], ['Data unit', None, None, '', 'W', ''], ['Description', None, None, '', 'Installed capacity of the hydro power plant before the implementation', ''], [None, None, None, None, 'of the project activity. For new hydro power plants, this value is zero.', None], ['Source of data', None, None, '', 'Project site.', ''], ['Value applied:', None, None, '', '0', ''], ['', 'Justification of choice of', '', 'Determination of installed capacity based on recognized standards.\nThe installed capacity of the plant can also be evidenced by the\nnameplates of the equipment installed at the power plant.', 'Determination of installed capacity based on recognized standards.', None], [None, 'data or description of', None, None, 'The installed capacity of the plant can also be evidenced by the', None], [None, 'measurement methods', None, None, 'nameplates of the equipment installed at the power plant.', None], [None, 'and procedures applied', None, None, None, None], ['Purpose of Data', 'Purpose of Data', None, '', 'Calculation of project emissions', ''], ['Comments', None, None, '', '-', '']]
+Joint Project Description & Monitoring Report: VCS Version 4.1
+5 MONITORING
+5.1 Data and Parameters Available at Validation
+47","{2020: 311049.0, 2019: 311049.0, 2018: 15339.0, 2017: 311049.0, 2016: 311049.0, 2015: 311049.0, 2014: 311049.0, 2013: 311049.0, 2012: 311049.0, 2011: 311049.0, 2010: 295710.0}",5,5,5,5,5,0.01,6,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly Estimated GHG Emission Reductions or Removals records for the Lalpur Wind Energy project are as follows:
+
+- 2014: 73,290 tCO2e
+- 2015: 73,290 tCO2e
+- 2016: 73,290 tCO2e
+- 2017: 73,290 tCO2e
+- 2018: 73,290 tCO2e
+- 2019: 73,290 tCO2e
+- 2020: 73,290 tCO2e
+- 2021: 73,290 tCO2e
+- 2022: 73,290 tCO2e
+- 2023: 73,290 tCO2e
+
+The total estimated GHG Emission Reductions or Removals for the project is 732,290 tCO2e. The project has a crediting period of 10 years, with an average annual reduction of 73,290 tCO2e.","
+
+[['Organization name', '', 'Lalpur Wind Energy Private Limited'], ['Contact person', '', 'Rohil Kudtarkar'], ['Title', '', 'Authorized Signatory'], ['Address', None, 'The IL&FS Financial Centre, Plot C22, G Block, Bandra Kurla Complex, Bandra\nEast Mumbai 400 051'], ['Telephone', '', '+91-22-26593728'], ['Email', '', 'rohil.kudtarkar@ilfsindia.com']]
+[['Project Scale', None, ''], ['Project', '√', None], ['Large project', '-', None]]
+[['Year', '', '', 'Estimated GHG emission reductions or removals (tCO e)\n2', ''], ['2014', None, '73,290', None, None], ['2015', None, '73,290', None, None], ['2016', None, '73,290', None, None], ['2017', None, '73,290', None, None], ['2018', None, '73,290', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+1.2 Sectoral Scope and Project Type
+Sectoral Scope : 01 Energy Industries (Renewable/ Non-renewable Sources)
+Activity Type : Wind
+The proposed project activity is not a grouped project.
+1.3 Project Proponent
+1.4 Other Entities Involved in the Project
+Not Applicable.
+1.5 Project Start Date
+As per VCS Program Definitions, v3.5; project start date is the date on which the project began
+generating GHG emission reductions or removals. The first set of WEGs were commissioned on 29-June-
+2014, which is considered as the project start date for the proposed project activity.
+1.6 Project Crediting Period
+In-line with the requirement of §3.8.1 of VCS Standard, v3.5; the project crediting period shall be
+maximum of 10 years, which shall be renewed twice.
+Start date of first crediting period : 29-June-2014
+Total number of years : 10 years
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+v3.2 5
+
+[['2019', '73,290'], ['2020', '73,290'], ['2021', '73,290'], ['2022', '73,290'], ['2023', '73,290'], ['Total estimated ERs', '732,290'], ['Total number of crediting years', '10'], ['Average annual ERs', '73,290']]
+[['LOCATION NO.', 'VILLAGE', 'GEOGRAPHICAL COORDINATES', None], [None, None, 'LATITUDE (N)', 'LONGITUDE (E)'], ['135', 'Devikot', '26.7023', '71.2478'], ['65', 'Devikot', '26.6834', '71.2338'], ['134', 'Devikot', '26.6731', '71.2343'], ['118', 'Devikot', '26.7271', '71.2304'], ['110', 'Devikot', '26.7276', '71.2225'], ['45', 'Devikot', '26.6693', '71.2447'], ['66', 'KFD', '26.6372', '71.2104'], ['127', 'Devikot', '26.6773', '71.2405'], ['131', 'KFD', '26.6362', '71.2129'], ['135A', 'Devikot', '26.7019', '71.2451'], ['67', 'KFD', '26.6513', '71.2293'], ['105', 'KFD', '26.6510', '71.2362'], ['140', 'KFD', '26.6553', '71.2341'], ['141', 'Amarpura', '26.6594', '71.1815'], ['142', 'Amarpura', '26.6574', '71.1840'], ['38', 'Devikot', '26.6962', '71.2379']]
+PROJECT DESCRIPTION : VCS Version 3
+1.8 Description of the Project Activity
+The proposed project activity is installation and operation of 48 WEGs of 800kW each, totalling to
+38.4MW. Wind World (India) Limited is the technology supplier. Technical description of technology that
+will be installed has already been detailed out in section 1.1 of VCS PD.
+The average lifetime of WEG model WW-53 is 20 years. PP conducted third party PLF Assessment for
+the proposed project activity. As per the third party report, Plant Load Factor has been calculated to be
+22.30%.
+The proposed project activity is a Greenfield project and envisages supplying clean energy to NEWNE
+regional grid. In the absence of the proposed project activity, equivalent amount of electricity would have
+been supplied to the grid by more GHG-intensive means (operation of existing grid-connected power
+plants and addition of new generation sources).
+Scenario existing prior to the implementation of the project activity has been detailed out in section 1.1
+and 1.10 of VCS PD.
+The proposed project activity is grid-connected, Greenfield, renewable energy project, which harnesses
+the available wind energy in the region, in order to generate electricity and supply the same to the
+NEWNE regional grid. The proposed project activity does not consume any amount of fossil fuel, thereby
+reducing GHG emissions, which would have otherwise been generated by operation and addition of more
+GHG-intensive means.
+1.9 Project Location
+The proposed project activity is located in Jaisalmer district of Rajasthan, India. The exact location of all
+the WEGs implemented under the proposed project activity has been detailed below:
+v3.2 6","{2023: 73290.0, 2022: 73290.0, 2021: 73290.0, 2020: 73290.0, 2019: 73290.0, 2018: 73290.0, 2017: 73290.0, 2016: 73290.0, 2015: 73290.0, 2014: 73290.0}",5,5,5,5,5,0.22,7,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+- 2009: 7,388.56 tCO2e
+- 2010: 27,815.96 tCO2e
+- 2011: 43,743.33 tCO2e
+- 2012: 49,757.90 tCO2e
+- 2013: 50,031.78 tCO2e
+- 2014: 50,641.98 tCO2e
+- 2015: 51,824.33 tCO2e
+- 2016: 53,799.96 tCO2e
+- 2017: 56,544.60 tCO2e
+- 2018: 59,895.11 tCO2e
+- 2019: 63,616.75 tCO2e
+- 2020: 67,453.56 tCO2e
+- 2021: 71,140.12 tCO2e
+- 2022: 74,454.03 tCO2e
+- 2023: 77,234.91 tCO2e
+- 2024: 79,388.59 tCO2e
+- 2025: 80,881.19 tCO2e
+- 2026: 81,727.54 tCO2e
+- 2027: 81,977.79 tCO2e
+- 2028: 81,704.52 tCO2e
+- 2029: 31,346.39 tCO2e
+- 2030: 30,281.12 tCO2e
+- 2031: 28,947.11 tCO2e
+- 2032: 27,420.97 tCO2e
+- 2033: 25,770.00 tCO2e
+- 2034: 24,051.24 tCO2e
+- 2035: 22,311.51 tCO2e
+- 2036: 20,588.04 tCO2e
+- 2037: 18,909.42 tCO2e
+- 2038: 17,296.75 tCO2e
+
+The total estimated GHG emission reductions or removals for the project is 1,457,945.10 tCO2e. The project has a crediting period of 30 years, and the average annual GHG emission reductions or removals is 48,598.17 tCO2e.","
+
+[['', 'Project Scale', None, ''], ['Project', None, 'x', None], ['Large project', None, '', None]]
+PROJECT DESCRIPTION : VCS Version 3
+1.6 Project Crediting Period
+The project crediting period for this grouped project shall be 30 years renewable, beginning on
+July 31, 2009 and ending on July 30, 2039. The actual project longevity will be greater than the
+crediting period; this is because the project design does not include harvesting or thinning in the
+project scenario, being wetlands restoration the main goal of the project.
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+Table 3. Project scale
+v3.2 6
+
+[['Year', '', 'Estimated GHG emission', ''], [None, None, 'reductions or removals', None], [None, None, '(tCO e) (data of the first\n2', None], [None, None, 'project activity instance)', None], ['2009', '7,388.56', None, None], ['2010', '27,815.96', None, None], ['2011', '43,743.33', None, None], ['2012', '49,757.90', None, None], ['2013', '50,031.78', None, None], ['2014', '50,641.98', None, None], ['2015', '51,824.33', None, None], ['2016', '53,799.96', None, None], ['2017', '56,544.60', None, None], ['2018', '59,895.11', None, None], ['2019', '63,616.75', None, None], ['2020', '67,453.56', None, None], ['2021', '71,140.12', None, None], ['2022', '74,454.03', None, None], ['2023', '77,234.91', None, None], ['2024', '79,388.59', None, None], ['2025', '80,881.19', None, None], ['2026', '81,727.54', None, None], ['2027', '81,977.79', None, None], ['2028', '81,704.52', None, None], ['2029', '31,346.39', None, None], ['2030', '30,281.12', None, None], ['2031', '28,947.11', None, None], ['2032', '27,420.97', None, None], ['2033', '25,770.00', None, None], ['2034', '24,051.24', None, None], ['2035', '22,311.51', None, None], ['2036', '20,588.04', None, None], ['2037', '18,909.42', None, None], ['2038', '17,296.75', None, None], ['Total estimated ERs', '1,457,945.10', None, None], ['Total number of crediting years', '30', None, None], ['Average annual ERs', '48,598.17', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Table 4. Estimated GHG removals
+1.8 Description of the Project Activity
+A typical instance under this grouped project comprises an afforestation, reforestation and/or
+revegetation activity, in one or more plots, in degraded wetlands. Instances may use different
+measures/technologies to convert the non-forest land into forest land and/or to revegetate the
+project area. Nevertheless, the main steps to implement activities will be: Logistics organization;
+Training; Site selection; Species selection and seedling preparation; Planting (site preparation,
+planting, etc.) and Maintenance.
+v3.2 7
+
+
+[['Year', '', 'Estimated', '', '', 'Estimated', '', 'Estimated\nleakage\nemissions\n(tCO e)\n2', '', 'Estimated net', ''], [None, None, 'baseline', None, None, 'project', None, None, None, 'GHG emission', None], [None, None, 'emissions or', None, None, 'emissions or', None, None, None, 'reductions or', None], [None, None, 'removals', None, None, 'removals', None, None, None, 'removals', None], [None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, None, None, '(tCO e)\n2', None], ['2009', '0.00', None, None, '7,388.56', None, None, '0.00', '7,388.56', None, None], ['2010', '0.00', None, None, '27,815.96', None, None, '0.00', '27,815.96', None, None], ['2011', '0.00', None, None, '43,743.33', None, None, '0.00', '43,743.33', None, None], ['2012', '0.00', None, None, '49,757.90', None, None, '0.00', '49,757.90', None, None], ['2013', '0.00', None, None, '50,031.78', None, None, '0.00', '50,031.78', None, None], ['2014', '0.00', None, None, '50,641.98', None, None, '0.00', '50,641.98', None, None], ['2015', '0.00', None, None, '51,824.33', None, None, '0.00', '51,824.33', None, None], ['2016', '0.00', None, None, '53,799.96', None, None, '0.00', '53,799.96', None, None], ['2017', '0.00', None, None, '56,544.60', None, None, '0.00', '56,544.60', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+3.3 Leakage
+The only leakage emission source considered in the selected methodology is leakage due to the
+displacement of agricultural activities, and must be calculated using the tool AR-TOOL1531.
+In the project area of the first activity instance, as described in sections 1.1, 1.13 and 2.4., there
+was not any agricultural activity pervious to the project activity. Therefore, there will not be
+displacement of agricultural activities and leakage for the first instance will be set equal to zero
+(LK =0). ,t
+In future project activity instances, if displacement of agricultural activities occurs, then leakage
+will be calculated using equation 5 of AR-AM0014 and equations 1, 2 and 3 of AR-TOOL15.
+3.4 Net GHG Emission Reductions and Removals
+Net GHG removals by sink are calculated using the following equation of AR-AM0014:
+ΔC = ΔC - ΔC - LK (Equation 21, 6 of AR-AM0014) ARR-VCS,t ACTUAL,t BLS,t ,t
+Where:
+ΔC = Net anthropogenic GHG removals by sinks, in year t; t CO -e ARR-VCS,t 2
+ΔC = Actual net GHG removals by sinks, in year t; t CO -e ACTUAL,t 2
+ΔC = Baseline net GHG removals by sinks, in year t; t CO -e BLS,t 2
+LK = GHG emissions due to leakage, in year t; t CO -e ,t 2
+Ex ante estimations of the net GHG removals by sinks in the first project activity instance are
+described in the following table.
+Table 17. Ex ante estimation of annual net anthropogenic GHG removals by sinks.
+31 CDM A/R Methodological tool: Estimation of the increase in GHG emissions attributable to displacement of pre-
+project agricultural activities in A/R CDM project activity. Version 02.0
+http://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-15-v2.0.pdf/history_view
+v3.2 53
+
+[['Year', '', 'Estimated', '', '', 'Estimated', '', 'Estimated\nleakage\nemissions\n(tCO e)\n2', '', 'Estimated net', ''], [None, None, 'baseline', None, None, 'project', None, None, None, 'GHG emission', None], [None, None, 'emissions or', None, None, 'emissions or', None, None, None, 'reductions or', None], [None, None, 'removals', None, None, 'removals', None, None, None, 'removals', None], [None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, None, None, '(tCO e)\n2', None], ['2018', '0.00', None, None, '59,895.11', None, None, '0.00', '59,895.11', None, None], ['2019', '0.00', None, None, '63,616.75', None, None, '0.00', '63,616.75', None, None], ['2020', '0.00', None, None, '67,453.56', None, None, '0.00', '67,453.56', None, None], ['2021', '0.00', None, None, '71,140.12', None, None, '0.00', '71,140.12', None, None], ['2022', '0.00', None, None, '74,454.03', None, None, '0.00', '74,454.03', None, None], ['2023', '0.00', None, None, '77,234.91', None, None, '0.00', '77,234.91', None, None], ['2024', '0.00', None, None, '79,388.59', None, None, '0.00', '79,388.59', None, None], ['2025', '0.00', None, None, '80,881.19', None, None, '0.00', '80,881.19', None, None], ['2026', '0.00', None, None, '81,727.54', None, None, '0.00', '81,727.54', None, None], ['2027', '0.00', None, None, '81,977.79', None, None, '0.00', '81,977.79', None, None], ['2028', '0.00', None, None, '81,704.52', None, None, '0.00', '81,704.52', None, None], ['2029', '0.00', None, None, '31,346.39', None, None, '0.00', '31,346.39', None, None], ['2030', '0.00', None, None, '30,281.12', None, None, '0.00', '30,281.12', None, None], ['2031', '0.00', None, None, '28,947.11', None, None, '0.00', '28,947.11', None, None], ['2032', '0.00', None, None, '27,420.97', None, None, '0.00', '27,420.97', None, None], ['2033', '0.00', None, None, '25,770.00', None, None, '0.00', '25,770.00', None, None], ['2034', '0.00', None, None, '24,051.24', None, None, '0.00', '24,051.24', None, None], ['2035', '0.00', None, None, '22,311.51', None, None, '0.00', '22,311.51', None, None], ['2036', '0.00', None, None, '20,588.04', None, None, '0.00', '20,588.04', None, None], ['2037', '0.00', None, None, '18,909.42', None, None, '0.00', '18,909.42', None, None], ['2038', '0.00', None, None, '17,296.75', None, None, '0.00', '17,296.75', None, None], ['Total', '0.00', None, None, '1,457,945.10', None, None, '0.00', '1,457,945.10', None, None]]
+[['', 'Data / Parameter', '', 'ΔC\nBSL,t'], ['', 'Data unit', '', 't CO2-e'], ['', 'Description', '', 'Baseline net GHG removals by sinks in year t'], ['', 'Source of data', '', 'N/A'], ['', 'Value applied:', '', '0'], ['', 'Justification of choice of', '', 'Value based on section 5 of AR-TOOL12 as described in section\n3.1. of this document.'], [None, 'data or description of', None, None], [None, 'measurement methods', None, None], [None, 'and procedures applied', None, None], ['', 'Purpose of Data', '', 'Calculation of ex-ante and ex-post baseline emissions'], ['', 'Comments', '', '-']]
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING
+4.1 Data and Parameters Available at Validation
+Table 18. Data and parameters available at validation
+v3.2 54","{2009: 7388.0, 2010: 27815.0, 2011: 43743.0, 2012: 49757.0, 2013: 50031.0, 2014: 50641.0, 2015: 51824.0, 2016: 53799.0, 2017: 56544.0, 2018: 59595.0, 2019: 63616.0, 2020: 67453.0, 2021: 71140.0, 2022: 74454.0, 2023: 77234.0, 2024: 79388.0, 2025: 80881.0, 2026: 81727.0, 2027: 81977.0, 2028: 81704.0, 2029: 31346.0, 2030: 30281.0, 2031: 28947.0, 2032: 27420.0, 2033: 25770.0, 2034: 24051.0, 2035: 22311.0, 2036: 20588.0, 2037: 18909.0, 2038: 10960.13889, 2039: 6335.861111}",5,5,NaN,NaN,5,0.31,8,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals for this project are as follows:
+
+- 2010-2011: 6268 tonnes of CO2e
+- 2011-2012: 6268 tonnes of CO2e
+- 2012-2013: 8412 tonnes of CO2e
+- 2013-2014: 8412 tonnes of CO2e
+- 2014-2015: 8412 tonnes of CO2e
+- 2015-2016: 8412 tonnes of CO2e
+- 2016-2017: 8412 tonnes of CO2e
+- 2018-2019: 8412 tonnes of CO2e
+- 2019-2020: 8412 tonnes of CO2e
+- 2020-2021: 8412 tonnes of CO2e
+
+The total estimated reductions for the entire crediting period is 79828 tonnes of CO2e, with a total of 10 crediting years. The annual average of the estimated reductions over the crediting period is 7983 tonnes of CO2e.","
+
+[['Years', 'Annual Estimation of\nemission reduction in\ntonnes of CO2e'], ['2010-2011', '6268'], ['2011-2012', '6268'], ['2012-2013', '8412'], ['2013-2014', '8412'], ['2014-2015', '8412'], ['2015-2016', '8412'], ['2016-2017', '8412'], ['2018-2019', '8412'], ['2019-2020', '8412'], ['2020-2021', '8412'], ['Total Estimated reductions\n(tonnes of CO2e)', '79828'], ['Total number of Crediting\nyears', '10'], ['Annual average of the\nestimated reductions over\nthe crediting period (t\nCO2e)', '7983']]
+VCS Project Description Template
+activities, AMS I.C. (Thermal energy production with or
+without electricity) Version 16
+(http://cdm.unfccc.int/methodologies/SSCmethodologies/app
+roved.html
+The project is not part of any grouped project.
+1.3 Estimated amount of emission reductions over the
+crediting period including project size:
+The project is expected to produce approximately 7983
+tCO2e of emission reductions per annum. The details are
+provided below.
+1.4 A brief description of the project:
+Jute Biomass
+Jute is the common name given to the natural, eco -
+friendly & bio - degradable fibre produced from the stem
+of the plant belonging to the genus Corchorus family “
+Tiliaceae ”. It has been an important industrial fibre
+and is second to cotton in amount produced and its uses.
+The chemical composition is mainly cellulose, lignin,
+pectin, protein, wax & fats.
+4","{2040: 86890.0, 2039: 86892.0, 2038: 86893.0, 2037: 86894.0, 2036: 86896.0, 2035: 83682.0, 2034: 83684.0, 2033: 83685.0, 2032: 83686.0, 2031: 237281.0, 2030: 137521.0, 2029: 137521.0, 2028: 137521.0, 2027: 137521.0, 2026: 137521.0, 2025: 141673.0, 2024: 141673.0, 2023: 141673.0, 2022: 141673.0, 2021: 370088.0}",5,5,5,5,1,0,9,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the provided information, here are the yearly estimated GHG emission reductions or removals records for this project:
+
+- 01/04/2012~31/03/2013: Estimated baseline emissions - 6,662.75 tCO2e, Estimated leakage emissions - 844.68 tCO2e, Estimated GHG emissions or removals - -5,818.07 tCO2e
+- 01/04/2013~31/03/2014: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 1,150.67 tCO2e, Estimated GHG emissions or removals - 1,150.67 tCO2e
+- 01/04/2014~31/03/2015: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 1,522.12 tCO2e, Estimated GHG emissions or removals - 1,522.12 tCO2e
+- 01/04/2015~31/03/2016: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 1,964.61 tCO2e, Estimated GHG emissions or removals - 1,964.61 tCO2e
+- 01/04/2016~31/03/2017: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 2,483.59 tCO2e, Estimated GHG emissions or removals - 2,483.59 tCO2e
+- 01/04/2017~31/03/2018: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 3,084.39 tCO2e, Estimated GHG emissions or removals - 3,084.39 tCO2e
+- 01/04/2018~31/03/2019: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 3,772.22 tCO2e, Estimated GHG emissions or removals - 3,772.22 tCO2e
+- 01/04/2019~31/03/2020: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 4,552.18 tCO2e, Estimated GHG emissions or removals - 4,552.18 tCO2e
+- 01/04/2020~31/03/2021: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 5,429.32 tCO2e, Estimated GHG emissions or removals - 5,429.32 tCO2e
+- 01/04/2021~31/03/2022: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 6,408.56 tCO2e, Estimated GHG emissions or removals - 6,408.56 tCO2e
+- 01/04/2022~31/03/2023: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 7,494.76 tCO2e, Estimated GHG emissions or removals - 7,494.76 tCO2e
+- 01/04/2035~31/03/2036: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 8,622.61 tCO2e, Estimated GHG emissions or removals - 8,622.61 tCO2e
+- 01/04/2036~31/03/2037: Estimated baseline emissions - 0 tCO2e, Estimated leakage emissions - 9,320.15 tCO2e, Estimated","
+
+PROJECT DESCRIPTION : VCS Version 3
+According to the A/R Methodological tool “Estimation of the increase in GHG emissions
+attributable to displacement of pre-project agricultural activities in A/R CDM project activity”,
+leakage emission resulting from displacement of the activities is composed of decrease in carbon
+stock in the carbon pools of the land and change in soil organic carbon stock due to land-use
+change in the land.
+44 LK = ×(ΔC +ΔSOC )40
+AGRIC,t 12 BIOMASS,t LUC,t
+Where:
+LK = Leakage due to the displacement of agricultural activities in
+AGRIC,t year t; tCO -e 2
+ΔC = Decrease in carbon stock in the carbon pools of the land
+BIOMASS,t receiving the activity displaced in year t; t d.m
+ΔSOC = Change in soil organic carbon (SOC) stock due to land-use
+LUC,t change in the land receiving the displaced activity in year t; tC
+ha
+The project was implemented by manual operation, rather than mechanical operation. Besides,
+no weeding, chopping, pruning, intermediate cutting activities are going to be conducted during
+the crediting period because of the natural condition, the economic condition and the slow growth
+pattern. Fertilization and watering are not going to take place, neither.41 Therefore, there is no
+expected leakage due to decrease in carbon stock in the carbon pools of the land and change in
+soil organic carbon stock. In other words, there is no expected leakage due to the displacement
+of agricultural activity from the project activity.
+Therefore, leakage is zero for the proposed project.
+3.4 Net GHG Emission Reductions and Removals
+The net anthropogenic GHG removals by the project shall be calculated as follows:
+∆𝐶 = ∆𝐶 −∆𝐶 −𝐿𝐾 (1) !"",! !""#$!%,! !""#,! !
+Where:
+∆𝐶 !"",! = Net anthropogenic GHG removals by sinks, in year t; t CO 2-e
+∆𝐶 !""#$!%,! = Actual net GHG removals by sinks, in year t; t CO 2-e
+∆𝐶 !""#,! = Baseline net GHG removals by sinks, in year t; t CO 2-e
+𝐿𝐾 ! = GHG emissions due to leakage, in year t; t CO 2-e
+From the previous calculation on baseline emissions and leakage emissions, we learn that
+estimated baseline emissions is 6,662.75tCO e for the project, and estimated leakage emissions 2
+40 Equation (1) in page 5 in the A/R Methodological tool “Estimation of the increase in GHG emissions attributable to
+displacement of pre-project agricultural activities in A/R CDM project activity” (Version 02.0)
+41 Page 26 in Project Implementation Plan prepared by Qinghai Forestry Engineering Consulting Centre, December
+2011
+v3.2 32
+
+[['Year', '', 'Estimated', '', 'Estimated project\nemissions or\nremovals (tCO e)\n2', '', 'Estimated', '', '', 'Estimated GHG', ''], [None, None, 'baseline', None, None, None, 'leakage', None, None, 'emission', None], [None, None, 'emissions or', None, None, None, 'emissions', None, None, 'reductions or', None], [None, None, 'removals (tCO e)\n2', None, None, None, '(tCO e)\n2', None, None, 'removals (tCO e)\n2', None], ['01/04/2012~\n31/03/2013', '6,662.75', None, None, '844.68', '0', None, None, '-5,818.07', None, None], ['01/04/2013~\n31/03/2014', '0', None, None, '1,150.67', '0', None, None, '1,150.67', None, None], ['01/04/2014~\n31/03/2015', '0', None, None, '1,522.12', '0', None, None, '1,522.12', None, None], ['01/04/2015~\n31/03/2016', '0', None, None, '1,964.61', '0', None, None, '1,964.61', None, None], ['01/04/2016~\n31/03/2017', '0', None, None, '2,483.59', '0', None, None, '2,483.59', None, None], ['01/04/2017~\n31/03/2018', '0', None, None, '3,084.39', '0', None, None, '3,084.39', None, None], ['01/04/2018~\n31/03/2019', '0', None, None, '3,772.22', '0', None, None, '3,772.22', None, None], ['01/04/2019~\n31/03/2020', '0', None, None, '4,552.18', '0', None, None, '4,552.18', None, None], ['01/04/2020~\n31/03/2021', '0', None, None, '5,429.32', '0', None, None, '5,429.32', None, None], ['01/04/2021~\n31/03/2022', '0', None, None, '6,408.56', '0', None, None, '6,408.56', None, None], ['01/04/2022~\n31/03/2023', '0', None, None, '7,494.76', '0', None, None, '7,494.76', None, None], ['01/04/2023~\n31/03/2024', '0', None, None, '8,692.73', '0', None, None, '8,692.73', None, None], ['01/04/2024~\n31/03/2025', '0', None, None, '10,007.19', '0', None, None, '10,007.19', None, None], ['01/04/2025~\n31/03/2026', '0', None, None, '11,442.80', '0', None, None, '11,442.80', None, None], ['01/04/2026~\n31/03/2027', '0', None, None, '13,004.19', '0', None, None, '13,004.19', None, None], ['01/04/2027~\n31/03/2028', '0', None, None, '9,967.76', '0', None, None, '9,967.76', None, None], ['01/04/2028~\n31/03/2029', '0', None, None, '6,113.94', '0', None, None, '6,113.94', None, None], ['01/04/2029~\n31/03/2030', '0', None, None, '6,226.30', '0', None, None, '6,226.30', None, None], ['01/04/2030~\n31/03/2031', '0', None, None, '6,601.66', '0', None, None, '6,601.66', None, None], ['01/04/2031~\n31/03/2032', '0', None, None, '7,256.75', '0', None, None, '7,256.75', None, None], ['01/04/2032~\n31/03/2033', '0', None, None, '7,250.63', '0', None, None, '7,250.63', None, None], ['01/04/2033~\n31/03/2034', '0', None, None, '8,079.60', '0', None, None, '8,079.60', None, None], ['01/04/2034~\n31/03/2035', '0', None, None, '8,514.07', '0', None, None, '8,514.07', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+is 0tCO e for the project. The net anthropogenic GHG removals by the project are summarized 2
+below.
+Table 3-6 The Net Anthropogenic GHG Removals by the Project
+v3.2 33
+
+[['01/04/2035~\n31/03/2036', '0', '8,622.61', '0', '8,622.61'], ['01/04/2036~\n31/03/2037', '0', '9,320.15', '0', '9,320.15'], ['01/04/2037~\n31/03/2038', '0', '9,874.18', '0', '9,874.18'], ['01/04/2038~\n31/03/2039', '0', '10,233.49', '0', '10,233.49'], ['01/04/2039~\n31/03/2040', '0', '9,701.86', '0', '9,701.86'], ['01/04/2040~\n31/03/2041', '0', '11,549.09', '0', '11,549.09'], ['01/04/2041~\n31/03/2042', '0', '11,387.74', '0', '11,387.74'], ['Total', '', '', '', '205,891.08'], ['Average', '', '', '', '6,863.04']]
+[['', 'Data / Parameter', '', 'Ai'], ['', 'Data unit:', '', 'ha'], ['', 'Description:', '', 'Area of category i'], ['Source of data:', 'Source of data:', None, 'Monitoring of boundaries is done using a Geographical Information\nSystem (GIS) which allows for integrating data from different\nsources (including GPS coordinates and Remote Sensing data)'], ['Value applied:', None, None, 'The difference among planting category is sapling size of Picea\ncrassifolia. Tree plantation within each category is the same. The\narea of each category (A) is listed below.\ni\nCategory Picea crassifolia Area (ha)\nProj -1 Sapling higher than 30cm 687.2\nProj -2 Sapling higher than 50cm 620.27\nProj -3 Sapling higher than 100cm 60\nThe total area is 1367.47ha.'], ['', 'Justification of choice of', '', 'N/A'], [None, 'data or description of', None, None], [None, 'measurement methods', None, None], [None, 'and procedures applied:', None, None], ['Purpose of Data', 'Purpose of Data', None, 'The parameter is used to calculate biomass of trees within the\nboundary and then calculate baseline emissions and project\nemissions.\nV = A·V ·N\nTREE,t i it it\nB = V * D * BEF * (1+R)\nTREE, t TREE,t j j j\n∆C = C = 44/12 *B *CF\nTREE_t TREE,t TREE,t j'], ['', 'Comments', '', 'N/A']]
+[['Category', 'Picea crassifolia', 'Area (ha)'], ['Proj -1', 'Sapling higher than 30cm', '687.2'], ['Proj -2', 'Sapling higher than 50cm', '620.27'], ['Proj -3', 'Sapling higher than 100cm', '60']]
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING
+4.1 Data and Parameters Available at Validation
+v3.2 34","{2012: -4383.424658, 2013: -568.1369863, 2014: 1430.273973, 2015: 1850.970731, 2016: 2359.070365, 2017: 2935.808219, 2018: 3602.356164, 2019: 4350.300771, 2020: 5222.123887, 2021: 6166.60274, 2022: 7226.219178, 2023: 8378.709933, 2024: 9700.646231, 2025: 11088.16438, 2026: 12618.84932, 2027: 10695.33187, 2028: 7083.818811, 2029: 6198.136986, 2030: 6508.534247, 2031: 7075.048207, 2032: 7889.513437, 2033: 8406.739726, 2034: 8595.369863, 2035: 9128.704843, 2036: 9756.582828, 2037: 10144.47945, 2038: 9832.178082, 2039: 11069.55472, 2040: 11450.71925, 2041: 2807.753425}",1,3,NaN,NaN,1,0,10,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the provided information, here are the yearly estimated GHG emission reductions or removals records for the project:
+
+2010: 199,493 tonnes CO2e
+2011: 237,640 tonnes CO2e
+2012: 282,711 tonnes CO2e
+2013: 342,697 tonnes CO2e
+2014: 424,942 tonnes CO2e
+2015: 534,414 tonnes CO2e
+2016: 673,201 tonnes CO2e
+2017: 839,986 tonnes CO2e
+2018: 1,030,664 tonnes CO2e
+2019: 1,239,410 tonnes CO2e
+2020: 1,457,115 tonnes CO2e
+2021: 1,675,130 tonnes CO2e
+2022: 1,666,668 tonnes CO2e
+2023: 1,875,883 tonnes CO2e
+2024: 2,054,000 tonnes CO2e
+2025: 2,199,756 tonnes CO2e
+2026: 2,384,019 tonnes CO2e
+2027: 2,471,427 tonnes CO2e
+2028: 2,524,460 tonnes CO2e
+2029: 2,639,703 tonnes CO2e
+2030: 2,783,803 tonnes CO2e
+2031: 2,655,467 tonnes CO2e
+
+Please note that these values represent the estimated GHG emission reductions or removals for each year of the project.","
+
+VCS Project Description Template
+9 2010 199,493
+10 2011 237,640
+11 2012 282,711
+12 2013 342,697
+13 2014 424,942
+14 2015 534,414
+15 2016 673,201
+16 2017 839,986
+17 2018 1,030,664
+18 2019 1,239,410
+19 2020 1,457,115
+20 2021 1,675,130
+21 2022 1,666,668
+22 2023 1,875,883
+23 2024 2,054,000
+24 2025 2,199,756
+25 2026 2,384,019
+26 2027 2,471,427
+27 2028 2,524,460
+28 2029 2,639,703
+29 2030 2,783,803
+30 2031 2,655,467
+4.3.1.2. GHG emissions by sources increased as result of project activity
+GHG emissions as a result of project activities will be calculated according to the
+approved methodology. The project takes into account the increase in emissions of
+GHG gases resulting from use of fossil fuel, biomass loss and the use of fertilizer.
+Fossil fuel combustion, for instance, occurs during thinning and harvesting activities,
+but the methodology excludes transportation fuel.
+where:
+GHG Annual GHG emissions as result of the implementation of the A/R project activity within the E,t project boundary; tonnes CO-e yr-1 in year t 2 E CO emissions from combustion of fossil fuels within the project boundary; tonnes CO-e yr-1 FuelBurn,t 2 2
+in year t
+E GHG emissions from the loss of biomass in site preparation and conversion to A/R within the BiomassLoss,t project boundary; tonnes CO-e yr-1 in year t 2
+E Non-CO2 emission as a result of biomass burning within the project boundary; tonnes CO-e Non- 2 yr-1 in year t CO2,BiomassBurn,t
+T Ranges from 1 to end of crediting period; years
+The project participants assume that a small amount of GHG emissions will result
+from site preparation and plantation management activities. However, the proposed
+A/R project activity does not engage in any burning practices during site preparation.
+Further, conversion of herbaceous vegetation can be neglected, and the loss of GHG
+sequestered in woody biomass will not occur since trees and shrubs will not be
+removed.
+However, for the project participants, it is a difficult task to estimate ex ante GHG
+emissions with a high degree of accuracy. To maintain a conservative approach for
+the ex-ante calculation, the proposed A/R project activity applies a default 10%
+project GHG emission value based on the CO2-e stock in living biomass of trees in
+the project scenario However, this value will probably be adjusted during the
+verification process.
+103
+
+[['', 'Year of project', '', '', 'Year', '', '', 'GHG\nE,t', '', '', 'GHG : %139\nE,t', ''], ['1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30', None, None, '2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n2030\n2031', None, None, '197\n1,115\n2,735\n4,865\n7,352\n10,062\n13,051\n16,371\n19,949\n23,764\n28,271\n34,270\n42,494\n53,441\n67,320\n83,999\n103,066\n123,941\n145,711\n167,513\n166,667\n187,588\n205,400\n219,976\n238,402\n247,143\n252,446\n263,970\n278,380\n265,547', None, None, '10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %\n10 %', None, None]]
+VCS Project Description Template
+Table 22: Sum of the increases in GHG emissions by sources within the project boundary as a result of
+the implementation of an A/R project activity
+4.3.2. Leakage
+See 9 Baseline Report (Step 8), and 10 Monitoring (7. Monitoring leakage).
+The methodology AR-AM0005 considers two sources of leakage:
+LK = LK +LK
+t Displacement_grazing,t Fuelwood,t
+where:
+LK Increase of GHG emissions outside the project boundary; tonnes CO-e yr-1 in year t t 2
+LK Increase of GHG emissions outside the project boundary resulting from displacement of Displacement_grazing,t grazing activities; tonnes CO-e yr-1 in year t 2
+LK Increase of GHG emissions outside the project boundary resulting from displacement of fuel Fuelwood,t wood collection; tonnes CO-e yr-1 in year t 2
+T Ranges from 1 to end of crediting period; years
+However, the displacement of grazing activities to other grasslands (without
+overgrazing) does not result in leakage. Generally it is assumed that grazing activities
+continue to be executed in an extensive manner within the project boundaries and
+commercial animal farming is not present. Hence, leakage from displacement of
+grazing activities is considered to be zero:
+Further, there is no collection of firewood in the baseline scenario of the project area.
+Therefore, this variable is set to zero:
+139 Project emissions are estimated to be a percentage of the estimated accumulated tCO2e sequestered through the
+A/R project activity.
+104
+
+[['', '', '', '', '', '', '', 'C\nAR', '', '', '∆C\nACTUAL', '', '', '∆C\nBSL', '', '', 'LK', ''], ['Year of project', 'Year of project', None, 'Year', 'Year', None, '', 'Estimation of net', '', '', 'Estimation of', '', '', 'Estimation of', '', 'Estimation of\nleakage (tCOe)\n2', 'Estimation of', None], [None, None, None, None, None, None, None, 'anthropogenic', None, None, 'actual net GHG', None, None, 'baseline net GHG', None, None, 'leakage (tCOe)\n2', None], [None, None, None, None, None, None, None, 'GHG removals by', None, None, 'removals by sinks', None, None, 'removals by sinks', None, None, None, None], [None, None, None, None, None, None, None, 'sinks (tCOe)\n2', None, None, '(tCOe)\n2', None, None, '(tCOe)\n2', None, None, None, None], ['1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30', None, None, '2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n2030\n2031', None, None, '1,772\n10,034\n24,616\n43,783\n66,166\n90,558\n117,461\n147,336\n179,544\n213,876\n254,440\n308,427\n382,448\n480,973\n605,881\n755,988\n927,598\n1,115,469\n1,311,403\n1,507,617\n1,500,001\n1,688,295\n1,848,600\n1,979,780\n2,145,617\n2,224,284\n2,272,014\n2,375,733\n2,505,423\n2,389,921', None, None, '1,772\n10,034\n24,616\n43,783\n66,166\n90,558\n117,461\n147,336\n179,544\n213,876\n254,440\n308,427\n382,448\n480,973\n605,881\n755,988\n927,598\n1,115,469\n1,311,403\n1,507,617\n1,500,001\n1,688,295\n1,848,600\n1,979,780\n2,145,617\n2,224,284\n2,272,014\n2,375,733\n2,505,423\n2,389,921', None, None, '0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0', None, None, '0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0', None, None]]
+VCS Project Description Template
+LK =0
+Fuelwood
+Based on both contemplations, the A/R project activity considers leakage to be zero:
+LK =0
+4.4. Quantifying GHG emission reductions and removal enhancements for the
+GHG project:
+The general equation used for determination of net anthropogenic GHG removals by
+sinks is as follows:
+C =∆C −∆C −LK
+AR,t ACTUAL,t BSL,t t
+where:
+C Net anthropogenic GHG removals by sinks; tonnes CO-e yr-1 in year t AR,t 2 ∆C Actual net GHG removals by sinks; tonnes CO-e yr-1 in year t ACTUAL,t 2 ∆C Baseline net GHG removals by sinks; tonnes CO-e yr-1 in year t BSL,t 2 LK Leakage; tonnes CO-e yr-1 in year t t 2
+T Ranges from 1 to end of crediting period; years
+Table 23: Calculation of net anthropogenic GHG removals by sinks (tonnes of CO e) 2
+Summary of results obtained in Sections 4.2.2, 4.3.1, and 4.3.2.
+The complete excel sheet for the carbon sequestration calculation has been provided
+to the DOE for revision.
+105","{2002: 1621.50137, 2003: 9332.29589, 2004: 23383.24099, 2005: 42149.40558, 2006: 64264.97808, 2007: 88486.35068, 2008: 115203.3449, 2009: 144771.414, 2010: 176808.526, 2011: 210960.1315, 2012: 251053.882, 2013: 303782.7591, 2014: 376161.2849, 2015: 472605.1233, 2016: 595412.972, 2017: 743098.5896, 2018: 913022.9041, 2019: 1099512.833, 2020: 1295066.346, 2021: 1490647.934, 2022: 1500647.838, 2023: 1672302.907, 2024: 1835414.029, 2025: 1968209.711, 2026: 2131532.214, 2027: 2217602.693, 2028: 2268487.448, 2029: 2366396.761, 2030: 2494408.233, 2031: 2399730.759, 2032: 202979.5918}",5,3,5,5,5,0.24,11,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the provided information, it seems that the project does not include specific records for yearly estimated GHG emission reductions or removals. The focus of the project appears to be on estimating emissions from leakage and activities related to harvesting and IFM (Integrated Forest Management). However, there is no mention of specific yearly estimates for GHG emission reductions or removals in the given context.","
+
+PROJECT DESCRIPTION
+VCS Version 3, CCB Standards Third Edition
+5.4.5 ESTIMATING NET GHG EMISSIONS FROM CFE ACTIVITIES
+CFE is not an included project activity.
+5.4.6 ESTIMATING NET GHG EMISSIONS FROM HARVESTING
+Harvesting and IFM activities are omitted from the project area.
+5.4.6.1 Harvest Plan
+Harvesting and IFM activities are not included in the project area.
+5.4.6.2 Calculating Long-term Average Carbon Stock
+Harvesting and IFM activities are not included in the project area.
+5.4.6.3 Calculating Emissions or Sinks on Land with Harvesting Activities
+Harvesting and IFM activities are not included in the project area.
+5.4.6.4 Quantification of Emissions from Harvesting
+Harvesting and IFM activities are not included in the project area.
+5.4.7 QUANTIFYING EMISSIONS FROM ARR/IFM ACTIVITIES
+ARR and IFM are not included project activities.
+5.5 LEAKAGE (CL2)
+As the baseline scenario is primarily driven by illegal commercial logging there is potential activity –shifting and
+market-effects leakage. As identified by the timber study, the activity-shifting leakage is geographically
+constrained by proximity to transportation routes and accessibility.
+5.5.1 ESTIMATING EMISSIONS FROM LEAKAGE
+Emissions from leakage are quantified two approaches for the purposes of ex-ante estimates. First, leakage is
+quantified by defining a leakage area and adjusting baseline rates of deforestation and degradation in the leakage
+area using leakage cancellation rates. And second, by making reasonable assumptions about the proportion of
+merchantable biomass in the project region based on the results of the timber study to apply a conservative
+market-effects leakage discount. The first approach is summarized in Section 5.5.2 while the second in Section
+5.5.5. All calculations are provided in VM0006 Accounting ACAPA-BMF v10.15.xlsm.
+For the purposes of ex-post estimates, the leakage area is monitored for increases in deforestation and
+degradation relative to predicted baseline levels. The market-effects discount factor is applied until the time of
+baseline reassessment.
+5.5.2 ESTIMATE LEAKAGE FROM GEOGRAPHICALLY CONSTRAINED DRIVERS
+Ex-ante leakage from geographically unconstrained drivers is estimated by estimating the leakage-induced increase
+in deforestation and degradation rates as a result of project activities and then adding this increase to the
+predicted baseline rates of deforestation and degradation for the leakage area. The baseline rates of deforestation
+and degradation are presented in Section 5.3.5 while the leakage-induced increase is described in Section 5.5.2.1.
+v3.0 17 6","{2043: 250597.0, 2042: 306613.0, 2041: 306640.0, 2040: 306711.0, 2039: 306752.0, 2038: 306838.0, 2037: 306943.0, 2036: 307116.0, 2035: 307291.0, 2034: 307582.0, 2033: 308173.0, 2032: 309222.0, 2031: 310179.0, 2030: 311029.0, 2029: 311737.0, 2028: 312349.0, 2027: 312731.0, 2026: 312851.0, 2025: 312538.0, 2024: 311595.0, 2023: 308125.0, 2022: 299634.0, 2021: 287932.0, 2020: 276423.0, 2019: 264852.0, 2018: 253466.0, 2017: 236976.0, 2016: 216844.0, 2015: 188930.0, 2014: 107548.0, 2013: 2767.0}",4,3,3,1,1,0,12,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+Year 1: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 2: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 3: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 4: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 5: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 6: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 7: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 8: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 9: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+Year 10: Estimated net GHG emission reductions or removals - 364,244 tCO2e
+
+Total estimated net GHG emission reductions or removals over the 10-year period: 3,642,440 tCO2e","
+
+JOINT PROJECT DESCRIPTION & MONITORING REPORT: VCS Version 3
+3.4 Estimated Net GHG Emission Reductions and Removals
+Baseline Emissions
+As per the equation 6 of the methodology ACM 0002 (Version 17.0),
+BE = EG , * EF (1) y PJ y grid, CM, y
+Where:
+BE : Baseline emissions in year y (tCO e/yr) y 2
+EG : Quantity of net electricity generation that is produced and fed into the grid as a PJ, y
+result of the implementation of the CDM project activity in year y (MWh/yr)
+EF : Combined margin CO emission factor for grid connected power generation in grid, CM, y 2
+year y calculated using the latest version of the “Tool to calculate the emission
+factor for an electricity system” (tCO e/MWh) 2
+Thus, BE = EG , * EF y PJ y grid, CM, y
+BE = 368,856 (MWh)* 0.99 tCO /MWh y 2
+BE = 364,244 tCO y 2
+Project Emissions
+As per the para 36 of methodology ACM 0002 (Version 17.0), “For most renewable power
+generation project activities, PE = 0. y
+Leakage Emissions
+As per para 5.6 of the methodology ACM 0002 (Version 17.0) does not consider any leakage
+emissions.
+Emission reductions
+As per equation number (17) of the applied methodology, emission reductions are calculated as
+follows:
+ER = BE – PE (7) y y y
+Where:
+ER Emission reductions in year y (tCO e/yr) y 2
+BE Baseline emissions in year y (tCO e/yr) y 2
+PE Project emissions in year y (tCO e/yr) y 2
+Thus, ER = 364,244 – 0 tCO y 2
+= 364,244 tCO 2
+v3.0 37
+
+[['Year', '', 'Estimated', '', 'Estimated project\nemissions or\nremovals (tCO e)\n2', '', 'Estimated', '', 'Estimated net GHG\nemission reductions\nor removals (tCO e)\n2'], [None, None, 'baseline', None, None, None, 'leakage', None, None], [None, None, 'emissions or', None, None, None, 'emissions', None, None], [None, None, 'removals (tCO e)\n2', None, None, None, '(tCO e)\n2', None, None], ['Year 1', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 2', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 3', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 4', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 5', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 6', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 7', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 8', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 9', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 10', '364,244', None, None, '0', '0', None, None, '364,244'], ['Total', '3,642,440', None, None, '0', '0', None, None, '3,642,440']]
+[['', 'Data / Parameter', '', 'EF\ngrid,OM,y'], ['', 'Data unit', '', 'tCO /MWh\n2'], ['', 'Description', '', 'Operating margin CO emission factor of NEWNE Grid\n2'], ['Source of data', 'Source of data', None, 'Central Electricity Authority:CO2 Emission Database\nCEA CO Baseline database Version 10\n2\n(http://cea.nic.in/reports/others/thermal/tpece/cdm_co2/user_guide\n_ver10.pdf)'], ['', 'Value applied:', '', '1.00'], ['Justification of choice of\ndata or description of\nmeasurement methods\nand procedures applied', 'Justification of choice of', None, 'Calculated as per “Tool to calculate the emission factor for an\nelectricity system, version 05.0” as 3-year generation weighted\naverage using data for the years 2011-2012, 2012-2013 and\n2013-14. The data are obtained from “CO2 Baseline Database for\nIndian Power Sector” version 10.0, published by the Central\nElectricity Authority, Ministry of Power, Government of India.'], [None, 'data or description of', None, None], [None, 'measurement methods', None, None], [None, 'and procedures applied', None, None], ['', 'Purpose of Data', '', 'Baseline Emission Factor'], ['Comments', 'Comments', None, 'This database is an official publication of Government of India for\nthe purpose of baseline emission calculaion. It is based on most\nrecent data available to the Central Electricity Authority and hence\nconsidered authentic. As the calculation of baseline emission has\nbeen done ex ante its value will remain fixed for the entire']]
+JOINT PROJECT DESCRIPTION & MONITORING REPORT: VCS Version 3
+4 MONITORING
+4.1 Data and Parameters Available at Validation
+v3.0 38","{2025: 364244.0, 2024: 364244.0, 2023: 364244.0, 2022: 364244.0, 2021: 364244.0, 2020: 364244.0, 2019: 364244.0, 2018: 364244.0, 2017: 364244.0, 2016: 364244.0, 2015: 364244.0}",5,5,5,5,5,0.01,13,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"Based on the provided information, it seems that the specific yearly Estimated GHG Emission Reductions or Removals records for the project are not explicitly mentioned. However, the project description mentions the calculation of ex post net anthropogenic GHG emission reductions using estimated carbon stock changes and GHG emissions.
+
+To obtain the yearly Estimated GHG Emission Reductions or Removals records for the project, it would be necessary to refer to the actual data and reports generated during the project implementation and monitoring. These records would include the ex post estimated net anthropogenic GHG emission reductions and the calculation of Verified Carbon Units (VCUs).
+
+It is recommended to access the project's official documentation or contact the responsible parties mentioned, such as CARBONEXT, for the specific yearly records of Estimated GHG Emission Reductions or Removals.","
+
+Project Description: VCS Version 4.0
+All documents and records will be kept in a secure retrievable manner for at least two years after
+the end of the project crediting period.
+f) Organization and responsibilities of the parties involved in all the above.
+All satellite imagery assessments will be performed by the third-party GIS company. CARBONEXT
+is responsible for reporting and data archiving, and for providing assistance during verification
+audits. The Project Proponent is co-responsible for data archiving.
+5.3.3. Ex Post Calculation of Net Anthropogenic GHG Emission Reduction
+a) Technical description of the monitoring tasks.
+The calculation of ex post net anthropogenic GHG emission reductions is similar to the ex-ante
+calculation with the only difference that ex post estimated carbon stock changes and GHG
+emissions must be used in the case of the project scenario and leakage.
+b) Data to be collected.
+Report the ex post estimated net anthropogenic GHG emissions and calculation of Verified
+Carbon Units (VCUt, and VBCt) using the same table format used for the ex-ante assessment:
+- Ex post estimated net anthropogenic GHG emission reductions and VCUs.
+c) Overview of data collection procedures.
+Data collection procedures are the same as described in previous steps. This step involves
+compilation of data from previous procedures to calculate ex post net anthropogenic GHG
+emission reduction.
+d) Quality control and quality assurance procedures.
+A map showing Cumulative Areas Credited within the project area shall be updated and presented
+to VCS verifiers at each verification event. The cumulative area cannot generate additional VCUs
+in future periods.
+e) Data archiving.
+All maps and records generated during project implementation will be conserved and made
+available to VCS verifiers at verification for inspection to demonstrate that the AUD project activity
+has actually been implemented.
+All documents and records will be kept in a secure retrievable manner for at least two years after
+the end of the project crediting period.
+f) Organization and responsibilities of the parties involved in all the above.
+203
+
+[['Corrective\nMonitoring\nActivity Scope Indicator Unit Goal Actions after\nFrequency\nCritical Analyses', None, None, None, None, None, None], ['Trainging of\nFire Brigade', 'Project Area', 'Attendance', 'Nº of\nattendees', 'Annual', '100% employees', 'Enhance\npartnership with\nteaching\ninstitutions;\nImprove\ndissemination and\ncommunication\nmeans;\nRevise condition of\nlocal and time of\nsessions'], ['Health and\nSecurity\nmonitoring', 'Project Area', 'Occurrences', 'Nº of\noccurences\nregistered;\nNº of\ncorrective\nactions\nperformed', 'Semiannual', '90% corrective\nactions\ncompleted', 'Improve supervision\nattendance in the\nfield;\nImprove the\nnumber of\nsupervisiors in the\nfield'], ['Advice on\nnutritional\naspects', 'Project Area', 'Attendance', 'Nº of\nattendees', 'Annual', 'At least 30\nparticipants\n(employees +\nneighbors)', 'Enhance\npartnership with\nteaching\ninstitutions;\nImprove\ndissemination and\ncommunication\nmeans;\nRevise condition of']]
+Project Description: VCS Version 4.0
+All satellite imagery assessments will be performed by AVIX. CARBONEXT is responsible for
+reporting and data archiving, and for providing assistance during verification audits. The Project
+Proponent is co-responsible for data archiving.
+5.3.4 Community and Biodiversity Variables to be Monitored
+Communities
+a) Technical description of the monitoring tasks.
+Among the proposed activities, the project proponent forecasts the organization of trainings
+focusing on wild-harvesting (“agro-extractivism”), sustainable forest management and health and
+safety. Furthermore, fire brigade teams will be trained.
+b) Data to be collected.
+The indicators that will be monitored are described in the table below.
+Table 49. Social parameters to be monitored
+Activities dependent on the completion of the Validation Process
+204","{2050: 652405.0, 2049: 739758.0, 2048: 753777.0, 2047: 768061.0, 2046: 782617.0, 2045: 797448.0, 2044: 812560.0, 2043: 827959.0, 2042: 843649.0, 2041: 859637.0, 2040: 875928.0, 2039: 892527.0, 2038: 909441.0, 2037: 926676.0, 2036: 944237.0, 2035: 962131.0, 2034: 980364.0, 2033: 998943.0, 2032: 1017874.0, 2031: 1037163.0, 2030: 1056818.0, 2029: 1076846.0, 2028: 1097253.0, 2027: 3813661.0, 2026: 4533464.0, 2025: 4555053.0, 2024: 4577052.0, 2023: 4599467.0, 2022: 2925193.0, 2021: 1251351.0, 2020: 127089.0}",3,3,3,3,1,0,50,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"The yearly estimated GHG emission reductions or removals records for this project are as follows:
+
+- 27/11/2020-31/12/2020 (35 days): Estimated net GHG emission reductions or removals - 24,794 tCO2e
+- 01/01/2021-31/12/2021: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2022-31/12/2022: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2023-31/12/2023: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2024-31/12/2024: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2025-31/12/2025: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2026-31/12/2026: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2027-31/12/2027: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2028-31/12/2028: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2029-31/12/2029: Estimated net GHG emission reductions or removals - 258,571 tCO2e
+- 01/01/2030-26/11/2030 (330 days): Estimated net GHG emission reductions or removals - 233,777 tCO2e
+- Total: 2,585,710 tCO2e
+
+Please note that these estimates are based on the provided project information and methodology.","
+
+[['Simple operating Margin Emissions Factor\n(EF )\ngrid,OMsimple,y', '0.9419', '0.75'], ['BuildMarginEmissionsFactor(EF )\ngrid,BM,y', '0.4819', '0.25'], ['BaselineEmissionsFactor(EF )\ngrid,CM,y', '0.8269', None]]
+[['Year', 'Estimated\nbaseline\nemissions or\nremovals\n(tCO e)\n2', 'Estimated project\nemissions or\nremovals (tCO e)\n2', 'Estimated\nleakage\nemissions\n(tCO e)\n2', 'Estimated net\nGHG emission\nreductions or\nremovals\n(tCO e)\n2'], ['27/11/2020-\n31/12/2020(35days)', '24,794', '0', '0', '24,794'], ['01/01/2021-31/12/2021', '258,571', '0', '0', '258,571']]
+Project Description: VCS Version 4.0
+Thus,
+BE =EG × EF =312,700MWh× 0.8269tCO /MWh=258,571tCO y facility,y grid,CM,y 2 2
+4.2 Project Emissions
+According tothe methodology, for most renewable energy project activities, PE =0. However, y
+the methodology prescribes project emission calculations for geothermal, solar thermal and
+hydro power plant. the project is a wind power project, therefore, there are no project
+emissions accordingtothemethodology:
+PE =0 y
+4.3 Leakage
+Accordingtothemethodology,noleakageisconsidered fortheprojectactivity.
+4.4 Net GHG Emission Reductions and Removals
+Emissionreductions arecalculatedasfollows:
+ER = BE - PE (9) y y y
+Where:
+ER Emissionreductionsinyeary(tCO e/yr) y 2
+BE Baselineemissions inyeary(tCO /yr) y 2
+PE Projectemissions inyeary(tCO e/yr) y 2
+Thesummaryofexanteestimatesofemissionreductionsisshownasfollows:
+31
+
+[['01/01/2022-31/12/2022', '258,571', '0', '0', '258,571'], ['01/01/2023-31/12/2023', '258,571', '0', '0', '258,571'], ['01/01/2024-31/12/2024', '258,571', '0', '0', '258,571'], ['01/01/2025-31/12/2025', '258,571', '0', '0', '258,571'], ['01/01/2026-31/12/2026', '258,571', '0', '0', '258,571'], ['01/01/2027-31/12/2027', '258,571', '0', '0', '258,571'], ['01/01/2028-31/12/2028', '258,571', '0', '0', '258,571'], ['01/01/2029-31/12/2029', '258,571', '0', '0', '258,571'], ['01/01/2030-26/11/2030\n（330days）', '233,777', '0', '0', '233,777'], ['Total', '2,585,710', '0', '0', '2,585,710']]
+[['Data / Parameter', 'EF\ngrid,OM,y'], ['Data unit', 'tCO /MWh\n2'], ['Description', 'OperatingmarginCO emissionfactorinyeary\n2'], ['Source of data', '“2019 Baseline Emission Factors for Regional Power Grids in\nChina”issuedbyChinaDNA4'], ['Value applied', '0.9419'], ['Justification of choice of\ndata or description of\nmeasurement methods\nand procedures applied', 'OfficialpublicdatafromChiaDNA'], ['Purpose of Data', 'Calculationofbaseline emissions'], ['Comments', '/']]
+Project Description: VCS Version 4.0
+5 MONITORING
+5.1 Data and Parameters Available at Validation
+4http://www.mee.gov.cn/ywgz/ydqhbh/wsqtkz/202012/W020201229610353816665.pdf
+32","{2017: 329852.0, 2016: 329852.0, 2015: 329852.0, 2014: 329852.0, 2013: 329852.0, 2012: 329852.0, 2011: 164926.0}",5,3,5,5,3,0,51,Completed
+Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.,"I'm sorry, but I cannot provide the yearly Estimated GHG Emission Reductions or Removals records for this project as the specific data is not mentioned in the provided context.","
+
+Project Description: VCS Version 4.0
+⚫ According to the 13th Five-year Forest Harvest Limit issued by State Council (Guohan [2016] No.32)11,
+the total harvest volume limit from 2016 to 2020 is 25,403.6*104 m3, and annual forest logging
+quota during the ""14th Five-Year Plan"" period issued by Notice of the General Office of the Hubei
+Provincial People's Government (Hubei Provincial Government Office (2021) No. 4)3"", the total
+harvest volume limit from 2021 to 2025 is 1013.1*104 m3. The planned harvest volume of the
+project in 2018-2020 and 2021-2022 is 38.9*104 m3 and12*104 m3, accounting 0.02% and 1.18%
+of the national harvest volume, respectively, which will not result in the significant national
+concession and illegal logging; Regulations of the People's Republic of China on forestry law Article
+38 and Article 39 clearly stipulates the punishment for the illegal logging. According to the volume
+and quantity of illegal logging, punishment includes not only 5-10 times compensation of replanting,
+but also 2-10 times economic penalty.
+⚫ The annual extracted volume is unlikely increase within existing national concessions AND illegal
+logging is strictly forbidden and will be severely punished by the law.
+In summary, LF = 0 ME
+The actual value will be monitored when verification.
+4.4 Net GHG Emission Reductions and Removals
+4.4.1 Net Project Greenhouse Gas Emission Reductions
+According to VM0010 version 1.3, the Net Project Greenhouse Gas Emission Reductions are calculated
+as:
+(28)
+Where:
+GHG project greenhouse gas credits associated with the CREDITS|LtPF,t*
+implementation of improved forest management (IFM) activities
+in the year t* since the start of the project activity, in the project
+scenario, tCO 2e
+GHG net greenhouse gas emissions in the baseline scenario in the NET|BSL,t*
+year t* since the start of the project activity, tCO 2e
+GHG net greenhouse gas emissions in the project scenario in the year NET|PRJ,t*
+t* since the start of the project activity, tCO 2e; and
+11 http://www.gov.cn/zhengce/content/2016-02/16/content_5041486.htm
+3 http://www.hubei.gov.cn/zfwj/ezbd/202102/t20210223_3357411.shtml
+57
+V 4.0
+
+Project Description: VCS Version 4.0
+GHG total greenhouse gas emissions due to leakage arising outside LK|LtPF,t*
+the project boundary as a result of the implementation of
+improved forest management (IFM) activities in the year t* since
+the start of the project
+activity, in the project scenario, tCO 2e
+4.4.2 Project Verified Carbon Units
+The number of Verified Carbon Units (VCUs) for each year t in the project crediting period is the
+greenhouse gas emission reductions and removals adjusted for uncertainty and risk.
+Adjustment for uncertainty
+Estimated greenhouse gas emissions and emission reductions from IFM activities have uncertainties
+associated with parameters and coefficients including estimates of area, carbon stocks, regrowth and
+expansion factors. It is assumed that the uncertainties associated with input data are available, either
+as default uncertainty values given in most recent IPCC guidelines, or as statistical estimates based on
+sampling.
+Uncertainty at all times is defined at the 95% confidence interval where the estimated variance exceeds
++/- 15 percent from the mean. Procedures including stratification and the allocation of sufficient
+measurement plots will help ensure that low uncertainty results and ultimately full crediting can result.
+Uncertainties arising from the measurement and monitoring of carbon pools and greenhouse gases
+shall always be quantified. Errors in each pool shall be weighted by the size of the pool so that projects
+may reasonably target a lower precision level in pools that only form a small proportion of the total
+stock.
+For both the baseline and the with-project case the total uncertainty is equal to the square root of the
+sum of the squares of each component uncertainty and is calculated at the time of reporting through
+propagating the error in the baseline stocks and the error in the project stocks.
+Therefore, total uncertainty for LtPF project is calculated as:
+(29)
+Where:
+U total uncertainty for LtPF Project, dimensionless; total|LtPF
+U total uncertainty for the improved forest management activities in |PRJ
+the project scenario, dimensionless; and
+58
+V 4.0","{2047: 80056.0, 2046: 78382.0, 2045: 26464.0, 2044: 26464.0, 2043: 26464.0, 2042: 26464.0, 2041: 26464.0, 2040: 26464.0, 2039: 26464.0, 2038: 26464.0, 2037: 26464.0, 2036: 26464.0, 2035: 26464.0, 2034: 26464.0, 2033: 26464.0, 2032: 26464.0, 2031: 26464.0, 2030: 26464.0, 2029: 26464.0, 2028: 26464.0, 2027: 26464.0, 2026: 26464.0, 2025: 26464.0, 2024: 26464.0, 2023: 26464.0, 2022: 26464.0, 2021: 26464.0, 2020: 147239.0, 2019: 142040.0, 2018: 136480.0}",1,1,3,1,1,0,52,Completed

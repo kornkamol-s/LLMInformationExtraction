@@ -14,7 +14,7 @@ def main(args):
     train_id = openai._upload_file(train_data)
     vaildate_id = openai._upload_file(validate_data)
 
-    job_id = openai._create_finetune_job(train_id, vaildate_id)
+    job_id = openai._create_finetune_job(train_id, vaildate_id, epoch=4, bsize=8, lr=2)
     logging.info(f'Start Fine-tuning, Job: {job_id}')
 
     while True:

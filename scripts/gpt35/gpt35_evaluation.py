@@ -19,10 +19,10 @@ def main(args):
     test_files = f"data/intermediate/{args.source}/gpt35/{args.source}_test"
     output_dir = f"data/output/{args.pipeline}-gpt35/{args.source}"
 
-    openai = OpenAIConnection(args.model)
+    # openai = OpenAIConnection(args.model)
 
-    logging.info(f"Loading test data; {args.n} records ...")
-    tests = _load_test_data(test_files, args.n)
+    # logging.info(f"Loading test data; {args.n} records ...")
+    # tests = _load_test_data(test_files, args.n)
 
     # logging.info("Generate response from base model...")
     # _generate_model_response(openai, tests, args.model, output_dir, f'base_{args.model}')
@@ -74,62 +74,91 @@ def extract_context_and_question(prompt):
 
 
 def _generate_metrics(output_dir):
-    scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
+    bleu = evaluate.load("bleu")
+    scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL', 'rougeLsum'], use_stemmer=True)
+    
     for file in os.listdir(output_dir):
         if file.endswith('.csv'):
+            print(f"Processing {output_dir}/{file}")
             df = pd.read_csv(f'{output_dir}/{file}')
-            # df[['question', 'context']] = df['prompt'].apply(extract_context_and_question)
+            bleu_list = []
+            rouge1_precision_list, rouge1_recall_list, rouge1_f1_list = [], [], []
+            rouge2_precision_list, rouge2_recall_list, rouge2_f1_list = [], [], []
+            rougeL_precision_list, rougeL_recall_list, rougeL_f1_list = [], [], []
+            rougeLSum_precision_list, rougeLSum_recall_list, rougeLSum_f1_list = [], [], []
 
             true_answers = df['true_answer'].tolist()
             model_answers = df['model_answer'].tolist()
-            # question = df['question'].tolist()
-            # context = df['context'].tolist()
-
             accuracy = accuracy_score(true_answers, model_answers)
             precision = precision_score(true_answers, model_answers, average='weighted', zero_division=0)
             recall = recall_score(true_answers, model_answers, average='weighted', zero_division=0)
             f1 = f1_score(true_answers, model_answers, average='weighted', zero_division=0)
 
-            bleu = evaluate.load("bleu")
-            bleu = bleu.compute(predictions=model_answers, references=true_answers)
+            print(f"accuracy: {accuracy}")
+            print(f"precision: {precision}")
+            print(f"recall: {recall}")
+            print(f"f1: {f1}")
 
-            rouge = evaluate.load('rouge')
-            rouge = rouge.compute(predictions=model_answers, references=true_answers)
+            # bleu = bleu.compute(predictions=model_answers, references=true_answers)
+            # rouge = evaluate.load('rouge')
+            # rouge = rouge.compute(predictions=model_answers, references=true_answers)
 
-            total_precision, total_recall, total_f1 = 0, 0, 0
-            for true_answer, model_answer in zip(true_answers, model_answers):
-                scores = scorer.score(str(true_answer), str(model_answer))
-                total_precision += scores['rougeL'].precision
-                total_recall += scores['rougeL'].recall
-                total_f1 += scores['rougeL'].fmeasure
+            # row = {
+            #     'base_model': 'GPT-3.5-turbo-125',
+            #     'model': file.split('__')[-1],
+            #     'source': args.source,
+            #     'pipeline': args.pipeline,
+            #     'common-metric': json.dumps({'accuracy': accuracy, 'precision': precision, 'recall': recall, 'f1': f1}),
+            #     'bleu': json.dumps(bleu),
+            #     'rouge': json.dumps(rouge)}
 
-            rouge['rougeL-precision'] = total_precision/len(true_answers)
-            rouge['rougeL-recall'] = total_recall/len(true_answers)
-            rouge['rougeL-f1'] = total_f1/len(true_answers)
+            # with open(f'data/output/evaluation_metrics.csv', mode='a', encoding='utf-8', newline='') as f:
+            #     writer = csv.DictWriter(f, fieldnames=['base_model', 'model', 'source', 'pipeline', 'common-metric', 'bleu', 'rouge'])
+            #     if f.tell() == 0:
+            #         writer.writeheader()
+            #     writer.writerow(row)
 
-            # test_case = LLMTestCase(input=question[0], 
-            #                         actual_output=model_answers[0],
-            #                         retrieval_context=[context[0]])
-            # metric = FaithfulnessMetric(threshold=0.5)
-            # metric.measure(test_case)
-            # print(metric.score)
-            # print(metric.reason)
-            # print(metric.is_successful())
 
-            row = {
-                'base_model': 'GPT-3.5-turbo-125',
-                'model': file.split('__')[-1],
-                'source': args.source,
-                'pipeline': args.pipeline,
-                'common-metric': json.dumps({'accuracy': accuracy, 'precision': precision, 'recall': recall, 'f1': f1}),
-                'bleu': json.dumps(bleu),
-                'rouge': json.dumps(rouge)}
+            for index, row in df.iterrows():
+                true_answer = row['true_answer']
+                model_answer = row['model_answer']
 
-            with open(f'data/output/evaluation_metrics.csv', mode='a', encoding='utf-8', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=['base_model', 'model', 'source', 'pipeline', 'common-metric', 'bleu', 'rouge'])
-                if f.tell() == 0:
-                    writer.writeheader()
-                writer.writerow(row)
+                bleu_result = bleu.compute(predictions=[model_answer], references=[[true_answer]],  max_order=2)
+                bleu_list.append(bleu_result['bleu'])
+                
+                scores = scorer.score(true_answer, model_answer)
+
+                rouge1_precision_list.append(scores['rouge1'].precision)
+                rouge1_recall_list.append(scores['rouge1'].recall)
+                rouge1_f1_list.append(scores['rouge1'].fmeasure)
+                
+                rouge2_precision_list.append(scores['rouge2'].precision)
+                rouge2_recall_list.append(scores['rouge2'].recall)
+                rouge2_f1_list.append(scores['rouge2'].fmeasure)
+
+                rougeL_precision_list.append(scores['rougeL'].precision)
+                rougeL_recall_list.append(scores['rougeL'].recall)
+                rougeL_f1_list.append(scores['rougeL'].fmeasure)
+
+                rougeLSum_precision_list.append(scores['rougeLsum'].precision)
+                rougeLSum_recall_list.append(scores['rougeLsum'].recall)
+                rougeLSum_f1_list.append(scores['rougeLsum'].fmeasure)
+                
+            df['bleu'] = bleu_list
+            df['rouge1_precision'] = rouge1_precision_list
+            df['rouge1_recall'] = rouge1_recall_list
+            df['rouge1_f1'] = rouge1_f1_list
+            df['rouge2_precision'] = rouge2_precision_list
+            df['rouge2_recall'] = rouge2_recall_list
+            df['rouge2_f1'] = rouge2_f1_list
+            df['rougeL_precision'] = rougeL_precision_list
+            df['rougeL_recall'] = rougeL_recall_list
+            df['rougeL_f1'] = rougeL_f1_list
+            df['rougeLSum_precision'] = rougeLSum_precision_list
+            df['rougeLSum_recall'] = rougeLSum_recall_list
+            df['rougeLSum_f1'] = rougeLSum_f1_list
+
+            df.to_csv(f'{output_dir}/records_metrics_{file}', index=False)
 
 
 def _setup_args():
@@ -138,7 +167,7 @@ def _setup_args():
     parser.add_argument('--model_ids', type=str, nargs='*', help='Model IDs')
     parser.add_argument('--n', type=int, default=1000, help='Model ID')
     parser.add_argument('--source', type=str, default='squad', help='Type of Data')
-    parser.add_argument('--pipeline', type=str, default='custom', help='Type of Data')
+    parser.add_argument('--pipeline', type=str, default='azure-ai', help='Type of Data')
     args = parser.parse_args()
 
     return args

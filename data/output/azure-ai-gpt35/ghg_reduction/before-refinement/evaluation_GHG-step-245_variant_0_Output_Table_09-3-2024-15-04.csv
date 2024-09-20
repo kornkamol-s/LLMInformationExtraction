@@ -1,0 +1,1502 @@
+﻿inputs.question,inputs.answer,inputs.context,inputs.ground_truth,gpt_coherence,gpt_fluency,gpt_groundedness,gpt_relevance,gpt_similarity,f1_score,index,status
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2012: 66978.0, 2013: 68313.0, 2014: 69647.0, 2015: 70981.0, 2016: 72316.0, 2017: 73650.0, 2018: 74984.0, 2019: 76319.0, 2020: 77653.0, 2021: 78987.0}","[['', 'Project', '', '*'], ['', 'Large project', '', '']]
+[['', 'Years', '', '', 'Estimated GHG emission reductions or removals (mtCO e)\n2', ''], ['2012', None, None, '66,978', None, None], ['2013', None, None, '68,313', None, None], ['2014', None, None, '69,647', None, None], ['2015', None, None, '70,981', None, None], ['2016', None, None, '72,316', None, None], ['2017', None, None, '73,650', None, None], ['2018', None, None, '74,984', None, None], ['2019', None, None, '76,319', None, None], ['2020', None, None, '77,653', None, None], ['2021', None, None, '78,987', None, None], ['Total estimated ERs', None, None, '729,827', None, None], ['Total number of crediting years', None, None, '10', None, None], ['Average annual ERs', None, None, '72,982', None, None]]
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+Total GHG emission reductions were estimated 729,827 mtCO e (Table 1). 2
+Table 1: Summary of estimated 10 year ex ante yearly GHG emission reductions (mt CO e). 2","{2010: 10103.0}","1","3","5","5","1","0","0","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016: 9060.0, 2015: 9060.0, 2014: 9060.0, 2013: 9060.0, 2012: 9060.0, 2011: 9060.0, 2010: 9060.0, 2009: 9060.0, 2008: 906.0, 2007: 906.0, 2006: 906.0}","4.4 Quantifying GHG emission reductions and removal enhancements for the
+GHG project:
+Procedure for calculating emission reduction due to the project activity:
+Step 1: Net annual electricity generated and exported to grid by WTG
+EG = EG - EG (1) y WTGi,exp WTGi,imp
+Step 2: Combined Margin emission factor of NEWNE Grid
+EF = (EF * w ) + (EF * w ) (2) CM,y BM,y BM OM,y OM
+32
+
+[['Year', '', 'Estimation of', '', '', 'Estimation of', '', 'Estimation of\nleakage\n(tCO2e)', 'Emission\nReductions\n(tCO2e)'], [None, None, 'Project Activity', None, None, 'Baseline', None, None, None], [None, None, 'Emissions', None, None, 'Emissions', None, None, None], [None, None, '(tCO2e)', None, None, '(tCO2e)', None, None, None], ['30/09/2006 to\n29/09/2007', '0', None, None, '906', None, None, '0', '906'], ['30/09/2007 to\n29/09/2008', '0', None, None, '906', None, None, '0', '906']]
+[['Estimation of'], ['leakage'], ['(tCO2e)']]
+Step 3: Baseline emission reduction of the project activity
+BE = EG * EF (3) y y CMy
+Step 4: GHG emission due to the project activity
+PE = 0 (4) y
+Step 5: GHG emission due to leakage as a result of the project activity
+LE = 0 (5) y
+Step 6: GHG emission reduction due to the project activity
+ER =BE – PE - LE (6) y y y y
+where
+EG Electricity supplied to NEWNE Grid by WTG, MWh WTGi,exp i
+EG Electricity drawn from NEWNE Grid by WTG, MWh WTGi,imp i
+EG Net electricity supplied to the grid by the Project, MWh y
+EF Ex-ante Build Margin emission factor of NEWNE Grid, 0.60 Grid,BMy
+tCO /MWH 2
+EF Ex-ante Operation Margin emission factor of NEWNE Grid, Grid,OMy
+1.01 tCO /MWH 2
+w Weighting factor for Build Margin emision factor, 25% BM
+w Weighting factor for Operating Margin emission factor, 75% OM
+The year-wise estimated GHG emission reduction for the project activity is
+provided in the table below:
+33
+
+[['30/09/2008 to\n29/09/2009', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2009 to\n29/09/2010', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2010 to\n29/09/2011', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2011 to\n29/09/2012', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2012 to\n29/09/2013', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2013 to\n29/09/2014', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2014 to\n29/09/2015', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['30/09/2015 to\n29/09/2016', None, None, '0', None, None, '906', None, None, '0', None, None, '906', None, None], ['', 'Total', '', '', '0', '', '', '9060', '', '', '0', '', '', '9060', '']]
+Wind power is one of the cleanest sources of renewable energy, with no
+associated emissions and waste products. As per the Schedule 1 of Ministry
+of Environment and Forests (Government of India) notification9 dated
+September 14, 2006, wind power projects do not require an Environmental
+Impact Assessment. However, certain foreseen impacts due to the project
+activity are discussed below:
+Noise Pollution
+Most of the wind turbines are in isolated areas or on designated wind zones
+and hence do not cause any concern to the residents of the area. In the same
+vein, construction activities also have not caused noise pollution due to the
+isolated nature of the area.
+Water Pollution
+There is no gaseous, liquid or solid effluent from the Wind Turbine
+Generators. Hence there is no contamination of water bodies due to
+operation of Wind Turbine Generators.
+Air Pollution
+Minimal air pollution might have occurred during the construction of the
+Project due to transportation. However, these were not found to affect the
+surrounding persons nor the environment in any significant manner. Wind
+9 Source: http://envfor.nic.in/legis/eia/eianot.pdf
+34
+
+[['', 'Sr No.', '', '', 'Event', '', '', 'Date', '']]
+energy plants are known to contribute to zero atmospheric pollution as no
+fuel combustion is involved during any stage of the operation.
+Hence it can be concluded that there are no negative impacts associated
+with the mentioned Project.
+5 Environmental Impact:
+The project activity is a clean energy project using renewable source of
+energy, wind, to generate power. It has already received permission from
+Maharashtra Energy Development Agency (MEDA) which is a department
+of the State Government of Maharashtra.
+The project activity is exempted from carrying out any EIA as per the
+notification S.O.1533 dated 14/09/2006 of Ministry of Environment and
+Forests, Government of India.
+6 Stakeholders comments:
+A stakeholder consultation meeting was organized for this project activity.
+The copy of the public notice inviting stakeholders to the meeting, copy of
+the attendance sheet and copy of Minutes of Stakeholder Consultation are
+attached in Annexure 3.
+There were no specific negative comments. The apprehensions of the
+stakeholders were cleared to satisfaction. Since there were no negative
+comments, there were no changes to the Project.
+Maharashtra Energy Development Agency (State Government of
+Maharashtra Undertaking) has also given their infrastructure clearance for
+setting up the project activity.
+7 Schedule:
+35
+
+[['1', 'SEL appointed as equipment supplier and O&M contractor', '14-Oct-05'], ['2', 'Commissioning of WTG', '30-Sep-06'], ['3', 'Frequency of monitoring generation and supply to grid', 'Monthly'], ['4', 'Calibration of meters', 'Annual'], ['5', 'Verification of emission reduction', 'Bi-annual'], ['6', 'Project crediting period', '30-Sep-2006 to\n29-Sep-2016']]
+8 Ownership:","{2021: 35430.0, 2020: 146480.0, 2019: 143898.0, 2018: 143782.0, 2017: 136478.0, 2016: 129455.0, 2015: 122804.0, 2014: 99235.0}","1","1","1","1","1","0.16","1","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{ '2012': 1190033.0, '2013': 1228908.0, '2014': 1207657.0, '2015': 1273642.0, '2016': 1299792.0, '2017': 1442132.0, '2018': 1422834.0, '2019': 1418501.0, '2020': 1408177.0, '2021': 1405935.0, '2022': 1403007.0, '2023': 1391153.0, '2024': 1396301.0, '2025': 1392321.0, '2026': 1392444.0, '2027': 1411953.0, '2028': 1413070.0, '2029': 1427637.0, '2030': 1422549.0, '2031': 1420252.0, '2032': 1417162.0, '2033': 1412500.0, '2034': 1411912.0, '203","4.3 Quantifying GHG emissions and/or removals for the project:
+Project Emissions
+There will be no project emissions as the project is using
+renewable hydroelectric power.","{2039: 32375.0, 2038: 32375.0, 2037: 32375.0, 2036: 32375.0, 2035: 34464.0, 2034: 34464.0, 2033: 34464.0, 2032: 34464.0, 2031: 34464.0, 2030: 35171.0, 2029: 35171.0, 2028: 35171.0, 2027: 35171.0, 2026: 78042.0, 2025: 126614.0, 2024: 126614.0, 2023: 126614.0, 2022: 126614.0, 2021: 134756.0}","1","1","1","3","1","0.33","2","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2022: 619592.0, 2021: 619592.0, 2020: 619592.0, 2019: 657074.0, 2018: 657074.0, 2017: 657074.0, 2016: 657074.0, 2015: 657074.0, 2014: 657074.0, 2013: 657074.0, 2012: 657074.0, 2011: 657263.0, 2010: 657263.0}","5.4.6 ESTIMATING NET GHG EMISSIONS FROM HARVESTING
+Harvesting and IFM activities are omitted from the project area.","{2043: 367106.0, 2042: 423795.0, 2041: 422423.0, 2040: 420225.0, 2039: 418250.0, 2038: 416310.0, 2037: 414586.0, 2036: 412642.0, 2035: 410981.0, 2034: 408954.0, 2033: 406830.0, 2032: 423203.0, 2031: 439623.0, 2030: 445213.0, 2029: 453404.0, 2028: 454354.0, 2027: 465216.0, 2026: 473431.0, 2025: 462189.0, 2024: 455052.0, 2023: 440693.0, 2022: 434787.0, 2021: 420166.0, 2020: 403034.0, 2019: 425708.0, 2018: 403530.0, 2017: 369660.0, 2016: 299511.0, 2015: 228055.0, 2014: 122646.0, 2013: 2009.0}","1","3","1","3","3","0.23","3","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2021: 3972.0, 2020: 6440.0, 2019: 10073.0, 2018: 9990.0, 2017: 9990.0, 2016: 9990.0}","[['Parameters', 'Description']]
+4.4 Net GHG Emission Reductions and Removals
+The emission reductions achieved by the project activity shall be calculated as the difference
+between the baseline and the project emissions, which is also used as post-emission reduction:
+ER =BE −PE Equation (5) s s s
+Where:
+42
+
+[['𝐸𝑅\n𝑠', 'Emission reductions in season s (tCO e)\n2']]
+[['Parameters', 'Description'], ['ER\ny', 'Emission reductions in year y (t CO2e).'], ['EF\nER', 'Adjusted daily emission factor (kgCH /ha/day). Alternatively, seasonal emission\n4\nfactor (kg CH4/ha/season13) maybe determined.'], ['A\ny', 'Area of project fields in year y (ha).'], ['L\ny', 'Cultivation period of rice in year y (days/year).'], ['GWP\nCH4', 'Global warming potential of CH4 (t CO e/t CH4).\n2'], ['EF\nBL', 'Baseline emission factor (kg CH4/ha/day) or (kg CH4/ha/season).'], ['EF\np', 'Project emission factor (kg CH /ha/day) or (kg CH /ha/season).\n4 4'], ['𝐸𝐹\n𝐵𝐿,𝑐', 'Baseline emission factor for continuously flooded fields without organic\namendments (kg CH /ha/day) or (kg CH /ha/season).\n4 4']]
+Project Description: VCS Version 4.0
+Ex-ante estimation of emission reductions
+According to the applied methodology AMS-Ⅲ.AU (version 4.0), for the ex-ante estimation of
+emission reductions within the project design document prior to the project implementation,
+project proponent shall refer to own field experiments or estimate baseline and project
+emissions with the help of national data or IPCC tier 1 default values for emission and scaling
+factors.
+In this project, using the IPCC tier 1 approach but undertaking measurements to determine
+baseline emission factors for continuously flooded fields, as per the following formula:
+ER = EF ×A ×L ×10−3 ×GWP Equation (6) y ER y y CH4
+EF = EF −EF Equation (7) ER BL P
+EF = EF ×SF ×SF ×SF Equation (8) BL BL,c BL,w BL,p BL,o
+EF = EF ×SF ×SF ×SF Equation (9) P BL,c P,w P,p P,o
+Where:
+13 In the methodology, “season” means an entire cropping season from land preparation until harvest
+or post season drainage.
+43
+
+[['𝑆𝐹 or 𝑆𝐹\n𝐵𝐿,𝑤 𝑃,𝑤', 'Baseline or project scaling factors14 to account for the differences in water regime\nduring the cultivation period.'], ['𝑆𝐹 or 𝑆𝐹\n𝐵𝐿,𝑝 𝑃,𝑝', 'Baseline or project scaling factors to account for the differences in water regime\nduring the pre-season before the cultivation period.'], ['𝑆𝐹 or 𝑆𝐹\n𝐵𝐿,𝑜 𝑃,𝑜', 'Baseline or project scaling factors should vary for both type and amount of organic\namendment applied.']]
+Project Description: VCS Version 4.0
+Determination of EF BL, c
+However, the baseline emission factor for continuously flooded fields without organic
+amendments (EF ) can be determined ex-ante prior to the start of the project activity, in this BL, c
+case, the ex-ante value should be used to calculate emission reduction during the crediting
+period. It should be measured by using Closed Chamber in three reference fields which are
+chosen in the project area.
+According to the guidance on methane measurement in the appendix of AMS-III.AU Methodology,
+the implementation of methane measurement in rice fields requires the involvement of experts
+in this field or at least experienced staff trained by experts (i.e., from research institutions). These
+guidelines cannot replace expertise in setting up chamber measurements. They rather set
+minimum requirements that serve for standardizing the conditions under which methane
+emissions are measured for projects under this methodology.
+1) The Closed Chamber measurement requires the cooperation of the experts from Huazhong
+Agricultural University and the staff of the Agricultural Bureau of Qianxi City and Agricultural
+Bureau of Jinsha County. Huazhong Agricultural University is an institution of higher learning
+of agriculture in China. The experts set up the chamber measurements on 10-April-2017. The
+base is embedded just before transplanting, and the first gas sampling began on the second
+day after transplanting, followed by sampling every 7 days. After sampling, as is stored in the
+evacuated vial, and the samples collected after three times should be taken together for
+laboratory analysis.
+2) Project proponent shall prepare a detailed plan for the seasonal methane measurements
+before the start of the season. The plan shall include the schedule for the field and laboratory
+measurements, the logistics that are necessary to get the gas samples to the laboratory and
+a cropping calendar. The plan shall also include all reference field specific information
+14 For all scaling factor used in this methodology, the average values in 2006 IPCC Guidelines for
+National Greenhouse Gas Inventories are chosen.
+44
+
+[['Specific Information', 'Plot 1', 'Plot 2', 'Plot 3'], ['Area', '0.20 ha', '0.22 ha', '0.21 ha'], ['Location', 'Qianxi City and Jinsha County, Guizhou Province', None, None], ['The type of rice', 'Hybrid rice', None, None], ['Climate', 'Subtropical humid monsoon climate', None, None], ['Soil', 'pH 5.6 – pH 7.4 and organic carbon is 2.53%', None, None], ['Water management', 'Continuously flooded15', None, None], ['Fertilizer treatment', 'No organic amendments, the amount of nitrogen fertilizer applied is at the\nrange between 9.5 to 10 kg/mu.', None, None]]
+[['Feature', 'Requirements', 'Conditions in the project'], ['Chamber material', 'Option 1: Non-transparent\n• Commercially available PVC\ncontainers or\nmanufactured chambers\n(e.g., using galvanized iron).\n• Painted white or covered\nwith reflective material (to\nprevent increasing inside\ntemperature).\n• Only suitable for short-term\nexposure (typically 30 min)', 'The chamber used in this project\nis made of PVC materials\ncovered with reflective material\nto prevent the increasing inside\ntemperature. And it is only put\njust before the sampling and\nthen is removed after 30 mins of\nsampling.']]
+Project Description: VCS Version 4.0
+regarding location and climate, soil, water management, plant characteristics, fertilizer
+treatment and organic amendments.
+Project proponent prepared a detailed plan for measuring the EF before the start of the BL, C
+season, which is provided in Table 4-1 and Table 4-2 below.
+Table 4-1 The details of reference fields for measuring EF BL, C
+In addition, according to the guidance on methane measurement in the appendix of AMS-III.AU
+Methodology, the steps from field measurement to 𝐸𝐹 should be taken as follows: 𝐵𝐿,𝑐
+Table 4-2 On the field – technical options for the chamber design
+15 Continuously flooded: fields have standing water throughout the rice growing season and may only dry
+out for harvest (end-season drainage)
+45
+
+[['', 'followed by immediate\nremoval from the field.', ''], ['Placement in soil', 'Option 1: Fixed base\n• Base made of non-corrosive\nmaterial and remains in the\nfield for the whole season.\n• Base should allow tight\nsealing of the chamber.\n• Base should have bores in\nthe submerged section to\nallow water exchange\nbetween inside and\noutside.\n• Base should be installed at\nleast 24 hours before the\nfirst sampling.', 'The base used in this project is\nmade of non-corrosive PVC\nmaterial and was embedded\nbefore transplantation,\nremaining in the field for the\nwhole season. Base allows tight\nsealing of the chamber and has\nbores in the submerged section\nto allow water exchange. The\nfirst sampling was taken 24\nhours after the base installation.'], ['Auxiliaries of chamber', '• Thermometer for\nmeasuring the temperature\ninside the chamber.\n• Fan (battery operated)\ninside the chamber for mix\nthe inside air during\nsampling.\n• Sampling port (rubber\nstopper placed in a bore of\nthe chamber).', 'There are a thermometer and a\nfan inside the chamber and the\nsampling port is set on the top of\nthe chamber.'], ['Basal area', 'Rectangular or rounded but\nmust cover minimum of four rice\nhills (ca. 0.1m2 minimum).', 'The base is rectangular and\ninstalled covering four rice hills.'], ['Height', 'Option 1: Fixed height', 'The total height of chamber and\nbase is 1.5 meters which is']]
+Project Description: VCS Version 4.0
+46","{2025: 58959.0, 2024: 58959.0, 2023: 58959.0, 2022: 58959.0, 2021: 58959.0, 2020: 58959.0, 2019: 58959.0}","1","3","1","3","1","0.23","4","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2021: 70.0, 2020: 69.0, 2019: 59.0, 2018: 38.0}","3.2.1 With-Project Estimated Greenhouse Gas Emissions (CL2.1)
+The net anthropogenic GHG removals by sinks is estimated as the actual net GHG removals by sinks minus
+the baseline net GHG removals, minus leakage. The following general formula described in the
+methodology is used to calculate the net anthropogenic GHG removals by sinks of an A/R project activity,
+in t CO -e: 2
+C C C LK
+ARCDM ACTUAL BSL
+Where:
+C Net anthropogenic GHG removals by sinks; t CO -e AR−CDM 2
+ΔC Actual net GHG removals by sinks; t CO -e ACTUAL 2
+ΔC Baseline net GHG removals by sinks; t CO -e BSL 2
+LK Total GHG emissions due to leakage; t CO -e 2
+The actual net greenhouse gas removals by sinks were estimated using the following equation described
+in the methodology:
+C C GHG
+ACTUAL P E
+Where:
+ΔC Actual net greenhouse gas removals by sinks; t CO -e ACTUAL 2
+ΔC Sum of the changes in above-ground and below-ground tree biomass, dead wood, litter P
+and soil organic carbon stocks in the project scenario; t CO -e 2
+GHG Increase in GHG emissionsas a result of the implementation of the proposed A/R CDM E
+project activity within the project boundary; t CO -e 2
+The following formula described in the methodology is used in order to estimate GHG emission:
+v3.0 69
+
+[['Parameter', 'Symbol', 'E. grandis', 'Source'], ['Mean Annual Increment\n(m3.ha-1.yr-1)', 'MAI\nj', 'From 13.5 to 28', 'Local growth model (SAG grandis)'], ['Wood basic density (Mg.m-3)', 'D\nj', '0.52 and 0.46', 'Country-specific values'], ['Biomass expansion factor\n(dimensionless)', 'BEF\n1j', 'From 1.15 to 3.4', 'IPCC Good Practice Guidance for\nLULUCF (2003), Table 3A.1.10'], ['Carbon fraction\n(dimensionless)', 'CF', '0.5', 'Tool ""Estimation of carbon stocks and\nchange in carbon stocks of trees and\nshrubs""']]
+PROJECT DESCRIPTION :
+CCB Version 3
+GHG Et t* 1GHG
+E,t
+Where:
+GHG Increase in GHG emissionsas a result of the implementation of the proposed A/R CDM E
+project activity within the project boundary; t CO -e 2
+GHG Increase in Non-CO emissions due to biomass burning of existing vegetation as part of E, t 2
+site preparation in year t; t CO2-e
+T 1,2,3,……..,t* years elapsed since the start of the A/R CDM project activity
+The tool for “Estimation of non-CO GHG emissions resulting from burning of biomass attributable to an 2
+A/R CDM project activity” has been considered. The use of fire for site preparation and/or to clear the land
+of harvest residue prior to replanting is specifically excluded from the project management and therefore
+project emissions are estimated as zero.
+Carbon stock changes
+ΔC is the sum of the changes in above-ground and below-ground tree biomass, dead wood, litter and soil P
+organic carbon stocks in the project scenario. For ex-ante estimation, dead wood and litter pools were
+conservatively neglected. Calculations for tree biomass (above and below) and soil organic carbon are
+described below.
+Biomass carbon pools
+Above and below ground biomass have been estimated according to the tool “Estimation of carbon stocks
+and change in carbon stocks of trees and shrubs in A/R CDM project activity”. A summary of the main
+factors used and each source of data are presented in the table below. Estimations are archived as part of
+the project documentation and will be available for the validation team. Data used for estimating tree
+biomass are shown in Table 12
+Table 12. Assumed parameters used for estimation of tree biomass carbon stocks
+v3.0 70
+
+[['Root-to-shoot ratio\n(dimensionless)', 'R\nj', 'From 0.2 to 0.4', 'Tool ""Estimation of carbon stocks and\nchange in carbon stocks of trees and\nshrubs""']]
+[['Parameter', 'Symbol', 'Value', 'Source (SOC estimation tool, V01.1.0)'], ['Reference SOC (tC/ha)', 'SOC\nREF,i', '88', 'Table 3 HAC soils, warm temperate'], ['Land use factor', 'f\nLU ,i', '1', 'Table 6 All permanent grassland'], ['Management factor', 'f\nMG,i', '0.95', 'Table 6 Moderately degraded grassland\nOvergrazed or moderately degraded\ngrassland, with somewhat reduced\nproductivity (relative to the native or nominally\nmanaged grassland) and receiving no\nmanagement inputs'], ['Input factor', 'f\nIN,i', '1', 'Table 6 Grassland without input of fertilizer']]
+PROJECT DESCRIPTION :
+CCB Version 3
+Soil organic carbon
+Estimations of soil organic carbon (SOC) stocks were done in accordance to the “Tool for the estimation of
+change in soil organic carbon stocks due to the implementation of A/R CDM project activity”. As suggested
+by the tool, it is assumed that the implementation of the project activity increases the SOC content of the
+lands from the pre-project level to the level that is equal to the steady-state SOC content under native
+vegetation. The increase in SOC content in the project scenario takes place at a constant rate over a period
+of 20 years from the year of planting. The project meets the applicability conditions of this tool since:
+ the areas of land to which the tool is applied do not fall into wetland category, do not contain organic
+soils and are not subject to any of the land management practices and application of inputs listed
+in Tables 1 and 2 of the tool;
+ Since the land use prior to project start is grassland, only Table 2 applies. For the temperate warm
+moist climate region corresponding to the project activity, none of the three combinations included
+in Table 2 are applicable;
+ litter remains on site and is not removed and soil disturbance is in accordance with appropriate
+conservation practices, limited to site preparation and not repeated within 20 years.
+Table 13. Parameters used for estimation of SOC
+SOC at the beginning of the project (SOC ) is estimated by multiplying the factors in Table 13 by the INITIAL,i
+reference SOC. As per the tool, a loss in SOC (SOC ) is applied in the case that soil disturbance occurs LOSS,i
+on more than 10 per cent of the land area, which is the case of Guanaré/FAS project. The following
+methodological formula is used for calculating the annual change in SOC stock:
+SOC (SOC SOC ) dSOC t,i REF,i 20INICIAL,i LOSS,i
+v3.0 71
+
+PROJECT DESCRIPTION :
+CCB Version 3
+Where:
+dSOC T h e r a te of change in SOC stock in stratum i of the area of land, in year t; t C/ha/yr t,i
+SOC Reference SOC stock corresponding to the reference condition in native lands by climate REF,i
+region and soil types applicable to stratum i of the area of land; tC/ha
+SOC SOC stock at the beginning of the A/R CDM project activity in stratum i of the areas of land INICIAL,I
+SOC L o s s of SOC caused by soil disturbance attributable the A/R CDM project activity, in stratum LOSS,i
+I of the areas of land ; tC/ha
+Application of the equation results in an estimated increase of 0.64 t C/ha/year in soil organic carbon.
+3.2.2 Net Impact(CL2.2)","{2002: 2159.605479, 2003: 15081.77157, 2004: 62098.7161, 2005: 311024.3096, 2006: 524464.5205, 2007: 653692.5193, 2008: 756106.4177, 2009: 889493.4849, 2010: 630569.2986, 2011: 501232.1922, 2012: 531509.7968, 2013: 756649.0959, 2014: 760266.3233, 2015: 330306.4725, 2016: 157028.6288, 2017: 329917.5233, 2018: 732104.9068, 2019: 720100.7935, 2020: 97873.15994, 2021: -86109.13425, 2022: 100098.5096, 2023: 572135.3172, 2024: 633447.8116, 2025: 302375.2247, 2026: -2130351.507, 2027: -2784312.152, 2028: -2017628.281, 2029: -51406.87123, 2030: 457998.2055, 2031: 868792.143, 2032: 726258.5748, 2033: 563749.3671, 2034: 599533.526, 2035: 879080.532, 2036: 887135.9775, 2037: 350821.7589, 2038: 133603.5315, 2039: 349563.1091, 2040: 851716.5019, 2041: 836849.9973, 2042: 59480.00548, 2043: -168703.898, 2044: 66842.54188, 2045: 671926.6493, 2046: 763403.3781, 2047: 367681.2996, 2048: -2654897.516, 2049: -3476533.562, 2050: -2502698.937, 2051: -63252.95257, 2052: 571718.6019, 2053: 1084423.249, 2054: 901842.8, 2055: 700108.7258, 2056: 747808.8769, 2057: 1096898.556, 2058: 1102007.712, 2059: 436661.1005, 2060: 166032.1762, 2061: 436899.7918, 2062: 173032.7205}","1","1","1","1","1","0.06","5","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2031: 1291984.0, 2030: 1291984.0, 2029: 1291984.0, 2028: 1291984.0, 2027: 1291984.0, 2026: 1291984.0, 2025: 1291984.0, 2024: 1291984.0, 2023: 1291984.0, 2022: 1291984.0, 2021: 1291984.0, 2020: 1252920.0, 2019: 11110304.0, 2018: 5872058.0, 2017: 4608963.0, 2016: 5242601.0, 2015: 8242569.0}","3.2 Quantification of GHG Emission Reductions and Removals","{2015: 19746.26301, 2016: 36325.83808, 2017: 57812.33726, 2018: 82811.03562, 2019: 93537.59726, 2020: 95323.36319, 2021: 95145.58749, 2022: 95196.4137, 2023: 78960.36438, 2024: 85713.25464, 2025: 88769.53166, 2026: 87755.10137, 2027: 90966.18904, 2028: 91617.45116, 2029: 91612.05843, 2030: 91635.83014, 2031: 91636.0, 2032: 91657.26444, 2033: 91614.73556, 2034: 91636.0, 2035: 91636.0, 2036: 91657.26444, 2037: 91614.73556, 2038: 91636.0, 2039: 62411.45753, 2040: 76510.44898, 2041: 82997.13458, 2042: 81658.67397, 2043: 88012.60822, 2044: 89225.27175, 2045: 89238.28715, 2046: 89259.0, 2047: 89259.0, 2048: 89279.71285, 2049: 89238.28715, 2050: 89259.0, 2051: 89259.0, 2052: 89279.71285, 2053: 89238.28715, 2054: 89259.0, 2055: 89259.0, 2056: 89279.71285, 2057: 89238.28715, 2058: 89259.0, 2059: 89259.0, 2060: 89279.71285, 2061: 89238.28715, 2062: 89259.0, 2063: 89259.0, 2064: 89279.71285, 2065: 89238.28715, 2066: 89259.0, 2067: 89259.0, 2068: 89279.71285, 2069: 89238.28715, 2070: 89259.0, 2071: 89259.0, 2072: 89279.71285, 2073: 89238.28715, 2074: 89035.8358, 2075: 7804.065574}","1","1","1","3","1","0.22","6","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2010: 33943.0, 2020: 53005.0, 2019: 52554.0, 2018: 52127.0, 2017: 51337.0, 2016: 49581.0, 2015: 41434.0, 2014: 39398.0, 2013: 38943.0, 2012: 35839.0, 2011: 35607.0}","3.4 Net GHG Emission Reductions and Removals
+Baseline Emission Reduction is calculated as:
+BE = EG * EF y facility,y grid,CM,y
+= 52,560 *0.9767
+= 51,335 tCO e 2
+v3.2 30
+
+[['', 'Year', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated net', ''], ['', None, None, None, 'baseline', None, None, 'project', None, None, 'leakage', None, None, 'GHG emission', None], [None, None, None, None, 'emissions or', None, None, 'emissions or', None, None, 'emissions', None, None, 'reductions or', None], [None, None, None, None, 'removals', None, None, 'removals', None, None, '(tCO e)\n2', None, None, 'removals', None], [None, None, None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, '', None, None, None, '(tCO e)\n2', None], ['Year 1', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 2', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 3', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 4', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 5', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 6', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 7', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 8', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 9', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Year 10', None, None, '51,335', None, None, '0', None, None, '0', None, None, '51,335', None, None], ['Total', None, None, '513,350', None, None, '0', None, None, '0', None, None, '513,350', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+As the project activity is wind power project, project emissions are zero and there is no leakage
+emission. .
+Therefore, Net Emission Reductions are:
+ER = BE − PE y y y
+= 51,335 - 0
+= 51,335 tCO e 2
+The ex-ante calculation (estimate) of net GHG emission reductions and removals are provided in
+the table below:
+v3.2 31
+
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING","{2023: 51335.0, 2022: 51335.0, 2021: 51335.0, 2020: 51335.0, 2019: 51335.0, 2018: 51335.0, 2017: 51335.0, 2016: 51335.0, 2015: 51335.0, 2014: 51335.0}","1","1","1","5","1","0.33","7","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2028: 653.0, 2027: 5166.0, 2026: 164791.0, 2025: 683360.0, 2024: 1036148.0, 2023: 1021658.0, 2022: 909926.0, 2021: 1197562.0, 2020: 1236965.0, 2019: 1147286.0, 2016: 156378.0, 2015: 91996.0, 2014: 96589.0, 2013: 121296.0, 2012: 123268.0, 2011: 116368.0, 2010: 67103.0, 2008: 8733.0, 2007: 6018.0, 2006: 1911.0}","4.4 Quantifying GHG emission reductions and removal enhancements for the GHG
+project:
+Emissions Reduction: (ER ) y
+For a given year, the emission reductions contributed by the project activity (ER ) is y
+calculated as follows:
+ER = BE -PE -L y y y y
+Where,
+BE - Base Line Emission for the year ‘y’ y
+ER - Emission reductions for the year ‘y’ y
+PE - Project Emissions for the year ‘y’ y
+L - Leakage for the year ‘y’ y
+The emission reductions will be calculated based of actual net electricitysupplied to the
+grid, using the baseline emission factor presented above.
+ER = BE = 82064tCO2e y y
+5 Environmental Impact:
+As per the prevailing local /host country laws no environmental impact assessment is
+required, (the Schedule 1 of Ministry of Environment and Forests (Government of
+India) notification dated September 14, 2006), 38 activities are required to undertake
+environmental impact assessment studies. The details of these activities are available at
+http://envfor.nic.in/legis/eia/so1533.pdf.
+However the project participant has carried out Aspect and Impact analysis of all the
+activities of the project and concluded that there is no negative environmental impact
+due to the project activity and wind energy is one of the cleanest sources of energy.
+39
+
+[['Sl\nNo', 'Questions'], ['1.', 'What do you think about the environment in your locality?'], ['2.', 'Is your environment affected by the wind mill?'], ['3.', 'Is your TV Reception affected by the Windmill?'], ['4.', 'Does the project affect the livelihood?'], ['5.', 'Does the project improve the livelihood?'], ['6.', 'Has employment increased due to the project?'], ['7.', 'Is there Noise problem due to the wind mill?'], ['8.', 'Is there water problem due to the windmill?'], ['9.', 'Is there Vibration problem due to the windmill?'], ['10.', 'Is there any problem with respect to construction?'], ['11.', 'Does the wind mill affect the migration of birds?'], ['12.', 'Does the wind mill affect the grazing of cattle?'], ['13.', 'What are the benefits from the wind Mill?'], ['14.', 'Comments and suggestions :(if any)']]
+[['Sl\nNo', 'Question', 'Response By Majority of\nrespondents'], ['1.', 'What do you think about the\nenvironment in your locality?', 'Very Good'], ['2.', 'Is your environment affected by wind\nmill?', 'Not at all affected'], ['3.', 'Is your TV Reception affected by\nWindmill?', 'Not at all affected'], ['4.', 'Does the project affect the livelihood?', 'Not at all affected'], ['5.', 'Does the project improve livelihood?', 'Good Improvement']]
+VCS Project Description
+6 Stake holder’s comments:
+The local stakeholders have already been contacted for the first & second bundled
+CDM projects of TASMA. For this project also, a questionnaire survey was conducted
+covering the people living inthe villages nearby the site.
+The basic points covered in the questionnaire are given below:
+Summary of the comments received
+The overall opinion expressed through the questionnaire was based on the experience of
+the local stake holders with the already existing windmills. The overall response was
+that the impact of windmills in the locality will be of positive nature.
+The summary analysis of questionnaire survey is presented below:-
+40
+
+[['6.', 'Has employment increased due to the\nproject?', 'Good Improvement'], ['7.', 'Is there any Noise problem due to wind\nmill?', 'Not at all'], ['8.', 'Is there any water problem due to\nwindmill?', 'Not at all'], ['9.', 'Is there any Vibration problem due to\nwindmill?', 'Not at all'], ['10.', 'Is there any problem with respect to\nconstruction?', 'Not at all'], ['11.', 'Does the wind mill affect the migration\nof birds?', 'Not at all'], ['12.', 'Does the wind mill affect the grazing of\ncattle?', 'Not at all'], ['13.', 'What are the benefits from the wind\nMill?', 'Good Benefits'], ['14.', 'Comments and suggestions :', '\uf0b7 Plantation to be considered\n\uf0b7 Approach roads should not\naffect water catchments\n\uf0b7 Provide employment for\nlocals'], ['15.', 'Any other Points for consideration', '\uf0b7 Many good suggestions\nwere given which are\nalready been taken care /\nwill be considered in future\nalso.']]
+VCS Project Description
+Report on how due account was taken of any comments received
+The responses are categorised as positive and negative based on the comments. The
+positive responses indicate that respondent feels that the project activity will lead to
+overall good for the society.
+All of the individual respondents are of the view that the project activity is of good to
+them and the society. It has added to the electricity generation of the state grid without
+causing any pollution.
+No negative comments were not received that required follow up action. The original
+sheet shown and a copy given.
+41
+
+[['Parameter', 'Date/period'], ['Start date of the project activity', '5thMarch2002'], ['Project termination', '31stMarch 2026'], ['Project lifetime', '20 years'], ['Agreement with the DOE', '11thNovember 2008'], ['VCS PD completion', '23rdSeptember2009'], ['Begin VCS Validation', '1stOctober2009'], ['Monitoring frequency by TNEB &\nSite In-charge', 'Monthly'], ['Reporting frequency to TASMA by\nRegional Representative', 'Once in three months']]
+VCS Project Description
+7 Schedule:
+Table: 28 Chronological plans
+42
+
+VCS Project Description
+8 Ownership:
+8.1 Proof ofTitle:
+The Commissioning certificate issued by the TNEB for all the WTGs is the vital
+evidence for the proof of title of the sub-project owners.Also, an authorization letter is
+given by each individual sub project owner to TASMAto deal with the processes. The
+above said documentsare provided totheDOE for verification.
+8.2 Projects that reduce GHG emissions from activities that participate in an
+emissions trading program (if applicable):
+>> Not applicable
+43","{2015: 82064.0, 2014: 82064.0, 2013: 82064.0, 2012: 82064.0, 2011: 82064.0, 2010: 82064.0, 2009: 82064.0, 2008: 82064.0, 2007: 82064.0, 2006: 82064.0}","1","1","1","3","1","0.3","8","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{""yearly_estimated_ghg_emission_reductions_or_removals"": 34963.0}","8.2 Projects that reduce GHG emissions from activities that participate
+in an emissions trading program (if applicable):
+Not Applicable
+________________________________________________________
+38","{2017: 127668.0, 2016: 127668.0, 2015: 127668.0, 2014: 127668.0, 2013: 127668.0, 2012: 127668.0, 2011: 127668.0, 2010: 127668.0, 2009: 100407.0, 2008: 27192.0}","1","1","1","5","1","0","9","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2052: 394231.6, 2051: 394231.6, 2050: 394231.6, 2049: 394231.6, 2048: 394231.6, 2047: 394231.6, 2046: 394231.6, 2045: 394231.6, 2044: 394231.6, 2043: 394231.6, 2042: 394231.6}","1.3. Estimated amount of emission reductions over the
+crediting period including project size:
+The project activity will generate GHG reductions in
+the range of 769,396 tCO e per year. 2
+According to VCS 2007_1 section 5.2.1 the earliest
+Project Crediting Period Start Date under the VCS
+2007.1 shall be 28 March 2006 for non- AFOLU projects,
+which is selected as Crediting Period Start Date for
+this Grouped Project activity.
+1
+
+[['Year', 'Estimation of annual emission\nreductions in tonnes of CO2e'], ['2006.3-2007.3', '769,396'], ['2007.3-2008.3', '769,396'], ['2008.3-2009.3', '769,396'], ['2009.3-2010.3', '769,396'], ['2010.3-2011.3', '769,396'], ['2011.3-2012.3', '769,396'], ['2012.3-2013.3', '769,396'], ['2013.3-2014.3', '769,396'], ['2014.3-2015.3', '769,396'], ['2015.3-2016.3', '769,396'], ['Total number\nof crediting\nyears', '10'], ['Total\nestimated ER\nincluding\nretro active\namounts', '7,693,960']]
+Emission reduction estimates over a crediting period
+of 10 (ten) years, starting after 28 March 2006, is
+provided in the table below.
+Table 1-1","{2016: 769396.0, 2015: 1538792.0, 2014: 769396.0, 2013: 769396.0, 2012: 769396.0, 2011: 769396.0, 2010: 769396.0, 2009: 769396.0, 2008: 769396.0, 2007: 769396.0, 2006: 769396.0}","1","1","1","1","1","0","10","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2010: 99452859.11, 2009: 98532496.86, 2008: 104062368.04}","[['Fuel Type', '', 'NCV (TJ/kt)', None, None, None, None, None, None, ''], [None, '', '2008', '', '', '2009', '', '', '2010', '']]
+3.4 Summary of GHG Emission Reductions and Removals
+Ex-ante calculation of emission reductions:
+Simple Operating margin (OM)
+As also explained above, for the computation of the Simple OM, the Ex-Ante option is selected, at the
+time of PDD submission to the DOE, the data vintages that were most recent, belongs to the years
+2008, 2009 and 2010. All the data used in calculation of the Simple OM are taken from the TEİAŞ
+website, details of which are given below. Taking into account the available data “Simple OM” method
+“Option B” is the appropriate method for the project activity. TEİAŞ publishes the annual heating
+values of the fuels consumed in the power plants, the heating values are directly related to fuel
+consumption and are used to calculate average Net Calorific Values (TJ/kt) (Table 10).
+The heating values of fuels consumed in thermal power plants are announced by TEİAŞ, the unit of
+the heating values are Tcal. Tcal is converted to GJoule by using the conversion factor 1cal = 4.1868
+Joule. Then the heating values in GJ are divided by Fuel Consumption (FC ) to get the Net Calorific i,y
+Values of the fuels consumed in TJ/kt as follows:
+Table 10: Net Calorific Values for each fuel type for Turkey
+Hard Coal+ Imported Coal 22.24 22.21 22.32
+Lignite 6.83 6.43 7.13
+Fuel Oil 39.70 39.81 40.23
+31 The reservoir volume Area curve that indicates the aerial extent of the reservoir at maximum operation level is provided in
+Annex 5.
+v3.1 34
+
+[['', 'Default CO Emissions (tCO )\n2 2', None, None, ''], ['', '2008', '2009', '2010', ''], ['Hard Coal+Imported Coal', '12,942,102.18', '13,649,138.82', '15,365,199.79', None], ['Lignite', '41,189,044.65', '37,164,240.90', '36,745,389.26', None], ['Fuel Oil', '6,513,942.76', '4,792,096.57', '2,708,730.18', None], ['Diesel Oil', '403,661.11', '556,318.57', '63,674.50', None], ['Lpg', '0.00', '317.74', '0.00', None], ['Naphtha', '32,786.41', '24,429.94', '30,502.68', None], ['Natural Gas', '42,980,830.92', '42,346,272.06', '44,215,362.69', None], ['TOTAL', '104,062,368.04', '98,532,496.86', '99,128,859.11', None]]
+[['', '2008', '2009', '2010'], ['Unit: GWh', None, None, None], ['Net Generation 189,761.90 186,619.30 203,046.10', None, None, None], ['Gross Generation 198,418.00 194,812.90 211,207.70', None, None, None], ['Net/Gross Ratio 0.9563744 0.9579412 0.9613575', None, None, None], ['Net Thermal Generation 156,978.63 150,323.43 149,806.03', None, None, None], ['Electricity Imports 789.40 812.00 734.26', None, None, None], ['EG (GWh) 157,768.03 151,135.43 150,949.83\ny', None, None, None], ['EG (MWh) 157,768,028.11 151,135,428.72 150,949,827.21\ny', None, None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Diesel Oil 42.38 42.37 43.09
+LPG 0.0032 46.47 0.0013
+Naphtha 44.61 43.65 33.50
+Natural Gas 44.61 43.65 33.50
+The emission factors of fuels required are taken from IPCC 2006 guidelines for GHG inventories33. All
+data used for the calculations can be found in Annex-2 (See Table 1 and Table 2 to in Annex -2).
+Table 11 shows total CO emission by fuel types calculated using lower IPCC emission factors and 2
+available data from the TEİAŞ website.
+Table 11: Calculation of emission by electricity generation (2008-2010)
+Net electricity generated and supplied to the grid by thermal power plants has been calculated using
+data obtained from TEİAŞ web page. The ratio between total gross and total net generation (including
+low-cost/must run plants) has been calculated for each year. The same ratio is assumed to be valid
+for all thermal plants and total net generation by the plants has been calculated accordingly. Summing
+up total net generation with the imported electricity, total supply excluding low cost / must run sources
+for each year is determined and given in Table 12.
+Table 12: Net Electricity Generation from thermal power plants (units in GWh)
+32 It is shown as zero as in year 2008 and 2010 there was no LPG consumption in the grid.
+33 Table 2.2.Default Emission Factors for Stationary Combustion in the Energy Industries, Vol.2. Energy, 2006 IPCC Guidelines
+for National Greenhouse Gas Inventories, (http://www.ipcc-
+nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf)
+v3.1 35
+
+[['Year', '', 'OM Emission', ''], [None, None, 'Factor', None]]
+PROJECT DESCRIPTION : VCS Version 3
+The OM Emission Factor for the years 2008, 2009 and 2010 are calculated by dividing the total CO 2
+emissions for those years (Table10) to the Net Electricity Generation (Table 12) for the subject year.
+The annual OM emission factors are calculated as follows (Table 13):
+Table 13: Annual OM Emission Factors
+2008 0.65959
+2009 0.65195
+2010 0.65670
+Finally, OM emission factor is calculated as a generation weighted average for the three most recent
+years. The resulting OM Emission Factor is;
+EF = 0.65613 grid,OMsimple
+Build margin (BM)
+As mentioned above we have preferred the Option 1, calculating the Build Margin Emission factor, “ex
+ante”, for the first crediting period.
+Between the SET and SET , the sample group that comprises the larger annual generation is 5-units ≥20%
+SET , hence the set of capacity additions in the electricity system that comprise 20% of the system ≥20%
+generation is used.
+The amount of electricity produced by the SET is calculated to be 4,288.65 GWh. (= AEG 5-units SET-5-
+). units
+The gross electricity generation in year 2010 is taken as reference for determination of plants that
+comprise 20% of the system generation. The gross generation in year 2010 was 211,207.70 GWh
+(Table 11) in 2010 out of this amount 7,053.40 GWh was identified34 to be produced by projects that
+claimed VERs, excluding this number from the gross generation we end up with 195,992.70 GWh of
+electricity which is our AEG and 20% of that amount is calculated as 39,198.54 GWh. TOTAL
+Comparing the AEG and 20% of AEG , it is seen that 20% of AEG , is higher than SET-5-units TOTAL TOTAL
+AEG SET-5-units.
+Thereforethe 20% of AEG with a value of 39,198.54 GWh is to be compared to the capacity TOTAL
+additions in the recent years.
+Summing up electricity the generations of all the plants added to the Turkish National Grid in 2010
+and 2009, but excluding the projects that claimed VERs, their total generation is 47,745.76 GWh.
+The total generation by the power plants added in year 2010 is 26,256.04 GWh which is still less than
+the 20% of AEG value of 39,198.54 GWh, however we are unable to identify the date of addition TOTAL
+34 A list of units providing electricity to the year 2010 Turkish Electricity Grid is provided as an Annex 1 to the most recent
+Capacity Projection report published by TEIAS (http://212.175.131.171/projeksiyon/KAPASITEPROJEKSIYONU2011.pdf). We
+have checked and identified the ones that have claimed VERs by comparing the list to the Gold Standard registry
+(https://gs2.apx.com/myModule/rpt/myrpt.asp?r=111) and VCS Project Database (http://www.vcsprojectdatabase.org). This list
+is provided to the validating DOE.
+v3.1 36","{2024: 90449.0, 2023: 218634.0, 2022: 218634.0, 2021: 218634.0, 2020: 218634.0, 2019: 218634.0, 2018: 218634.0, 2017: 218634.0, 2016: 218634.0, 2015: 218634.0, 2014: 128185.0}","1","3","1","1","1","0","11","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{}","E.1. Estimate of GHG emissions by sources:
+>>
+Project emissions are zero, as this is a wind power project.","{2017: 430588.0, 2016: 430588.0, 2015: 430588.0, 2014: 430588.0, 2013: 430588.0, 2012: 430588.0, 2011: 430588.0}","NaN","NaN","NaN","NaN","NaN","NaN","12","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2015: 10344.0, 2014: 58778.0, 2013: 93725.0, 2012: 128058.0, 2011: 158588.0, 2010: 176647.0, 2009: 185707.0, 2008: 181833.0, 2007: 172100.0, 2006: 155009.0}","4.3.3 Ex post calculation of net anthropogenic GHG emission reduction
+a) Technical description of the monitoring tasks.
+The calculation of ex post net anthropogenic GHG emission reductions is similar to the ex ante
+calculation with the only difference that ex post estimated carbon stock changes and GHG
+v3.3 177
+
+PROJECT DESCRIPTION : VCS Version 3
+emissions must be used in the case of the project scenario and leakage.
+b) Data to be collected.
+Report the ex post estimated net anthropogenic GHG emissions and calculation of Verified
+Carbon Units (VCUt, and VBCt) using the same table format used for the ex ante assessment:
+Table 36: Ex post estimated net anthropogenic GHG emission reductions and VCUs.
+c) Overview of data collection procedures.
+Data collection procedures are the same as described in previous steps. This step involves
+compilation of data from previous procedures to calculate ex post net anthropogenic GHG
+emission reduction.
+d) Quality control and quality assurance procedures.
+A map showing Cumulative Areas Credited within the project area shall be updated and
+presented to VCS verifiers at each verification event. The cumulative area cannot generate
+additional VCUs in future periods.
+e) Data archiving.
+All maps and records generated during project implementation will be conserved and made
+available to VCS verifiers at verification for inspection to demonstrate that the AUD project activity
+has actually been implemented.
+All documents and records will be kept in a secure retrievable manner for at least two years after
+the end of the project crediting period.
+f) Organization and responsibilities of the parties involved in all the above.
+All satellite imagery assessments will be performed by GEOWIKI. CARBONEXT is responsible
+for reporting and data archiving, according to VM0015, and for providing assistance during
+verification audits. The Project Proponent is co-responsible for data archiving.","{2043: 289927.0, 2042: 69713.0, 2041: 182121.0, 2040: 156315.0, 2039: 262177.0, 2038: 145316.0, 2037: 255764.0, 2036: 134345.0, 2035: 243083.0, 2034: 123387.0, 2033: 233371.0, 2032: 112420.0, 2031: 224846.0, 2030: 101475.0, 2029: 214514.0, 2028: 90492.0, 2027: 210384.0, 2026: -7106.0, 2025: 112111.0, 2024: -7434.0, 2023: 110880.0, 2022: -19979.0, 2021: 102476.0, 2020: -32573.0, 2019: 87396.0, 2018: -45137.0, 2017: 75060.0, 2016: -57704.0, 2015: 63370.0, 2014: 836911.0}","1","1","1","3","3","0.05","13","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2028: 225.228, 2029: 232.78, 2030: 239.268, 2031: 242.584, 2032: 241.392, 2033: 240.789, 2034: 233.344, 2035: 233.794, 2036: 238.381, 2037: 242.739, 2038: 246.879, 2039: 250.811, 2040: 254.548, 2041: 258.097, 2042: 261.429, 2043: 264.379, 2044: 266.669, 2045: 268.307, 2046: 268.977, 2047: 269.078, 2048: 269.078, 2049: 269.078, 2050: 269.078, 2051: 269.078, 2052: 269.078, 2053: 269.078, 2054: 269.078, 2055: 269.078, 2056:","[['Years', None, None, '', 'Estimated baseline emissions', '', '', 'Estimated project emissions', '', '', 'Estimated leakage', '', '', 'Estimated net GHG emission', ''], [None, None, None, None, 'or removals (tCO2e)', None, None, 'or removals (tCO2e)', None, None, 'emissions (tCO2e)', None, None, 'reductions or removals (tCO2e)', None], ['', '2010', '', '', '990', '', '', '1.365', '', '0', None, None, '', '375', ''], ['', '2011', '', '', '7.894', '', '', '10.210', '', '0', None, None, '', '2.316', ''], ['', '2012', '', '', '19.969', '', '', '27.219', '', '0', None, None, '', '7.250', ''], ['', '2013', '', '', '31.919', '', '', '46.625', '', '0', None, None, '', '14.706', ''], ['', '2014', '', '', '48.685', '', '', '74.021', '', '0', None, None, '', '25.336', ''], ['', '2015', '', '', '53.671', '', '', '96.642', '', '0', None, None, '', '42.971', ''], ['', '2016', '', '', '53.671', '', '', '115.908', '', '0', None, None, '', '62.236', ''], ['', '2017', '', '', '53.671', '', '', '135.173', '', '0', None, None, '', '81.501', ''], ['', '2018', '', '', '53.671', '', '', '154.438', '', '0', None, None, '', '100.767', ''], ['', '2019', '', '', '53.671', '', '', '173.743', '', '0', None, None, '', '120.072', ''], ['', '2020', '', '', '53.671', '', '', '192.182', '', '0', None, None, '', '138.510', ''], ['', '2021', '', '', '53.671', '', '', '208.695', '', '0', None, None, '', '155.024', ''], ['', '2022', '', '', '53.671', '', '', '223.436', '', '0', None, None, '', '169.764', ''], ['', '2023', '', '', '53.671', '', '', '234.739', '', '0', None, None, '', '181.068', ''], ['', '2024', '', '', '53.671', '', '', '244.500', '', '0', None, None, '', '190.828', ''], ['', '2025', '', '', '53.671', '', '', '253.772', '', '0', None, None, '', '200.101', ''], ['', '2026', '', '', '53.671', '', '', '262.581', '', '0', None, None, '', '208.910', ''], ['', '2027', '', '', '53.671', '', '', '270.949', '', '0', None, None, '', '217.278', ''], ['', '2028', '', '', '53.671', '', '', '278.899', '', '0', None, None, '', '225.228', ''], ['', '2029', '', '', '53.671', '', '', '286.452', '', '0', None, None, '', '232.780', ''], ['', '2030', '', '', '53.671', '', '', '292.940', '', '0', None, None, '', '239.268', ''], ['', '2031', '', '', '53.671', '', '', '296.255', '', '0', None, None, '', '242.584', ''], ['', '2032', '', '', '53.671', '', '', '295.064', '', '0', None, None, '', '241.392', ''], ['', '2033', '', '', '53.671', '', '', '294.461', '', '0', None, None, '', '240.789', ''], ['', '2034', '', '', '53.671', '', '', '287.015', '', '0', None, None, '', '233.344', ''], ['', '2035', '', '', '53.671', '', '', '287.466', '', '0', None, None, '', '233.794', ''], ['', '2036', '', '', '53.671', '', '', '292.053', '', '0', None, None, '', '238.381', ''], ['', '2037', '', '', '53.671', '', '', '296.410', '', '0', None, None, '', '242.739', ''], ['', '2038', '', '', '53.671', '', '', '300.550', '', '0', None, None, '', '246.879', ''], ['', '2039', '', '', '53.671', '', '', '304.483', '', '0', None, None, '', '250.811', ''], ['', '2040', '', '', '53.671', '', '', '308.219', '', '0', None, None, '', '254.548', ''], ['', '2041', '', '', '53.671', '', '', '311.768', '', '0', None, None, '', '258.097', ''], ['', '2042', '', '', '53.671', '', '', '315.101', '', '0', None, None, '', '261.429', ''], ['', '2043', '', '', '53.671', '', '', '318.050', '', '0', None, None, '', '264.379', ''], ['', '2044', '', '', '53.671', '', '', '320.341', '', '0', None, None, '', '266.669', ''], ['', '2045', '', '', '53.671', '', '', '321.978', '', '0', None, None, '', '268.307', ''], ['', '2046', '', '', '53.671', '', '', '322.649', '', '0', None, None, '', '268.977', ''], ['', '2047', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2048', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2049', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2050', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2051', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2052', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2053', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2054', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2055', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2056', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2057', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2058', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2059', '', '', '53.671', '', '', '322.750', '', '0', None, None, '', '269.078', ''], ['', '2060', '', '', '53.671', '', '322.750', None, None, '0', None, None, '', '269.078', '']]
+3.4 Net GHG Emission Reductions and Removals
+v3.2 54
+
+[['', '2061', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2062', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2063', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2064', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2065', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2066', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2067', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2068', '', '', '53.671', '', '322.750', '0', '', '269.078', ''], ['', '2069', '', '', '53.671', '', '322.750', '0', '', '269.078', '']]
+PROJECT DESCRIPTION : VCS Version 3
+The Long-Term Average Emission Reductions is 227 497 tCO2e. The period over which the long-term
+average is calculated is the project longevity: 80 years.
+4 MONITORING","{2010: 375.0, 2011: 2316.0, 2012: 7250.0, 2013: 14706.0, 2014: 25336.0, 2015: 42971.0, 2016: 62236.0, 2017: 81501.0, 2018: 100767.0, 2019: 120072.0, 2020: 138510.0, 2021: 155024.0, 2022: 169764.0, 2023: 181068.0, 2024: 190828.0, 2025: 200101.0, 2026: 208910.0, 2027: 217278.0, 2028: 225228.0, 2029: 232780.0, 2030: 239268.0, 2031: 242584.0, 2032: 241392.0, 2033: 240789.0, 2034: 233344.0, 2035: 233794.0, 2036: 238381.0, 2037: 242739.0, 2038: 246879.0, 2039: 250811.0, 2040: 254548.0, 2041: 258097.0, 2042: 261429.0, 2043: 264379.0, 2044: 266669.0, 2045: 268307.0, 2046: 268977.0, 2047: 269078.0, 2048: 269078.0, 2049: 269078.0, 2050: 269078.0, 2051: 269078.0, 2052: 269078.0, 2053: 269078.0, 2054: 269078.0, 2055: 269078.0, 2056: 269078.0, 2057: 269078.0, 2058: 269078.0, 2059: 269078.0, 2060: 269078.0, 2061: 269078.0, 2062: 269078.0, 2063: 269078.0, 2064: 269078.0, 2065: 269078.0, 2066: 269078.0, 2067: 269078.0, 2068: 269078.0, 2069: 269078.0}","1","1","1","1","1","0.33","14","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2012: 51789, 2011: 30764}","[['', 'Project', '', 'X'], ['', 'Mega-project', '', '']]
+[['', 'Years', '', '', 'Estimated GHG emission reductions', ''], ['', None, None, None, 'or removals (tCO2e)', None], ['2011 (since 15/06/2011)', None, None, '30,764', None, None], ['2012 (until 30/11/2012)', None, None, '51,789', None, None], ['Total estimated ERs', None, None, '82,553', None, None], ['Total number of crediting years', None, None, '2', None, None], ['Average annual ERs', None, None, '56,427', None, None]]
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+The estimates of emission reduction are provided to facilitate evaluation of emission reduction from the
+Project. The total estimated emission reduction to be achieved by the project is about 82,553 tons of
+CO2e over the crediting period.
+With an average annual generation of approximately 92.101 GWh, the Project will reduce emissions by
+56,427 tons of CO2e per year and hence the project activity is categorized as “Projects”.
+Table 1.2: Estimated GHG emission reductions","{2020: 221461.0, 2019: 221461.0, 2018: 221461.0, 2017: 221461.0, 2016: 221461.0, 2015: 221461.0, 2014: 221461.0, 2013: 221461.0, 2012: 221461.0, 2011: 423845.0, 2010: 334483.0}","1","1","5","3","1","0.15","15","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2025: 364244.0, 2024: 364244.0, 2023: 364244.0, 2022: 364244.0, 2021: 364244.0, 2020: 364244.0, 2019: 364244.0, 2018: 364244.0, 2017: 364244.0, 2016: 364244.0}","3.4 Estimated Net GHG Emission Reductions and Removals
+Baseline Emissions
+As per the equation 6 of the methodology ACM 0002 (Version 17.0),
+BE = EG , * EF (1) y PJ y grid, CM, y
+Where:
+BE : Baseline emissions in year y (tCO e/yr) y 2
+EG : Quantity of net electricity generation that is produced and fed into the grid as a PJ, y
+result of the implementation of the CDM project activity in year y (MWh/yr)
+EF : Combined margin CO emission factor for grid connected power generation in grid, CM, y 2
+year y calculated using the latest version of the “Tool to calculate the emission
+factor for an electricity system” (tCO e/MWh) 2
+Thus, BE = EG , * EF y PJ y grid, CM, y
+BE = 368,856 (MWh)* 0.99 tCO /MWh y 2
+BE = 364,244 tCO y 2
+Project Emissions
+As per the para 36 of methodology ACM 0002 (Version 17.0), “For most renewable power
+generation project activities, PE = 0. y
+Leakage Emissions
+As per para 5.6 of the methodology ACM 0002 (Version 17.0) does not consider any leakage
+emissions.
+Emission reductions
+As per equation number (17) of the applied methodology, emission reductions are calculated as
+follows:
+ER = BE – PE (7) y y y
+Where:
+ER Emission reductions in year y (tCO e/yr) y 2
+BE Baseline emissions in year y (tCO e/yr) y 2
+PE Project emissions in year y (tCO e/yr) y 2
+Thus, ER = 364,244 – 0 tCO y 2
+= 364,244 tCO 2
+v3.0 37
+
+[['Year', '', 'Estimated', '', 'Estimated project\nemissions or\nremovals (tCO e)\n2', '', 'Estimated', '', 'Estimated net GHG\nemission reductions\nor removals (tCO e)\n2'], [None, None, 'baseline', None, None, None, 'leakage', None, None], [None, None, 'emissions or', None, None, None, 'emissions', None, None], [None, None, 'removals (tCO e)\n2', None, None, None, '(tCO e)\n2', None, None], ['Year 1', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 2', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 3', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 4', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 5', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 6', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 7', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 8', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 9', '364,244', None, None, '0', '0', None, None, '364,244'], ['Year 10', '364,244', None, None, '0', '0', None, None, '364,244'], ['Total', '3,642,440', None, None, '0', '0', None, None, '3,642,440']]
+JOINT PROJECT DESCRIPTION & MONITORING REPORT: VCS Version 3
+4 MONITORING","{2025: 364244.0, 2024: 364244.0, 2023: 364244.0, 2022: 364244.0, 2021: 364244.0, 2020: 364244.0, 2019: 364244.0, 2018: 364244.0, 2017: 364244.0, 2016: 364244.0, 2015: 364244.0}","1","1","1","1","5","0.95","16","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","55_6527_2013: 1_845_metric_tons_of_CO2eq
+55_6527_2013: 1_192_metric_tons_of_CO2eq
+55_6527_2013: 7_844_metric_tons_of_CO2eq
+55_6527_2013: 162_530_metric_tons_of_CO2eq
+55_6527_2013: 34_086_metric_tons_of_CO2eq
+55_6527_2013: 19_788_metric_tons_of_CO2eq
+55_6527_2013: 1_569_metric_tons_of_CO2eq
+55_6527_2013: 8_867_metric_tons_of_CO2eq
+55_6527_2013: 39_888_metric_tons_of_CO2eq
+55_6527_2013: 16_551_metric_tons_of_CO2eq
+55_6527_2013: 11_386_metric_tons_of_CO2eq
+55_6527_2013: 31_720_metric_tons_of_CO2eq
+55_6527_2012: 38_100_metric_tons_of","3.2 Quantification of GHG Emission Reductions and Removals","{2014: 25923.37808, 2015: 59858.29405, 2016: 104562.9799, 2017: 161941.4192, 2018: 226802.9945, 2019: 293727.1638, 2020: 361711.9267, 2021: 424356.2904, 2022: 482128.3151, 2023: 532028.2466, 2024: 577583.4685, 2025: 612094.3781, 2026: 639895.6082, 2027: 658936.0534, 2028: 674916.185, 2029: 680645.8411, 2030: 681991.4, 2031: 677026.8362, 2032: 671728.3967, 2033: 658817.7288, 2034: 186697.0959}","1","1","1","1","1","0","17","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","1,011,196 ACCU","[['Baseline GHG'], ['emissions from'], ['biomass burning']]
+Project Description: VCS Version 4.0
+Table 70. Ex ante estimated net anthropogenic GHG emission reductions (REDD) and verified carbon units (VCU) t t
+142","{2032: 8487.0, 2031: 112625.0, 2030: 77690.0, 2029: 51245.0, 2028: 67736.0, 2027: 122071.0, 2026: 10162.0, 2025: 112758.0, 2024: 90405.0, 2023: 72423.0, 2022: 55929.0, 2021: 126862.0, 2020: 13602.0, 2019: 245055.0, 2018: 30024.0, 2017: 60999.0, 2016: 83986.0, 2015: 7392.0, 2014: 65796.0, 2013: 80542.0, 2012: 93784.0, 2011: 57864.0, 2010: 71954.0, 2009: 71967.0, 2008: 74014.0, 2007: 70306.0, 2006: 72363.0, 2005: 42743.0, 2004: 57017.0, 2003: 62338.0}","1","1","1","1","1","0","18","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2019: 108761.0, 2018: 432657.0, 2017: 1046495.0, 2016: 1540931.0}","[['Parameters', 'Description'], ['', 'Emission reductions in season s (tCO e)\n2']]
+[['Parameters', 'Description'], ['', 'Emission reductions in year y (t CO e)\n2']]
+4.4 Net GHG Emission Reductions and Removals
+The emission reductions achieved by the project activity shall be calculated as the difference
+between the baseline and the project emissions, which is also used as post-emission
+reduction:
+Where: 𝐵𝐵𝐸𝐸𝑠𝑠 =𝐵𝐵𝐵𝐵𝑠𝑠−𝐺𝐺𝐵𝐵𝑠𝑠 (5)
+Ex ant𝐵𝐵e𝐸𝐸 e𝑠𝑠 stimation of emission reductions
+According to the applied methodology AMS-Ⅲ.AU (version 4.0), for the ex ante estimation
+of emission reductions within the project design document prior to the project implementation,
+project proponent shall refer to own field experiments or estimate baseline and project
+emissions with the help of national data or IPCC tier 1 default values for emission and scaling
+factors.
+In this project, using the IPCC tier 1 approach but undertaking measurements to determine
+baseline emission factors for continuously flooded fields, as per the following formula:
+−3
+𝐵𝐵𝐸𝐸𝑦𝑦 =𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸×𝐴𝐴𝑦𝑦×𝐿𝐿𝑦𝑦×10 ×𝐺𝐺𝐺𝐺𝐺𝐺𝐶𝐶𝐶𝐶4 (6)
+𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵−𝐵𝐵𝐸𝐸𝑃𝑃 (7)
+𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑤𝑤×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑝𝑝×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑜𝑜 (8)
+Where: 𝐵𝐵𝐸𝐸𝑃𝑃 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐×𝑆𝑆𝐸𝐸𝑃𝑃,𝑤𝑤×𝑆𝑆𝐸𝐸𝑃𝑃,𝑝𝑝×𝑆𝑆𝐸𝐸𝑃𝑃,𝑜𝑜 (9)
+𝐵𝐵𝐸𝐸𝑦𝑦
+42
+
+[['', 'Adjusted daily emission factor (kgCH /ha/day). Alternatively,\n4\nseasonal emission factor (kg CH /ha/season31) may be determined\n4'], ['𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸', 'Area of project fields in year y (ha)'], ['𝐴𝐴𝑦𝑦', 'Cultivation period of rice in year y (days/year). This is not applicable\nwhen seasonal emission factor is determined.'], ['𝐿𝐿𝑦𝑦', 'Global warming potential of CH (t CO e/t CH )\n4 2 4'], ['𝐺𝐺𝐺𝐺𝐺𝐺𝐶𝐶𝐶𝐶4', 'Baseline emission factor (kg CH /ha/day) or (kg CH /ha/season)\n4 4'], ['𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵', 'Project emission factor (kg CH /ha/day) or (kg CH /ha/season)\n4 4'], ['𝐵𝐵𝐸𝐸𝑃𝑃', 'Baseline emission factor for continuously flooded fields without\norganic amendments (kg CH /ha/day) or (kg CH /ha/season)\n4 4'], ['𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐\nor', 'Baseline or project scaling factors32 to account for the differences in\nwater regime during the cultivation period'], ['𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑤𝑤 𝑆𝑆𝐸𝐸𝑃𝑃,𝑤𝑤\nor', 'Baseline or project scaling factors to account for the differences in\nwater regime during the pre-season before the cultivation period'], ['𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑝𝑝 𝑆𝑆𝐸𝐸𝑃𝑃,𝑝𝑝\nor', 'Baseline or project scaling factors should vary for both type and\namount of organic amendment applied']]
+Project Description: VCS Version 4.0
+𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑜𝑜 𝑆𝑆𝐸𝐸𝑃𝑃,𝑜𝑜
+Determination of EF BL,c
+However, the baseline emission factor for continuously flooded fields without organic
+amendments ( ) can be determined ex ante prior to the start of the project activity, in this
+case, the ex ante value should be used to calculate emission reduction during the crediting 𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐
+period. It should be measured by using closed chamber in three reference fields which are
+chosen in the project area. expertAccording to the guidance on methane measurement in the
+appendix of AMS-III.AU Methodology, the following requirements should be met.
+1. The implementation of methane measurement in rice fields requires the involvement of
+expert in this field or at least experienced staff trained by expert (i.e. from research
+institutions). These guidelines cannot replace expertise in setting up chamber
+measurements. They rather set minimum requirements that serve for standardizing the
+31For all scaling factor used in this methodology, the average values in 2006 IPCC Guidelines for
+National Greenhouse Gas Inventories are chosen.
+32 For all scaling factor used in this methodology, the average values in 2006 IPCC Guidelines for
+National Greenhouse Gas Inventories are chosen.
+43
+
+[['Specific Information', 'Plot 1', 'Plot 2', 'Plot 3'], ['Area', '0.34ha', '0.32ha', '0.36ha'], ['Geological\ncoordinates', '118.794086°E\n30.227896°N', '118.794027°E\n30.228183°N', '118.794267°E\n30.228668°N'], ['Location', 'Liqiao Town, Xuanzhou District, Xuancheng City', None, None], ['The type of rice', 'Hybrid rice', None, None], ['Climate', 'Subtropical monsoon climate', None, None], ['Soil', '5.5<pH<7.4 and the soil organic carbon is 2.53%35', None, None]]
+Project Description: VCS Version 4.0
+conditions under which methane emissions are measured for projects under this
+methodology.
+The closed chamber measurement requires the involvement of technicians trained by expert
+from Anhui Academy of Agricultural Sciences under the jurisdiction of the Anhui Agricultural
+Bureau. Anhui Academy of Agricultural Sciences is a comprehensive agricultural research
+institution directly under the provincial government. The expert who is the leader of the
+experiment has a doctoral degree and her field of study is rice cultivation and GHG
+monitoring33 . The chamber measurements were conducted by technicians trained by the
+expert on 07 March 2017 for the early season and 10 July 2017 for the second season,
+respectively34. The base is embedded just before transplanting, and the first gas sampling
+began on the second day after transplanting, followed by sampling every 7 days. After
+sampling, the gas is stored in the evacuated vial, and the samples collected after three times
+should be taken together for laboratory analysis.
+2. Project proponents shall prepare a detailed plan for the seasonal methane
+measurements before the start of the season. The plan shall include the schedule for the
+field and laboratory measurements, the logistics that are necessary to get the gas
+samples to the laboratory and a cropping calendar. The plan shall also include all
+reference field specific information regarding location and climate, soil, water
+management, plant characteristics, fertilizer treatment and organic amendments.
+The details of the reference fields for measuring EF and the plan for the seasonal BL,c
+methane measurements before the start of the season is shown as following:
+Table 4-1 The details of reference fields for measuring EF BL,c
+33 which can be proven by CV of the expert
+34 The Report of Measuring Methane Emission Rate of Paddy Fields with Continuously Flooded
+Method by Closed Chamber in Xuanzhou District for early season was completed in August 2017,
+while that for second season was completed in November 2017.
+35 Source from: The ex ante investigation report in Xuanzhou District in 2017 from Anhui Academy of
+Social Sciences
+44
+
+[['Water management', 'Continuously flooded36'], ['Fertilizer treatment', 'No any organic amendments']]
+[['DATE', 'Activity', 'Date of Laboratory\nAnalysis'], ['04 March 2017', 'Land preparation', '-----'], ['06 March 2017', 'Base was buried and\ntransplantation', '-----'], ['07 March 2017', 'The first sampling', '22 March 2017'], ['14 March 2017', 'The second sampling', None], ['21 March 2017', 'The third sampling', None], ['28 March 2017', 'The fourth sampling', '12 April 2017'], ['04 April 2017', 'The fifth sampling', None], ['11 April 2017', 'The sixth sampling', None], ['18 April 2017', 'The seventh sampling', '03 May 2017'], ['25 April 2017', 'The eighth sampling', None], ['02 May 2017', 'The ninth sampling', None], ['09 May 2017', 'The tenth sampling', '24 May 2017'], ['16 May 2017', 'The eleventh sampling', None], ['23 May 2017', 'The twelfth sampling', None], ['30 May 2017', 'The thirteenth sampling', '14 June 2017'], ['06 June 2017', 'The fourteenth sampling', None], ['13 June 2017', 'The fifteenth sampling', None], ['20 June 2017', 'The sixteenth sampling', '04 July 2017']]
+Project Description: VCS Version 4.0
+Table 4-2 The plan for the seasonal methane measurements of the early season
+36 Continuously flooded: fields have standing water throughout the rice growing season and may only dry
+out for harvest (end-season drainage)
+45
+
+[['27 June 2017', 'The seventeenth sampling', ''], ['03 July 2017', 'The eighth sampling', None]]
+[['DATE', 'Activity', 'Date of Laboratory\nAnalysis'], ['07 July 2017', 'Land preparation', '-----'], ['09 July 2017', 'Base was buried and\ntransplantation', '-----'], ['10 July 2017', 'The first sampling', '25 July 2017'], ['17 July 2017', 'The second sampling', None], ['24 July 2017', 'The third sampling', None], ['31 July 2017', 'The fourth sampling', '15 August 2017'], ['07 August 2017', 'The fifth sampling', None], ['14 August 2017', 'The sixth sampling', None], ['21 August 2017', 'The seventh sampling', '05 September 2017'], ['28 August 2017', 'The eighth sampling', None], ['04 September\n2017', 'The ninth sampling', None], ['11 September\n2017', 'The tenth sampling', '26 September 2017'], ['18 September\n2017', 'The eleventh sampling', None], ['25 September\n2017', 'The twelfth sampling', None], ['02 October 2017', 'The thirteenth sampling', '17 October 2017']]
+Project Description: VCS Version 4.0
+Table 4-3 The plan for the seasonal methane measurements of the second season
+46","{2024: 58064.0, 2023: 58064.0, 2022: 58064.0, 2021: 58064.0, 2020: 58064.0, 2019: 58064.0, 2018: 58064.0}","1","3","1","1","1","0.18","19","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016: 53459.0, 2015: 63511.0, 2017: 43841.0, 2018: 44234.0, 2019: 32784.0, 2020: 39590.0, 2022: 33561.0, 2021: 35949.0, 2023: 34111.0, 2024: 27482.0, 2025: 19577.0, 2026: 27210.0, 2029: 24123.0, 2028: 25991.0, 2031: 31882.0, 2033: 44547.0, 2032: 37533.0, 2035: 62378.0, 2034: 55522.0, 2037: 88702.0, 2036: 77257.0, 2027: 16854.0, 2030: 27492.0, 2024: 27482.0, 2030: 27492.0, 2023: 341","[['', 'Project Scale', None, ''], ['Project', None, 'X', None], ['Large project', None, '', None]]
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+v3.2 6
+
+[['', 'Year', '', '', 'Estimated GHG emission reductions or', ''], ['', None, None, None, 'removals (tCO e)\n2', None], ['2008', None, None, '-50', None, None], ['2009', None, None, '692', None, None], ['2010', None, None, '6779', None, None], ['2011', None, None, '35135', None, None], ['2012', None, None, '14893', None, None], ['2013', None, None, '64383', None, None], ['2014', None, None, '38070', None, None], ['2015', None, None, '63511', None, None], ['2016', None, None, '53459', None, None], ['2017', None, None, '43841', None, None], ['2018', None, None, '44234', None, None], ['2019', None, None, '32784', None, None], ['2020', None, None, '39590', None, None], ['2021', None, None, '35949', None, None], ['2022', None, None, '33561', None, None], ['2023', None, None, '34111', None, None], ['2024', None, None, '27482', None, None], ['2025', None, None, '19577', None, None], ['2026', None, None, '27210', None, None], ['2027', None, None, '16854', None, None], ['2028', None, None, '25991', None, None], ['2029', None, None, '24123', None, None], ['2030', None, None, '27492', None, None], ['2031', None, None, '31882', None, None], ['2032', None, None, '37533', None, None], ['2033', None, None, '44547', None, None], ['2034', None, None, '55522', None, None], ['2035', None, None, '62378', None, None], ['2036', None, None, '77257', None, None], ['2037', None, None, '88702', None, None], ['Total estimated ERs', None, None, '1107495', None, None], ['Total number of crediting years', None, None, '30', None, None], ['Average annual ERs', None, None, '36916', None, None]]
+PROJECT DESCRIPTION : VCS Version 3","{2008: -24.24657534, 2009: 309.8191781, 2010: 3643.778082, 2011: 20483.16571, 2012: 25365.56854, 2013: 38892.26027, 2014: 51622.99726, 2015: 50322.9936, 2016: 58720.61736, 2017: 48794.92877, 2018: 44031.57808, 2019: 38638.0971, 2020: 36127.88098, 2021: 37824.36438, 2022: 34790.98356, 2023: 33782.51698, 2024: 30941.58439, 2025: 23648.61644, 2026: 23278.48219, 2027: 22165.71862, 2028: 21307.14988, 2029: 25085.14795, 2030: 25756.73425, 2031: 29578.60728, 2032: 34664.58998, 2033: 40934.30959, 2034: 49869.12329, 2035: 58764.04271, 2036: 69675.94359, 2037: 82807.0411, 2038: 45687.60548}","NaN","NaN","1","NaN","NaN","0.4","20","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{39: 30773.0, 38: 30773.0, 37: 30773.0, 36: 36877.0, 35: 36877.0, 34: 36877.0, 33: 30224.0, 32: 30224.0, 31: 30224.0, 30: 635485.0, 29: 2356978.0}","[['', 'Years', '', '', 'Estimated baseline', '', '', 'Estimated project', '', '', 'Estimated', '', '', 'Estimated net GHG', ''], ['', None, None, None, 'emissions or', None, None, 'emissions or', None, None, 'leakage', None, None, 'emission reductions or', None], [None, None, None, None, 'removals (tCO2e)', None, None, 'removals (tCO2e)', None, None, 'emissions', None, None, 'removals (tCO2e) after', None], [None, None, None, '', None, None, '', None, None, None, '(tCO2e)', None, None, 'uncertainty deduction', None], [None, None, None, None, None, None, None, None, None, '', None, None, '', None, None], ['2009', None, None, '169,011', None, None, '0', None, None, '0', None, None, '158,221', None, None], ['2010', None, None, '169,562', None, None, '0', None, None, '0', None, None, '158,737', None, None], ['2011', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2012', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2013', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2014', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2015', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2016', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2017', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2018', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2019', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2020', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2021', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2022', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2023', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2024', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2025', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2026', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2027', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2028', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2029', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2030', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2031', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2032', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2033', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2034', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2035', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2036', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2037', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['2038', None, None, '1,104', None, None, '0', None, None, '0', None, None, '1,033', None, None], ['Total', None, None, '369,472', None, None, '0', None, None, '0', None, None, '345,885', None, None]]
+3.4 Summary of GHG Emission Reductions and Removals
+Table 4: GHG emissions for baseline, project, and removals.
+v3.0 22
+
+PROJECT DESCRIPTION : VCS Version 3
+All equations, mathematical procedures, and net change in carbon stocks are provided in an
+accompanying Excel spreadsheet.
+4 MONITORING","{2038: 1104.0, 2037: 1104.0, 2036: 1104.0, 2035: 1104.0, 2034: 1104.0, 2033: 1104.0, 2032: 1104.0, 2031: 1104.0, 2030: 1104.0, 2029: 1104.0, 2028: 1104.0, 2027: 1104.0, 2026: 1104.0, 2025: 1104.0, 2024: 1104.0, 2023: 1104.0, 2022: 1104.0, 2021: 1104.0, 2020: 1104.0, 2019: 1104.0, 2018: 1104.0, 2017: 1104.0, 2016: 1104.0, 2015: 1104.0, 2014: 1104.0, 2013: 1104.0, 2012: 1104.0, 2011: 1104.0, 2010: 169562.0, 2009: 169011.0}","1","1","1","3","1","0","21","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2009: 1268694.21, 2010: 1268694.21, 2011: 1268694.21, 2012: 1268694.21, 2013: 1268694.21, 2014: 1268694.21, 2015: 1268694.21, 2016: 1268694.21, 2017: 1268694.21, 2018: 1268694.21, 2019: 1268694.21, 2020: 1268694.21, 2021: 1268694.21, 2022: 1268694.21, 2023: 1268694.21, 2024: 1268694.21, 2025: 1268694.21, 2026: 1268694.21, 2027: 1263176.26, 2028: 1217368.03, 2029: 1188581.91, 2030: 1255353.63, 2031: 1203408.30, 2032","4.3 Quantifying GHG emissions and/or removals for the project:","{2040: 30583.0, 2039: 30583.0, 2038: 30583.0, 2037: 30583.0, 2036: 31665.0, 2035: 31665.0, 2034: 31665.0, 2033: 31665.0, 2032: 31665.0, 2031: 33717.0, 2030: 33717.0, 2029: 33717.0, 2028: 132021.0, 2027: 45386.0, 2026: 75251.0, 2025: 75251.0, 2024: 75251.0, 2023: 75251.0, 2022: 92970.0}","NaN","NaN","1","NaN","NaN","0.26","22","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016: 145768.0, 2017: 292031.0, 2018: 658158.0, 2019: 1150967.0, 2020: 1557981.0, 2021: 1924321.0, 2022: 2349733.0, 2023: 2834010.0, 2024: 3195775.0, 2025: 3502151.0, 2026: 3585317.333}","[['', 'Project Scale', None, None, None, ''], ['', 'Project', '', '', 'x', ''], ['', 'Large project', '', '', '', '']]
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals
+Table 11. Project scale
+The results presented in the following table include the discounts for rotational harvest and incorporate
+the Long-term average, which is achieved at the year 11 of the project (year 2026). For details on the
+6 Supports/1_PDD/PO_Information/Planting_Tickets_SL
+14
+
+[['Year', None, None, '', 'Estimated GHG emission', ''], [None, None, None, None, 'reductions or removals (tCO e)\n2', None], ['', '2016', '', '', '179', ''], ['', '2017', '', '', '24,075', ''], ['', '2018', '', '', '50,673', ''], ['', '2019', '', '', '94,350', ''], ['', '2020', '', '', '135,278', ''], ['', '2021', '', '', '179,178', ''], ['', '2022', '', '', '224,199', ''], ['', '2023', '', '', '269,773', ''], ['', '2024', '', '', '315,492', ''], ['', '2025', '', '', '361,254', ''], ['', '2026', '', '', '253,037', ''], ['', '2027', '', '', '0', ''], ['', '2028', '', '', '0', ''], ['', '2029', '', '', '0', ''], ['', '2030', '', '', '0', ''], ['', '2031', '', '', '0', ''], ['', '2032', '', '', '0', ''], ['', '2033', '', '', '0', ''], ['', '2034', '', '', '0', ''], ['', '2035', '', '', '0', ''], ['', '2036', '', '', '0', ''], ['', '2037', '', '', '0', ''], ['', '2038', '', '', '0', ''], ['', '2039', '', '', '0', ''], ['', '2040', '', '', '0', ''], ['', '2041', '', '', '0', ''], ['', '2042', '', '', '0', ''], ['', '2043', '', '', '0', ''], ['', '2044', '', '', '0', ''], ['', '2045', '', '', '0', ''], ['', 'Total estimated ERs', '', '', '1,907,488', ''], ['', 'Total number of crediting years', '', '', '30', ''], ['', 'Average annual ERs', '', '', '63,583', '']]
+Joint Project Description & Monitoring Report: VCS Version 4.0
+complete calculation, please check the excel file of the ex-ante calculations in the supporting
+documents.
+Table 12. Estimated GHG emissions reductions or removals
+15
+
+Joint Project Description & Monitoring Report: VCS Version 4.0","{2016: 112.7945205, 2017: 15236.75342, 2018: 40835.38356, 2019: 78033.0521, 2020: 120302.6876, 2021: 162941.0137, 2022: 207547.3973, 2023: 252452.3987, 2024: 299046.6972, 2025: 344328.3288, 2026: 293062.4658, 2027: 93589.0274}","1","1","1","5","1","0.48","23","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2070: 94905.0, 2069: 94905.0, 2068: 94905.0, 2067: 94905.0, 2066: 94905.0, 2065: 94905.0, 2064: 94905.0, 2063: 94905.0, 2062: 94905.0, 2061: 94905.0, 2060: 68858.0, 2059: 68470.0, 2058: 67984.0, 2057: 67498.0, 2056: 67005.0, 2055: 66519.0, 2054: 66033.0, 2053: 65547.0, 2052: 65061.0, 2051: 64575.0, 2050: 53353.0}","5.2 Estimation of GHG Emissions within the Project Boundary
+The increase in GHG emissions as a result of the implementation for the proposed A/R CDM
+project activity within the project boundary was estimated by using Equation 6.
+t*
+GHG = ∑GHG E E,t (6)
+t=1
+32
+
+PROJECT DESCRIPTION : VCS Version 3
+where:
+GHG Increase in GHG emissions as a result of the implementation of the
+E proposed A/R CDM project activity within the project boundary; t CO -e 2
+GHG Increase in non-CO 2 emissions due to burning of biomass of existing E,t vegetation as part of site preparation in year t, as estimated in the tool
+“Estimation of non-CO GHG emissions resulting from burning of biomass 2
+attributable to an A/R CDM project activity”; t CO -e 2
+t 1, 2, 3, … t* years elapsed since the start of the A/R CDM project activity
+Patagonia Sur has demonstrated the use of Equation 6 and its resulting estimations of GHG
+Emissions within the project boundary in the supporting document titled “Section 3 Supporting
+Data”. Patagonia Sur concluded that there is no increase in GHG emissions as a result of
+implementation of the proposed project activity.
+33
+
+PROJECT DESCRIPTION : VCS Version 3
+3.3 Leakage
+In accordance with the applicability conditions of the required tool: “Estimation of the increase in
+GHG emissions attributable to displacement of pre-project agricultural activities in A/R CDM
+project activity”, SNP Patagonia Sur utilized the “Guidelines on conditions under which increase
+in GHG emissions related to displacement of pre-project grazing activities in A/R CDM project
+activity is insignificant” to demonstrate that leakage in the initial project activity instance is
+insignificant. For evidence of the use of this tool and its guidance, please see supporting
+document titled “Sec 1.13 Leakage Statement”.
+Due to this assessment of insignificance, Equation (7) of the Baseline Methodology Procedure
+was not used to calculate leakage (See supporting document titled “Sec 3 Baseline Procedure
+Document”).
+3.4 Summary of GHG Emission Reductions and Removals
+Net GHG Emission Reductions and Removals have been estimated in accordance with the AR-
+ACM0001 Baseline Methodology Procedure, Sections II-7 and II-7.1. (In addition to this section of
+the Project Description, refer to supporting document, “Sec 3 Baseline Procedure Document”).
+7. Net Anthropogenic GHG Removals by Sinks
+The net anthropogenic GHG removals by sinks is the actual net GHG removals by sinks minus
+the baseline net GHG removals by sinks minus leakage, therefore, the following general formula
+can be used to calculate the net anthropogenic GHG removals by sinks of an A/R CDM project
+activity (C ) , in t CO -e. AR−CDM 2
+C =ΔC −ΔC −LK (7)
+AR−CDM ACTUAL BSL
+where:
+C Net anthropogenic GHG removals by sinks; t CO -e AR−CDM 2
+ΔC Actual net GHG removals by sinks; t CO -e ACTUAL 2
+ΔC Baseline net GHG removals by sinks; t CO 2-e
+BSL
+LK Total GHG emissions due to leakage; t CO -e 2
+
+~ •J cs 1 SCV TE A AR R NI B DF A'I iE i R'ND D PROJECT DESCRIPTION : VCS Version 3
+Patagonia Sur has demonstrated the use of Equation 8 and its resulting estimations of net
+anthropogenic GHG removals by sinks in the supporting document titled “Sec 3 Supporting Data”.
+The results of this determine that Net GHG Emission Reductions or Removals are estimated at
+94,905.33 t CO -e. 2
+3(cid:25)","{2019: 2073328.0, 2018: 2073328.0, 2017: 2073328.0, 2016: 2073328.0, 2015: 2073328.0, 2014: 2073328.0, 2013: 2073328.0, 2012: 2073328.0, 2011: 2073328.0, 2010: 2073328.0}","1","1","1","1","1","0","24","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2031: 111220914.0, 2030: 112878995.8, 2029: 114585795.5, 2028: 116336613.0, 2027: 118139994.0, 2026: 119996359.0, 2025: 121907594.0, 2024: 123880818.2, 2023: 125914564.0, 2022: 154630916.0, 2021: 192356717.5, 2020: 195601218.2, 2019: 198948732.3, 2018: 202412161.6, 2017: 205999589.7, 2016: 161318269.3, 2015: 164281111.4, 2014: 167351827.5, 2013: 170540808.1}","5.6 Summary of GHG Emission Reductions or Removal (CL2 & CL3)
+Step 9.0. Ex ante total net anthropogenic GHG emission reductions
+Step 9.1. Significance assessment
+Only the carbon stored in the above and below ground biomass pools were considered by the project.
+While the above-ground pool is mandatory, the below-ground pool is optional but recommended by
+the methodology, since it represents between 25% of the carbon stored in above-ground biomass and
+is therefore a significant pool. Root-to-shoot ratios and data to estimate the carbon stocks in the
+below-ground biomass pool were taken from IPCC GPG (2003).
+129
+
+Step 9.2. Calculation of ex-ante estimation of total net GHG emissions reductions
+The ex-ante estimation of total net GHG emission reductions to be generated through the project
+activity is calculated as follows:
+∆REDDt = (∆CBSLPAt + EBBBSLPAt) – (∆CPSPAt + EBBPSPAt) – (∆CLKt + ELKt) .....equation 8
+Where:
+ ∆REDDt Ex ante estimated net anthropogenic greenhouse gas emission reduction
+attributable to the AUD project activity at year t; tCO -e ha-1 2
+ ∆CBSLPAt Dum of baseline carbon stock changes in the project area at time t; tCO2-e
+ EBBBSLPAt Sum of baseline emissions from biomass burning in the project area at time t;
+tCO2-e;
+ ∆CPSPAt Sum of ex ante estimated actual carbon stock changes in the project area at
+time t; tCO2-e
+ EBBPSPAt Sum of (ex ante estimated) actual emissions from biomass burning in the
+project area at year t; tCO2-e
+ ∆CLKt `Sum of ex ante estimated leakage net carbon changes at year t; tCO2-e
+ ELKt Sum of ex ante estimated leakage emissions at year t; tCO2-e
+Calculation of ex-ante Verified Carbon Units (Step 9.3 VM0015 v1.1)
+The verified Carbon Units (VCTs) are calculated by subtracting the number of Buffer Credits (BCt)
+deposited in the VCS Buffer at time t; t CO2-e from Ex ante estimated net anthropogenic greenhouse
+gas emission reduction (∆REDDt ) attributable to the AUD project activity at year t; tCO2-e ha-1
+(equation 9)
+VCUt = ∆REDDt – VBCt ……….equation 9
+Where:
+VCUt Number of Verified Carbon Units that can be traded at time t; t CO2-e
+∆REDDt Defined above
+The Buffer for risk carbon unit are calculated by subtracting the total ex ante estimated actual
+carbon stock changes in the project area at year t; tCO2-e ha-1 from the gross baseline carbon stock
+changes in the project area at year t; tCO2e and multiplied by Risk factor (equation 10). Ex-ante
+buffer credits are calculated based on a 15% risk factor estimated through the VCS non-permanence
+risk tool.
+VBCt = (∆CBSLPAt - ∆CPSPAt) * RFt ……….equation 10
+Where:
+∆CBSLPAt Sum of baseline carbon stock changes in the project area at year t; CO2-e
+∆CPSPAt Sum of ex ante actual carbon stock changes in the project area at year t:
+CO2-e
+RFt Risk factor derived obtained through VCS-approved AFOLU Non-
+Permanence Tool
+130
+
+[['Proj\nect\nyea\nr t', 'Baseline carbon\nstocks', None, 'Baseline GHG\nemissions', None, 'Ex ante project\ncarbon stock\nchanges', None, 'Ex ante project\nGHG emissions', None, 'Ex ante\nleakage carbon\nstock changes', None, 'Ex ante leakage\nGHG emissions', None, 'Ex ante net\nanthropogenic GHG\nemission reduction', None, 'Ex ante VCUs tradable', None, 'Ex ante buffer credits', None], [None, 'Annual\n∆CBSLP\nt\ntCO-e\n2', 'Cum.\n∆CBSLA\ntCO-e\n2', 'Annual\nEBBB\nSLPtC\nO-e\n2', 'Cum.\nEBBBA\ntCO-e\n2', 'Annu\nal\n∆CPS\nPA\nt\ntCO-e\n2', 'Cum.\n∆CPSP\nA\ntCO-e\n2', 'Annual\nEBBPSA\nt\ntCO-e\n2', 'Cum.\nBBPS\nA\ntCO-\n2\ne', 'Annu\nal\nDCLK\nt\ntCO-e\n2', 'Cum.\nDCLK\ntCO-\n2\ne', 'Annua\nl\nELK\nt\ntCO-e\n2', 'Cum.\nELK\ntCO-e\n2', 'Annual\n∆REDD\nt\ntCO-e\n2', 'Cum.\n∆REDD\ntCO-e\n2', 'Annual\nVCU\nt', 'Cum.\nVCU', 'Annual\nVBC\nt\ntCO-e\n2', 'Cum.\nVBC\ntCO-e\n2'], ['201\n2', '2414153.\n351', '2414153.\n351', '231805\n7.35', '2318057\n.35', '-', '-', '1159028.6\n8', '11590\n28.68', '0.00', '0.00', '0.00', '0.00', '1159028.6\n8', '1159028.6\n8', '985174.37', '985174.37', '173854.30', '173854.30'], ['201\n3', '2367698.3\n23', '4781851.6\n73', '227387\n7.49', '4591934\n.84', '-', '-', '1136938.7\n4', '22959\n67.42', '0.00', '0.00', '0.00', '0.00', '1136938.7\n4', '2295967.4\n2', '966397.93', '1951572.3\n1', '170540.81', '344395.11'], ['201\n4', '2323006.\n046', '7104857.\n719', '223135\n7.71', '6823292\n.55', '-', '-', '1115678.8\n6', '34116\n46.28', '0.00', '0.00', '0.00', '0.00', '1115678.8\n6', '3411646.2\n8', '948327.03', '2899899.3\n3', '167351.83', '511746.94'], ['201\n5', '2279987.8\n55', '9384845.\n575', '219041\n4.86', '9013707\n.41', '-', '-', '1095207.4\n3', '45068\n53.70', '0.00', '0.00', '0.00', '0.00', '1095207.4\n3', '4506853.7\n0', '930926.31', '3830825.6\n5', '164281.11', '676028.06'], ['201\n6', '2238495.\n977', '11623341\n.55', '215091\n0.31', '1116461\n7.72', '-', '-', '1075455.1\n6', '55823\n08.86', '0.00', '0.00', '0.00', '0.00', '1075455.1\n6', '5582308.8\n6', '914136.88', '4744962.5\n3', '161318.27', '837346.33'], ['201\n7', '2198500.\n857', '13821842\n.41', '211281\n6.36', '1327743\n4.08', '-', '-', '739485.72', '63217\n94.58', '0.00', '0.00', '0.00', '0.00', '1373330.6\n3', '6955639.4\n9', '1167331.0\n4', '5912293.5\n7', '205999.59', '1043345.9\n2'], ['201\n8', '2159884.\n275', '15981726.\n68', '207602\n2.11', '1535345\n6.18', '-', '-', '726607.74', '70484\n02.32', '0.00', '0.00', '0.00', '0.00', '1349414.3\n7', '8305053.8\n6', '1147002.2\n1', '7059295.7\n8', '202412.16', '1245758.0\n8'], ['201\n9', '2122616.\n676', '18104343\n.36', '204049\n9.84', '1739395\n6.03', '-', '-', '714174.95', '77625\n77.27', '0.00', '0.00', '0.00', '0.00', '1326324.9\n0', '9631378.7\n6', '1127376.1\n6', '8186671.9\n5', '198948.73', '1444706.8\n1'], ['202\n0', '2086609.\n397', '20190952\n.76', '200616\n6.40', '1940012\n2.42', '-', '-', '702158.24', '84647\n35.51', '0.00', '0.00', '0.00', '0.00', '1304008.1\n6', '10935386.\n92', '1108406.9\n3', '9295078.8\n8', '195601.22', '1640308.0\n4'], ['202\n1', '2051722.6\n82', '22242675\n.44', '197288\n9.35', '2137301\n1.77', '-', '-', '690511.27', '91552\n46.78', '0.00', '0.00', '0.00', '0.00', '1282378.0\n8', '12217764.\n99', '1090021.3\n6', '10385100.\n24', '192356.71', '1832664.7\n5'], ['202\n2', '1344487.\n427', '23587162\n.87', '128859\n0.93', '2266160\n2.70', '-', '-', '257718.19', '94129\n64.96', '0.00', '0.00', '0.00', '0.00', '1030872.7\n4', '13248637.\n74', '876241.83', '11261342.\n07', '154630.91', '1987295.6\n6'], ['202\n3', '1925507.6\n38', '25512670.\n5', '185168\n4.80', '2451328\n7.50', '-', '-', '370336.96', '97833\n01.92', '0.00', '0.00', '0.00', '0.00', '1481347.8\n4', '14729985.\n58', '1259145.6\n7', '12520487.\n74', '222202.18', '2209497.8\n4'], ['202\n4', '1894171.\n403', '27406841.\n91', '182177\n6.74', '2633506\n4.24', '-', '-', '364355.35', '10147\n657.27', '0.00', '0.00', '0.00', '0.00', '1457421.3\n9', '16187406.\n97', '1238808.1\n8', '13759295.\n92', '218613.21', '2428111.0\n5'], ['202\n5', '1863778.\n403', '29270620.\n31', '179275\n8.74', '2812782\n2.98', '-', '-', '358551.75', '10506\n209.02', '0.00', '0.00', '0.00', '0.00', '1434206.9\n9', '17621613.\n96', '1219075.9\n4', '14978371.\n86', '215131.05', '2643242.0\n9'], ['202\n6', '1834350.\n174', '31104970.\n48', '176465\n2.34', '2989247\n5.32', '-', '-', '352930.47', '10859\n139.49', '0.00', '0.00', '0.00', '0.00', '1411721.8\n7', '19033335.\n83', '1199963.5\n9', '16178335.\n46', '211758.28', '2855000.3\n7'], ['202\n7', '1805776.5\n15', '32910747', '173735\n2.85', '3162982\n8.17', '-', '-', '347470.57', '11206\n610.06', '0.00', '0.00', '0.00', '0.00', '1389882.2\n8', '20423218.\n11', '1181399.9\n4', '17359735.\n39', '208482.34', '3063482.7\n2'], ['202\n8', '1778027.8\n72', '34688774\n.87', '171083\n2.54', '3334066\n0.71', '-', '-', '342166.51', '11548\n776.56', '0.00', '0.00', '0.00', '0.00', '1368666.0\n3', '21791884.\n14', '1163366.1\n3', '18523101.\n52', '205299.90', '3268782.6\n2'], ['202\n9', '1751096.\n227', '36439871\n.1', '168508\n5.23', '3502574\n5.93', '-', '-', '337017.05', '11885\n793.61', '0.00', '0.00', '0.00', '0.00', '1348068.1\n8', '23139952.\n32', '1145857.9\n5', '19668959.\n47', '202210.23', '3470992.8\n5']]
+Table 45. Ex ante net anthropogenic GHG emission reductions (∆REDD) and Voluntary Carbon Units (Table 36, VM0015 v 1.1) t
+131
+
+[['203\n0', '1724849.\n841', '38164720.\n94', '165998\n4.67', '3668573\n0.61', '-', '-', '331996.93', '12217\n790.54', '0.00', '0.00', '0.00', '0.00', '1327987.7\n4', '24467940.\n06', '1128789.5\n8', '20797749.\n05', '199198.16', '3670191.0\n1'], ['203\n1', '1699361.\n343', '39864082\n.28', '163560\n1.68', '3832133\n2.28', '-', '-', '327120.34', '12544\n910.88', '0.00', '0.00', '0.00', '0.00', '1308481.3\n4', '25776421.\n40', '1112209.1\n4', '21909958.\n19', '196272.20', '3866463.2\n1']]
+132","{2031: 1308481.34, 2030: 1327987.74, 2029: 1348068.18, 2028: 1368666.03, 2027: 1389882.28, 2026: 1411721.87, 2025: 1434206.99, 2024: 1457421.39, 2023: 1481347.84, 2022: 1030872.74, 2021: 1282378.08, 2020: 1304008.16, 2019: 1326324.9, 2018: 1349414.37, 2017: 1373330.63, 2016: 1075455.16, 2015: 1095207.43, 2014: 1115678.86, 2013: 1136938.74, 2012: 1159028.68}","1","1","1","1","2","0.49","25","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","80000.0","[['Years', 'Annual estimation of emission\nreductions in tonnes of CO e\n2'], ['2011', '1,293,422'], ['2012', '1,293,422'], ['2013', '1,293,422'], ['2014', '1,293,422'], ['2015', '1,293,422'], ['2016', '1,293,422'], ['2017', '1,293,422'], ['2018', '1,293,422'], ['2019', '1,293,422'], ['2020', '1,293,422'], ['Total estimated reductions (tonnes of CO e)\n2', '12,934,220'], ['Total number of crediting years', '10'], ['Annual average over the crediting period of\nestimated reductions (tonnes of CO e)\n2', '1,293,422']]
+A.4.4 Estimated amount of emission reductions over the chosen crediting period:
+2","{2018: 1293422.0, 2017: 1293422.0, 2016: 1293422.0, 2015: 1293422.0, 2014: 1293422.0, 2013: 1293422.0, 2012: 1293422.0, 2011: 1293422.0, 2010: 1293422.0, 2009: 1293422.0}","1","1","1","1","1","0","26","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","## Response: 
+- 2008: 1460305.0
+- 2009: 2190457.0
+- 2010: 2190457.0
+- 2011: 2190457.0
+- 2012: 2190457.0
+- 2013: 2190457.0
+- 2014: 2190457.0
+- 2015: 2190457.0
+- 2016: 2190457.0
+- 2017: 2190457.0
+- 2018: 2214008.0
+- 2019: 2214008.0
+- 2020: 2214008.0
+- 2021: 2214008.0
+- 2022: 2214164.0
+- 2023: 2214164.0
+- 2024: 2213214.0
+- 2025: 2212082.0
+- 2026: 2214260.0
+- 2027: 2214184.0
+- 2028: 2212382.0
+","4.3 Quantifying GHG emissions and/or removals for the
+project:","{2037: 3161.0, 2036: 3161.0, 2035: 3161.0, 2034: 3161.0, 2033: 3161.0, 2032: 3950.0, 2031: 3950.0, 2030: 3950.0, 2029: 3950.0, 2028: 3950.0, 2027: 3825.0, 2026: 3825.0, 2025: 3825.0, 2024: 3825.0, 2023: 3825.0, 2022: 1094.0, 2021: 46223.0, 2020: 46223.0, 2019: 46223.0, 2018: 47996.0}","1","1","1","3","1","0.27","27","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2024: 247123.0, 2023: 247123.0, 2022: 247123.0, 2021: 247123.0, 2020: 247123.0, 2019: 247123.0, 2018: 247123.0, 2017: 247123.0, 2016: 247123.0, 2015: 247123.0}","3.4 Net GHG Emission Reductions and Removals
+Based on paragraph 43 of methodology AMS.I.D (version 18.0) and paragraph 61 of
+methodology ACM0002 (version 16.0) and AMS.I.F (Version 03), net GHG emission reductions
+are calculated as follows:
+ERy = BEy – PEy - LE y
+ERy = Emission reductions in year y (tCO2e/yr)
+BEy = Baseline emissions in year y (tCO2e/yr)
+PEy = Project emissions in year y (tCO2e/yr).
+LEy = Leakage emissions in year y (tCO2e/yr)
+Since PEy = LE y = 0, Hnece ERy = BEy
+v3.3 37
+
+[['Year', '', 'Estimated', '', '', 'Estimated', '', 'Estimated\nleakage\nemissions\n(tCO e)\n2', '', 'Estimated net', ''], [None, None, 'baseline', None, None, 'project', None, None, None, 'GHG emission', None], [None, None, 'emissions or', None, None, 'emissions or', None, None, None, 'reductions or', None], [None, None, 'removals', None, None, 'removals', None, None, None, 'removals', None], [None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, None, None, '(tCO e)\n2', None], ['Year 1', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 2', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 3', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 4', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 5', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 6', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 7', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 8', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 9', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Year 10', '247,123', None, None, '0', None, None, '0', '247,123', None, None], ['Total', '2,471,230', None, None, '0', None, None, '0', '2,471,230', None, None]]
+[['Project\nActivit\ny\nInstanc\ne', 'Investor\nName/Location', 'Capacity\n(MW)', 'COD', 'PLF', 'Net\nGeneration', 'Emission\nreduction\ns'], [None, None, None, None, None, '(MWh/year)', '(t CO e)\n2'], ['1', 'Bhadla', '20', '12-Mar-14', '17.10%', '29,959', '29270'], ['2', 'Achampet', '5', '07-Jul-14', '16.68%', '7,305', '7171'], ['3', 'Kalwakurthy', '10', '30-Jun-14', '16.89%', '14,795', '14524'], ['4', 'Salakpur', '10', '17-Sep-14', '16.56%', '14,506', '14240'], ['5', 'Alladurg', '10', '28-Jul-14', '17.07%', '14,953', '14679'], ['6', 'Shirahatti', '20', '11-May-17', '21.17%', '37,089', '36410'], [None, 'Ramadurg', '20', '12-May-17', '21.23%', '37,194', '36513'], [None, 'Mulbangal', '20', '13-Oct-17', '21.28%', '37,282', '36599'], [None, 'ABRL-Bijapur', '17', '26-Mar-18', '18.10%', '26,954', '26460'], ['7', 'Bijapur', '6.8', '26-Mar-18', '18.00%', '10,722', '10525'], ['8', 'Hotgi', '0.8', '20-Jun-18', '20.93%', '1,466', '1432'], ['9', 'Gotan', '5', '01-Feb-18', '20.93%', '9,167', '8956'], ['10', 'Sevagram', '5', '14-Aug-18', '20.93%', '9,167', '8956'], ['11', 'Pune', '0.8', '01-Feb-18', '20.28%', '1,421', '1388'], ['Total', None, '150.4', '', '', '251,980', '247,123'], ['Total in 10 Years', None, '', '', '', '2519802', '2471230']]
+PROJECT DESCRIPTION : VCS Version 3
+Estimated emission reductions are being depicted below:
+Estimated emission reduction of the individual project activity instances are being demonstrated
+below:
+v3.3 38
+
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING","{2023: 247123.0, 2022: 247123.0, 2021: 247123.0, 2020: 247123.0, 2019: 247123.0, 2018: 247123.0, 2017: 247123.0, 2016: 247123.0, 2015: 247123.0, 2014: 247123.0}","1","1","5","4","1","0.95","28","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2029: 69867.0, 2028: 69867.0, 2027: 69867.0, 2026: 69867.0, 2025: 69867.0, 2024: 74018.0, 2023: 86471.0, 2022: 107226.0, 2021: 132134.0, 2020: 157040.0, 2019: 165026.0, 2018: 164712.0, 2017: 156949.0, 2016: 149185.0, 2015: 137271.0, 2014: 117055.0, 2013: 88536.0, 2012: 55867.0, 2011: 28943.0, 2010: 10320.0}","[['', 'Project', '', 'X'], ['', 'Mega-project', '', '']]
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+7
+
+[['Years', '', 'Net anthropogenic GHG', ''], [None, None, 'emissions and removals', None], [None, None, '(tCO2e)', None], ['Year 2010', '10,320', None, None], ['Year 2011', '28,943', None, None], ['Year 2012', '55,867', None, None], ['Year 2013', '88,536', None, None], ['Year 2014', '117,055', None, None], ['Year 2015', '137,271', None, None], ['Year 2016', '149,185', None, None], ['Year 2017', '156,949', None, None], ['Year 2018', '164,712', None, None], ['Year 2019', '165,026', None, None], ['Year 2020', '157,040', None, None], ['Year 2021', '132,134', None, None], ['Year 2022', '107,226', None, None], ['Year 2023', '86,471', None, None], ['Year 2024', '74,018', None, None], ['Year 2025', '69,867', None, None], ['Year 2026', '69,867', None, None], ['Year 2027', '69,867', None, None], ['Year 2028', '69,867', None, None], ['Year 2029', '69,867', None, None], ['Total estimated ERs', '1,980,088', None, None], ['Total number of crediting years', '20', None, None], ['Average annual ERs', '99,004', None, None]]","{2024: 74018.0, 2023: 86471.0, 2022: 107226.0, 2021: 132134.0, 2020: 157040.0, 2019: 165026.0, 2018: 164712.0, 2017: 156949.0, 2016: 149185.0, 2015: 137271.0, 2014: 117055.0, 2013: 88536.0, 2012: 55867.0, 2011: 28943.0, 2010: 10320.0}","1","1","1","5","3","0.86","29","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","2011: 9976.85, 2012: 9247.09, 2013: 9247.09, 2014: 9976.85, 2015: 9976.85, 2016: 9976.85, 2017: 9976.85, 2018: 9976.85, 2019: 9526.64417668836, 2020: 9864.288545280078, 2021: 9864.288545280078, 2022: 10765.630706939208, 2023: 10765.630706939208, 2024: 10787.0, 2025: 11993.0","E.4. Emission reductions calculation","{2041: 10227.0, 2040: 10227.0, 2039: 10227.0, 2038: 10227.0, 2037: 10227.0, 2036: 10227.0, 2035: 10910.0, 2034: 10910.0, 2033: 10910.0, 2032: 10910.0, 2031: 11366.0, 2030: 11366.0, 2029: 11366.0, 2028: 40509.0, 2027: 18511.0, 2026: 41388.0, 2025: 41388.0, 2024: 41388.0, 2023: 41388.0, 2022: 52239.0}","1","1","1","3","2","0.11","30","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2049: 360417.0, 2048: 496168.0, 2047: 328128.0, 2046: 1226921.0, 2045: 1293427.0, 2044: 15438271.0, 2043: 22687108.0, 2042: 3193791.0, 2041: 3142306.0, 2040: 3064853.0, 2039: 3099525.0, 2038: 3142881.0, 2037: 3130484.0, 2036: 10814571.0, 2035: 24856243.0, 2034: 8216968.0, 2033: 8213400.0, 2032: 8340121.0, 2031: 8379034.0, 2030: 60301861.0, 2029: 8714074.0}","4.4 Quantifying GHG emission reductions and removal
+enhancements for the GHG project:
+The emission reductions are estimated by:
+ERy = BEy – PEy – Ly
+Where:
+BEy = Baseline emission due to the project in the year y,
+tCO e/annum 2
+PEy = Project emission due to the project in the year y,
+tCO e/annum 2
+31
+
+[['Year', 'Estimation\nof project\nactivity\nemissions\n(tonnes of\nCO2e)', 'Estimation\nof baseline\nemission\n(tonnes of\nCO2e)', 'Estimation\nof leakage\n(tonnes of\nCO2e)', 'Estimation of\noverall\nemission\nreductions\ntonnes of\nCO2e)'], ['Year 1', '0', '364520', '0', '364520'], ['Year 2', '0', '364520', '0', '364520'], ['Year 3', '0', '364520', '0', '364520'], ['Year 4', '0', '364520', '0', '364520'], ['Year 5', '0', '364520', '0', '364520'], ['Year 6', '0', '364520', '0', '364520'], ['Year 7', '0', '364520', '0', '364520'], ['Year 8', '0', '364520', '0', '364520'], ['Year 9', '0', '364520', '0', '364520'], ['Year 10', '0', '364520', '0', '364520'], ['Total\n(tonnes\nof\nCO2e)', '0', '3645200', '0', '3645200']]
+VCS Project Description Template
+Ly = Leakage due to the project during the year y,
+tCO e/annum 2
+5 Environmental Impact:
+During the operation of the plant, the project will
+receive consent from the Andhra Pradesh Pollution Control
+Board (APPCB) for air and water pollution. That the
+project meets the stipulated limits will be monitored as
+part of the overall VCS process their compliance reported.
+The following clearances were obtained for the project
+activity:
+ The No Objection certificate by Andhra Pollution control
+board vide their Lr. No. 192/PCB/85-3891, dated 17.1.1987
+ The project report for power generation has been approved
+by Central Electricity Authority, vide Lr. No. 3/112/91-
+PAC Dt. 26.03.1992.
+ The Environmental Clearance has been received from
+Ministry of Environment & Forest vide their Lr. DT.
+21.04.1994.
+6 Stakeholders comments:
+The stakeholders identified for the project were: the
+villagers around and the local communities, NGOs, state
+government, governmental agencies, employees, contractors
+and consultants/advisors, who they assumed would have an
+interest in the project activity. The local stakeholder
+32
+
+[['Parameter', 'Date/period'], ['Initiation of project\n(earliest commissioning date)', '18/08/20086'], ['Project lifetime', '35 years'], ['VCS PDD completion', '01/08/2010'], ['Begin VCS Validation', '01/04/2010'], ['Monitoring frequency', 'Once every month'], ['Project termination', '2043']]
+VCS Project Description Template
+review which was undertaken through an invitation of
+comments from all stakeholders via issuance of letter to
+them. A copy of issued letter is submitted to DOE’s during
+validation. A notice was also placed in the local
+newspaper, informing public about the proposed VCS project
+and inviting comments. The meeting was conducted on 8th
+July 2008 at the Guest house of the project site located
+near to the project activity.
+The meeting began with the welcome note by APGENCO
+officials to all the stakeholders. The issue of global
+warming, climate change, its adverse effect and how to
+reduce those effects such as by employing renewable energy
+sources of power like hydro, wind were discussed in detail.
+The role of local stakeholder, environmental & social
+impact with respect to the project was also explained and
+discussed in detail.
+After a brief discussion regarding the consequences and
+impacts of this project activity the comment pertaining to
+project activity were received and answered in the meeting.
+The stakeholders viewed Project proponents as a reputed
+group of companies contributing to the local economy.
+ The stakeholders were appreciative of the project as it
+aides in sustainable development of the region. No
+negative comment was received as the project was
+generation of electricity through renewable energy
+sources.
+The project activity has received positive comments from
+local villagers, the government and non-government parties.
+No adverse comments were received that required corrective
+action.
+7 Schedule:
+The project schedule as per VCS guidelines is tabulated in table below:
+8 Ownership:","{2018: 364520.0, 2017: 364520.0, 2016: 364520.0, 2015: 364520.0, 2014: 364520.0, 2013: 364520.0, 2012: 364520.0, 2011: 364520.0, 2010: 364520.0, 2009: 364520.0, 2008: 364520.0}","1","1","1","3","1","0","31","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2019: 248420.0, 2020: 249000.0, 2021: 248605.0, 2022: 248556.0, 2023: 248357.0, 2024: 248242.0, 2025: 248308.0, 2026: 248091.0, 2027: 247209.0, 2028: 246631.0, 2029: 405856.0, 2030: 408563.0, 2031: 412490.0, 2032: 408823.0, 2033: 390256.0}","3.4 Net GHG Emission Reductions and Removals
+Estimating carbon stock in trees at a point in time:
+To estimate the carbon stock in tree biomass at a point in time. the following tool was used: “Estimation of
+carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM project activities AR-TOOL14
+Version 04.1”. According to section 8.2 of this tool. this method is used for ex-ante estimation (projection)
+of carbon stock in tree biomass. Under this method. existing data are used in combination with tree
+growth models to predict the growth of trees and the development of the tree stand over time.
+- Step 1: Tree carbon estimation
+According to point 6 of Annex 1 of the AR-TOOL 14, for ex-ante estimation the allometric equation
+applied to a tree species shall be selected from the following sources:
+a) Existing data applicable to local situation (e.g. represented by similar ecological conditions).
+b) National data (e.g. from national forest inventory or national greenhouse gas (GHG) inventory).
+c) Data from neighbouring countries with similar conditions.
+d) Globally applicable data.
+An equation for H. Brasilensis derived from national inventories has not been developed for Colombia.
+The equation available for this specie in the country depends on allometric parameters and there is not an
+95 Romero, M; Galindo, G; Otero, J. and Armentaras, D. 2004. Ecosistemas de la cuenca del Orinoco Colombiano.
+Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt. Instituto Agustin Codazzi. 187 pp.
+v3.2 68
+
+[['', None, None, '', None, None, 'P', None, None, None, None, None, None, None, None, '', None, None, '', 'Standard', ''], ['', 'Specie', '', '', 'Model equation', '', None, None, None, None, None, None, None, None, None, '', 'R', '', None, None, None], ['', None, None, '', None, None, '', 'α', '', '', 'β', '', '', 'k', '', '', None, None, None, 'Error', None], [None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None], ['Hevea brasiliensis', None, None, '*', None, None, '58.606', None, None, '13.696', None, None, '0.264', None, None, '0.854', None, None, '7.23', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+available database with allometric parameters that allow us to adjust a time equation to estimate the ex-
+ante carbon stocks. Considering this, a time-equation based on data from a neighbour country with
+similar conditions was used96.
+Table 14 shows the carbon accumulation model (Car) for Hevea brasiliensis and its respective
+parameters. Parameters were estimated calculated by Wauters et al. (2008)97through the adjustment of a
+Gompertz model, which matched the evolution of carbon stocks in total tree as a function of stand age.
+The Gompertz equation was fitted with 80 data from Mato Grosso, Brazil. This site has not the same, but
+similar environmental conditions to the project area: annual rainfall ranges from 1,500 to 2,000 mm and
+annual temperature between 20 and 25 °C.
+Table 14. Equation parameters of carbon accumulation in function of time for H. brasiliensis.
+*Where: Y= above+below ground tree carbon (tCha-1); A= age (year); α. β and k are parameters estimated by
+Wauters et al. (2008).
+The allometric equation described in Table 14 has a R2 greater than 0.85 and a size sample greater than
+30. According to point c of paragraph 6 of the tool “Demonstrating appropriateness of allometric equations
+for estimation of aboveground tree biomass in A/R CDM project activities”, the equation developed by
+Wauters et al. (2008) meet all the requirements.
+Source:
+- Step 2: mean tree carbon
+The estimation of the mean tree carbon per hectare in the tree biomass estimation strata was
+calculated according to the equation 13 of the AR-TOOL14:
+(1)
+Where. A is the area of the strata and b is the mean tree biomass per hectare in stratum. As the TREE
+growth model estimates carbon directly, then has been replaced by :
+(2)
+- Step 3: mean carbon stock in terms of CO e 2
+The estimation of the mean carbon stock in trees within the tree biomass estimation strata was
+calculated according to the equation 12 of the AR-TOOL14:
+(3)
+96 Parameters of a Gompertz equation, wich was adjusted with 80 data from Mato Grosso, Brazil. This site has not
+the same but similar environmental conditions: annual rainfall ranges from 1500 to 2000 mm and annual
+temperature between 20 and 25 °C.
+97 Wauters, J. B., Coudert, S., Grallien, E., Jonard, M., & Ponette, Q. (2008). Carbon stock in rubber tree plantations
+in Western Ghana and Mato Grosso (Brazil). Forest Ecology and Management, 255(7), 2347-2361. The document
+is available as supporting document ―Wauters et al 2008‖ in the supporting folder ―Ex_ante_estimations‖.
+v3.2 69
+
+PROJECT DESCRIPTION : VCS Version 3
+- Step 4: soil organic carbon
+Estimations of soil organic carbon (SOC) stocks were done in accordance to the ―Tool for the estimation
+of change in soil organic carbon stocks due to the implementation of A/R CDM project activity version
+1.1.0‖ (Annex 12). As suggested by the tool. it is assumed that the implementation of the project activity
+increases the SOC content of the lands from the pre-project level to the level that is equal to the steady-
+state SOC content under native vegetation. The increase in SOC content in the project scenario takes
+place at a constant rate over a period of 20 years from the year of planting. The project meets the
+applicability conditions of this tool in the area managed with rubber plantations:
+The areas of land to which the tool is applied do not fall into wetland category, do not contain organic
+soils and are not subject to any of the land management practices and application of inputs listed in
+Tables 1 and 2 of the tool.
+Since the land use prior to project start was grassland, only Table 2 applies. For the Tropical, moist
+climate region corresponding to the project activity, none of the three combinations included in Table 15
+are applicable; litter remains on site and is not removed and soil disturbance is in accordance with
+appropriate conservation practices, limited to site preparation and less than 10%. As the main goal of the
+project is not the wood harvesting, but the rubber. Not additional site preparations will be developed at
+least for the first 35 years of the rubber productivity cycle (less than 20 years).
+The initial SOC stock at the start of the Project is estimated as follows:
+(4)
+= SOC stock at the beginning of the A/R CDM project activity in stratum
+i of the areas of land; t C ha-1
+= Reference SOC stock corresponding to the reference condition in
+native lands (i.e. non-degraded. unimproved lands under native
+vegetation ñ normally forest) by climate region and soil type
+applicable to stratum i of the areas of land; t C ha-1
+= Relative stock change factor for baseline land-use in stratum i of the
+areas of land; dimensionless
+= Relative stock change factor for baseline management regime in
+stratum i of the areas of land; dimensionless
+= Relative stock change factor for baseline input regime (e.g. crop
+residue returns. manure) in stratum i of the areas of land;
+dimensionless
+= 1. 2. 3. … strata of areas of land; dimensionless
+The values of SOC . f . f . f are presented in Table 15. REF. LU.ii MG. IN.ii
+Table 15. Parameters used for the estimation of the soil organic carbon (SOC).
+v3.2 70
+
+[['', '', None, '', None, '', 'Source (SOC estimation'], ['Parameter', '', 'Symbol', '', 'Value', None, None], [None, None, None, None, None, None, 'tool. V01.1.0)'], ['', '', None, '', None, None, None], ['Reference SOC (tC/ha)', 'SOCREF.i', None, '47', None, 'Table 3 LAC 98 soils.\nTropical. moist.', None], ['Land use factor', 'fLU .i', None, '1', None, 'Table 6 All permanent\ngrassland.', None], ['Management factor', 'f MG.i', None, '0.70 (Tropical)', None, 'Table 6 Lands are identified\nas degraded lands using\nthe ―Tool for the\nidentification of degraded or\ndegrading lands for\nconsideration in\nimplementing CDM A/R\nproject activities.', None], ['Input factor', 'fIN.i', None, '1.11', None, 'Grasslands with direct\napplication of fertilizers -\norganic or inorganic', None]]
+PROJECT DESCRIPTION : VCS Version 3
+Considering Table 15.
+Then, the rate of change in SOC stock in project scenario until the steady-state is reached is estimated as
+follows
+(5)
+= The rate of change in SOC stock in stratum i of the areas of land. in
+year t; t C ha-1 yr-1
+= Reference SOC stock corresponding to the reference condition in
+native lands (i.e. non-degraded. unimproved lands under native
+vegetation ñ normally forest) by climate region and soil type
+applicable to stratum i of the areas of land; t C ha-1
+= SOC stock at the beginning of the A/R CDM project activity in stratum
+i of the areas of land; t C ha-1
+98 For ultisols and oxisols
+v3.2 71","{2007: 17.66885246, 2008: 583.8106544, 2009: 1943.630411, 2010: 3147.664192, 2011: 3806.837038, 2012: 4136.46677, 2013: 12396.78044, 2014: 20540.37644, 2015: 37396.6557, 2016: 58777.90691, 2017: 81814.78959, 2018: 102896.5085, 2019: 118628.8837, 2020: 122735.6108, 2021: 3992.227726, 2022: 121072.3207, 2023: 110090.1496, 2024: 96574.07712, 2025: 82275.7886, 2026: 68506.76962, 2027: 54523.59663, 2028: 1192.077699, 2029: 36009.49871, 2030: 28466.86016, 2031: 22353.61851, 2032: 17467.39818, 2033: 13591.87466, 2034: 10544.94748, 2035: 8161.269357, 2036: 6306.451492, 2037: 4865.188219, 2038: 3749.630986, 2039: 2887.279302, 2040: 2222.362095, 2041: -417.4814247, 2042: -61282.40542}","1","1","1","1","1","0.29","32","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016.0: 17457.0, 2017.0: 36198.0, 2018.0: 70068.0, 2019.0: 85039.0, 2020.0: 86459.0, 2021.0: 86459.0, 2022.0: 55813.0}","[['Parameters', 'Description'], ['', 'Emission reductions in season s (tCO2e)']]
+[['Parameters', 'Description'], ['', 'Emission reductions in year y (t CO2e)'], ['𝐵𝐵𝐸𝐸𝑦𝑦', 'Adjusted daily emission factor (kgCH4/ha/day). Alternatively,\nseasonal emission factor (kg CH4/ha/season) may be determined']]
+4.4 Net GHG Emission Reductions and Removals
+The emission reductions achieved by the project activity shall be calculated as the difference
+between the baseline and the project emissions, which is also used as post-emission
+reduction:
+Where: 𝐵𝐵𝐸𝐸𝑠𝑠 =𝐵𝐵𝐵𝐵𝑠𝑠−𝐺𝐺𝐵𝐵𝑠𝑠 (5)
+Ex ant𝐵𝐵e 𝐸𝐸e𝑠𝑠 stimation of emission reductions
+According to the applied methodology AMS-Ⅲ.AU (version 4.0), for the ex ante estimation
+of emission reductions within the project design document prior to the project implementation,
+project proponent shall refer to own field experiments or estimate baseline and project
+emissions with the help of national data or IPCC tier 1 default values for emission and scaling
+factors.
+In this project, using the IPCC tier 1 approach but undertaking measurements to determine
+baseline emission factors for continuously flooded fields, as per the following formula:
+−3
+𝐵𝐵𝐸𝐸𝑦𝑦 =𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸×𝐴𝐴𝑦𝑦×𝐿𝐿𝑦𝑦×10 ×𝐺𝐺𝐺𝐺𝐺𝐺𝐶𝐶𝐶𝐶4 (6)
+𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵−𝐵𝐵𝐸𝐸𝑃𝑃 (7)
+𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑤𝑤×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑝𝑝×𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑜𝑜 (8)
+Where: 𝐵𝐵𝐸𝐸𝑃𝑃 =𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐×𝑆𝑆𝐸𝐸𝑃𝑃,𝑤𝑤×𝑆𝑆𝐸𝐸𝑃𝑃,𝑝𝑝×𝑆𝑆𝐸𝐸𝑃𝑃,𝑜𝑜 (9)
+𝐵𝐵𝐸𝐸𝐸𝐸𝐸𝐸
+36
+
+[['', 'Area of project fields in year y (ha)'], ['𝐴𝐴𝑦𝑦', 'Cultivation period of rice in year y (days/year). This is not applicable\nwhen seasonal emission factor is determined.'], ['𝐿𝐿𝑦𝑦', 'Global warming potential of CH4 (t CO2e/t CH4)'], ['𝐺𝐺𝐺𝐺𝐺𝐺𝐶𝐶𝐶𝐶4', 'Baseline emission factor (kg CH4/ha/day) or (kg CH4/ha/season)'], ['𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵', 'Project emission factor (kg CH4/ha/day) or (kg CH4/ha/season)'], ['𝐵𝐵𝐸𝐸𝑃𝑃', 'Baseline emission factor for continuously flooded fields without\norganic amendments (kg CH4/ha/day) or (kg CH4/ha/season)'], ['𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐\nor', 'Baseline or project scaling factors28 to account for the differences in\nwater regime during the cultivation period'], ['𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑤𝑤 𝑆𝑆𝐸𝐸𝑃𝑃,𝑤𝑤\nor', 'Baseline or project scaling factors to account for the differences in\nwater regime during the pre-season before the cultivation period'], ['𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑝𝑝 𝑆𝑆𝐸𝐸𝑃𝑃,𝑝𝑝\nor', 'Baseline or project scaling factors should vary for both type and\namount of organic amendment applied']]
+Project Description: VCS Version 4.0
+𝑆𝑆𝐸𝐸𝐵𝐵𝐵𝐵,𝑜𝑜 𝑆𝑆𝐸𝐸𝑃𝑃,𝑜𝑜
+Determination of EFBL,c
+However, the baseline emission factor for continuously flooded fields without organic
+amendments ( ) can be determined ex ante prior to the start of the project activity, in this
+case, the ex ante value should be used to calculate emission reduction during the crediting 𝐵𝐵𝐸𝐸𝐵𝐵𝐵𝐵,𝑐𝑐
+period. It should be measured by using closed chamber in three reference fields which are
+chosen in the project area.
+According to the guidance on methane measurement in the appendix of AMS-III.AU
+Methodology, the following requirements should be met.
+1. The implementation of methane measurement in rice fields requires the involvement of
+experts in this field or at least experienced staff trained by experts (i.e. from research
+institutions). These guidelines cannot replace expertise in setting up chamber measurements.
+They rather set minimum requirements that serve for standardizing the conditions under
+which methane emissions are measured for projects under this methodology.
+The closed chamber measurement requires the involvement of technicians trained by experts
+from Anhui Academy of Agricultural Sciences under the jurisdiction of the Anhui Agricultural
+Bureau. Anhui Academy of Agricultural Sciences is a comprehensive agricultural research
+28 For all scaling factor used in this methodology, the average values in 2006 IPCC Guidelines for National
+Greenhouse Gas Inventories are chosen.
+37
+
+[['Specific Information', 'Plot 1', 'Plot 2', 'Plot 3'], ['Area(ha)', '0.37', '0.42', '0.41'], ['Geological\ncoordinates', '117.306555°E,\n31.472428°N', '117.305531°E,\n31.471637°N', '117.305493°E,\n31.471259°N'], ['Location', 'Tongda Town, Lujiang County, Hefei City', None, None], ['The type of rice', 'Hybrid rice', None, None], ['Climate', 'North subtropical humid monsoon climate zone', None, None], ['Soil', 'pH5.9 and the soil organic carbon is 0.98%', None, None], ['Water management', 'Continuously flooded30', None, None], ['Fertilizer treatment', 'No any organic amendments', None, None]]
+[['DATE', 'Activity', 'Date of Laboratory Analysis'], ['20 March 2017', 'Land preparation', '-----']]
+Project Description: VCS Version 4.0
+institution directly under the provincial government. The expert who is the leader of the
+experiment has a doctoral degree and her field of study is rice cultivation and GHG
+monitoring29. The expert set up the chamber measurements on 22 March 2017 for the early
+season and 29 July 2017 for the second season, respectively. The base is embedded just
+before transplanting, and the first gas sampling began on the second day after transplanting,
+followed by sampling every 7days. After sampling, the gas is stored in the evacuated vial,
+and the samples collected after three times should be taken together for laboratory analysis.
+Project proponents shall prepare a detailed plan for the seasonal methane measurements
+before the start of the season. The plan shall include the schedule for the field and laboratory
+measurements, the logistics that are necessary to get the gas samples to the laboratory and
+a cropping calendar. The plan shall also include all reference field specific information
+regarding location and climate, soil, water management, plant characteristics, fertilizer
+treatment and organic amendments.
+The details of the reference fields for measuring EFBL,c and the plan for the seasonal
+methane measurements before the start of the season is shown as following:
+Table 4-1 The details of reference fields for measuring EFBL,c
+Table 4-2 The plan for the seasonal methane measurements
+29 http://www.aaas.org.cn/4862132/4977990.html
+30 Continuously flooded: fields have standing water throughout the rice growing season and may only dry
+out for harvest (end-season drainage)
+38
+
+[['22 March 2017', 'Base was buried', '-----'], ['23 March 2017', 'Transplantation', '-----'], ['24 March 2017', 'The first sampling', '08 April 2017'], ['31 March 2017', 'The second sampling', None], ['07 April 2017', 'The third sampling', None], ['14 April 2017', 'The fourth sampling', '29 April 2017'], ['21 April 2017', 'The fifth sampling', None], ['28 April 2017', 'The sixth sampling', None], ['05 May 2017', 'The seventh sampling', '20 May 2017'], ['12 May 2017', 'The eighth sampling', None], ['19 May 2017', 'The ninth sampling', None], ['26 May 2017', 'The tenth sampling', '10 June 2017'], ['02 June 2017', 'The eleventh sampling', None], ['09 June 2017', 'The twelfth sampling', None], ['16 June 2017', 'The thirteenth sampling', '01 July 2017'], ['23 June 2017', 'The fourteenth sampling', None], ['30 June 2017', 'The fifteenth sampling', None], ['07 July 2017', 'The sixteenth sampling', '19 July 2017'], ['14 July 2017', 'The seventeenth sampling', None], ['18 July 2017', 'The eighteenth sampling', None]]
+[['DATE', 'Activity', 'Date of Laboratory Analysis'], ['28 July 2017', 'Land preparation', '-----'], ['29 July 2017', 'Base was buried', '-----']]
+Project Description: VCS Version 4.0
+Table 4-3 The plan for the seasonal methane measurements of the second season
+39
+
+[['30 July 2017', 'Transplantation', '-----'], ['31 July 2017', 'The first sampling', '15 August 2017'], ['07 August 2017', 'The second sampling', None], ['14 August 2017', 'The third sampling', None], ['21 August 2017', 'The fourth sampling', '05 September 2017'], ['28 August 2017', 'The fifth sampling', None], ['04 September 2017', 'The sixth sampling', None], ['11 September 2017', 'The seventh sampling', '26 September 2017'], ['18 September 2017', 'The eighth sampling', None], ['25 September 2017', 'The ninth sampling', None], ['02 October 2017', 'The tenth sampling', '17 October 2017'], ['09 October 2017', 'The eleventh sampling', None], ['16 October 2017', 'The twelfth sampling', None], ['23 October 2017', 'The thirteenth sampling', '14 November 2017'], ['30 October 2017', 'The fourteenth sampling', None], ['06 November 2017', 'The fifteenth sampling', None], ['13 November 2017', 'The sixteenth sampling', None]]
+[['Feature', 'Requirements', 'Conditions in the project'], ['Chamber material', 'Option 1: Non-transparent\n\uf06c Commercially available\nPVC containers or\nmanufactured chambers', 'The chamber used in this\nproject is made of PVC\nmaterials covered with\nreflective material to prevent\nthe increasing inside\ntemperature. And it is only']]
+Project Description: VCS Version 4.0
+In addition, according to the guidance on methane measurement in the appendix of AMS-
+III.AU Methodology, the steps from field measurement to should be taken as follows.
+Table 4-4 On the field – technical options fo𝐵𝐵r 𝐸𝐸th𝐵𝐵 e𝐵𝐵, 𝑐𝑐 chamber design
+40","{2024: 59282.0, 2023: 59282.0, 2022: 59282.0, 2021: 59282.0, 2020: 59282.0, 2019: 59282.0, 2018: 59282.0}","3","3","1","1","1","0","33","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","The yearly Estimated GHG Emission Reductions or Removals records for this project are not provided.","4.3 Quantifying GHG emissions and/or removals for the project 20","{2006: 152.0, 2005: 76.0}","1","1","1","1","1","0","34","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","874194.0, 559409.0, 844104.0, 792087.5, 906424.0, 914432.0, 923626.0, 928615.0, 934346.0, 938436.0, 946996.0","8.9 Estimating Emissions from Soil
+See above summary table","{2036: 45696.0, 2035: 251432.0, 2034: 251432.0, 2033: 251432.0, 2032: 251432.0, 2031: 251432.0, 2030: 251432.0, 2029: 251432.0, 2028: 251432.0, 2027: 251432.0, 2026: 251432.0, 2025: 251432.0, 2024: 251432.0, 2023: 251432.0, 2022: 251432.0, 2021: 251432.0, 2020: 251432.0, 2019: 251432.0, 2018: 251432.0, 2017: 251432.0, 2016: 251432.0, 2015: 251432.0, 2014: 251432.0, 2013: 251432.0, 2012: 251432.0, 2011: 251432.0, 2010: 251432.0, 2009: 251432.0, 2008: 251432.0, 2007: 251432.0, 2006: 251432.0, 2005: 251432.0}","1","1","1","5","1","0","35","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2015: 594490.0, 2014: 594490.0, 2008: 338520.0, 2007: 6762.0, 2006: 14561.0}","8.2 Projects that reduce GHG emissions from activities
+that participate in an emissions trading program (if
+applicable):
+The project has request for CDM registration and will be registration on November 13st,2008.
+So the crediting period of CDM is from November 13st ,2008 to November 12st,2016 The
+crediting period of VER is from December 1st,2006 to September 31st,2008
+_________________________________________________________
+____________
+3 4","{2015: 1035685.0, 2014: 1035685.0, 2013: 1035685.0, 2012: 1035685.0, 2011: 1035685.0, 2010: 1035685.0, 2009: 1035685.0, 2008: 1035685.0, 2007: 1035685.0, 2006: 86307.0}","1","1","1","3","1","0.33","36","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2015: 61924.9, 2014: 61924.9, 2013: 55294.289, 2012: 55365.509, 2011: 52575.692, 2010: 40141.516, 2009: 36958.938, 2008: 32130.907, 2007: 27300.966, 2006: 13303.893}","B.6.3 Ex-ante calculation of emission reductions:
+Grid Emission Factor
+Western Regional Grid- 952.5 T CO /GWh 2
+Southern Regional Grid- 930 T CO /GWh 2
+Northern Regional Grid- 867.5 T CO /GWh 2
+
+[['Reference No.', 'Applicable\nRegional\nGrid', 'Grid\nEmission\nFactor\n(tCO2e/\nGWh) (EF)', 'Installed\nCapacity\n(MW)', 'Guaranteed\nAnnual\nGeneration15\n(GWh) (EG)', 'Emission\nReductions (tCO2e\n/ year) (ER= EW x\nEF)'], ['Mit/bp/01', 'Southern', '930', '0.80', '1.8', '1674'], ['Mit/bp/02', 'Southern', '930', '1.60', '3.04', '2827.2'], ['Mit/bp/03', 'Southern', '930', '0.50', '1.425', '1325.25'], ['Mit/bp/04', 'Western', '952.5', '0.60', '1.7', '1619.25'], ['Mit/bp/05', 'Southern', '930', '0.60', '1.7', '1581'], ['Mit/bp/06', 'Southern', '930', '0.60', '1.7', '1581'], ['Mit/bp/07', 'Southern', '930', '0.60', '1.7', '1581'], ['Mit/bp/08', 'Southern', '930', '0.50', '1.425', '1325.25'], ['Mit/bp/09', 'Northern', '867.5', '0.80', '1.53', '1327.275'], ['Mit/bp/10', 'Northern', '867.5', '0.80', '1.53', '1327.275'], ['Mit/bp/11', 'Northern', '867.5', '0.80', '1.53', '1327.275'], ['Mit/bp/12', 'Western', '952.5', '1.25', '2.1', '2000.25'], [None, None, None, '0.35', '0.6', '571.5'], ['Mit/bp/13', 'Western', '952.5', '0.70', '1.2', '1143'], ['Mit/bp/14', 'Western', '952.5', '0.70', '1.2', '1143'], ['Mit/bp/15', 'Western', '952.5', '1.05', '1.8', '1714.5'], ['Mit/bp/16', 'Western', '952.5', '0.35', '0.588', '560.07'], ['Mit/bp/17', 'Western', '952.5', '0.60', '1.2', '1143'], ['Mit/bp/18', 'Western', '952.5', '0.60', '1.2', '1143'], ['Mit/bp/19', 'Western', '952.5', '0.60', '1.2', '1143']]
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.1.
+CDM – Executive Board
+page 31
+Baseline emissions or CERs generated by the project are estimated to be:
+Baseline Emissions = Grid Emission Factor * Power Generated from the Project (project)
+(tons of CO2) (tons of CO2/GWh) (GWh/year)
+15 Values provided by Suppliers of WTGs
+
+[['Reference No.', 'Applicable\nRegional Grid', 'Grid\nEmission\nFactor\n(tCO2e/\nGWh) (EF)', 'Installed\nCapacity\n(MW)', 'Guaranteed Annual\nGeneration16\n(GWh) (EG)', 'Emission Reductions\n(tCO2e / year) (ER=\nEW x EF)'], ['Mit/bp/20', 'Western', '952.5', '0.35', '0.588', '560.07'], ['Mit/bp/21', 'Western', '952.5', '0.35', '0.588', '560.07'], ['Mit/bp/22', 'Western', '952.5', '0.35', '0.588', '560.07'], ['Mit/bp/23', 'Western', '952.5', '0.35', '0.588', '560.07'], ['Mit/bp/24', 'Western', '952.5', '0.70', '1.2', '1143'], ['Mit/bp/25', 'Western', '952.5', '0.70', '0.666', '634.365'], [None, 'Southern', '930', '1.20', '3.00', '2790'], ['Mit/bp/26', 'Western', '952.5', '0.23', '0.45', '428.625'], [None, 'Southern', '930', '0.23', '0.50', '465']]
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.1.
+CDM – Executive Board
+page 32","{2010: 87007.0, 2009: -6160.0}","1","1","1","1","1","0.17","37","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2017: 42727.0, 2016: 42599.0, 2015: 42537.0, 2014: 42626.0, 2013: 42678.0, 2012: 48792.0}","[['Year', '', 'Baseline', '', '', 'Project emissions', '', 'Leakage', '', '', 'Net GHG emission', ''], [None, None, 'emissions or', None, None, 'or removals', None, 'emissions', None, None, 'reductions or', None], [None, None, 'removals (tCO e)\n2', None, None, '(tCO e)\n2', None, '(tCO e)\n2', None, None, 'removals (tCO e)\n2', None], ['Total', '-0-', None, None, '48,191', None, None, '-0-', None, '48,191', None, None]]
+[['Verification\nNumber', 'Date', 'Monitoring Period', 'Period\nReductions', 'Buffer', 'Issuance'], ['Verif 01', '07-Mar-13', '01-Jan-03 to 12-Nov-12', '31,754', '3,175', '28,579'], ['Verif 02', '17-Oct-17', '13-Nov-12 to 07-Jul-17', '96,4 91', '9,6 49', '86,8 41'], ['Verif 03', 'Pending', '08-Jul-17 to 17-Apr-19', '48,1 91', '4,8 19', '43,3 72']]
+4.4 Net GHG Emission Reductions and Removals
+The net GhG emissions reductions can be found in column AW, ""PA Summary"" worksheet. It
+reflects the emission reductions calculated from the ""Ex-Post Strata"" worksheet, less the Pending
+and Removed groves.
+There is no intent to have vintages issued separately in the VCS registry system. The non-
+permanence risk rating is 2.0 and the required buffer is 10%. The non-permanence risk report is
+Appendix 12.
+v3.4 21","{2006: 1535.0, 2007: 5995.0, 2008: 7200.0, 2009: 7412.0, 2010: 9642.0, 2011: 9820.0, 2012: 9820.0, 2013: 8642.0, 2014: 6251.0, 2015: 8320.0, 2016: 8967.0, 2017: 7399.0, 2018: 8758.0, 2019: 8878.0, 2020: 8878.0, 2021: 8878.0, 2022: 8878.0, 2023: 8878.0, 2024: 8878.0, 2025: 8878.0, 2026: 8878.0, 2027: 8878.0, 2028: 8878.0, 2029: 6607.0, 2030: 2185.0, 2031: 6726.0, 2032: 8122.0, 2033: 5124.0, 2034: 8020.0, 2035: 8273.0}","1","1","1","5","1","0.17","38","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2015: 1570513.0, 2016: 1946867.0, 2017: 1989201.0, 2018: 3909526.0, 2019: 3969777.0, 2020: 3965157.0, 2021: 3013764.0, 2022: 10403041.0, 2023: 13403194.0, 2024: 13342918.0, 2025: 4983524.0}","4.3 Quantifying GHG emissions and/or removals for the project","{2038: 5362569.0, 2037: 5038330.0, 2036: 4851670.0, 2035: 4839784.0, 2034: 4825734.0, 2033: 4809154.0, 2032: 4789628.0, 2031: 4766691.0, 2030: 4739829.0, 2029: 4708486.0, 2028: 4672082.0, 2027: 4630041.0, 2026: 4581832.0, 2025: 4527047.0, 2024: 4465502.0, 2023: 4397397.0, 2022: 4323540.0, 2021: 4279896.0, 2020: 4245653.0, 2019: 4166790.0, 2018: 4138969.0, 2017: 4124970.0, 2016: 4091860.0, 2015: 4028251.0, 2014: 4026336.0, 2013: 3986445.0, 2012: 3980330.0, 2011: 3654181.0, 2010: 3592611.0, 2009: 2462212.0}","1","1","1","4","3","0.27","39","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2026: 562509.0, 2025: 566764.0, 2024: 570028.0, 2023: 573389.0, 2022: 576978.0, 2021: 580442.0, 2020: 583996.0, 2019: 587203.0, 2018: 590391.0, 2017: 593605.0, 2016: 596880.0, 2015: 601425.0, 2014: 424409.0, 2013: 331987.0}","5.4.6 ESTIMATING NET GHG EMISSIONS FROM HARVESTING
+Harvesting and IFM activities are omitted from the project area.","{2044: 111003.0, 2043: 123121.0, 2042: 125423.0, 2041: 126665.0, 2040: 128831.0, 2039: 133567.0, 2038: 137593.0, 2037: 120121.0, 2036: 94294.0, 2035: 156890.0, 2034: 159971.0, 2033: 158482.0, 2032: 158254.0, 2031: 297217.0, 2030: 329814.0, 2029: 337112.0, 2028: 340942.0, 2027: 350863.0, 2026: 356329.0, 2025: 366860.0, 2024: 361006.0, 2023: 345219.0, 2022: 328975.0, 2021: 307227.0, 2020: 307763.0, 2019: 282216.0, 2018: 274329.0, 2017: 255231.0, 2016: 220270.0, 2015: 148842.0, 2014: 1135.0}","1","1","1","1","1","0.29","40","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","The project's estimated GHG emission reductions or removals are provided in the context, under the quantification of GHG emission reductions and removals for a specific year. This information indicates that the project has records of yearly estimated GHG emission reductions or removals.","3.2 Quantification of GHG Emission Reductions and Removals","{2017: 11172.48493, 2018: 46374.52329, 2019: 57178.04096, 2020: 72283.47959, 2021: 93463.06849, 2022: 123525.5836, 2023: 164639.3028, 2024: 217167.3082, 2025: 274026.9616, 2026: 322297.2877, 2027: 347204.9507, 2028: 346011.3698, 2029: 327914.2137, 2030: 309463.737, 2031: 300200.3926, 2032: 303305.8677, 2033: 315431.7151, 2034: 333968.5233, 2035: 355081.0579, 2036: 376871.8901, 2037: 395280.5123, 2038: 409218.3233, 2039: 416439.135, 2040: 416941.2705, 2041: 408461.0575, 2042: 392361.4959, 2043: 368996.3974, 2044: 340782.6026, 2045: 308049.9945, 2046: 273647.0356, 2047: 238921.064, 2048: 205904.7278, 2049: 174756.9041, 2050: 146733.5534, 2051: 121925.2655, 2052: 100668.1236, 2053: 82372.83562, 2054: 67064.66575, 2055: 54312.45704, 2056: 43900.25803, 2057: 35299.90411, 2058: 28334.06849, 2059: 22682.74478, 2060: 18163.86892, 2061: 14496.19452, 2062: 11565.14795, 2063: 9213.878778, 2064: 7349.326701, 2065: 5847.213699, 2066: 4653.441096, 2067: 3700.256209, 2068: 2947.113654, 2069: 2341.819178, 2070: 1861.572603, 2071: 1479.347024, 2072: 1177.146126, 2073: 935.2767123, 2074: 742.9780822, 2075: 590.0417022, 2076: 369.2213115}","1","3","1","1","1","0","41","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016: 381046.0, 2017: 315110.0, 2018: 67144.0, 2019: -148000.0, 2020: -370117.0, 2021: -293229.0, 2022: -194615.0, 2023: -174996.0, 2024: 149919.0, 2025: 268893.0, 2026: 381080.0, 2027: 315143.0, 2028: 56402.0, 2029: -136814.0, 2030: -370757.0, 2031: -293198.0, 2032: -194583.0, 2033: -174963.0, 2034: 149952.0, 2035: 268927.0, 2036: 381113.0, 2037: 304401.0, 2038: 67588.0, 2039: -137454.0, 2040: -370726.0, 2041: -293","[['', 'Project Scale', None, None, None, ''], ['', 'Project', '', '', 'X', ''], ['', 'Large project', '', '', '', '']]
+[['', '', '', '', None, '', None, ''], [None, 'Estimated GHG\nemission reductions\nor removals (tCO2e)', None, '', 'Estimated GHG', None, None, 'Estimated GHG\nemission reductions\nor removals (tCO2e)'], ['Year', None, 'Year', None, None, '', 'Year', None], [None, None, None, None, 'emission reductions', None, None, None], [None, None, None, None, 'or removals (tCO2e)', None, None, None], ['', None, '', None, None, '', None, None], [None, '', None, '', None, None, None, ''], ['2016', '0', '2051', '', '381,046', '', '2086', '-293,133'], ['2017', '109,921', '2052', '', '315,110', '', '2087', '-194,517'], ['2018', '248,749', '2053', '', '67,144', '', '2088', '-174,897'], ['2019', '340,267', '2054', '', '-148,000', '', '2089', '150,019'], ['2020', '364,694', '2055', '', '-370,117', '', '2090', '258,218'], ['2021', '319,063', '2056', '', '-293,229', '', '2091', '381,557'], ['2022', '250,023', '2057', '', '-194,615', '', '2092', '314,948'], ['2023', '211,737', '2058', '', '-174,996', '', '2093', '66,979']]
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals
+REFORESTADORA CUMARE SAS afforestation of lands except wetlands is classified as a “project”,
+according to its scale. It will remove a total amount of 2,918,000 tCO e during a period of 100 years (ex 2
+ante LTA estimation). This means an average of 29,180 tCO e per year. 2
+5 First plantations started in 2013, but these are not part of the project activity given the retroactive period allowed by
+VCS.
+21
+
+[['2024', '223,826', '2059', '', '149,919', '', '2094', '-137,391'], ['2025', '297,107', '2060', '', '268,893', '', '2095', '-370,661'], ['2026', '393,764', '2061', '', '381,080', '', '2096', '-293,100'], ['2027', '-193,785', '2062', '', '315,143', '', '2097', '-194,483'], ['2028', '-163,013', '2063', '', '56,402', '', '2098', '-174,863'], ['2029', '161,230', '2064', '', '-136,814', '', '2099', '139,277'], ['2030', '280,202', '2065', '', '-370,757', '', '2100', '269,404'], ['2031', '392,387', '2066', '', '-293,198', '', '2101', '380,918'], ['2032', '326,450', '2067', '', '-194,583', '', '2102', '314,978'], ['2033', '78,484', '2068', '', '-174,963', '', '2103', '67,011'], ['2034', '-125,885', '2069', '', '149,952', '', '2104', '-137,358'], ['2035', '-359,154', '2070', '', '268,927', '', '2105', '-370,628'], ['2036', '-292,369', '2071', '', '381,113', '', '2106', '-293,067'], ['2037', '-184,477', '2072', '', '304,401', '', '2107', '-194,450'], ['2038', '-167,544', '2073', '', '67,588', '', '2108', '-185,606'], ['2039', '156,194', '2074', '', '-137,454', '', '2109', '150,463'], ['2040', '274,448', '2075', '', '-370,726', '', '2110', '268,764'], ['2041', '386,495', '2076', '', '-293,166', '', '2111', '380,948'], ['2042', '320,525', '2077', '', '-194,550', '', '2112', '315,010'], ['2043', '72,012', '2078', '', '-174,930', '', '2113', '67,044'], ['2044', '-133,451', '2079', '', '149,986', '', '2114', '-137,325'], ['2045', '-379,400', '2080', '', '268,960', '', '2115', '-370,595'], ['2046', '-292,589', '2081', '', '370,371', '', '2116', '-293,033']]
+Joint Project Description & Monitoring Report: VCS Version 4.0
+22
+
+[['2047', '-194,645', '2082', '', '315,587', '2117', '-205,192'], ['2048', '-175,028', '2083', '', '66,949', '2118', '-174,420'], ['2049', '149,886', '2084', '', '-137,423', '2119', '149,823'], ['2050', '268,860', '2085', '', '-370,694', '2120', '268,795'], ['', None, None, None, None, '2,918,000 (ex ante LTA\nestimation)', None], ['Total estimated ERs', None, None, None, None, None, None], ['Total number of crediting years', None, None, None, None, '100', None], ['Average annual ERs', None, None, None, None, '29,180', None]]
+Joint Project Description & Monitoring Report: VCS Version 4.0","{2017: 18370.3589, 2018: 151492.7507, 2019: 415217.3904, 2020: 760205.1767, 2021: 1116954.858, 2022: 1424479.833, 2023: 1667262.966, 2024: 1882704.754, 2025: 2117935.499, 2026: 2431196.301, 2027: 2725596.446, 2028: 2539296.3, 2029: 2429301.288, 2030: 2610414.279, 2031: 2907887.3, 2032: 3292210.103, 2033: 3575741.504, 2034: 3620070.852, 2035: 3453760.874, 2036: 3108650.46, 2037: 2832871.597, 2038: 2651224.496, 2039: 2536566.447, 2040: 2714959.86, 2041: 3006915.315, 2042: 3382385.192, 2043: 3659678.633, 2044: 3700751.479, 2045: 3524497.425, 2046: 3159605.564, 2047: 2882142.532, 2048: 2693260.334, 2049: 2571290.441, 2050: 2741059.767, 2051: 3027140.958, 2052: 3400223.921, 2053: 3672364.326, 2054: 3703552.753, 2055: 3516965.832, 2056: 3162629.603, 2057: 2884416.301, 2058: 2693080.093, 2059: 2571153.336, 2060: 2743418.903, 2061: 3029829.175, 2062: 3399888.901, 2063: 3670092.854, 2064: 3697599.261, 2065: 3519989.871, 2066: 3162194.786, 2067: 2884234.248, 2068: 2695418.01, 2069: 2573511.471, 2070: 2743346.964, 2071: 3029493.888, 2072: 3400844.298, 2073: 3664138.529, 2074: 3697459.403, 2075: 3519554.27, 2076: 3164723.916, 2077: 2886572.164, 2078: 2695300.956, 2079: 2573438.463, 2080: 2745773.169, 2081: 3030448.619, 2082: 3391663.937, 2083: 3663998.274, 2084: 3700189.712, 2085: 3522082.4, 2086: 3164350.649, 2087: 2886454.072, 2088: 2697705.246, 2089: 2575864.668, 2090: 2743966.241, 2091: 3021271.678, 2092: 3394747.527, 2093: 3666728.751, 2094: 3699552.764, 2095: 3521709.124, 2096: 3166945.788, 2097: 2888858.362, 2098: 2697654.321, 2099: 2575291.263, 2100: 2736314.682, 2101: 3024355.268, 2102: 3394253.159, 2103: 3666089.824, 2104: 3702346.554, 2105: 3524303.43, 2106: 3166637.679, 2107: 2888806.336, 2108: 2698326.623, 2109: 2567639.871, 2110: 2737873.723, 2111: 3023859.949, 2112: 3396841.007, 2113: 3668884.614, 2114: 3701773.795, 2115: 3523995.085, 2116: 3169300.222, 2117: 2889478.471, 2118: 2689428.523, 2119: 2567967.784, 2120: 2740134.2, 2121: 2467628.8}","1","1","1","1","1","0.19","42","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2023: 128589.0, 2022: 128589.0, 2021: 128589.0, 2020: 128589.0, 2019: 128589.0, 2018: 128589.0, 2017: 128589.0, 2016: 128589.0, 2015: 128589.0}","[['', 'Project Scale', None, ''], ['Project', None, '\uf0fc', None], ['Large project', None, '', None]]
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals
+v3.2 4
+
+[['Year', '', 'Estimated GHG emission', ''], [None, None, 'reductions or removals', None], [None, None, '(tCO e)\n2', None], ['29/12/2014-28/12/2015', '128,589', None, None], ['29/12/2015-28/12/2016', '128,589', None, None], ['29/12/2016-28/12/2017', '128,589', None, None], ['29/12/2017-28/12/2018', '128,589', None, None], ['29/12/2018-28/12/2019', '128,589', None, None], ['29/12/2019-28/12/2020', '128,589', None, None], ['29/12/2020-28/12/2021', '128,589', None, None], ['29/12/2021-28/12/2022', '128,589', None, None], ['29/12/2022-28/12/2023', '128,589', None, None], ['29/12/2023-28/12/2024', '128,589', None, None], ['Total estimated ERs', '1,285,890', None, None], ['Total number of crediting years', '10', None, None], ['Average annual ERs', '128,589', None, None]]
+PROJECT DESCRIPTION : VCS Version 3","{2023: 128589.0, 2022: 128589.0, 2021: 128589.0, 2020: 128589.0, 2019: 128589.0, 2018: 128589.0, 2017: 128589.0, 2016: 128589.0, 2015: 257178.0, 2014: 128589.0}","1","1","1","5","3","0.95","43","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2020: 1779629.0, 2019: 1793061.0, 2018: 1804422.0, 2017: 1636578.0, 2016: 1496312.0, 2015: 1384590.0, 2014: 1301295.0, 2013: 1227008.0, 2012: 1094705.0, 2011: 954751.0, 2010: 904359.0, 2009: 488461.0}","5.6.2 CALCULATION OF EX-ANTE ESTIMATION OF TOTAL NET GHG EMISSIONS REDUCTIONS
+(VM0015 SECTION 9.2)
+The Net Emission Reductions (NERs) were calculated according to equation 19 below provided in
+VM0015, v1.1.
+ΔREDD = (ΔCBSLPA + EBBBSLPA) – (ΔCPSPA + EBBBPSPA) – (ΔCLK + ELK) t t t t t t t
+Where:
+ΔREDD - ex-ante estimated net anthropogenic greenhouse gas emission reduction attributable to the t
+AUD project activity at year t (tCO e) 2
+ΔCBSLPA - sum of baseline carbon stock change in the project area at year t (tCO e) t 2
+v3.0 19
+4
+
+[['Year', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated net', ''], [None, None, 'baseline', None, None, 'project', None, None, 'leakage', None, None, 'GHG emission', None], [None, None, 'emissions or', None, None, 'emissions or', None, None, 'emissions', None, None, 'reductions or', None], [None, None, 'removals (tCO e)\n2', None, None, 'removals (tCO e)\n2', None, None, '(tCO e)\n2', None, None, 'removals (tCO e)\n2', None], ['1', '488,461', None, None, '141,654', None, None, '69,362', None, None, '277,446', None, None], ['2', '904,359', None, None, '262,264', None, None, '128,419', None, None, '513,676', None, None], ['3', '954,751', None, None, '276,878', None, None, '135,575', None, None, '542,299', None, None], ['4', '1,094,705', None, None, '310,082', None, None, '156,925', None, None, '627,698', None, None], ['5', '1,227,008', None, None, '339,288', None, None, '179,403', None, None, '708,317', None, None], ['6', '1,301,295', None, None, '351,123', None, None, '193,976', None, None, '756,196', None, None], ['7', '1,384,590', None, None, '364,356', None, None, '210,350', None, None, '809,884', None, None], ['8', '1,496,312', None, None, '383,710', None, None, '231,624', None, None, '880,979', None, None], ['9', '1,636,578', None, None, '408,593', None, None, '258,161', None, None, '969,825', None, None], ['10', '1,804,422', None, None, '438,083', None, None, '290,096', None, None, '1,076,243', None, None], ['11', '1,916,861', None, None, '451,887', None, None, '314,054', None, None, '1,150,920', None, None], ['12', '1,878,006', None, None, '429,196', None, None, '313,396', None, None, '1,135,414', None, None], ['13', '1,810,285', None, None, '400,862', None, None, '307,591', None, None, '1,101,832', None, None], ['14', '1,793,061', None, None, '383,794', None, None, '310,509', None, None, '1,098,758', None, None], ['15', '1,779,629', None, None, '367,549', None, None, '313,921', None, None, '1,098,159', None, None], ['16', '1,640,351', None, None, '327,198', None, None, '294,053', None, None, '1,019,100', None, None], ['17', '1,451,424', None, None, '279,788', None, None, '264,265', None, None, '907,372', None, None], ['18', '1,404,086', None, None, '259,965', None, None, '260,182', None, None, '883,939', None, None], ['19', '1,536,011', None, None, '270,616', None, None, '290,631', None, None, '974,763', None, None], ['20', '1,582,688', None, None, '265,083', None, None, '306,064', None, None, '1,011,540', None, None], ['21', '1,533,244', None, None, '243,947', None, None, '303,050', None, None, '986,247', None, None], ['22', '1,735,600', None, None, '259,274', None, None, '353,018', None, None, '1,123,309', None, None], ['23', '1,333,975', None, None, '190,429', None, None, '276,148', None, None, '867,397', None, None], ['24', '839,477', None, None, '116,726', None, None, '173,904', None, None, '548,846', None, None]]
+PROJECT DESCRIPTION
+VCS Version 3.6, CCB Standards Third Edition
+EBBBSLPA - sum of baseline emissions from biomass burning in the project area at year t (tCO e) t 2
+ΔCPSPA - sum of ex ante estimated actual carbon stock change in the project area at year t (tCO e) t 2
+EBBBPSPA - sum of (ex-ante estimated) actual emissions from biomass burning in the project area at t
+year t (tCO e) 2
+ΔCLK - sum of ex ante estimated leakage net carbon stock change at year t (tCO e) t 2
+ELK - sum of ex ante estimated leakage emissions at year t (tCO e) t 2
+t - 1, 2, 3…T, a year of the proposed project crediting period
+The NERs (ΔREDD) from the analysis presented in this section are summarized in Table 61 below.
+v3.0 19
+5
+
+[['26', '234,874', '36,019', '46,975', '151,879'], ['27', '193,938', '29,501', '38,858', '125,579'], ['28', '167,087', '24,784', '33,796', '108,507'], ['29', '137,060', '19,748', '28,032', '89,280'], ['30', '105,361', '14,710', '21,808', '68,842'], ['Total', '35,720,779', '7,699,731', '6,176,206', '21,844,843']]
+PROJECT DESCRIPTION
+VCS Version 3.6, CCB Standards Third Edition
+25 355,279 52,624 72,059 230,595
+Table 61. Estimated net GHG emission reductions or removals","{2014: 131783.0, 2013: 116852.0, 2012: 99950.0, 2011: 89027.0, 2010: 45013.0}","1","1","5","3","1","0.29","44","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2019: 274166.0, 2018: 274166.0, 2017: 274166.0, 2016: 274166.0, 2015: 274166.0, 2014: 52485.0}","[['', 'Years', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated net', '']]
+3.4 Summary of GHG Emission Reductions and Removals
+Describe the procedure for quantification of net GHG emission reductions and removals. Include
+all relevant equations For AFOLU projects, include net change in carbon stocks.
+Provide the ex-ante calculation (estimate) of baseline emissions/removals, project
+emissions/removals, leakage emissions and net emission reductions and removals, using the
+table below:
+v3.1 10
+
+[['', '', 'baseline', '', '', 'project', '', '', 'leakage', '', '', 'GHG emission', ''], [None, None, 'emissions or', None, None, 'emissions or', None, None, 'emissions', None, None, 'reductions or', None], [None, None, 'removals', None, None, 'removals', None, None, '(tCO e)\n2', None, None, 'removals', None], [None, None, '(tCO e)\n2', None, None, '(tCO e)\n2', None, '', None, None, None, '(tCO e)\n2', None], ['Year A', '', None, None, '', None, None, '', None, None, '', None, None], ['Year B', '', None, None, '', None, None, '', None, None, '', None, None], ['Year C', '', None, None, '', None, None, '', None, None, '', None, None], ['Year...', '', None, None, '', None, None, '', None, None, '', None, None], ['Total', '', None, None, '', None, None, '', None, None, '', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING","{2022: 109306.0, 2021: 109306.0, 2020: 109306.0, 2019: 109306.0, 2018: 109306.0, 2017: 109306.0, 2016: 109306.0, 2015: 109306.0, 2014: 109306.0, 2013: 109306.0}","1","3","1","1","1","0.37","45","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2010: 1539785.77, 2011: 1503854.884, 2012: 1504576.519, 2013: 1503062.678, 2014: 1507806.589, 2015: 1516530.5470000002, 2016: 1527525.951, 2017: 1513369.98, 2018: 1519784.019, 2019: 1539301.08, 2020: 1559337.055, 2021: 1579611.798, 2022: 1599199.883}","3.4 Summary of GHG Emission Reductions and Removals
+Net GHG Emission Reductions and Removals can be summarized as the “Estimated baseline
+emissions” minus the “Estimated project emissions” minus the “Estimated leakage
+emissions”, whose components are presented below.
+Estimated baseline emissions:
+Baseline emissions from unplanned deforestation
+(+)
+Emissions from biomass burning in the baseline
+(-)
+Sum of Wood Products, Pasture, and Coffee Carbon Pools in the baseline case
+Estimated project emissions:
+Emissions arising from logging gap in Project Area
+(+)
+Emissions from constructing logging infrastructure for removal of timber in Project Area
+(-)
+Wood Products Carbon Pool in Project Area
+Estimated leakage emissions
+(Sum of Market Leakage and Leakage outside the Leakage Belt) * Leakage Factor
+JUR_SP - 12992104v1 - 5439.272993 v3.0 1 30
+
+[['Years', '', 'Estimated', '', '', 'Estimated', '', 'Estimated\nleakage\nemissions\n(tCO2e)', '', 'Estimated net', ''], [None, None, 'baseline', None, None, 'project', None, None, None, 'GHG emission', None], [None, None, 'emissions or', None, None, 'emissions or', None, None, None, 'reductions or', None], [None, None, 'removals', None, None, 'removals', None, None, None, 'removals', None], [None, None, '(tCO2e)', None, None, '(tCO2e)', None, None, None, '(tCO2e)', None], ['2009', '822,480.3', None, None, '121,887.1', None, None, '22,621.9', '677,971.3', None, None], ['2010', '1,145,821.8', None, None, '119,903.1', None, None, '31,289.9', '994,628.8', None, None], ['2011', '1,145,821.8', None, None, '133,471.5', None, None, '30,837.6', '981,512.7', None, None], ['2012', '1,145,821.8', None, None, '147,949.1', None, None, '30,329.4', '967,543.3', None, None], ['2013', '1,145,821.8', None, None, '129,696.5', None, None, '29,821.2', '986,304.1', None, None], ['2014', '1,145,821.8', None, None, '129,696.5', None, None, '29,482.4', '986,642.9', None, None], ['2015', '1,145,821.8', None, None, '129,696.5', None, None, '29,482.4', '986,642.9', None, None], ['2016', '1,145,821.8', None, None, '129,696.5', None, None, '29,482.4', '986,642.9', None, None], ['2017', '1,145,821.8', None, None, '128,918.1', None, None, '29,482.4', '987,421.4', None, None], ['2018', '1,145,821.8', None, None, '128,918.1', None, None, '29,482.4', '987,421.4', None, None], ['2019', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2020', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2021', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2022', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2023', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2024', '1,145,821.8', None, None, '128,918.1', None, None, '29,313.0', '987,590.8', None, None], ['2025', '1,163,622.4', None, None, '128,918.1', None, None, '29,338.0', '1,005,366.4', None, None], ['2026', '1,183,426.2', None, None, '128,918.1', None, None, '29,365.8', '1,025,142.4', None, None], ['2027', '1,183,426.2', None, None, '128,152.3', None, None, '29,365.8', '1,025,908.1', None, None], ['2028', '1,183,426.2', None, None, '128,152.3', None, None, '29,365.8', '1,025,908.1', None, None], ['2029', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2030', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2031', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2032', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2033', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2034', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2035', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2036', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2037', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2038', '1,183,426.2', None, None, '128,152.3', None, None, '29,196.4', '1,026,077.5', None, None], ['2039', '151,864.6', None, None, '36,163.5', None, None, '3,746.7', '111,954.4', None, None], ['Total', '34,709,835.3', None, None, '3,905,168.7', None, None, '881,335.6', '29,923,331.0', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+JUR_SP - 12992104v1 - 5439.272993 v3.0 1 31
+
+PROJECT DESCRIPTION : VCS Version 3
+4 MONITORING","{2039: 111954.4, 2038: 1026077.5, 2037: 1026077.5, 2036: 1026077.5, 2035: 1026077.5, 2034: 1026077.5, 2033: 1026077.5, 2032: 1026077.5, 2031: 1026077.5, 2030: 1026077.5, 2029: 1026077.5, 2028: 1025908.1, 2027: 1025908.1, 2026: 1025142.4, 2025: 1005366.4, 2024: 987590.8, 2023: 987590.8, 2022: 987590.8, 2021: 987590.8, 2020: 987590.8, 2019: 987590.8, 2018: 987421.4, 2017: 987421.4, 2016: 986642.9, 2015: 986642.9, 2014: 986642.9, 2013: 986304.1, 2012: 967543.3, 2011: 981512.7, 2010: 994628.8, 2009: 677971.3}","1","1","1","3","3","0.3","46","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2029: 657.352, 2028: 441.999, 2027: 329.036, 2026: 317.331, 2025: 313.604, 2024: 282.254, 2023: 293.984, 2022: 234.097, 2021: 220.324, 2020: 198.878, 2019: 142.655, 2018: 82.333, 2017: 31.237}","5.6 Summary of reduced or removed GHG emissions (CL1 & CL2)
+Ex-ante total net reduction of GHG anthropogenic Emissions
+Significance Assessment
+Based on the document ""EB-CDM approved"" “Tool for testing significance of GHG emissions in
+A/R CDM Project activities”, we could verify that the above-ground biomass will contribute with 85% of the
+expected emissions in the baseline scenario. On the other side, below-ground biomass will contribute
+with 15%.
+Ex-ante estimate calculation of GHG emissions total net reduction
+VM0015 Equation 19 has been used to calculate the ex-ante estimate of the project emission
+reduction.
+Ex-ante calculation of Verified Carbon Units (VCUs)
+VM0015 Equation 20 was applied to estimate the number of VCUs. The project Risk Factor
+parameter was estimated using the VCS AFOLU Non-Permanence Risk Tool, resulting in 10%.
+v3.0
+166
+
+[['Project\nYear t', None, 'Baseline\ncarbon\nstock\nchanges', 'Baseline\nGHG\nemissions', None, 'Ex ante\nproject\ncarbon\nstock\nchanges', None, 'Ex ante\nproject\nGHG\nemissions', None, 'Ex ante\nleakage\ncarbon\nstock\nchanges', None, 'Ex ante\nleakage\nGHG\nemissions', 'Ex ante net\nanthropogenic GHG\nemission reductions', None, None, None, 'Ex ante VCUs\ntradable', None, None, None, 'Ex ante buffer\ncredits', None, None, None], [None, None, 'annual', 'annual', '', '', 'annual', 'annual', '', '', 'annual', 'annual', 'annual', '', '', 'cumulative', 'annual', '', '', 'cumulative', 'annual', '', '', 'cumulative'], [None, None, 'ΔCBSLPA\nt', 'ΔEBBBSLPA\nt', '', '', 'ΔCPSPA\nt', 'EBBPSPA\nt', '', '', 'ΔCLK\nt', 'ELK\nt', 'ΔREDDt', '', '', 'ΔREDD', 'VCUt', '', '', 'VCU', 'VCBt', '', '', 'VCB'], [None, None, 'tCO -e\n2', 'tCO -e\n2', '', '', 'tCO e\n2', 'tCO e\n2', '', '', 'tCO e\n2', 'tCO e\n2', 'tCO2e', '', '', 'tCO2e', 'tCO2e', '', '', 'tCO2e', 'tCO2e', '', '', 'tCO2e'], ['', '2013', '86.638', '0', '', '', '22.737', '0', '', '', '12.996', '0', '50.904', '', '', '50.904', '44.514', '', '', '44.514', '6.390', '', '', '6.390'], ['', '2014', '186.203', '0', '', '', '25.853', '0', '', '', '27.931', '0', '132.418', '', '', '183.322', '116.383', '', '', '160.897', '16.034', '', '', '22.424'], ['', '2015', '205.965', '0', '', '', '24.584', '0', '', '', '30.895', '0', '150.485', '', '', '333.807', '132.347', '', '', '293.244', '18.138', '', '', '40.562'], ['', '2016', '157.957', '0', '', '', '21.564', '0', '', '', '23.694', '0', '112.698', '', '', '446.505', '99.059', '', '', '392.303', '13.639', '', '', '54.201'], ['', '2017', '296.657', '0', '', '', '21.372', '0', '', '', '44.499', '0', '230.786', '', '', '677.291', '203.257', '', '', '595.560', '27.528', '', '', '81.729'], ['', '2018', '220.015', '0', '', '', '20.605', '0', '', '', '33.002', '0', '166.406', '', '', '843.697', '146.465', '', '', '742.025', '19.940', '', '', '101.669'], ['', '2019', '315.125', '0', '', '', '21.556', '0', '', '', '47.269', '0', '246.298', '', '', '1.089.995', '216.942', '', '', '958.967', '29.356', '', '', '131.025'], ['', '2020', '281.411', '0', '', '', '21.219', '0', '', '', '42.212', '0', '217.979', '', '', '1.307.974', '191.960', '', '', '1.150.927', '26.019', '', '', '157.044'], ['', '2021', '317.613', '0', '', '', '21.581', '0', '', '', '47.642', '0', '248.388', '', '', '1.556.362', '218.785', '', '', '1.369.712', '29.603', '', '', '186.647'], ['', '2022', '312.781', '0', '', '', '21.533', '0', '', '', '46.917', '0', '244.330', '', '', '1.800.692', '215.205', '', '', '1.584.917', '29.124', '', '', '215.771'], ['', '2023', '358.891', '0', '', '', '21.994', '0', '', '', '35.889', '0', '301.007', '', '', '2.101.699', '267.317', '', '', '1.852.234', '33.689', '', '', '249.460'], ['', '2024', '445.111', '0', '', '', '22.856', '0', '', '', '44.511', '0', '377.742', '', '', '2.479.441', '335.517', '', '', '2.187.751', '42.225', '', '', '291.685'], ['', '2025', '368.737', '0', '', '', '22.092', '0', '', '', '36.874', '0', '309.770', '', '', '2.789.211', '275.106', '', '', '2.462.857', '34.664', '', '', '326.349'], ['', '2026', '390.739', '0', '', '', '22.313', '0', '', '', '39.074', '0', '329.351', '', '', '3.118.562', '292.509', '', '', '2.755.366', '36.842', '', '', '363.191']]
+PROJECT DESCRIPTION
+VCS Version 3, CCB Standards Third Edition
+Table 48 Ex-ante estimate of net anthropogenic emission reductions (DREDD) and Verified Carbon Units (VM0015 Table 36).
+v3.0
+167
+
+[['', '2027', '', '', '384.854', '0', '', '', '22.254', '', '0', '', '', '38.485', '0', '324.113', '', '', '3.442.675', '287.853', '', '', '3.043.219', '', '36.259', '', '', '399.450'], ['', '2028', '', '', '387.040', '0', '', '', '22.276', '', '0', '', '', '19.352', '0', '345.411', '', '', '3.788.086', '308.935', '', '', '3.352.154', '', '36.476', '', '', '435.926'], ['', '2029', '', '', '398.161', '0', '', '', '22.387', '', '0', '', '', '19.908', '0', '355.865', '', '', '4.143.951', '318.288', '', '', '3.670.442', '', '37.577', '', '', '473.503'], ['', '2030', '', '', '336.770', '0', '', '', '21.773', '', '0', '', '', '16.839', '0', '298.158', '', '', '4.442.109', '266.658', '', '', '3.937.100', '', '31.499', '', '', '505.002'], ['', '2031', '', '', '379.693', '0', '', '', '22.202', '', '0', '', '', '18.985', '0', '338.505', '', '', '4.780.614', '302.756', '', '', '4.239.856', '', '35.749', '', '', '540.751'], ['', '2032', '', '', '391.243', '0', '', '', '22.318', '', '0', '', '', '19.562', '0', '349.362', '', '', '5.129.976', '312.470', '', '', '4.552.326', '', '36.892', '', '', '577.643'], ['', '2033', '', '', '411.452', '0', '', '', '22.520', '', '0', '', '', '20.573', '0', '368.358', '', '', '5.498.334', '329.465', '', '', '4.881.791', '', '38.893', '', '', '616.536'], ['', '2034', '', '', '392.537', '0', '', '', '22.330', '', '0', '', '', '19.627', '0', '350.578', '', '', '5.848.912', '313.558', '', '', '5.195.349', '', '37.020', '', '', '653.556'], ['', '2035', '', '', '343.152', '0', '', '', '21.837', '', '0', '', '', '17.158', '0', '304.156', '', '', '6.153.068', '272.025', '', '', '5.467.374', '', '32.131', '', '', '685.687'], ['', '2036', '', '', '308.012', '0', '', '', '21.485', '', '0', '', '', '15.401', '0', '271.125', '', '', '6.424.193', '242.472', '', '', '5.709.846', '', '28.652', '', '', '714.339'], ['', '2037', '', '', '351.118', '0', '', '', '21.916', '', '0', '', '', '17.556', '0', '311.645', '', '', '6.735.838', '278.724', '', '', '5.988.570', '', '32.920', '', '', '747.259'], ['', '2038', '', '', '418.404', '0', '', '', '22.589', '', '0', '', '', '20.920', '0', '374.893', '', '', '7.110.731', '335.312', '', '', '6.323.882', '', '39.581', '', '', '786.840'], ['', '2039', '', '', '419.334', '0', '', '', '22.598', '', '0', '', '', '20.967', '0', '375.768', '', '', '7.486.499', '336.094', '', '', '6.659.976', '', '39.673', '', '', '826.513'], ['', '2040', '', '', '300.105', '0', '', '', '21.406', '', '0', '', '', '15.005', '0', '263.692', '', '', '7.750.191', '235.822', '', '', '6.895.798', '', '27.869', '', '', '854.382'], ['', '2041', '', '', '366.397', '0', '', '', '22.069', '', '0', '', '', '18.320', '0', '326.007', '', '', '8.076.198', '291.574', '', '', '7.187.372', '', '34.432', '', '', '888.814'], ['', '2042', '', '', '341.389', '0', '', '', '21.819', '', '0', '', '', '17.069', '0', '302.499', '', '', '8.378.697', '270.542', '', '', '7.457.914', '', '31.956', '', '', '920.770']]
+PROJECT DESCRIPTION
+VCS Version 3, CCB Standards Third Edition
+v3.0
+168
+
+PROJECT DESCRIPTION
+VCS Version 3, CCB Standards Third Edition
+6 COMMUNITIES","{2042: 302499.0, 2041: 326007.0, 2040: 263692.0, 2039: 375768.0, 2038: 374893.0, 2037: 311645.0, 2036: 271125.0, 2035: 304156.0, 2034: 350578.0, 2033: 368358.0, 2032: 349362.0, 2031: 338505.0, 2030: 298158.0, 2029: 355865.0, 2028: 345411.0, 2027: 324113.0, 2026: 329351.0, 2025: 309770.0, 2024: 377742.0, 2023: 301007.0, 2022: 244330.0, 2021: 248388.0, 2020: 217979.0, 2019: 246298.0, 2018: 166406.0, 2017: 230786.0, 2016: 112698.0, 2015: 150485.0, 2014: 132418.0, 2013: 50904.0}","1","1","1","1","1","0.3","47","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2015: 430286.0, 2014: 2273177.0, 2013: 974700.0, 2012: 662453.0, 2011: 1087170.0, 2010: 829056.0, 2009: 348781.0}","3.4 Summary of GHG Emission Reductions and Removals
+The total net GHG emissions reductions of the REDD project activity are calculated using the steps in the
+selected methodology. These result in a conservative ex-ante estimations of the total net GHG emissions
+reductions of the REDD project activity.
+C C C C
+REDD,t BSL P LK (9)
+Where:
+C Total net greenhouse emission reductions at time t; t CO -e REDD,t 2
+C Net greenhouse gas emissions under the baseline scenario; t CO -e BSL 2
+C Net greenhouse gas emissions within the project area under the project scenario; t CO -e P 2
+C Net greenhouse gas emissions due to leakage; t CO -e LK 2
+v3.0
+42
+
+[['', 'ΔC\nBSL,planned\nNet GHG Emissions\nunder baseline\nTotal VCS', 'ΔC\nP,Planned\nDeforestationAreas\nNet GHG emissions\nunder project\nTotal VCS', 'ΔC\nLK\nNet GHG emissions\ndue to leakage\nTotal VCS', 'C\nREDD\nTotal Net GHG\nEmission Reductions\nTotal VCS']]
+PROJECT DESCRIPTION : VCS Version 3
+C C C C (10) BSL BSL,planned BSL,unplanned BSL,degrad FW/C
+Where:
+C Net greenhouse gas emissions under the baseline scenario; t CO -e BSL 2
+ΔC Net greenhouse gas emissions in the baseline from planned deforestation; t CO -e BSL,planned 2
+ΔC Net greenhouse gas emissions in the baseline from unplanned deforestation; t CO -e BSL,unplanned 2
+ΔC Net greenhouse gas emissions in the baseline from degradation caused by fuelwood BSL,degrad-FW/C
+collection and charcoal making; t CO -e 2
+C C C C C (11) LK LK AS,planned LK AS,unplanned LK AS,degrad FW/C LK ME
+Where:
+C Net greenhouse gas emissions due to leakage; t CO -e LK 2
+∆C Net greenhouse gas emissions due to activity shifting leakage for projects preventing LK-AS,planned
+planned deforestation; t CO -e 2
+ΔC Net greenhouse gas emissions due to activity shifting leakage for projects preventing LK-AS,unplanned
+unplanned deforestation ; t CO -e 2
+∆C Net greenhouse gas emissions due to market- effects leakage; t CO -e LK-ME 2
+∆C Net greenhouse gas emissions due to activity-shifting leakage for degradation LK-AS,degrad-FW/C
+caused by extraction of wood for fuel ; t CO -e 2
+Since there is no unplanned deforestation or degradation from fuelwood/charcoal areas within the
+baseline, the following are set at zero:
+ΔC BSL,degrad-FW/C
+ΔC BSL,unplanned
+ΔC LK-AS,unplanned
+∆C LK-AS,degrad-FW/C
+Table 12. Total Net GHG Emission Reductions resulting from Rio Bravo Climate Action Project
+v3.0
+43
+
+[['1996\n1997\n1998\n1999\n2000\n2001\n2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015', 't CO e\n2', None, None, None], [None, '333,735 0\n667,470 0\n1,001,204 0\n1,334,939 0\n1,668,674 0\n2,002,409 0\n2,336,144 333,735\n2,669,879 667,470\n3,003,613 1,001,204\n3,337,348 1,334,939\n3,798,705 1,796,296\n4,260,061 2,257,652\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003\n4,641,412 2,639,003', '42,554 0\n85,133 0\n91,635 0\n104,466 0\n110,968 0\n111,169 0\n111,280 110\n111,446 277\n116,115 4,946\n120,240 9,071\n120,312 9,143\n120,381 9,212\n121,856 10,686\n128,124 16,955\n296,926 185,757\n297,047 185,877\n297,167 185,998\n306,147 194,978\n312,130 200,960\n320,713 209,544', '67,028 0\n134,056 0\n201,084 0\n268,112 0\n335,140 0\n402,167 0\n469,195 67,028\n536,223 134,056\n603,251 201,084\n670,279 268,112\n762,944 360,776\n855,608 453,441\n932,238 530,071\n932,238 530,071\n932,238 530,071\n932,238 530,071\n932,238 530,071\n932,238 530,071\n932,238 530,071\n932,238 530,071', '224,153 0\n448,280 0\n708,485 0\n962,361 0\n1,222,566 0\n1,489,072 0\n1,755,669 266,596\n2,022,210 533,137\n2,284,247 795,174\n2,546,829 1,057,757\n2,915,449 1,426,376\n3,284,072 1,794,999\n3,587,318 2,098,246\n3,581,050 2,091,977\n3,412,248 1,923,176\n3,412,127 1,923,055\n3,412,007 1,922,935\n3,403,027 1,913,954\n3,397,044 1,907,972\n3,388,461 1,899,389']]
+PROJECT DESCRIPTION : VCS Version 3
+Cumul. Eligible Cumul. Eligible Cumul. Eligible Cumul. Eligible
+Cumul. Cumul. Cumul. Cumul.
+The number of credits to be held in the permanence risk buffer (as per the VCS) is determined as a
+percentage of the total carbon stock benefits. This is equal to the net emissions in the baseline minus
+emissions from fossil fuel use and fertilizer use minus the net emissions in the project case minus
+emissions from fossil fuels and fertilizer use. Leakage emissions do not factor into the buffer calculations.
+Buffer Buffer Buffer Buffer (12)
+TOTAL PLANNED UNPLANNED DEGRADFW/C
+t* M
+C E N O
+BSL,planned FC,i,t 2 direct,i,t
+t 1 i 1
+BaselinePlanned Buffer * 1 Buffer%
+PLANNED (13)
+t* M
+C E N O
+P.(PlannedDeforestationAreas) FC,i,t 2 direct,i,t
+t 1 i 1
+ProjectPlanned
+Buffer = 0 UNPLANNED
+Buffer = 0 DEGRAD-FW/C
+v3.0
+44
+
+[['', None, None, '', 'Risk', ''], ['', 'Risk Category', '', None, None, None], [None, None, None, None, 'Rating', None], ['', None, None, None, None, None], ['a) Internal Risk', None, None, '0', None, None], ['b) External Risk', None, None, '0', None, None], ['c) Natural Risk', None, None, '3.5', None, None], ['Overall Risk Rating (a + b + c)', None, None, '3.5', None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Where:
+Buffer Buffer withholding for planned deforestation project areas; t CO -e PLANNED 2
+Buffer Buffer withholding for unplanned deforestation project areas; t CO -e UNPLANNED 2
+Buffer Buffer withholding for degradation through extraction of fuelwood project areas; t DEGRAD-FW/C
+CO -e 2
+ΔC Net greenhouse gas emissions in the baseline from planned deforestation; t CO - BSL,planned 2
+e
+ΔC Net greenhouse gas emissions in the baseline from unplanned deforestation; t BSL,unplanned
+CO -e 2
+ΔC Net greenhouse gas emissions in the baseline from degradation caused by BSL,degrad-FW/C
+fuelwood collection and charcoal making; t CO -e 2
+C Net greenhouse gas emissions within the project area under the project scenario; P
+t CO -e 2
+E Emission from fossil fuel combustion in stratum i in year t; t CO -e FC,i,t 2
+N O Direct N O emission as a result of nitrogen application on the alternative land use 2 direct-N,i,t 2
+within the project boundary in stratum i in year t; t CO -e 2
+Buffer% Buffer withholding percentage; %
+i 1, 2, 3, …M strata
+t 1, 2, 3, …t* years elapsed since the start of the REDD VCS project activity
+Information on the calculation of Buffer% can be found in Annex P: Risk Assessment.
+Table 13. Risk Rating
+However, the VCS states that the minimum buffer level shall be 10%. Therefore a 10% buffer
+was applied. Years when the buffer is negative are not included in the cumulative buffer
+withholding values.
+v3.0
+45
+
+[['', '', '', '', 'Buffer\nplanned,t', '', '', 'Buffer\nplanned', None, None, None, ''], ['', None, None, '', None, None, '', None, None, '', None, None], [None, None, None, None, None, None, '', 'Total Cum. Buffer', '', '', 'VCS Eligible', ''], ['', 'Year', '', '', 'Buffer W/holding', '', None, 'W/holding', None, None, 'Cumulative', None], ['', None, None, '', None, None, None, None, None, None, None, None], ['', '', '', '', '(t CO2-e)', None, None, None, None, None, None, ''], ['1996\n1997\n1998\n1999\n2000\n2001\n2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015', None, None, '29,126 29,126\n29,126 58,252\n32,734 90,985\n32,117 123,103\n32,734 155,836\n33,362 189,198\n33,364 222,562 33,364\n33,363 255,925 66,727\n32,927 288,852 99,653\n32,982 321,834 132,636\n46,134 367,968 178,770\n46,134 414,103 224,904\n38,011 452,114 262,916\n-603 452,114 262,916\n-16,854 452,114 262,916\n-2 452,114 262,916\n-2 452,114 262,916\n-872 452,114 262,916\n-572 452,114 262,916\n-832 452,114 262,916', None, None, None, None, None, None, None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Table 14. Buffer Withholding
+To estimate the number of Verified Carbon Units (VCUs) for the monitoring period T = t2-t1, the applied
+methodology uses the following equation:
+VCU Adjusted_C Adjusted_C Buffer
+t REDD,t 2 REDD t 1 TOTAL
+Where:
+VCU Number of Verified Carbon Units at time t = t - t ; VCU t 2 1
+Adjusted_C Cumulative total net GHG emissions reductions at time t adjusted to account for REDD,t2 2
+uncertainty; t CO -e 2
+Adjusted_C Cumulative total net GHG emissions reductions at time t ; t CO -e REDD,t1 1 2
+Buffer Total permanence risk buffer withholding; t CO -e TOTAL 2
+v3.0
+46
+
+[['', None, None, '', 'VCU', None, None, None, ''], [None, '', None, None, None, None, None, None, None], ['', 'Year', '', '', 'Total Cum.', '', '', 'VCS Elig. Cum.', ''], ['', None, None, '', '(t CO -e)\n2', None, None, None, ''], ['1996\n1997\n1998\n1999\n2000\n2001', None, None, '195,027\n390,029\n617,500\n839,259\n1,066,730\n1,299,874', None, None, None, None, None], ['', '2002', '', '', '1,533,107', '', '', '233,233', ''], ['', '2003', '', '', '1,766,285', '', '', '466,411', ''], ['', '2004', '', '', '1,995,395', '', '', '695,521', ''], ['', '2005', '', '', '2,224,995', '', '', '925,121', ''], ['', '2006', '', '', '2,547,481', '', '', '1,247,606', ''], ['', '2007', '', '', '2,869,969', '', '', '1,570,095', ''], ['', '2008', '', '', '3,135,204', '', '', '1,835,330', ''], ['', '2009', '', '', '3,128,936', '', '', '1,829,062', ''], ['', '2010', '', '', '2,960,134', '', '', '1,660,260', ''], ['2011\n2012\n2013\n2014\n2015', None, None, '2,960,014 1,660,139\n2,959,893 1,660,019\n2,950,913 1,651,039\n2,944,930 1,645,056\n2,936,347 1,636,473', None, None, None, None, None]]
+PROJECT DESCRIPTION : VCS Version 3
+Table 15 Total Net GHG Emission Reductions resulting from Rio Bravo Climate Action Project
+4 MONITORING","{2015: 832.0, 2014: 572.0, 2013: 872.0, 2012: 2.0, 2011: 2.0, 2010: 168802.0, 2009: 6269.0, 2008: 265235.0, 2007: 322489.0, 2006: 322486.0, 2005: 229600.0, 2004: 229110.0, 2003: 233178.0, 2002: 233233.0}","1","1","1","3","3","0.33","48","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","2030: 44098 tCO2 2031: 43606 tCO2 2032: 49635 tCO2 2033: 50981 tCO2 2034: 52505 tCO2 2035: 56687 tCO2 2036: 69170 tCO2 2037: 70451 tCO2 2038: 69264 tCO2 2039: 73234 tCO2 2040: 75563 tCO2 2041: 68389 tCO2 2042: 69976 tCO2 2043: 72120 tCO2 2044: 73355 tCO2 2045: 79280 tCO2 2046: 81457 tCO2 2047: 83524 tCO2 2048: 84548 tCO2 2049: 84954 tCO2 2050: 81737 tCO2","3.2 Quantification of GHG Emission Reductions and Removals","{2016: 235033.7671, 2017: 439676.9589, 2018: 430488.411, 2019: 432471.945, 2020: 442867.5071, 2021: 442222.0, 2022: 442222.0, 2023: 441576.4929, 2024: 442867.5071, 2025: 442222.0, 2026: 442222.0, 2027: 441576.4929, 2028: 442867.5071, 2029: 442222.0, 2030: 442222.0, 2031: 441576.4929, 2032: 442867.5071, 2033: 442222.0, 2034: 442222.0, 2035: 441576.4929, 2036: 442867.5071, 2037: 442222.0, 2038: 442222.0, 2039: 441576.4929, 2040: 442867.5071, 2041: 442222.0, 2042: 442222.0, 2043: 441576.4929, 2044: 442867.5071, 2045: 442222.0, 2046: 442222.0, 2047: 441576.4929, 2048: 442867.5071, 2049: 442222.0, 2050: 442222.0, 2051: 441576.4929, 2052: 442867.5071, 2053: 442222.0, 2054: 442222.0, 2055: 441576.4929, 2056: 206611.918}","1","1","1","3","1","0.29","49","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","300000.00","1.3 Ex-post calculation of GHG emission reductions;","{2048: 236601.0, 2047: 247471.0, 2046: 246794.0, 2045: 246557.0, 2044: 280677.0, 2043: 288305.0, 2042: 302939.0, 2041: 359914.0, 2040: 391231.0, 2039: 405487.0, 2038: 413843.0, 2037: 417750.0, 2036: 414364.0, 2035: 368039.0, 2034: 329699.0, 2033: 297442.0, 2032: 283642.0, 2031: 241061.0, 2030: 207020.0, 2029: 171693.0, 2028: 153144.0, 2027: 111736.0, 2026: 84414.0, 2025: 87862.0, 2024: 82250.0, 2023: 86098.0, 2022: 92862.0, 2021: 104799.0, 2020: 94204.0, 2019: 116580.0, 2018: 135043.0, 2017: 149797.0, 2016: 169712.0, 2015: 168234.0, 2014: 175293.0, 2013: 208239.0, 2012: 239116.0, 2011: 265126.0, 2010: 273651.0, 2009: 213899.0}","1","1","1","1","3","0","50","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2019: 82886.0, 2018: 82886.0, 2017: 82886.0, 2016: 82886.0, 2015: 82886.0, 2014: 82886.0, 2013: 37015.0}","[['Year', None, None, '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated', '', '', 'Estimated net', ''], [None, None, None, None, 'baseline', None, None, 'project', None, None, 'leakage', None, None, 'GHG emission', None], [None, None, None, None, 'emissions or', None, None, 'emissions or', None, None, 'emissions', None, None, 'reductions or', None], [None, None, None, None, 'removals (tCO e)\n2', None, None, 'removals (tCO e)\n2', None, None, '(tCO e)\n2', None, None, 'removals (tCO e)\n2', None], ['', '25/06/2019~31', '', '42,849', '42,849', None, '0', '0', None, '0', '0', None, '42,849', '42,849', None], [None, '/12/2019', None, None, None, None, None, None, None, None, None, None, None, None, None], ['', '2020', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2021', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2022', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', '']]
+4.4 Net GHG Emission Reductions and Removals
+According to ACM0002 “Consolidated baseline methodology for grid-connected
+electricity generation from renewable sources”(Version 20.0), the net GHG emission
+reductions are calculated as follows:
+Emission Reductions (ER ) =BE -PE -LE y y y y
+Baseline emissions:
+BE = EG * EF y facility,y grid,CM , y
+According to the feasibility study of the proposed project, the net electricity generated
+is approximately 101,689MWh i.e. EG =101,689MWh; facility,y
+Based on section B.6.1, the baseline emissions factor (EF ) of ECPG is grid,CM,y
+calculated as 0.8269 tCO e/MWh. 2
+BE = EG * EF =101,689 (MWh)×0.8269(tCO e/MWh)= 84,086 tCO e y facility,y grid,CM , y 2 2
+Emission Reductions (ER ) =BE -PE -LE =84,086 tCO e - 0 - 0 =84,086 tCO e y y y y 2 2
+26
+
+[['', '2023', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2024', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2025', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2026', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2027', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '2028', '', '', '84,086', '', '', '0', '', '', '0', '', '', '84,086', ''], ['', '01/01/2029-', '', '41,237', '41,237', None, '0', '0', None, '0', '0', None, '41,237', '41,237', None], [None, '24/06/2029', None, None, None, None, None, None, None, None, None, None, None, None, None], ['', 'Total', '', '', '840,860', '', '', '0', '', '', '0', '', '', '840,860', '']]
+Project Description: VCS Version 4.0
+5 MONITORING","{2020: 190908.0, 2019: 190908.0, 2018: 190908.0, 2017: 190908.0, 2016: 190908.0, 2015: 190908.0, 2014: 190908.0}","3","4","1","1","3","0.43","51","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","The yearly Estimated GHG Emission Reductions for this project are as follows:
+- 2006: 56597 tonnes of CO2e
+- 2007: 56597 tonnes of CO2e
+- 2008: 56597 tonnes of CO2e
+- 2009: 56597 tonnes of CO2e
+- 2010: 56597 tonnes of CO2e
+- 2011: 56597 tonnes of CO2e
+- 2012: 56597 tonnes of CO2e","[['Years', 'Annual estimation of emission\nreductions in tonnes of CO e\n2'], ['2006', '56,597'], ['2007', '56,597'], ['2008', '56,597'], ['2009', '56,597'], ['2010', '56,597'], ['2011', '56,597'], ['2012', '56,597'], ['Total estimated reductions (tonnes of CO e)\n2', '396,179'], ['Total number of crediting years', '7'], ['Annual average over the crediting period of\nestimated reductions (tonnes of CO e)\n2', '56,597']]
+A.4.3 Estimated amount of emission reductions over the chosen crediting period:
+>>","{2012: 56597.0, 2011: 56597.0, 2010: 56597.0, 2009: 56597.0, 2008: 56597.0, 2007: 56597.0, 2006: 56597.0}","1","3","5","1","5","0.23","52","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2026: 23020.0, 2025: 23020.0, 2024: 23020.0, 2023: 23020.0, 2022: 23020.0, 2021: 23020.0, 2020: 23020.0, 2019: 23020.0, 2018: 23020.0, 2017: 0.0, 2016: 0.0}","1.3 Estimated amount of emission reductions over the crediting period including
+project size:
+• The total capacity of power generation of the bundled project activity under consideration
+is 13.75 MW and the average annual emission reductions from the bundle are to the
+tune of 23,020 tonnes CO equivalent. Therefore the project activity fall under the project 2
+type “Projects” as specified in the “Voluntary Carbon Standard 2007.1” by the VCS
+Association:
+o Micro project: Less than 5,000 tonnes CO equivalent emissions reductions per 2
+year
+1 Please refer to: http://www.v-c-s.org/methodologies.html
+2 Refer to: http://cdm.unfccc.int/methodologies/SSCmethodologies
+
+VCS Project Description Template
+o Projects: 5,000 – 1,000,000 tCO -e per year 2
+o Mega Project: More than 1,000,000 tonnes CO equivalent emissions reductions 2
+per year","{2019: 72735.0, 2018: 72735.0, 2017: 72735.0, 2016: 72735.0}","1","1","1","5","3","0.27","53","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2017: 91856.0, 2016: 91856.0, 2015: 91856.0, 2014: 91856.0, 2013: 91856.0, 2012: 91856.0, 2011: 91856.0, 2010: 91856.0}","[['Years', 'Estimation of Estimation of Estimation of Estimation of\nproject activity baseline leakage overall emission\nemissions emissions (tonnes of reductions\n(tonnes of (tonnes of CO e) CO e) (tonnes of CO e)\n2 2 2\nCO e)\n2'], ['01/07/2010-30/06/2011\n01/07/2011-30/06/2012\n01/07/2012-30/06/2013\n01/07/2013-30/06/2014\n01/07/2014-30/06/2015\n01/07/2015-30/06/2016\n01/07/2016-30/06/2017', '0 91,856 0 91,856\n0 91,856 0 91,856\n0 91,856 0 91,856\n0 91,856 0 91,856\n0 91,856 0 91,856\n0 91,856 0 91,856\n0 91,856 0 91,856'], ['Total\n(tonnes of CO e)\n2', '0 642,992 0 642,992']]
+B.6.4 Summary of the ex-ante estimation of emission reductions:
+>>","{2039: 2160366.0, 2038: 2022529.0, 2037: 1884692.0, 2036: 1746856.0, 2035: 1609019.0, 2034: 1471182.0, 2033: 1333345.0, 2032: 1195508.0, 2031: 1057671.0, 2030: 919835.0, 2029: 781998.0, 2028: 645927.0, 2027: 574157.0, 2026: 502388.0, 2025: 430618.0, 2024: 358848.0, 2023: 287079.0, 2022: 215309.0, 2021: 143539.0, 2020: 31574.0}","1","1","5","3","1","0","54","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","Estimated GHG Emission Reductions or Removals have been provided in the chart, and are being reflected on a yearly basis. There is no specific yearly sum given.","5.6 Summary of GHG Emission Reductions and Removals (CL1 & CL2)","{2043: 1111482.0, 2042: 753599.0, 2041: 778692.0, 2040: 810277.0, 2039: 840433.0, 2038: 1217146.0, 2037: 890728.0, 2036: 937763.0, 2035: 960814.0, 2034: 990403.0, 2033: 1355646.0, 2032: 1067120.0, 2031: 1109874.0, 2030: 1140664.0, 2029: 1176751.0, 2028: 1495892.0, 2027: 1251427.0, 2026: 1271327.0, 2025: 1281604.0, 2024: 1287787.0, 2023: 1464819.0, 2022: 1258641.0, 2021: 1226872.0, 2020: 1191836.0, 2019: 1132144.0, 2018: 1153454.0, 2017: 995038.0, 2016: 916396.0, 2015: 831172.0, 2014: 1128485.0}","1","3","1","3","1","0","55","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2009: 9030.0, 2010: 9030.0, 2011: 9030.0, 2012: 9030.0, 2013: 9030.0, 2014: 9030.0, 2015: 9030.0, 2016: 9030.0, 2017: 9030.0, 2018: 9030.0, 2019: 9030.0, 2020: 9072.0, 2021: 9072.0, 2022: 9072.0}","4.2 Quantifying GHG emissions and/or removals for the baseline
+scenario:
+Please refer to supporting document - VCS Methodology PD Requirements Section 8.","{2017: 94291.0, 2016: 94291.0, 2015: 1632397.0, 2014: 1629346.0, 2013: 1620128.0, 2012: 1592267.0, 2011: 1508066.0, 2010: 1253588.0}","1","1","1","3","1","0.36","56","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2016: 74424.8, 2015: 74424.8, 2014: 74424.8, 2013: 74424.8, 2012: 74424.8, 2011: 74424.8, 2010: 74424.8, 2009: 74424.8, 2008: 78637.0}","1.10 Project Scale and Estimated GHG Emission Reductions or Removals
+As per Section 3.9.1 of VCS Standard Version 4, Project size categorizations are as follows:
+1) Projects: Les than or equal to 300,000 tonnes of CO2e per year.
+2) Large projects: Greater than 300,000 tonnes of CO2e per year.
+4 https://cdm.unfccc.int/Projects/DB/TUEV-SUED1169832479.13/view
+6
+
+[['', 'Project Scale', None, None, None, ''], ['', 'Project', '', '', '', ''], ['', 'Large project', '', '', '', '']]
+[['Year', None, None, '', 'Estimated GHG emission', ''], [None, None, None, None, 'reductions or removals (tCO e)\n2', None], ['', 'Year 1', '', '58,583', '58,583', None], ['', 'Year 2', '', '58,583', None, None], ['', 'Year 3', '', '58,583', None, None], ['', 'Year 4', '', '58,583', None, None], ['', 'Year 5', '', '58,583', None, None], ['', 'Year 6', '', '58,583', None, None], ['', 'Year 7', '', '58,583', None, None], ['', 'Year 8', '', '58,583', None, None], ['', 'Year 9', '', '58,583', None, None], ['', 'Year 10', '', '58,583', None, None], ['', 'Total estimated ERs', '', '585,830', None, None], ['', 'Total number of crediting years', '', '10', None, None], ['', 'Average annual ERs', '', '58,583', None, None]]
+Project Description: VCS Version 4.0
+As the estimated annual average GHG emission reductions or removal per year is 58,583
+tCO2e which is less than 300,000 tonnes of CO2e per year, thus the project falls in the
+category of Project.","{2017: 58583.0, 2016: 58583.0, 2015: 58583.0, 2014: 58583.0, 2013: 58583.0, 2012: 58583.0, 2011: 58583.0, 2010: 58583.0, 2009: 58583.0, 2008: 58583.0}","1","1","1","1","3","0.47","57","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","2031: 17738.0
+2030: 17738.0
+2029: 17738.0
+2028: 17738.0
+2027: 17738.0
+2026: 17738.0
+2025: 17738.0
+2024: 17738.0
+2023: 17738.0
+2022: 17738.0
+2021: 9906.0
+2020: 18760.0
+2019: 5639.0
+2018: 3191.0
+2017: 3191.0","3.2 Quantification of GHG Emission Reductions and Removals","{2014: 29136.10685, 2015: 91141.42594, 2016: 149846.3549, 2017: 85273.55616, 2018: 25383.11781, 2019: 18991.12688, 2020: 22534.56353, 2021: 24431.39726, 2022: 25007.77534, 2023: 60844.96059, 2024: 196429.8065, 2025: 374323.926, 2026: 205939.2822, 2027: 50476.5918, 2028: 25782.51231, 2029: 25909.27945, 2030: 26079.70137, 2031: 26181.16261, 2032: 26447.01547, 2033: 26528.29041, 2034: 26659.78082, 2035: 26724.48706, 2036: 26960.17321, 2037: 27009.87945, 2038: 133346.2356, 2039: 533956.1461, 2040: 1066109.424, 2041: 562846.189, 2042: 99654.53425, 2043: 25237.82841, 2044: 25427.10858, 2045: 25444.4, 2046: 25513.33151, 2047: 25521.1845, 2048: 25697.34152, 2049: 25700.00822, 2050: 25756.56712, 2051: 25752.72248, 2052: 25918.08848, 2053: 25909.05753, 2054: 4828.558904}","1","1","1","4","1","0.27","58","Completed"
+"Get all the yearly Estimated GHG Emission Reductions or Removals records for this project.","{2021: 69599.0, 2020: 70065.0, 2019: 77560.0, 2018: 72679.0, 2017: 80307.0, 2016: 91047.0, 2015: 103220.0}","[['Project Scale', None], ['Project', ''], ['Largeproject', '√']]
+[['Year', 'Estimated GHG emission\nreductions or removals\n(tCO e)\n2'], ['27/11/2020-31/12/2020(35days)', '24,794'], ['01/01/2021-31/12/2021', '258,571'], ['01/01/2022-31/12/2022', '258,571'], ['01/01/2023-31/12/2023', '258,571'], ['01/01/2024-31/12/2024', '258,571'], ['01/01/2025-31/12/2025', '258,571']]
+1.10 Project Scale and Estimated GHG Emission Reductions or
+Removals
+6
+
+[['01/01/2026-31/12/2026', '258,571'], ['01/01/2027-31/12/2027', '258,571'], ['01/01/2028-31/12/2028', '258,571'], ['01/01/2029-31/12/2029', '258,571'], ['01/01/2030-26/11/2030\n（330days）', '233,777'], ['Total estimated ERs', '2,585,710'], ['Total number of crediting years', '10'], ['Average annual ERs', '258,571']]
+Project Description: VCS Version 4.0","{2017: 329852.0, 2016: 329852.0, 2015: 329852.0, 2014: 329852.0, 2013: 329852.0, 2012: 329852.0, 2011: 164926.0}","3","3","1","1","1","0.21","59","Completed"

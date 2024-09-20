@@ -20,7 +20,10 @@ class PDFExtraction:
             if text and not 'table of contents' in text.lower() and not re.search(exclude_pattern, text):
                 lines = text.split('\n')
                 for line in lines:
-                    if re.match(pattern, line) and line.strip() == re.match(pattern, line.strip()).group(0) and len(re.findall(r'[a-zA-Z]', line)) > 10:
+                    if re.match(pattern, line) and line.strip() == re.match(pattern, line.strip()).group(0) \
+                        and len(re.findall(r'[a-zA-Z]', line)) > 10\
+                        and line[0] != 0: 
+                        # not contain = and t CO /MWh
                         toc.append({line.strip():i})
 
             page.flush_cache()   

@@ -21,7 +21,7 @@ class OpenAIConnection:
 
         return response.id
     
-    def _create_finetune_job(self, training_file_id, validation_file_id, epoch=6, bsize=1, lr=2):
+    def _create_finetune_job(self, training_file_id, validation_file_id, epoch=4, bsize=8, lr=2):
         response = self.client.fine_tuning.jobs.create(
             training_file=training_file_id,
             validation_file=validation_file_id,
@@ -49,7 +49,7 @@ class OpenAIConnection:
         return response
 
 
-    def _evaluate_model(self, model_id, prompt, temperature=0, max_token=200):
+    def _evaluate_model(self, model_id, prompt, temperature=0, max_token=1000):
         response = self.client.chat.completions.create(
             model=model_id, messages=prompt, temperature=temperature, max_tokens=max_token)
         
