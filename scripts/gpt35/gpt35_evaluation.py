@@ -9,8 +9,8 @@ import pandas as pd
 from rouge_score import rouge_scorer
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import evaluate
-from deepeval.metrics import FaithfulnessMetric
-from deepeval.test_case import LLMTestCase
+# from deepeval.metrics import FaithfulnessMetric
+# from deepeval.test_case import LLMTestCase
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -19,13 +19,13 @@ def main(args):
     test_files = f"data/intermediate/{args.source}/gpt35/{args.source}_test"
     output_dir = f"data/output/{args.pipeline}-gpt35/{args.source}"
 
-    # openai = OpenAIConnection(args.model)
+    openai = OpenAIConnection(args.model)
 
     # logging.info(f"Loading test data; {args.n} records ...")
     # tests = _load_test_data(test_files, args.n)
 
-    # logging.info("Generate response from base model...")
-    # _generate_model_response(openai, tests, args.model, output_dir, f'base_{args.model}')
+    # # logging.info("Generate response from base model...")
+    # # _generate_model_response(openai, tests, args.model, output_dir, f'base_{args.model}')
 
     # logging.info(f"Generate response from fine-tuned model...")
     # for model_id in args.model_ids:
@@ -99,26 +99,6 @@ def _generate_metrics(output_dir):
             print(f"recall: {recall}")
             print(f"f1: {f1}")
 
-            # bleu = bleu.compute(predictions=model_answers, references=true_answers)
-            # rouge = evaluate.load('rouge')
-            # rouge = rouge.compute(predictions=model_answers, references=true_answers)
-
-            # row = {
-            #     'base_model': 'GPT-3.5-turbo-125',
-            #     'model': file.split('__')[-1],
-            #     'source': args.source,
-            #     'pipeline': args.pipeline,
-            #     'common-metric': json.dumps({'accuracy': accuracy, 'precision': precision, 'recall': recall, 'f1': f1}),
-            #     'bleu': json.dumps(bleu),
-            #     'rouge': json.dumps(rouge)}
-
-            # with open(f'data/output/evaluation_metrics.csv', mode='a', encoding='utf-8', newline='') as f:
-            #     writer = csv.DictWriter(f, fieldnames=['base_model', 'model', 'source', 'pipeline', 'common-metric', 'bleu', 'rouge'])
-            #     if f.tell() == 0:
-            #         writer.writeheader()
-            #     writer.writerow(row)
-
-
             for index, row in df.iterrows():
                 true_answer = row['true_answer']
                 model_answer = row['model_answer']
@@ -167,7 +147,7 @@ def _setup_args():
     parser.add_argument('--model_ids', type=str, nargs='*', help='Model IDs')
     parser.add_argument('--n', type=int, default=1000, help='Model ID')
     parser.add_argument('--source', type=str, default='squad', help='Type of Data')
-    parser.add_argument('--pipeline', type=str, default='azure-ai', help='Type of Data')
+    parser.add_argument('--pipeline', type=str, default='custom', help='Type of Data')
     args = parser.parse_args()
 
     return args

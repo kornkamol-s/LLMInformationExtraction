@@ -12,23 +12,54 @@ class PDFExtraction:
 
     def _get_toc(self):
         toc = []
-        pattern = r'^[a-zA-Z\d]\.\d+(?:\.\d+)*\.?\s+.*\S$'
-        exclude_pattern = r'[\.\-]{4,}'
+        final_toc = []
+        # pattern = `re.compile(r"(?:[1-9]|[a-zA-Z])\.\d+(?:\.\d+|\.)?\s+[A-Z]+")`
+        # pattern = re.compile(r"(?:[1-9]|[a-zA-Z])\.\d+(?:\.\d+|\.|\.\d+\.|\.\d+\.\d+\.|\.\d+\.\d+)?\s+[A-Z]+")
+        pattern = re.compile(r"(?:[1-9]|[a-zA-Z])\.\d+(?:\.\d+|\.|\.\d+\.)?\s+[A-Z]+")
+        exclude_pattern = re.compile(r'[\.\-\_]{10,}')
+        exclude_space_mw_pattern = re.compile(r'\sMW\s')
 
         for i, page in enumerate(self.pdf.pages):
             text = page.dedupe_chars().extract_text(x_tolerance=1, y_tolerance=3)
-            if text and not 'table of contents' in text.lower() and not re.search(exclude_pattern, text):
-                lines = text.split('\n')
-                for line in lines:
-                    if re.match(pattern, line) and line.strip() == re.match(pattern, line.strip()).group(0) \
-                        and len(re.findall(r'[a-zA-Z]', line)) > 10\
-                        and line[0] != 0: 
-                        # not contain = and t CO /MWh
-                        toc.append({line.strip():i})
+            print(text)
+            if text and 'table of contents' not in text.lower() and not exclude_pattern.search(text):
+                toc.extend((line, i) for line in text.splitlines() if pattern.match(line) and not exclude_pattern.search(line) and not exclude_space_mw_pattern.search(line))
+            page.flush_cache()  
+        
+        print(toc)
+        previous_sections = []
 
-            page.flush_cache()   
+        for header, page in toc:
+            section = header.split(' ')[0]
+            section_parts = [s for s in section.split('.') if s != '']
+            for i, part in enumerate(section_parts):
+                if part.isalpha():
+                    section_parts[i] = ord(part.lower()) - ord('a') + 1
+                else:
+                    section_parts[i] = int(part)
+            
+            if not previous_sections:
+                final_toc.append({header.strip(): page})
+                previous_sections = section_parts
+                continue
+            
+            is_continuation = False
+            
+            for level in range(min(len(section_parts), len(previous_sections))):
+                if section_parts[level] == previous_sections[level]:
+                    continue
+                elif section_parts[level] == previous_sections[level] + 1:
+                    is_continuation = True
+                    break
+                else:
+                    is_continuation = False
+                    break
+            
+            if is_continuation or (len(section_parts) > len(previous_sections) and section_parts[0] <= previous_sections[0]+1):
+                final_toc.append({header.strip(): page})
+                previous_sections = section_parts
 
-        df = pd.DataFrame([{k: v for d in toc for k, v in d.items()}]).T
+        df = pd.DataFrame([{k: v for d in final_toc for k, v in d.items()}]).T
         df.reset_index(inplace=True)
         df.columns = ['section', 'start_page']
         df['start_page'] = df['start_page'].astype('int')

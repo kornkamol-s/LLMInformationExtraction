@@ -20,7 +20,7 @@ def main(args):
     while True:
         response = openai._check_job_status(job_id)
         logging.info(f'Model: {response.fine_tuned_model}, Status: {response.status}')
-        if response.status == ('succeeded', 'failed'):
+        if response.status in ('succeeded', 'failed'):
             break
         time.sleep(3600)
 

@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import pandas as pd
 import logging 
@@ -70,7 +71,7 @@ def extract_relevant_section(pdf, toc, embedding, file):
         if not toc.empty:
             logging.info(f'ToC Found.')
             documents = []
-            pattern = '|'.join(variants)
+            pattern = '|'.join([re.escape(variant) for variant in variants])
             matched_df = toc[toc['section'].str.contains(pattern, case=False, na=False)]
             b_size, b_overlap = 10000, 50
 
