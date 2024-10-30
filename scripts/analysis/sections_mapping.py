@@ -12,6 +12,7 @@ import argparse
 import ast
 import time
 
+# Set up logging configuration with timestamps
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 # model = GPT4All("mistral-7b-openorca.gguf2.Q4_0.gguf", device="cpu")
 

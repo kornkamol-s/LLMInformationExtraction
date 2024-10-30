@@ -8,7 +8,7 @@ import logging
 from openai import OpenAI
 import argparse
 
-# sk-proj-SSg70hkEZq1A0Q11OxvhT3BlbkFJKDHiJu2KJ7K2m6OdHtuR
+# Set up logging configuration with timestamps
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 folder_location = 'downloaded_files/'

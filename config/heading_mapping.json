@@ -1,32 +1,36 @@
 {
     "project_proponents": [
-        "project proponent",
-        "name of person",
-        "participant",
-        "ownership"
+        "project proponent", 
+        "participants"
     ],
     "ghg_emission_reductions": [
-        "estimated ghg emission"
+        "estimated ghg emission reduction", 
+        "estimated amount of emission reduction"
     ],
     "methodology": [
-        "methodology",
+        "methodology", 
         "methodologies"
     ],
-    "project_description": [
-        "location",
-        "project description",
-        "summary description",
-        "additional information"
+    "project_location": [
+        "project location", 
+        "location of project", 
+        "location of the project", 
+        "location of the small-scale project", 
+        "project zone map"
     ],
     "crediting period": [
-        "crediting period",
-        "credit"
+        "crediting period", 
+        "credit period"
     ],
     "sector": [
-        "project type",
-        "sectoral",
-        "sector",
-        "type of project"
+        "project type", 
+        "type of project", 
+        "sectoral scope", 
+        "sectorial scope", 
+        "sector scope", 
+        "ambit or sectoral and type of progetto", 
+        "category(ies) of project activity", 
+        "type and category(ies) and technology/measure of the small-scale project activity", "category of the project"
     ]
 }
 

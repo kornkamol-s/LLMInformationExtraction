@@ -1,10 +1,8 @@
 analysis/downloaded_files/*
 *.ipynb_checkpoints
 *.pyc
-data/downloaded_files/*
 *.env
 test/*
-log/vector-store/*
 log/*
 data-science-task/data/*
-data/input/pdds/*
+data/training/data_collection/pdds/*

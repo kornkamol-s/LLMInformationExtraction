@@ -1,0 +1,296 @@
+section_category,context,id,filename
+project_proponents,"[['', 'Organization', '', 'Nature Conservancy of Canada', None, None], [None, 'name', None, None, None, None], ['', 'Contact', '', 'Rob Wilson...', None, None], [None, 'person', None, None, None, None], ['', 'Title', '', '', 'Director, Carbon Finance', ''], ['Address', 'Address', None, '', 'Suite 400 - 36 Eglinton Avenue West', ''], [None, None, None, None, 'Toronto, Ontario, Canada. M4R 1A1', None], ['', 'Telephone', '', '', '+1 416 932 0050', ''], ['', 'Email', '', '', 'rob.wilson@natureconservancy.ca', '']]
+1.5 Project Proponent
+6
+
+Project Description: VCS Version 4.0",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+ghg_emission_reductions,"[['', 'Project Scale', None, None, ''], ['Project', None, '', 'X', ''], ['Large project', None, '', '', '']]
+[['Year', '', 'Estimated Annualized', ''], [None, None, 'GHG emission', None], [None, None, 'reductions or', None], [None, None, 'removals (tCO e)\n2', None], ['2008', '', '317,8231', ''], ['2009', '', '331,727', ''], ['2010', '', '439,461', ''], ['2011', '', '435,748', ''], ['2012', '', '427,496', ''], ['2013', '', '371,602', ''], ['2014', '', '405,719', ''], ['2015', '', '367,248', ''], ['2016', '', '414,790', ''], ['2017', '', '263,116', '']]
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals
+1 2008-2016 net emission reductions are reported here on a verified ex-post basis. 2017-2019 are reported
+on an ex-post basis under verification. 2020-2028 are reported as ex-ante projections. The remaining
+years from 2028-2109 are reported as annualized ex-ante projections averaged over 5 year increments.
+8
+
+[['2018', '', '231,998', ''], ['2019', '', '315,986', ''], ['2020', '', '452,6122', ''], ['2021', '', '413,921', ''], ['2022', '', '430,528', ''], ['2023', '', '440,911', ''], ['2024', '', '290,837', ''], ['2025', '', '131,601', ''], ['2026', '', '126,403', ''], ['2027', '', '243,925', ''], ['2028', '', '134,467', ''], ['2029-2033', '', '127,468', ''], ['2034-2038', '', '116,801', ''], ['2039-2043', '', '158,659', ''], ['2044-2048', '', '97,842', ''], ['2049-2053', '', '81,649', ''], ['2054-2058', '', '117,388', ''], ['2059-2063', '', '119,179', ''], ['2064-2068', '', '90,160', ''], ['2069-2073', '', '74,324', ''], ['2074-2078', '', '41,217', ''], ['2079-2083', '', '10,230', ''], ['2084-2088', '', '75,355', '']]
+Project Description: VCS Version 4.0
+2 Future ex-ante projections are reported based on the prior version VCS Project Description (v1.1), which
+are consistent with the long term emission reduction outcomes expected by the project. Updated inventory
+and modeling techniques may result in variation on an annual ex-post basis at future verifications, but the
+overall ex-ante outlook is representative of the net ER expected by the project.
+9
+
+[['2089-2093', '', '139,373', ''], ['2094-2098', '', '107,151', ''], ['2099-2103', '', '113,304', ''], ['2104-2108', '', '83,095', '']]
+Project Description: VCS Version 4.0",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+methodology,"[['', 'Summarized Applicability Criteria', '', '', 'Darkwoods Fit', ''], ['Meets either current VCS IFM-LtPF criteria', None, None, 'Darkwoods is protecting forests otherwise being\nlogged\nDarkwoods is forest remaining forest.', None, None]]
+3.2 Applicability of Methodology
+As shown in Table 7, Darkwoods is compliant with the applicability criteria of VM0012.
+Table 7. Compliance with Methodology Applicability Criteria
+30
+
+[['Projects located in FAO Temperate and Boreal\nEcological Zones; and have Tier III inventory\ndata available.', 'Darkwoods is located in the Temperate\nEcological Zone.\nDarkwoods utilizes detailed site level inventory\nmeeting Tier III criteria.'], ['Projects on fee simple private ownership', 'Darkwoods is entirely fee simple title owned by\nNCC.'], ['Projects with starting avg. annual illegal,\nunplanned, and fuelwood removals are <5% of\nannual harvest (tCO e);\n2', 'Darkwoods has no illegal or unplanned\nharvesting, and de minimis fuelwood removals.'], ['Projects without managed peatland forests', 'Darkwoods does not contain managed peatland\nforests.'], ['Projects where % wetlands are not expected to\nchange as part of project activities', 'Darkwoods will not materially alter the % of\nwetlands on the project area.'], ['Projects that can demonstrate that no activity\nshifting leakage occurs to other proponent lands\nat the start of the project.', 'NCC can demonstrate baseline activities are not\nbeing shifted to other conservation land holdings.'], ['Projects which do not include non de minimis\napplication of organic or inorganic fertilizer in the\nproject scenario.', 'Darkwoods does not include any application of\nfertilizer in the project scenario.']]
+Project Description: VCS Version 4.0",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+project_location,"1.12 Project Location
+The Darkwoods property is a 54,870 ha (135,587 acre) contiguous parcel of fee simple
+private property in south eastern British Columbia just north east of the municipality of
+11
+
+Project Description: VCS Version 4.0
+Creston3. The Darkwoods property is bounded by Kootenay Lake on the east and various
+crown and private land on the other property boundaries. There is a significant in-holding in
+the center of the property that was acquired by NCC in 2018-19 but is currently not part of
+the project. The boundaries are surveyed with the following legal and land description for
+the parcels described in Table 1.
+The project area from the prior version of the PD has been updated from GIS data from
+54,792 ha previously reported to 54,870.4 ha, a change of 78.4 ha (0.14%). This is a de
+minimis change. This new area matches the KML files provided as part of findings
+responses from the 2013-2016 monitoring period.
+3 Property centroid: UTM Zone 11 (505983, 5458692).
+12
+
+Project Description: VCS Version 4.0
+Figure 1. Darkwoods Property Boundary and Project Area Overview Map
+13
+
+Project Description: VCS Version 4.0
+Figure 2. Darkwoods property ortho mosiac",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+crediting period,"1.9 Project Crediting Period
+Project Start Date: 01 April 2008
+Project End Date: 31 March 2109
+Crediting Period: 100 years",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+sector,"1.2 Sectoral Scope and Project Type
+Sector 14 - AFOLU
+Improved Forest Management (IFM)
+Logged Forest to Protected Forest (LtPF)
+This is not a grouped project.",607,607_Darkwoods_2018_VCS-Project-Description v2.2.pdf
+project_proponents,"[['', 'Organization name', '', '', 'Danfeng County Construction Development Group Co., Ltd', ''], ['', 'Contact person', '', '', 'Yongle Zhang', ''], ['', 'Title', '', '', 'Project Manager', ''], ['Address', None, None, '', 'Shanxi Province, Shangluo City, Danfeng County, north of the', ''], [None, None, None, None, 'east extension of Jiangbin North Road', None], ['', 'Telephone', '', '', '+86 13991499380', ''], ['', 'Email', '', '', 'danfenglyth@163.com', '']]
+[['', 'Organization name', '', '', 'Guangzhou Guotan Assets Management Co., Ltd', ''], ['', 'Contact person', '', '', 'Kezhi Chen', ''], ['', 'Title', '', '', 'General manager', '']]
+1.6 Project Proponent
+7
+
+[['Address', None, None, '', 'Room 1105, Building 16, Tian An Headquarters Center, No. 555', ''], [None, None, None, None, 'Panyu Avenue North, Donghuan Street, Panyu District,', None], [None, None, None, None, 'Guangzhou, China', None], ['', 'Telephone', '', '', '+86 020 22885839', ''], ['', 'Email', '', '', 'guotanzichan@163.com', '']]
+VCS Project Description Template, v4.3",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+ghg_emission_reductions,"[['', ''], [None, 'Estimated GHG emission reductions or'], ['Years', None], [None, 'removals (tCO e)\n2'], ['', None], [None, ''], ['01-Sep-2021-31-Aug-2022', '52,058'], ['01-Sep-2022-31-Aug-2023', '55,751'], ['01-Sep-2023-31-Aug-2024', '59,709'], ['01-Sep-2024-31-Aug-2025', '52,202'], ['01-Sep-2025-31-Aug-2026', '55,224'], ['01-Sep-2026-31-Aug-2027', '58,131'], ['01-Sep-2027-31-Aug-2028', '61,482'], ['01-Sep-2028-31-Aug-2029', '65,028']]
+1.11 Project Scale and Estimated GHG Emission Reductions or Removals
+☒ < 300,000 tCO e/year (project) 2
+☐ ≥ 300,000 tCO e/year (large project) 2
+9
+
+[['01-Sep-2029-31-Aug-2030', '57,515'], ['01-Sep-2030-31-Aug-2031', '60,286'], ['01-Sep-2031-31-Aug-2032', '62,919'], ['01-Sep-2032-31-Aug-2033', '65,940'], ['01-Sep-2033-31-Aug-2034', '69,107'], ['01-Sep-2034-31-Aug-2035', '61,555'], ['01-Sep-2035-31-Aug-2036', '64,066'], ['01-Sep-2036-31-Aug-2037', '66,429'], ['01-Sep-2037-31-Aug-2038', '69,132'], ['01-Sep-2038-31-Aug-2039', '71,947'], ['01-Sep-2039-31-Aug-2040', '64,644'], ['01-Sep-2040-31-Aug-2041', '66,912'], ['01-Sep-2041-31-Aug-2042', '69,030'], ['01-Sep-2042-31-Aug-2043', '71,448'], ['01-Sep-2043-31-Aug-2044', '73,949'], ['01-Sep-2044-31-Aug-2045', '67,158'], ['01-Sep-2045-31-Aug-2046', '33,496'], ['01-Sep-2046-31-Aug-2047', '69,912'], ['01-Sep-2047-31-Aug-2048', '71,537'], ['01-Sep-2048-31-Aug-2049', '73,754'], ['01-Sep-2049-31-Aug-2050', '67,362'], ['01-Sep-2050-31-Aug-2051', '69,222'], ['01-Sep-2051-31-Aug-2052', '71,135'], ['01-Sep-2052-31-Aug-2053', '73,103'], ['01-Sep-2053-31-Aug-2054', '-1,412,207'], ['01-Sep-2054-31-Aug-2055', '23,523']]
+VCS Project Description Template, v4.3
+10
+
+[['01-Sep-2055-31-Aug-2056', '4,089'], ['01-Sep-2056-31-Aug-2057', '4,823'], ['01-Sep-2057-31-Aug-2058', '5,682'], ['01-Sep-2058-31-Aug-2059', '6,686'], ['01-Sep-2059-31-Aug-2060', '7,857'], ['01-Sep-2060-31-Aug-2061', '9,232'], ['01-Sep-2061-31-Aug-2062', '10,836'], ['01-Sep-2062-31-Aug-2063', '12,394'], ['01-Sep-2063-31-Aug-2064', '14,496'], ['01-Sep-2064-31-Aug-2065', '16,946'], ['01-Sep-2065-31-Aug-2066', '19,811'], ['01-Sep-2066-31-Aug-2067', '23,152'], ['01-Sep-2067-31-Aug-2068', '26,724'], ['01-Sep-2068-31-Aug-2069', '31,209'], ['01-Sep-2069-31-Aug-2070', '36,444'], ['01-Sep-2070-31-Aug-2071', '30,433'], ['01-Sep-2071-31-Aug-2072', '34,071'], ['01-Sep-2072-31-Aug-2073', '37,805'], ['01-Sep-2073-31-Aug-2074', '42,303'], ['01-Sep-2074-31-Aug-2075', '47,334'], ['01-Sep-2075-31-Aug-2076', '40,325'], ['01-Sep-2076-31-Aug-2077', '43,967'], ['01-Sep-2077-31-Aug-2078', '47,609'], ['01-Sep-2078-31-Aug-2079', '51,892'], ['01-Sep-2079-31-Aug-2080', '56,562'], ['01-Sep-2080-31-Aug-2081', '48,877']]
+VCS Project Description Template, v4.3
+11
+
+[['01-Sep-2081-31-Aug-2082', '52,058'], ['01-Sep-2082-31-Aug-2083', '55,751'], ['01-Sep-2083-31-Aug-2084', '59,709'], ['01-Sep-2084-31-Aug-2085', '52,202'], ['01-Sep-2085-31-Aug-2086', '55,224'], ['01-Sep-2086-31-Aug-2087', '58,131'], ['01-Sep-2087-31-Aug-2088', '61,482'], ['01-Sep-2088-31-Aug-2089', '65,028'], ['01-Sep-2089-31-Aug-2090', '57,515'], ['01-Sep-2090-31-Aug-2091', '60,286'], ['01-Sep-2091-31-Aug-2092', '62,919'], ['01-Sep-2092-31-Aug-2093', '65,940'], ['01-Sep-2093-31-Aug-2094', '69,107'], ['01-Sep-2094-31-Aug-2095', '61,555'], ['01-Sep-2095-31-Aug-2096', '64,066'], ['01-Sep-2096-31-Aug-2097', '66,429'], ['01-Sep-2097-31-Aug-2098', '69,132'], ['01-Sep-2098-31-Aug-2099', '71,947'], ['01-Sep-2099-31-Aug-2100', '64,644'], ['01-Sep-2100-31-Aug-2101', '66,912'], ['01-Sep-2101-31-Aug-2102', '69,030'], ['01-Sep-2102-31-Aug-2103', '71,448'], ['01-Sep-2103-31-Aug-2104', '73,949'], ['01-Sep-2104-31-Aug-2105', '67,158'], ['01-Sep-2105-31-Aug-2106', '33,496'], ['01-Sep-2106-31-Aug-2107', '69,912']]
+VCS Project Description Template, v4.3
+12
+
+[['01-Sep-2107-31-Aug-2108', '71,537'], ['01-Sep-2108-31-Aug-2109', '73,754'], ['01-Sep-2109-31-Aug-2110', '67,362'], ['01-Sep-2110-31-Aug-2111', '69,222'], ['01-Sep-2111-31-Aug-2112', '71,135'], ['01-Sep-2112-31-Aug-2113', '73,103'], ['01-Sep-2113-31-Aug-2114', '-1,412,207'], ['01-Sep-2114-31-Aug-2115', '23,523'], ['01-Sep-2115-31-Aug-2116', '4,089'], ['01-Sep-2116-31-Aug-2117', '4,823'], ['01-Sep-2117-31-Aug-2118', '5,682'], ['01-Sep-2118-31-Aug-2119', '6,686'], ['01-Sep-2119-31-Aug-2120', '7,857'], ['01-Sep-2120-31-Aug-2121', '9,232'], ['Total estimated ERs', '2,074,846'], ['Total number of crediting years', '100'], ['Average annual ERs', '20,748']]
+VCS Project Description Template, v4.3",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+methodology,"[['', 'Methodology', '', 'Applicability condition', None, None, 'Justification of compliance'], [None, 'ID', None, None, None, None, None], ['VM0003', 'VM0003', None, '', 'Forest management in both', '', 'There are planned timber harvests\nbefore and after extending rotation\nof age both in the baseline scenario\nand project scenarios.'], [None, None, None, None, 'baseline and project scenarios', None, None], [None, None, None, None, 'involves harvesting techniques', None, None], [None, None, None, None, 'such as clear cuts, patch cuts,', None, None], [None, None, None, None, 'seed trees, continuous thinning,', None, None], [None, None, None, None, 'or group selection practices.', None, None]]
+[['There are planned timber harvests'], ['before and after extending rotation'], ['of age both in the baseline scenario'], ['and project scenarios.']]
+3.2 Applicability of Methodology
+33
+
+[['VM0003', '', 'Forests which are not subject to', '', 'The forests are subject to timber\nharvesting, or managed with an\nobjective for earning revenue\nthrough timber harvesting in the\nbaseline scenario.', None, None], [None, None, 'timber harvesting, or managed', None, None, None, None], [None, None, 'without an objective for earning', None, None, None, None], [None, None, 'revenue through timber', None, None, None, None], [None, None, 'harvesting in the baseline', None, None, None, None], [None, None, 'scenario are not eligible under', None, None, None, None], [None, None, 'this methodology.', None, None, None, None], ['VM0003', '', 'Prior to the first verification event,', '', 'According to Notice on the\ndevelopment of Shanxi Danfeng\nIFM (Extended Rotation Period)\nproject, commercial logging in the\nproject area is prohibited and\nprotected by scientific means\nunless FSC certification is obtained.', None, None], [None, None, 'the project area must meet one of', None, None, None, None], [None, None, 'the following conditions:', None, None, None, None], [None, None, 'a) Certified by Forest Stewardship', None, None, None, None], [None, None, 'Council (FSC); or', None, None, None, None], [None, None, 'b) Subject to an easement, or', None, None, None, None], [None, None, 'equivalent instrument, recorded', None, None, None, None], [None, None, 'against the deed of property that', None, None, None, None], [None, None, 'prohibits commercial harvesting', None, None, None, None], [None, None, 'for the duration of the crediting', None, None, None, None], [None, None, 'period unless later certified by', None, None, None, None], [None, None, 'FSC.', None, None, None, None], ['VM0003', '', 'Project proponents must define', '', 'Proposed project length is 100\nyears.', None, None], [None, None, 'the minimum project length in the', None, None, None, None], [None, None, 'project description.', None, None, None, None], ['VM0003', '', 'The project does not encompass', '', 'The project will not encompass peat\nforests and wetlands are not\nexpected to be changed.', None, None], [None, None, 'managed peat forests and the', None, None, None, None], [None, None, 'proportion of wetlands are not', None, None, None, None], [None, None, 'expected to change as part of the', None, None, None, None], [None, None, 'project.', None, None, None, None], ['VM0003', 'Project proponents must have a\nprojection of management\npractices in both with- and\nwithout-project scenarios.', 'Project proponents must have a', None, '', 'Management practices in the', ''], [None, None, 'projection of management', None, None, 'without project scenario are set in', None], [None, None, 'practices in both with- and', None, None, 'the forest management plans for', None], [None, None, 'without-project scenarios.', None, None, 'the next years and will be projected', None], [None, None, None, None, None, 'accordingly to fulfill project length.', None], [None, None, None, None, None, 'Management practices in the', None]]
+[['According to Notice on the'], ['development of Shanxi Danfeng'], ['IFM (Extended Rotation Period)'], ['project, commercial logging in the'], ['project area is prohibited and'], ['protected by scientific means'], ['unless FSC certification is obtained.']]
+[['Proposed project length is 100'], ['years.']]
+[['The project will not encompass peat'], ['forests and wetlands are not'], ['expected to be changed.']]
+VCS Project Description Template, v4.3
+34
+
+[['', '', None, None, '', 'project scenario will be detailed', ''], [None, None, None, None, None, 'prior project Validation.', None], ['VM0003', '', 'Where fire is used as part of forest', '', 'Current forest management plans\ndo not include forest fire in their\nprescriptions. However,\nmanagement plans include forest\nfire management and preventive\nactions.', 'Current forest management plans', None], [None, None, 'management, fire control', None, None, 'do not include forest fire in their', None], [None, None, 'measures such as installation of', None, None, 'prescriptions. However,', None], [None, None, 'firebreaks or back-burning must', None, None, 'management plans include forest', None], [None, None, 'be taken to ensure fire does not', None, None, 'fire management and preventive', None], [None, None, 'spread outside the project area', None, None, 'actions.', None], [None, None, 'that is, no biomass burning is', None, None, None, None], [None, None, 'permitted to occur beyond the', None, None, None, None], [None, None, 'project area due to forest', None, None, None, None], [None, None, 'management activities.', None, None, None, None], ['VM0003', '', 'There must be no leakage', '', 'The project proponent has no\nforestland other than the forestland\nin the project area.', None, None], [None, None, 'through activity shifting to other', None, None, None, None], [None, None, 'lands owned or managed by', None, None, None, None], [None, None, 'project proponents outside the', None, None, None, None], [None, None, 'boundary of the project area.', None, None, None, None], ['VT0001', '', 'AFOLU activities the same or', '', 'All projects are in conformity with\nlaw.', None, None], [None, None, 'similar to the proposed project', None, None, None, None], [None, None, 'activity on the land within the', None, None, None, None], [None, None, 'proposed project boundary', None, None, None, None], [None, None, 'performed with or without being', None, None, None, None], [None, None, 'registered as the VCS AFOLU', None, None, None, None], [None, None, 'project shall not lead to violation', None, None, None, None], [None, None, 'of any applicable law even if the', None, None, None, None], [None, None, 'law is not enforced.', None, None, None, None], ['VT0001', 'The use of this tool to determine\nadditionality requires the baseline\nmethodology to provide for a\nstepwise approach justifying the\ndetermination of the most\nplausible baseline scenario.\nProject proponent(s)\\ proposing\nnew baseline methodologies shall\nensure consistency between the\ndetermination of a baseline', 'The use of this tool to determine', None, '', 'The baseline methodology uses a', ''], [None, None, 'additionality requires the baseline', None, None, 'stepwise approach justifying the', None], [None, None, 'methodology to provide for a', None, None, 'determination of the most plausible', None], [None, None, 'stepwise approach justifying the', None, None, 'baseline scenario. And project', None], [None, None, 'determination of the most', None, None, 'proponent proposing new baseline', None], [None, None, 'plausible baseline scenario.', None, None, 'methodologies ensure consistency', None], [None, None, 'Project proponent(s)\\ proposing', None, None, 'between the determination of a', None], [None, None, 'new baseline methodologies shall', None, None, 'baseline scenario and the', None], [None, None, 'ensure consistency between the', None, None, 'determination of additionality of a', None], [None, None, 'determination of a baseline', None, None, 'project activity.', None]]
+[['The project proponent has no'], ['forestland other than the forestland'], ['in the project area.']]
+[['All projects are in conformity with'], ['law.']]
+VCS Project Description Template, v4.3
+35",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+project_location,"[['', '']]
+[['', '']]
+1.13 Project Location
+The project is located in Danfeng County, Shangluo City, Shanxi Province of China. The geo-
+coordinate range of the project proponent is 110°7'E -110°49'E and 33°21'N - 33°5'N. There
+are 2222 sub-compartments spreading over Caichuan Town, Dihua Town, Huapingzi Town,
+Longjuzhai Town, Luanzhuang Town, Shangshan Forest Farm, Shang Town, Tieyupu Town,
+Wuguan Town, Yuling Town of Danfeng County by extending the age at which trees are cut,
+Figure 2: The project location and project zone
+16
+
+VCS Project Description Template, v4.3",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+crediting period,"[['Crediting period', None, None, '', '☐ Seven years, twice renewable', ''], [None, None, None, None, '☐ Ten years, fixed', None], [None, None, None, None, '☒ Other', None], ['', 'Start and end date', '', '01-Sep-2021 to 31-Aug-2121', None, None], [None, 'of first or fixed', None, None, None, None], [None, 'crediting period', None, None, None, None]]
+1.10 Project Crediting Period",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+sector,"[['', 'Sectoral scope', '', '', 'Agriculture, forestry and other land use (AFOLU)', ''], ['', 'AFOLU project category', '', '', 'Improved Forest Management (IFM)', ''], ['', 'Project activity type', '', '', 'Extension in rotation age (ERA)', '']]
+1.3 Sectoral Scope and Project Type
+4
+
+VCS Project Description Template, v4.3",4843,4843_VCS_PROJ_DESC_DRAFT_4843_30NOV2023.pdf
+project_proponents,"1.15 Project proponents’ roles and responsibilities, including contact information
+of the project proponent, other project participants
+For each instance, the project proponent is the legal landowner and the signatory to a
+contract with Redd Forests. In this first instance the project proponents are, on the one
+hand Roderic Alan O’Connor, landowner, and, on the second part Connorville Estates
+Pty Ltd a private company governed by the laws of Tasmania, Australia and of which
+Roderic Alan O’Connor is the sole Director.
+Contact person: Roderic Alan O’Connor
+Title: Landowner and Director of Connorville Estates Pty Ltd
+Address: 3943 Connorville Road, Cressy,TAS, 7302
+Telephone number: +61 (0)3 6397 8291
+Email: raoc@bigpond.com
+Each subsequent instance will be subject to a separate contract indicating the consent
+of the additional project proponent(s), and clearly presenting all parties’ contact
+information and responsibilities.
+Redd Forests Pty Ltd is acting as implementing partner on behalf of the project
+proponents (legal landowners) in the Grouped Project, and is responsible for the
+development, validation and first verification of each project activity instance. Redd
+Forests is a leading forestry carbon project developer in Australia.
+Grouped Project: 13 Version 1.20
+Protection of a Tasmanian Native Forest 12/05/2011
+
+Contact person: Stephen Dickey
+Title: Managing Director
+Address: 11 Renfrew Street, St. Andrews, NSW, 2566
+Telephone number: +61 (0) 421 670 567
+Email: stephen@reddforests.com
+Website: http://www.reddforests.com
+Stephen Dickey is the co-founder and Managing Director of Redd Forests. He has six
+years of experience on climate change issues, working with Oxfam, WWF-Australia,
+Redd Forests and as a consultant to Climate Friendly. His experience in senior
+management is extensive, including positions with TNT, British Airways and Sabre
+Corporation. This combination of international commercial experience and exposure to
+climate change issues in diverse sectors gives him a rare set of capabilities and
+perspectives to lead Redd Forests.
+Andrew Ratcliffe is co-founder and Chairman of Redd Forests. He also holds the
+position of executive director of Incon China, established to assist SMEs to do business
+in China, and director of Sports Entertainment Asia and Smartframe Pty Ltd. Andrew
+spent almost twenty years working in the financial sector, including work with Price
+Waterhouse Coopers, ANZ Bank, First Pacific Limited and the stockbroker
+Dominguez Barry Samuel Montague (now UBS). Andrew has a combined Commerce/
+Law degree from the University of NSW and is a qualified Chartered Accountant.
+Sarah Colenbrander is the Project Manager responsible for preparing the Redd Forests’
+Grouped Project. Sarah graduated from the University of Sydney in 2009, with a
+Bachelor of Science (Advanced) and Bachelor of Commerce. During her studies, Sarah
+held the role of NSW Projects Team Leader with the Oaktree Foundation. In this
+capacity, she was responsible for designing and monitoring educational projects in
+India, Papua New Guinea and South Africa. She was also employed by Dowse CSP to
+create a quantitative model to identify mechanisms through which corporate social
+responsibility initiatives add value to business. Sarah was the Project Manager
+responsible for Redd Forests’ first Tasmanian projects, which were the first IFM
+projects in the world to be validated and verified with the VCS.
+Jarrah Vercoe is the Project Manager responsible for the implementation and
+management of IFM projects in Tasmania. He has a Bachelor of Science (Honours)
+from the University of Tasmania, 2003. His honours research comprised a critique of
+approaches to achieving voluntary conservation on private land within Tasmania.
+Following graduation, Jarrah worked as an environmental consultant for 3 years with
+GHD. Notably, in 2008 he delivered a large Commonwealth Government ‘Caring for
+our Country’ project across Tasmania. Prior to joining Redd Forests, Jarrah was the
+‘biodiversity coordinator’ with NRM South.
+Jarrah will be supported by the Redd Forests’ Technical Consultant, Stephanie
+O’Donnell. Stephanie graduated in 2009 with a Bachelor of Science (Honours) from
+the University of Sydney. She continued to conduct research with the Shine Lab, one
+of Australia’s foremost ecology centres. During her time as a Research Assistant, she
+produced peer-reviewed publications in leading scientific journals and was awarded
+the Southwood Prize (2010) by the British Ecological Society for best paper by a
+young author. Stephanie is responsible for vegetation stratification using GIS software,
+modelling carbon flows using FullCAM and calculating the voluntary carbon units
+Grouped Project: 14 Version 1.20
+Protection of a Tasmanian Native Forest 12/05/2011
+
+generated by each project activity instance.
+It is standard company practice to employ external environmental consultants to
+complete the fieldwork: they are provided with Redd Forests’ standard operating
+procedures and on-site training in forest inventory techniques at the start of each week
+of fieldwork (as specified within the Redd Forests standard operating procedures for
+fieldwork).
+Project proponent responsibilities and capacity building
+After the first verification, project management and monitoring events will be the
+responsibility of the project proponent. The project proponent will also be responsible
+for the storage of information collected in relation to monitoring events. In order to
+ensure that the project proponent is able to undertaken ongoing monitoring, Redd
+Forests will prepare a property transition folder. The contents are detailed in Section
+3.4 and the Monitoring Plan.
+The project proponents and/or their associates (family members, property managers,
+etc) are encouraged to participate in the fieldwork to allow for training in locating and
+measuring the field plots. A Redd Forests’ Project Manager will also spend extensive
+time working through the calculation processes outlined in the GreenCollar IFM LtPF
+methodology to ensure that the landowner understands the principles and stages of the
+project as well as the proponent’s ongoing responsibilities.
+All the tasks that must be completed to maintain the project and obtain the VCUs will
+be identified in the monitoring plan. All information required to complete a monitoring
+event will be provided to the landowner. Redd Forests will continue to provide project
+management services for the project proponents at their request; and alternatively,
+these resources will enable the landowner to either independently maintain the project
+or contract the services of an alternative qualified organisation.
+Credit registration
+It is the responsibility of the project proponent to register credits. However, as the
+implementing partner, Redd Forests has contracted to register the project, open a VCS
+Registry Account in the name of each project proponent and to facilitate the issuance
+of the credits arising from the first verification. This will be completed in accordance
+with the VCS Guidance Document: VCS Project Registration and VCU Issuance
+Process (version 1.1).
+The project proponent for each instance is responsible for co-ordinating the ongoing
+monitoring events and the registration of the credits in accordance with the VCS
+Guidance Document.",641,641_PROJ_DESC_641_12MAY2011.pdf
+ghg_emission_reductions,"1.3 Estimated amount of emission reductions over the crediting period including
+project size)
+Addition 1 comprises 3249.65 hectares and is calculated to reduce emissions by 26 688
+tCO2-e each year of the project. Therefore, over the twenty-five year crediting period,
+this project will prevent 667 206 tCO2-e being emitted.
+For each additional project activity instance included within the Grouped Project, the
+following information will be provided within the specific project file:
+• The total size of the instance, i.e. the forested area owned by the specific
+project proponent(s), generating carbon credits as part of the Redd Forests’
+grouped IFM project (hectares);
+• The projected emission reductions for each project instance, calculated both as
+avoided emissions per annum and as a total for the project activity instance
+over the specified crediting period.",641,641_PROJ_DESC_641_12MAY2011.pdf
+methodology,"3.1 Title and reference of the VCS methodology (which includes the monitoring
+requirements) applied to the project activity and explanation of methodology
+choices
+All instances in the Grouped Project will be subject to the monitoring requirements
+outlined in the VCS approved “Methodology for Improved Forest Management:
+Conversion of Logged to Protected Forests”. The monitoring requirements outlined in
+this methodology are designed specifically to address the needs and concerns
+associated with Improved Forest Management project activities. They are therefore
+appropriate for this grouped project.",641,641_PROJ_DESC_641_12MAY2011.pdf
+project_location,"1.5 Project location including geographic and physical information allowing the
+unique identification and delineation of the specific extent of the project
+The Grouped Project covers the Australian state of Tasmania (Figure No. 01).
+Tasmania is an island located 240 km south of the eastern side of the continent, being
+separated from the mainland by Bass Strait. The state has an area of 68,401 square km,
+of which the main island covers 62,409 square km.
+Tasmania is promoted as ‘The Natural State’ owing to its significant natural
+environment. Formally, almost 37% of Tasmania is in reserves, national parks and
+World Heritage sites. The island is 364 km long from the northernmost point to the
+southernmost point and 306 km from west to east.
+The specific extent of the grouped project geographical area is defined by the
+following KMZ: Grouped Project: Protection of Tasmanian Native Forest.kmz
+Grouped Project: 7 Version 1.20
+Protection of a Tasmanian Native Forest 12/05/2011
+
+Figure No. 01. The state of Tasmania, Australia (Source: Google Earth)",641,641_PROJ_DESC_641_12MAY2011.pdf
+crediting period,"1.6 Duration of the project activity/crediting period
+The Grouped Project start date is 1 April 2010. The grouped project ceases 25 years
+after this start date on 31st March 2035.
+The first project activity instance (Addition 1 – Connorville) will have a crediting
+period of twenty-five years. The crediting period for the other instances is a minimum
+of twenty years, commencing upon the signing of a contract between Redd Forests and
+the project proponent. The additional project proponents must sign the contract to
+commence the project within its first five years, and will be eligible for a maximum
+crediting period from this start date through to the end of the Grouped Project crediting
+period (31st March 2035).
+Instances within the Grouped Project will be monitored individually, approximately
+upon the anniversary of their start date. These annual monitoring events will assess
+natural disturbance, changes to project area and market leakage. Changes in the carbon
+stock will be calculated through modelling and extrapolation. Every five years, a more
+comprehensive monitoring event will be completed to assess changes in carbon stocks
+through fieldwork. This is in accordance with Schedule 7.0 and consistent with the
+Monitoring Plan.",641,641_PROJ_DESC_641_12MAY2011.pdf
+sector,"1.2 Type/Category of the project
+The project is a grouped project. This means that discrete project activity instances
+(hereafter, instances) to be managed under the selected IFM methodology will be
+added within the project area of Tasmania. These instances will be added at monitoring
+events.
+The Grouped Project is an Improved Forest Management (IFM) project, specifically
+Logged to Protected Forests (LtPF).",641,641_PROJ_DESC_641_12MAY2011.pdf

@@ -1,7 +1,7 @@
-{"project_proponents": "What is the project proponents, includind organization name, phone number and email address, city and country?",
-"methodology": "What is the methodology of this project?",
-"project_description": "What is the project summary, province, country, latitude, and longitude of this project?",
+{"project_proponents": "What are the project proponents, includind organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?",
+"methodology": "What are the methodologies of this project?",
+"project_location": "What are the project city, country, latitude, and longitude of this project?",
 "crediting period": "What are the start and end dates of the crediting period for this project?",
 "sector": "What is the project sector, either Renewable Energy or Forestry and Land Use?",
-"ghg_emission_reductions": "Get all the yearly Estimated GHG Emission Reductions or Removals records for this project, also the total estimated ERs through all the listed year, the average annual ERs, and the total number of crediting years"
+"ghg_emission_reductions": "Get all the yearly Estimated GHG Emission Reductions or Removals records for this project."
 }

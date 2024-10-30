@@ -5,6 +5,7 @@ import pandas as pd
 from tools.utils import find_pdf_files, get_filtered_file
 from tools.PDFExtraction import PDFExtraction
 
+# Set up logging configuration with timestamps
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 kws = [
