@@ -56,7 +56,7 @@ def _save_response(openai, model, prompts, output, temperature=0, max_token=1000
     """
     Save responses from the OpenAI model to a CSV file.
 
-    Args:
+    Parameters:
         openai (OpenAIConnection): Connection to the OpenAI API.
         model (str): The selected OpenAI model.
         prompts (DataFrame): DataFrame containing prompts for the model.
@@ -92,7 +92,7 @@ def _get_model_response(openai, prompt, model, temperature, max_token):
     """
     Get a response from the model based on the provided prompt.
 
-    Args:
+    Parameters:
         openai (OpenAIConnection): Connection to the OpenAI API.
         prompt (str): The prompt to evaluate.
         model (str): The selected OpenAI model.
@@ -109,7 +109,7 @@ def _transform_record(row):
     """
     Transform a row of context data into a structured prompt for the OpenAI model.
 
-    Args:
+    Parameters:
         row (Series): A single row of information.
 
     Returns:

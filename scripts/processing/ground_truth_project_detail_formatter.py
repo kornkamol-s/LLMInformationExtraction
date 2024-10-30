@@ -1,12 +1,9 @@
-import os
-import logging
-import argparse
+import os, logging, argparse, us, re
 import pandas as pd
 import numpy as np
-import us
-import re
 from flashgeotext.geotext import GeoText
 from commonregex import CommonRegex
+
 
 def combine_proponents_and_entities(df):
     df['Combined_Proponents'] = df[['Proponents', 'Proponents2', 'Proponents3', 'Proponents4', 
@@ -220,6 +217,12 @@ def _process_proponent(row):
 
 
 def _setup_args():
+    """
+    Set up command-line arguments.
+
+    Returns:
+        argparse: The parsed arguments.
+    """
     parser = argparse.ArgumentParser()
     parser.add_argument('input', type=str, default='analysis/projects_information.csv', nargs='?', help='Input File')
     parser.add_argument('--ids', type=int, nargs='+',help='IDs')
@@ -230,5 +233,8 @@ def _setup_args():
 
 
 if __name__ == "__main__":
+    # Set up command-line arguments
     args = _setup_args()
+
+    # Execute the main function with the parsed arguments
     main(args)
