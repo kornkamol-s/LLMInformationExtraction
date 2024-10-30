@@ -1,15 +1,12 @@
-import argparse, json, csv, logging 
+import argparse, csv, logging 
 import pandas as pd
 from tools.OpenAIConnection import OpenAIConnection
 from tools.utils import find_pdf_files, get_filtered_file
 from scripts.processing import context_extractor
+from config import config
 
 # Set up logging configuration with timestamps
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-# Questions for each type of information to be combined to final prompt
-with open('config/question_mapping.json', 'r') as f:
-    question_mapping = json.load(f)
 
 
 def main(args):    
@@ -37,7 +34,7 @@ def main(args):
         context_df = pd.read_csv(args.output, encoding='utf-8')
 
         # Map specific question to each type of information
-        context_df['question'] = context_df['section_category'].map(question_mapping)
+        context_df['question'] = context_df['section_category'].map(config.QUESTION_MAPPING)
 
         # Transform into final prompts
         context_df['prompt'] = context_df.apply(lambda row: _transform_record(row), axis=1)

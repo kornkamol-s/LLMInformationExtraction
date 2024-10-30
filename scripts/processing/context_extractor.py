@@ -1,5 +1,6 @@
-import os, re, json, logging , math, argparse
+import os, re, logging , math, argparse
 import pandas as pd
+from config import config
 from tools.PDFExtraction import PDFExtraction
 from tools.utils import find_pdf_files, get_filtered_file
 from langchain_chroma import Chroma
@@ -27,25 +28,26 @@ def main(args):
     # Also, filter out all the processed ids
     pdf_files = get_filtered_file(find_pdf_files(args.input), args.ids, args.output)
 
-    # Initialize an embedding model using HuggingFace
-    embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2") 
+    if pdf_files:
+        # Initialize an embedding model using HuggingFace
+        embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2") 
 
-    # Iterate over each file and process it
-    for index, file in enumerate(pdf_files, start=1):
-        logging.info(f'Processing Context Extraction [{index}/{len(pdf_files)}] : {file}')
-        
-        # Extract table of contents from each PDF file
-        pdf_extractor = PDFExtraction(f"{args.input}/{file}")
-        toc_df = pdf_extractor._get_toc()
-        logging.info('Sucessfully Retrieve ToC')
+        # Iterate over each file and process it
+        for index, file in enumerate(pdf_files, start=1):
+            logging.info(f'Processing Context Extraction [{index}/{len(pdf_files)}] : {file}')
+            
+            # Extract table of contents from each PDF file
+            pdf_extractor = PDFExtraction(f"{args.input}/{file}")
+            toc_df = pdf_extractor._get_toc()
+            logging.info('Sucessfully Retrieve ToC')
 
-        # Extract relevant sections
-        context_df = _extract_relevant_section(pdf_extractor, toc_df, embedding, file)
-        context_df['id'] = file.split('_', 1)[0]
-        context_df['filename'] = file
+            # Extract relevant sections
+            context_df = _extract_relevant_section(pdf_extractor, toc_df, embedding, file)
+            context_df['id'] = file.split('_', 1)[0]
+            context_df['filename'] = file
 
-        # Append extracted data to the output file
-        context_df.to_csv(args.output,  mode='a', header=not os.path.exists(args.output), index=False, encoding='utf-8')
+            # Append extracted data to the output file
+            context_df.to_csv(args.output,  mode='a', header=not os.path.exists(args.output), index=False, encoding='utf-8')
             
 
 def _extract_relevant_section(pdf, toc, embedding, file):
@@ -62,20 +64,12 @@ def _extract_relevant_section(pdf, toc, embedding, file):
     Returns:
         DataFrame: A DataFrame containing category of the section and coresponding extracted context.
     """
-    # Load mappings for headings from JSON configuration files
-    with open('config/heading_mapping.json', 'r') as f:
-        headings_mapping = json.load(f)
-
-    # Load mappings for questions from JSON configuration files
-    with open('config/question_mapping.json', 'r') as f:
-        question_mapping = json.load(f)
-    
     # Set up a next section column to stop extract content when reaching next section
     toc['next_section'] = toc['section'].shift(-1, fill_value='')
     rows = []
 
     # Process each section specified in the headings mapping
-    for i, (section, variants) in enumerate(headings_mapping.items(), start=1):
+    for i, (section, variants) in enumerate(config.HEADING_MAPPING.items(), start=1):
 
         if not toc.empty:
             documents = []
@@ -126,7 +120,7 @@ def _extract_relevant_section(pdf, toc, embedding, file):
                                                 # Set retrieval to use cosine similarity
                                                 collection_metadata={"hnsw:space": "cosine"},
                                                 # Directory to save the vector store per section/file ID
-                                                persist_directory=f"log/vector-store/{file.split('_', 1)[0]}/{section}")
+                                                persist_directory=f"{config.VECTOR_STORE_DIR}/{file.split('_', 1)[0]}/{section}")
             
             # Define the number of top documents to retrieve, setting it to half the total documents to reduce redundancy
             k = math.ceil(len(documents)/2)
@@ -149,7 +143,7 @@ def _extract_relevant_section(pdf, toc, embedding, file):
                                                                 base_compressor=compressor)
             
             # Retrieve and compress the documents by invoking the retriever with specific questions from the mapping
-            documents = compressor_retriever.invoke(question_mapping[section])
+            documents = compressor_retriever.invoke(config.QUESTION_MAPPING[section])
 
         # Join the compressed document content to create the context text for the section
         context = '\n'.join([doc.page_content for doc in documents])    
@@ -169,9 +163,9 @@ def _setup_args():
         argparse: The parsed arguments.
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument('input', type=str, default='data/input/pdds', nargs='?', help='Input Folder')
+    parser.add_argument('input', type=str, default='data/training/data_collection/pdds', nargs='?', help='Input PDDs Folder')
     parser.add_argument('--ids', type=int, nargs='+',help='IDs')
-    parser.add_argument('--output', type=str, default='data/intermediate/kita_dataset/refined_pdd_context_retrieval.csv', nargs='?',help='Input Folder')
+    parser.add_argument('--output', type=str, default='data/training/data_processing/pdd_context_retrieval.csv', nargs='?',help='Output Context Filename')
 
     args = parser.parse_args()
 
