@@ -5,9 +5,11 @@ import pandas as pd
 def _transform_record(row, is_test=False):
     """
     Transform a row into the desired JSON format.
+
     Parameters:
         row (Series): Data row with question, context, and answers.
         is_test (bool): Flag to format records for test data.
+
     Returns:
         dict: Transformed record with structured messages.
     """
@@ -26,6 +28,7 @@ def _transform_record(row, is_test=False):
 def _save_jsonl(data, file_path, transform_func):
     """
     Save transformed data to a JSONL file.
+    
     Parameters:
         data (Dataframe): Dataframe to transform.
         file_path (str): Output file path.
