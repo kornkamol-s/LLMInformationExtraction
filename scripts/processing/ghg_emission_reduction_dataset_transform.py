@@ -27,7 +27,7 @@ def _transform_record(row, is_test=False):
     return {"messages": messages}
 
 
-def filter_groundtruth(row):
+def _filter_groundtruth(row):
     """
     Remove answer where the answer does not appear in the context.
     
@@ -92,7 +92,7 @@ df['question'] = df['section_category'].map(config.QUESTION_MAPPING)
 df['GHG Emission Reductions'] = df['GHG Emission Reductions'].str.replace(r'\s+', '', regex=True)
 
 # Remove records containing inconsistency between contexts and answers
-df = df.apply(filter_groundtruth, axis=1)
+df = df.apply(_filter_groundtruth, axis=1)
 
 # Fill no answer with proper representation
 df['GHG Emission Reductions'] = df['GHG Emission Reductions'].fillna('No relevant information found in context')

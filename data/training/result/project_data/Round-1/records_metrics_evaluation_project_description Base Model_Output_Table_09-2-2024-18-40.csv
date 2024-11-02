@@ -140,7 +140,7 @@ emission reductions or removals claimed under the VCS Program.
 1.12.5 Projects Rejected by Other GHG Programs
 The project has not has been rejected by any other GHG programs.
 v3.0 11",There is no information provided in the context regarding the start and end dates of the crediting period for this project.,"{'crediting_period_start': '2018-01-01', 'crediting_period_end': '2027-12-31'}",1,1,1,1,1,0,3,Completed,0,0.19047619,0.333333333,0.242424242,0.05,0.090909091,0.064516129,0.142857143,0.25,0.181818182,0.142857143,0.25,0.181818182
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Source', 'Latest year for which\nemission factor available', 'Value'], ['Third update for second NDC\nof the UAE â 2023 page 1712', '2019', '0.55 tCO /MWh\n2'], ['Energy profile, United Arab\nEmirates published by IRENA\nâ 8th August 2023 page 313', '2021', '457 tCO /GWh (0.457\n2\ntCO /MWh)\n2']]
 VCS Project Description Template, v4.3
@@ -322,7 +322,7 @@ the special circumstances of Turkey, which place Turkey, after becoming a Party,
 Parties included inAnnex I to the Convention.â As a result, even though Turkey has ratified Kyoto Protocol, she does not have a
 binding target under Annex-B, and as a result Turkey can not host CDM or JI projects.
 v3.1 12",The start date of the crediting period for this project is not mentioned in the provided context.,"{'crediting_period_start': '2013-11-14', 'crediting_period_end': '2023-11-13'}",1,1,3,1,1,0,7,Completed,0,0.176470588,0.25,0.206896552,0.0625,0.090909091,0.074074074,0.176470588,0.25,0.206896552,0.176470588,0.25,0.206896552
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', '', 'Henan BCCY Environmental Energy Co., Ltd.', ''], ['', 'Contact person', '', '', 'Lei Wang', ''], ['', 'Title', '', '', 'Minister of carbon emission department', ''], ['', 'Address', '', '', '8/F, Hengmei Business Building, 22 Dongfeng Road, Zhengzhou, China', ''], ['', 'Telephone', '', '', '+86 371 56737901', ''], ['', 'Email', '', '', 'lwang@bccynewpower.com', '']]
 [['', 'Organization name', '', '', 'Guangxi Gangya Shengda New Energy Co., Ltd.', ''], ['', 'Role in the project', '', '', 'Project Operation Entity', ''], ['', 'Contact person', '', '', 'Yangyang Zhang', ''], ['', 'Title', '', '', 'Project Manager', ''], ['', 'Address', '', '', '8/F, Hengmei Business Building, 22 Dongfeng Road, Zhengzhou, China', ''], ['', 'Telephone', '', '', '+86 371 65521780', ''], ['Email', 'Email', None, '', 'zhangyangyang@bccynewpower.com', '']]
@@ -441,7 +441,7 @@ Country: India
 Latitude: 31Â°27'26.47'' N
 
 Longitude: 75Â°25'57.09'' E","{'project_name': 'Renewable Energy Generation at Hamira', 'project_summary': 'The project activity entails installation of a cogeneration unit consisting of a 50 TPH boiler and a 6.94 MW steam turbine to generate both steam and power in an existing processing unit based on rice husk.  PUBLIC COMMENT PERIOD: This project was open for public comment from 19 November â 19 December 2019.', 'project_state_province': 'Punjab', 'project_country': 'India', 'project_latitude': 31.46, 'project_longitude': 75.43}",5,5,5,5,5,0.64,10,Completed,0.307736541,0.854545455,0.61038961,0.712121212,0.777777778,0.552631579,0.646153846,0.854545455,0.61038961,0.712121212,0.854545455,0.61038961,0.712121212
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['End-user', 'The project will go a long way in poverty eradication in\nKenya'], ['Agent', 'Add more variety of products']]
 Project Description: VCS Version 4.1
@@ -480,7 +480,7 @@ Version 5.0.
 The applicability conditions of this methodology are presented in the table below:
 Fulfilment of AMS-III.AR. Applicability criteria:
 25","The methodology of this project involves the application of two approved methodologies under CDM: AMS-II.G (Energy efficiency measures in thermal applications of non-renewable biomass) Version 8, and AMS-III.AR. (Substituting fossil fuel-based lighting with LED/CFL lighting systems) Version 5.0. The project activity also includes the use of various tools and guideline documents such as CDM TOOL01, CDM TOOL21, CDM TOOL30, CDM Guideline, and CDM Standard.",{'project_methodologies': ['AMS-II.G.']},4,3,5,5,5,0.03,11,Completed,0.024242869,0.069444444,1,0.12987013,0.028169014,0.5,0.053333333,0.069444444,1,0.12987013,0.069444444,1,0.12987013
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['2. The project area shall not be cleared of\nnative ecosystems within the 10-year period prior\nto the project start date.', 'The project area has not been cleared of native\necosystems since 2005.'], ['3. Eligible ALM activities include:\nImproved Cropland Management (ICM): This\ncategory includes practices that demonstrably\nreduce net GHG emissions of cropland systems by\nincreasing soil carbon stocks, reducing soil N O\n2\nemissions, and/or reducing CH emissions.\n4', 'This project practices intermittent flooded method on\ncroplands, which is demonstrated that can reduce net\nGHG emissions by reducing CH emissions. So, this\n4\nproject is an eligible ICM activity.']]
 [['', 'Organization name', '', '', 'Guizhou Xinzhanxin Agricultural Technology Co., Ltd.', ''], ['', 'Role in the project', '', '', 'Project Proponent', '']]
@@ -680,7 +680,7 @@ Thus, the project is eligible under the scope of the VCS program.
 1 The heat energy generated by biogas boilers is used for farmsâ heating system, so the sectoral scope 1 Energy Industries
 (renewable/non-renewable) is applicable in this project.
 5",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,16,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESCRIPTION : VCS Version 3
 2.2 Applicability of Methodology
@@ -754,7 +754,7 @@ as mentioned below:
 14 
  
                                                 1 http://cdm.unfccc.int/methodologies/SSCmethodologies  ",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,18,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', 'DepartmentofEnvironment,ForestandClimateChange,Governmentof\nUttarPradesh'], ['Contact person', 'ConservatorofForests,SaharanpurForestCircle,UttarPradeshForest\nDepartment'], ['Title', 'ConservatorofForests,SaharanpurForestCircle,UttarPradeshForest\nDepartment'], ['Address', 'O/oCF,SaharanpurForestCircle,UttarPradeshForestDepartment'], ['Telephone', '0121-2651965'], ['Email', 'cfsre2006@gmail.com']]
 [['Organization name', 'TheEnergyandResourcesInstitute(TERI)'], ['Role in the project', 'ProjectParticipant'], ['Contact person', 'Dr.JVSharma'], ['Title', 'SeniorDirector,LandResourceDivision'], ['Address', 'TheEnergyandResourcesInstitute,Darbari SethBlock,IHCComplex,\nLodhi Road,NewDelhi-110003'], ['Telephone', '09111-71102100,24682100'], ['Email', 'mailbox@teri.res.in']]
@@ -994,7 +994,7 @@ Province: Orissa (Orissa State)
 Country: India
 
 Latitude and Longitude: Not provided in the context.","{'project_name': '20 MW Capacity Biomass based Power Project of M/s. SHALIVAHANA GREEN ENERGY LIMITED', 'project_summary': 'The project activity involves installation of 20 MW Biomass power project in Orissa. The project will replace anthropogenic emissions of greenhouse gases (GHGâs) estimated to be approximately 87,446  tCO2e per year, thereon displacing 140,160 MWh/year amount of electricity from the generation-mix of power plants connected to the Indian electricity grid, which is mainly dominated by thermal/fossil fuel based power plant. Total estimated GHG emission reductions for the chosen 10 years fixed crediting period will be 874,460 tonnes of CO2.PUBLIC COMMENT PERIOD:This project was open for public comment from 25 November â 25 December 2019.', 'project_state_province': 'Orissa', 'project_country': 'India', 'project_latitude': 20.54, 'project_longitude': 84.69}",4,5,5,3,3,0.24,22,Completed,0.050851148,0.566666667,0.251851852,0.348717949,0.220338983,0.097014925,0.134715026,0.383333333,0.17037037,0.235897436,0.333333333,0.148148148,0.205128205
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.1
 CDM â Executive Board page 28
@@ -1547,7 +1547,7 @@ Eligibility Criteria
 The project is not a grouped project.
 1 Evidence on Certificate of Eligibility for Land provided by Agriculture and Rural Affairs Bureau of Bijie City.
 5","The project sector is Agriculture, Forestry, and Other Land Use (AFOLU), specifically Improved Cropland Management (ICM) under Agricultural Land Management (ALM).",{'project_sector': 'Forestry and Land Use'},1,3,5,5,1,0.32,34,Completed,0,0.285714286,1,0.444444444,0.15,0.6,0.24,0.285714286,1,0.444444444,0.285714286,1,0.444444444
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'methodology and/or tools referenced\nby the methodology under those\nprograms.', ''], ['9', 'Where Verra issues new VCS Program\nrules, the effective dates of these\nrequirements are set out in Appendix 3\nDocument History and Effective Dates\nor equivalent for other program\ndocuments, and are listed in a\ncompanion Summary of Effective Dates\ndocument which corresponds with each\nupdate.', 'Applicable.\nThe latest VCS program rules is applied\nby the project.']]
 [['Organization name', None, None, '', 'Guizhou Panjiang CBM Development & Utilization Co., Ltd.', ''], ['Contact person', None, None, '', 'Wang Wei', ''], ['', 'Title', '', '', 'Project Director', '']]
@@ -1617,7 +1617,7 @@ of CDM, this project is categorized as sectoral scope 14 (AFOLU) under Verra. Th
 accordance with the definitions of eligible AFOLU project categories set out in Appendix 1 of the
 VCS Standard, 4.1 and can be demonstrated from the following three points.
 5",The project sector is Forestry and Land Use under sectoral scope 14 (AFOLU).,{'project_sector': 'Forestry and Land Use'},3,3,5,4,3,0.47,36,Completed,0.091287093,0.461538462,1,0.631578947,0.333333333,0.8,0.470588235,0.461538462,1,0.631578947,0.461538462,1,0.631578947
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03
 CDM â Executive Board
@@ -1654,7 +1654,7 @@ C.2.1.2. Length of the first crediting period:
 >>
 7y-0m
 C.2.2. Fixed crediting period:","The methodology of this project includes a baseline study and monitoring methodology that was completed on 14/02/2011. The responsible entity for preparing the documentation is Carbon Resource Management Ltd. The starting date of the project activity is 06/09/2009, and the expected operational lifetime of the project activity is 23 years. The chosen crediting period is a renewable crediting period, with the starting date of the first crediting period set as 01/07/2011 (or date of registration, whichever is later) and the length of the first crediting period set as 7 years. No information is provided about a fixed crediting period.",{'project_methodologies': ['ACM0002']},3,1,5,3,1,0,37,Completed,0,0.019047619,0.666666667,0.037037037,0,0,0,0.019047619,0.666666667,0.037037037,0.019047619,0.666666667,0.037037037
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'Adani Green Energy Limited'], ['', 'Contact person', '', 'Mr. Alpesh Gedia'], ['', 'Title', '', 'Associate Manager- Business Development'], ['', 'Address', '', 'Adani House, Nr Mithakhali Six Roads, Navrangpura, Ahmedabad-\n380009, Gujarat, India'], ['', None, None, None], ['', 'Telephone', '', '+919907534900'], ['', 'Email', '', 'alpeshk.gedia@adani.com']]
 [['', 'Organization name', '', 'EKI Energy Services Limited'], ['', 'Role in the project', '', 'Project Consultant'], ['', 'Contact person', '', 'Manish Dabkara'], ['', 'Title', '', 'CEO & MD'], ['', 'Address', '', 'EnKing Embassy, Office No 201, Plot 48, Scheme 78, Part 2, Vijay\nNagar, Indore- 452010, Madhya Pradesh, India.'], ['', None, None, None], ['', 'Telephone', '', '+91-731-4289086'], ['', 'Email', '', 'manish@enkingint.org']]
@@ -1682,7 +1682,7 @@ Phone number: +919907534900
 Email address: alpeshk.gedia@adani.com
 City: Ahmedabad
 Country: India","{'organization_name': 'Adani Green Energy Limited', 'telephone': '+919907534900', 'email': 'alpeshk.gedia@adani.com', 'state/city': 'Green', 'country': 'India'}",5,1,5,5,5,0.62,38,Completed,0.220349284,0.789473684,0.833333333,0.810810811,0.555555556,0.588235294,0.571428571,0.789473684,0.833333333,0.810810811,0.789473684,0.833333333,0.810810811
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['', 'Source', 'Gas', 'Included?', 'Justification / Explanation'], ['Baseline', 'CO emissions\n2\nfrom electricity\ngeneration in\nfossil fuel fired\npower plants\nthat are\ndisplaced due to\nthe project\nactivity.', 'CO\n2', 'Yes', 'Main emission sources'], [None, None, 'CH\n4', 'No', 'Excluded for simplification. This is\nconservative.'], [None, None, 'N O\n2', 'No', 'Excluded for simplification. This is\nconservative.'], ['Project\nActivity', 'The proposed\nwind power\nproject', 'CO\n2', 'No', 'No GHG emissions from wind power\nprojects.'], [None, None, 'CH\n4', 'No', 'Excluded according to methodology.'], [None, None, 'N O\n2', 'No', 'Excluded according to methodology.']]
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.
@@ -1713,7 +1713,7 @@ The spatial extent of the project boundary includes the proposed project site an
 connected physically to the SCPG. The project boundary of the proposed project is shown in the below
 flow diagram.
 According to the âTool to calculate the emission factor for an electricity systemâ (version 02), the","The methodology of this project is ACM0002 (version 10) - ""Consolidated methodology for grid-connected electricity generation from renewable sources."" The project applies the ""Tool for the Demonstration and Assessment of Additionality"" (version 05.2) and the ""Tool to calculate the emission factor for an electricity system"" (version 02). The project meets the applicability conditions of methodology ACM0002, which include being a grid-connected renewable wind power project, not involving switching from fossil fuels to renewable energy at the site, and having clear identification of the geographic and system boundaries of the SCPG to which the project will be connected.",{'project_methodologies': ['ACM0002']},4,3,5,5,5,0.02,39,Completed,0,0.03030303,1,0.058823529,0.010204082,0.5,0.02,0.03030303,1,0.058823529,0.03030303,1,0.058823529
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 VCS Project Description
 â¢ The project activity contributes to economic sustainability around the plant site and encourages
@@ -1771,7 +1771,7 @@ consolidated baseline and monitoring methodology ACM0002 Version 10â, the p
 applicable under the following conditions:
 3 PLN Sumatra is a regional state owned electricity company in Sumatra
 11","The methodology applied to the project activity is the ""Consolidated baseline methodology for grid-connected electricity generation from renewable sources"" (ACM0002). This methodology is applicable because the project is a new grid-connected run-of-river hydropower plant. The project activity falls into Sectoral Scope 1 - Energy Industries (renewable/non-renewable sources) according to the Kyoto Protocol.",{'project_methodologies': ['ACM0002']},4,3,5,5,5,0.04,40,Completed,0,0.052631579,1,0.1,0,0,0,0.052631579,1,0.1,0.052631579,1,0.1
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', None, 'Clean Air Action Corporation (CAAC)'], ['', 'Contact person', 'Charlie Williams'], ['', 'Title', 'Director'], ['Address', None, '250 Old Harbor Road, Vinalhaven, Maine, USA 04863'], ['Telephone', None, '+1 720-394-2112'], ['Email', None, 'CharlieWilliams@CleanAirAction.com']]
 [['', 'Organization name', 'The Institute for Environmental Innovation (I4EI)'], ['', 'Role in the project', 'Non-profit focused on co-benefit improvement'], ['', 'Contact person', 'Blair Martin'], ['', 'Title', 'Executive Director'], ['', 'Address', '250 Old Harbor Road, Vinalhaven, Maine, USA 04863'], ['', 'Telephone', '+1 202-309-1356'], ['', 'Email', 'blairhmartin@gmail.com']]
@@ -1836,7 +1836,7 @@ The proposed project is located on the Baishuijiang Ri ver in Wen County, south 
 pivotal project is located in the Jinkouba village, 28 kilometres away from Wen County seat, and 750 km 
 away from Lanzhou City (capital of Gansu province) . Detailed geographic coordi nate of plant powerhouse 
 site and map information (see Fig1. and Fig2.) as follows: ",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,42,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 Nascente Ceramic VCS Project Description
 2 VCS Methodology:
@@ -1943,7 +1943,7 @@ para estimaÃ§Ã£o de consumo, tese de doutorado, Universidade de SÃ£o Paulo
 2008. 156 p. Available at: http://www.teses.usp.br/teses/disponiveis/86/86131/tde-
 14052008-113901/ >. Visited on December, 12th 2008
 13","The methodology applied in this project is Category AMS-I.E: Switch from Non-Renewable Biomass for Thermal Applications by the User â Version 01 from February 01 of 2008 onwards. This methodology is applicable for project activities that avoid greenhouse gas emissions by using renewable biomass to generate thermal energy. The project utilizes sawdust, wood chips, peanut shells, sugar cane bagasse, and elephant grass as renewable biomass. The baseline scenario for the project involves the use of non-renewable biomass (wood) to burn ceramic devices in ceramic kilns, which results in the release of carbon into the atmosphere.",{'project_methodologies': ['AMS-I.E.']},4,2,5,5,3,0.02,43,Completed,0.018433375,0.051020408,1,0.097087379,0.020618557,0.5,0.03960396,0.040816327,0.8,0.077669903,0.040816327,0.8,0.077669903
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['The proposed project activity is an initiative by PMPL to'], ['export renewable electricity produced by Wind Electric'], ['Generator (WEG) to the power deficit grid in order to'], ['decrease power shortage, diversify the grid and reduce'], ['greenhouse gas emissions. The project activity seeks to'], ['claim credits from 26th September 2006.'], ['']]
 VCS Project Description Template
@@ -2099,7 +2099,7 @@ The projectâs climate adaptive capacity and resilience, community, and/or b
 periods are all the same.
 2.1.17 Estimated GHG Emission Reductions or Removals
 CCB v3.0, VCS v3.3 24",The start date of the crediting period for this project is 01-January-2016 and the end date is 31-December-2035.,"{'crediting_period_start': '2016-01-01', 'crediting_period_end': '2035-12-31'}",5,3,5,5,5,0,46,Completed,0.081506079,0.363636364,0.666666667,0.470588235,0.047619048,0.090909091,0.0625,0.227272727,0.416666667,0.294117647,0.227272727,0.416666667,0.294117647
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Condition', 'Compliance'], ['The project activity may include renewable energy power\nplant/unit of one of the following types: hydro power plant/unit\nwith or without reservoir, wind power plant/unit, geothermal\npower plant/unit, solar power plant/unit, wave power plant/unit', 'The project activity considers\nthe installation of a run-of-river\npower plants (hydropower\nplants without a reservoir).']]
 PROJECT DESCRIPTION : VCS Version 3
@@ -2157,7 +2157,7 @@ system, the new turbine generator systems, and equipment required to export the 
 grid (transformers, substations, etc). The figure below shows a representation of the project
 boundary.
 v3.3 13","The methodology of this project is the ACM0002 Large-scale Consolidated Methodology / ""Grid-connected electricity generation from renewable sources"" - version 18.1.",{'project_methodologies': ['ACM0002']},1,1,5,5,5,0.11,47,Completed,0,0.136363636,1,0.24,0,0,0,0.090909091,0.666666667,0.16,0.090909091,0.666666667,0.16
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Socio-economic\nbenefits', 'â¢ The project will allow the 5th Region to exploit its significant economic\npotential.\nâ¢ Job creation during the construction period (up to 1,200 jobs) and also\nduring the operation (15 jobs)\nâ¢ Economic activity during the construction period and also during all of its\nlifetime'], ['Capacity building', 'â¢ Extensive pre-negotiations consultations have been carried out and a\nPost-negotiations workshop communicating the lessons learned from the\nproject design and implementation.'], ['Technology\ntransfer', 'â¢ Introduction and demonstration of environmentally friendly power\nproduction techniques for the 5th Region is an explicit objective of the\nproject.\nâ¢ The demonstration that ERs from renewable energy can earn additional\nincome and the introduction of CDM know-how is expected to raise\nenvironmental awareness.'], ['Environmental\nImpact\nAssessment (EIA)', 'â¢ A full EIA has been carried out in accordance with Chilean law 19.300\nand approved by CONAMA in 03/04/2004. All documentation of the EIA\ncan be obtained from the CONAMA web site www.e-seia.cl\nâ¢ World Bank safeguard policies were applied as part of the detailed project\ndesign; the WB - Project Appraisal Document (PAD) was completed and\napproved on 20/12/2004. Typically, run-of-river hydropower projects\nhave very limited environmental impacts.']]
 [['Name of Party involved\n((host) indicates a host Party)', 'Private and/or public entity(ies)\nproject participants\n(as applicable)', 'Kindly indicate if\nthe Party involved\nwishes to be\nconsidered as\nproject participant\n(Yes/No)'], ['Chile (host)', 'â¢ HidroelÃ©ctrica Guardia\nVieja S.A.', 'No'], ['Government of Netherlands', 'â¢ International Bank for\nReconstruction and\nDevelopment (IBRD) as\nTrustee of the Netherlands\nClean Development\nMechanism Facility\n(NCDMF)', 'Yes']]
@@ -2197,7 +2197,7 @@ Secondary and rural roads connect settlements and camps along that highway. Ther
 the project area, which is mostly a mountain area.
 Table A.3: Project Coordinates in UTM Datum PSAT56 â Zone 19
 The location of the project activity is illustrated in Figure A.1",The organization responsible for managing this carbon project is HidroelÃ©ctrica Guardia Vieja S.A. Their contact information is not provided in the context.,{'organization_name': 'Colbun S.A.'},3,3,1,1,1,0.09,48,Completed,0.135873244,0.125,0.6,0.206896552,0.043478261,0.25,0.074074074,0.125,0.6,0.206896552,0.125,0.6,0.206896552
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', None, None, '', 'Guizhou Yuanda Carbon Forestry Development Co., Ltd.', ''], ['Contact person', None, None, '', 'Qaun Facai', ''], ['', 'Title', '', '', 'Project Manager', ''], ['Address', 'Address', None, '', 'Room 15-10, Building 303-F01 Media Linchengshidai, No.8 North Changling', ''], [None, None, None, None, 'Rd., Guanshanhu District, Guiyang City, Guizhou Province, China.', None], ['', 'Telephone', '', '', '+86-18984198974', ''], ['', 'Email', '', '', 'yuandakaben@163.com', '']]
 Project Description: VCS Version 4.1
@@ -2322,7 +2322,7 @@ Country: India
 
 Latitude: N 80 18â 29.1â
 Longitude: E 770 45â 17.3â","{'project_name': '10.5 MW wind mill project of ICF in the state of Tamil Nadu', 'project_summary': 'The project activity consists of setting up of Wind Turbine Generators (WTGs) of a total capacity of 10.5 MW (1.5 MW x 7 nos.) in the state of Tamil Nadu by Integral Coach Factory, Ministry of Railways. All the WTGs are manufactured by Suzlon Energy Limited. The project activity forms a part of the Southern Grid of India. The project activity generates power by using the kinetic energy of wind, thus resulting in zero emissions during electricity production. The purpose of the project activity is wheeling of the energy generated by the WTGs to the ICF premises. The power produced would displace an equivalent amount of power from the grid connected power stations, which are mainly fossil fuel fired power plants. Hence, it results in reduction of GHG emissions in electricity generation.', 'project_state_province': 'District: Tirunelvelli, State: Tamilnadu', 'project_country': 'India', 'project_latitude': 8.31, 'project_longitude': 77.75}",5,3,5,5,1,0.19,51,Completed,0.022922742,0.568627451,0.170588235,0.262443439,0.2,0.059171598,0.091324201,0.392156863,0.117647059,0.180995475,0.37254902,0.111764706,0.171945701
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 Project Description: VCS Version 4.0
 The methodology applied to this projet is: A/R Large-scale Methodology: AR-ACM0003 version 1.0.0
@@ -2572,7 +2572,7 @@ already demonstrated at the start of the first crediting period.
 1.4 Project Design
 1 http://cdm.unfccc.int/DOE/scopes.html
 5",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,56,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', None, None, '', 'Core CarbonX Solutions Private Limited', ''], ['Contact person', None, None, '', 'Mr. Niroj Kumar Mohanty', ''], ['Title', None, None, '', 'Managing Director', ''], ['Address', None, None, '', '5R, Block âAâ, Kanthi Shikara Complex, 6-3-668/9, Punjagutta,', ''], [None, None, None, None, 'Hyderabad â 500082, Telangana, India', None], ['', 'Telephone', '', '', '+919908387772', ''], ['', 'Email', '', '', 'nmohanty@corecarbonx.com; info@corecarbonx.com', '']]
 [['', 'Organization name', '', '', 'NA', ''], ['', 'Role in the project', '', '', 'NA', ''], ['', 'Contact person', '', '', 'NA', ''], ['', 'Title', '', '', 'NA', ''], ['', 'Address', '', '', 'NA', ''], ['', 'Telephone', '', '', 'NA', '']]
@@ -2598,7 +2598,7 @@ The contact person is Mr. Niroj Kumar Mohanty, the Managing Director.
 The phone number is +919908387772. 
 The email address is nmohanty@corecarbonx.com; info@corecarbonx.com. 
 The city and country of the entity responsible for managing this carbon project is Hyderabad, India.","{'organization_name': 'Core CarbonX Solutions Pvt. Ltd.', 'email': 'nmohanty@corecarbonx.com', 'state/city': 'InÄija', 'country': 'India'}",5,5,5,5,1,0.27,57,Completed,0.080562923,0.196078431,0.588235294,0.294117647,0.08,0.25,0.121212121,0.196078431,0.588235294,0.294117647,0.196078431,0.588235294,0.294117647
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 Project Description: VCS Version 4.2
 As such, the grouped project does not represent common practice within the region and thus, it can be
@@ -2837,7 +2837,7 @@ Country: The project is located in the United States.
 Latitude: Approximately 47Â° 28' 12.00"" N.
 
 Longitude: Approximately -121Â° 50' 24.00"" W.","{'project_name': 'King County Rural Forest Carbon Project', 'project_summary': 'The King County Rural Forest Carbon Project is a set of dispersed properties located within King County (Figure 1), in western Washington State near the city of Seattle, WA. It is a Grouped Project that includes a combination of properties or title rights acquired and managed by King County, and properties or title rights owned and managed by 3rd Party Landowners. The King County Rural Forest Carbon Project achieves net GHG emissions reductions and removals through the avoidance of emissions due to commercial logging and forest removal for rural residential development expected in the baseline scenario.  PUBLIC COMMENT PERIOD: This project was open for public comment from 28 June â 28 July 2019.', 'project_state_province': 'WA', 'project_country': 'United States', 'project_latitude': 47.47, 'project_longitude': -121.84}",4,5,5,5,3,0.29,61,Completed,0.067363866,0.5,0.297101449,0.372727273,0.086419753,0.051094891,0.064220183,0.280487805,0.166666667,0.209090909,0.329268293,0.195652174,0.245454545
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 In response to these adverse threats to the eco-region the Oromia Regional Government has attempted to
 take concrete actions in recent years through policy and institutional development reforms. Establishment of
@@ -3099,7 +3099,7 @@ Country: China
 Latitude: 30Â°49â²30â³ to 31Â°41â²30â³ North
 
 Longitude: 107Â°54â²55â²48â²â² to 108Â°54â² East","{'project_name': 'Chongqing Kaizhou Afforestation Project', 'project_summary': 'Chongqing Kaizhou Afforestation Project (hereafter âthe projectâ) locates in Kaizhou District,Chongqing, China, covering 27 towns, 8 streets, and 5 townships. The project aims to increasethe carbon sequestration and to contribute to local sustainable development through plantingtrees on the degraded land or degraded mountain. The project proponent is National Forestry andGrassland Administration Northwest Investigation and Planning Institute (hereafter âthe projectproponentâ).\r\n3,407.34 ha of forest has been planted by direct planting on degraded land and degradedmountain in Kaizhou district, there are 6 main species selected as designated tree species, theyare Cunninghamia lanceolata, Phoebe zhennan, Cupressus funebris, Acer spp., Idesia polycarpa,Houpoea officinalis, the planted trees are all native species. The implementation of theafforestation project will generate GHG emission removals and improve the Kaizhou districtâslocal environment, enhance the capabilities of local communities and residents by providing themwith relevant technical skills and training and increase local biodiversity as a result ofestablishing a forest of native trees.', 'project_state_province': 'Chongqing', 'project_country': 'China', 'project_latitude': 31.31, 'project_longitude': 108.28}",3,3,5,5,3,0.23,64,Completed,0.008246041,0.695652174,0.177777778,0.283185841,0.355555556,0.089385475,0.142857143,0.565217391,0.144444444,0.230088496,0.543478261,0.138888889,0.221238938
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Applicability of AMS-I.C-Version 19', 'Project activity'], ['1. This methodology comprises renewable energy\ntechnologies that supply users with thermal energy\nthat displaces fossil fuel use. These units include\ntechnologies such as solar thermal water heaters\nand dryers, solar cookers, energy derived from\nrenewable biomass and other technologies that\nprovide thermal energy that displaces fossil fuel.', 'This category comprises renewable energy\ntechnologies that supply individual households or\nusers with thermal energy that displaces fossil\nfuels.'], ['2. Biomass-based co-generating systems that\nproduce heat and electricity are included in this\ncategory. For the purpose of this methodology.\nCogeneration shall mean the simultaneous\ngeneration of thermal energy and electrical and/or\nmechanical energy in one process. Project\nactivities that produce heat and power in separate\nelement processes (for example, heat from a boiler\nand electricity from biogas engine) do not fit under\nthe definition of cogeneration project.', 'Biomass-based co-generating systems are not\nincluded in the proposed project.'], ['3. Emission reductions from a Cogeneration\nsystem can accrue from one of the following\nactivities:\n(a) Electricity supply to a grid;', 'Not applicable.']]
 PROJECT DESCRIPTION : VCS Version 3
@@ -3174,7 +3174,7 @@ Development Mechanism and it is not explicitly excluded under the terms of Verra
 Therefore, this project is eligible under the scope of VCS program.
 2 Evidences on proof of Land History from Hulin Agricultural sector.
 5","The project sector is Agriculture, specifically Improved Cropland Management (ICM) under the Agriculture, Forestry and Other Land Use (AFOLU) category.",{'project_sector': 'Forestry and Land Use'},3,3,5,5,1,0.35,66,Completed,0,0.3,1,0.461538462,0.157894737,0.6,0.25,0.3,1,0.461538462,0.3,1,0.461538462
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Project Proponent', None, None, None, 'Roles'], ['Savita Oil Technologies Limited\n(formerly Savita Chemicals\nLimited)', None, None, None, 'Project Development.\nProject monitoring\nSupervision of O&M Activities\nData monitoring'], ['Project Consultant', None, None, None, None], ['', 'Organization', '', 'M/s Positive Climate Care Private Limited', None], ['', 'Street/P.O.Box:', '', '108', None]]
 VCS Project Description
@@ -3259,7 +3259,7 @@ Socio-economic well being
 - Country: India
 - Phone number: +91-141-2338078
 - Email address: None provided.","{'organization_name': 'Savita Oil Technologies Limited', 'telephone': '+919820639020', 'email': 'psood@savita.com', 'state/city': 'InÄija', 'country': 'India'}",3,3,5,3,1,0.27,67,Completed,0.053930641,0.227272727,0.555555556,0.322580645,0.093023256,0.235294118,0.133333333,0.204545455,0.5,0.290322581,0.227272727,0.555555556,0.322580645
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Years', 'Annual estimation of emission\nreductions\nin tonnes of CO e\n2'], ['01/09/2010-31/12/2010', '41233'], ['2011', '123699'], ['2012', '123699'], ['2013', '123699'], ['2014', '123699'], ['2015', '123699'], ['2016', '123699'], ['01/01/2017-31/08/2017', '82466'], ['Total estimated reductions\n(tonnes of CO e)\n2', '865893'], ['Total number of crediting years', '7'], ['Annual average over the crediting\nperiod of estimated reductions\n(tonnes of CO e)\n2', '123699']]
 PROJECT DESCRIPTION : VCS Version 3
@@ -3326,7 +3326,7 @@ B.7.2. Description of the monitoring plan:
 40 v3.0","Methodology of this project: 
 
 The methodology applied to the project activity is the approved consolidated baseline and monitoring methodology ACM0002 ""Consolidated baseline methodology for grid-connected electricity generation from renewable sources"" (ACM 0002 Version 11). This methodology utilizes tools for calculating the emission factor for an electricity system and for the demonstration and assessment of additionality. The project involves the installation of a new grid-connected zero-emission renewable power generation activity from wind source. The sources and gases included in the project boundary are CO2 emissions from electricity generation in fossil fuel-fired power plants that are displaced due to the project. CH4 and N2O are minor emission sources that are not included in the project boundary. The project activity involves the delivery of electricity generated to the Northeast China Power Grid. The monitoring plan includes the measurement of net electricity generation supplied by the project plant to the grid, with data recorded monthly and archived electronically. QA/QC procedures are implemented to ensure the accuracy of metering equipment and the adherence to monitoring and management regulations for CDM projects. Double checks are done using sales receipts to verify electricity exported to the grid.",{'project_methodologies': ['ACM0002']},5,3,5,5,5,0.01,68,Completed,0,0.015384615,1,0.03030303,0.005154639,0.5,0.010204082,0.015384615,1,0.03030303,0.015384615,1,0.03030303
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 VCS Project Description
 For the implementation of the project, the project proponent has obtained land lease
@@ -3457,7 +3457,7 @@ the project activity and explanation of methodology choices:
                                                  
 4 http://cdmindia.nic.in/host_approval_criteria.htm 
  10","The project sector is Renewable Energy, specifically wind energy projects.",{'project_sector': 'Renewable Energy'},4,5,5,5,5,0.33,70,Completed,0,0.4,1,0.571428571,0.222222222,0.666666667,0.333333333,0.4,1,0.571428571,0.4,1,0.571428571
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 VCS Project Description
 September 1997 linking them to the prices of international fuel oils (FO) with
@@ -3742,7 +3742,7 @@ contractor after its successful testing period.
 1.6 Project Crediting Period
 The project crediting period starts on 28/01/2016 and lasts 10 years.
 v3.3 4",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,74,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Criteria', 'Applicability', 'Conclusion'], ['The project activity is the\ninstallation, capacity addition,\nretrofit or replacement of a power\nplant/unit of one of the following\ntypes: hydro power plant/unit\n(either with a run-of-river reservoir\nor an accumulation reservoir), wind\npower plant/unit, geothermal power\nplant/unit, solar power plant/unit,\nwave power plant/unit or tidal\npower plant/unit', 'The Proposed Project Activity is\nthe installation of a wind power\nplant.', 'OK'], ['In the case of capacity additions,\nretrofits or replacements: the', 'The Proposed Project Activity is a\nGreenfield plant and does not', 'OK']]
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03
@@ -3801,7 +3801,7 @@ to the proposed project.
 B.3. Description of the sources and gases included in the project boundary:
 >>
 Spatial boundary","The methodology of this project is ""ACM0002 version 12.1.0 Consolidated baseline methodology for grid-connected electricity generation from renewable sources."" This methodology is applicable to grid-connected renewable power generation project activities that (a) install a new power plant at a site where no renewable power plant was operated prior to the implementation of the project activity (Greenfield plant); (b) involve a capacity addition; (c) involve a retrofit of (an) existing plant(s); or (d) involve a replacement of (an) existing plant(s). The methodology also uses the following tools: AM_Tool_01, AM_Tool_02, AM_Tool_03, and AM_Tool_07. The project is a Greenfield wind power plant, so the AM_Tool_02 and AM_Tool_03 are not required.",{'project_methodologies': ['ACM0002']},4,3,5,5,3,0.02,75,Completed,0,0.024,1,0.046875,0,0,0,0.016,0.666666667,0.03125,0.016,0.666666667,0.03125
-What is the methodology of this project?,"                                PROJECT DESCRIPTION : VCS Version 3   
+What are the methodologies of this project?,"                                PROJECT DESCRIPTION : VCS Version 3   
  
 v3.0     2 
 1.2 Sectoral Scope and Project Type  
@@ -3898,7 +3898,7 @@ points.
 2 Evidences on proof of Land History from Zhanjiang City Agricultural and Rural Bureau, and the
 Suicheng District and Huanglo Town is under the jurisdiction of Suixi County, Zhanjiang City.
 2",The project sector in this context is Forestry and Land Use.,{'project_sector': 'Forestry and Land Use'},5,5,1,5,5,0.53,77,Completed,0.123091491,0.545454545,1,0.705882353,0.4,0.8,0.533333333,0.545454545,1,0.705882353,0.545454545,1,0.705882353
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'Gansu Hongmao Agriculture Development Co., Ltd.', None, None], ['', 'Role in the project', '', 'Project Proponent', None, None], ['', 'Contact person', '', 'Qian Biying', None, None], ['', 'Title', '', 'Manager, Project Leader', None, None], ['Address', 'Address', None, '', '238 Renmin Road, Yitiaoshan Town, Jingtai County, Baiyin City, Gansu', ''], [None, None, None, None, 'Province, China.', None], ['', 'Telephone', '', '+86-1550943888', None, None], ['', 'Email', '', 'gansuhongmao@126.com', None, None]]
 [['', 'Organization name', '', 'China Metallurgical Technology Transfer Co., Ltd.'], ['', 'Role in the project', '', 'Consultant'], ['', 'Contact person', '', 'Room 725, 8 Haidian St., Beijing City, China.'], ['', 'Title', '', 'Manager'], ['', 'Address', '', 'Qinghe Li'], ['', 'Telephone', '', '+86-13910996414'], ['', 'Email', '', 'liqh6sinosteel@163.com']]
@@ -3981,7 +3981,7 @@ Commercially Sensitive Information
 There is no commercially sensitive information that has been excluded from the public version of
 2https://cdm.unfccc.int/Projects/DB/SGS-UKL1274284964.32/view?cp=1
 11",The start and end dates of the crediting period for this project are not mentioned in the provided context.,"{'crediting_period_start': '2009-09-15', 'crediting_period_end': '2019-09-14'}",1,1,3,1,1,0,80,Completed,0,0.210526316,0.333333333,0.258064516,0.055555556,0.090909091,0.068965517,0.157894737,0.25,0.193548387,0.157894737,0.25,0.193548387
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 VCS Project Description Template
 1.12 Demonstration to confirm that the project was not
@@ -4021,7 +4021,7 @@ why it is applicable to the project activity:
 2.3 Identifying GHG sources, sinks and reservoirs for the
 baseline scenario and for the project:
 2","Based on the provided context, no information is available regarding the project proponents, including their organization name, phone number, email address, city, and country.","{'organization_name': 'Enercon (India) Limited', 'state/city': 'InÄija', 'country': 'India'}",5,1,3,1,1,0.07,81,Completed,0,0.166666667,0.363636364,0.228571429,0.043478261,0.1,0.060606061,0.166666667,0.363636364,0.228571429,0.166666667,0.363636364,0.228571429
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Monitoring', '', 'Project activities must be able to be monitored as per the project', ''], [None, None, 'monitoring plan (see Section 5.3).', None], ['Documentation', '', 'Project activities must be able to be added to the project description.', ''], ['Ownership', '', 'Project activities must be covered under an Arbonics AFF Agreement', ''], [None, None, '(to provide evidence of project ownership).', None], ['Start date', '', 'Project activities must not have started before the 15th of April 2022.', ''], ['Crediting extent', '', 'Project activities must be eligible for VCU issuance until the 14th of', ''], [None, None, 'April 2072.', None], ['Crediting eligibility', '', 'Project activities are only eligible for VCU issuance from the start of', ''], [None, None, 'the monitoring period in which they were added to the grouped', None], [None, None, 'project.', None]]
 [['', 'Organization name', '', '', 'Arbonics OÃ', ''], ['', 'Contact person', '', '', 'Malcolm Sedgwick', ''], ['', 'Title', '', '', 'Team Arbonics', ''], ['', 'Address', '', '', 'Harju maakond, Tallinn, PÃµhja-Tallinna linnaosa, Peetri tn 11, 10415', ''], ['', 'Telephone', '', '', '+37256122115', ''], ['', 'Email', '', '', 'malcolm@arbonics.com', '']]
@@ -4030,7 +4030,7 @@ Project Description: VCS Version 4.2
 1.5 Project Proponent
 1.6 Other Entities Involved in the Project
 10","The organization responsible for managing this carbon project is Arbonics OÃ. The contact person is Malcolm Sedgwick and their phone number is +37256122115. The email address is malcolm@arbonics.com. The city and country of the organization is Tallinn, Estonia.","{'organization_name': 'Arbonics OU', 'telephone': '372 5398', 'email': 'verification@arbonics.com', 'country': 'Estonia'}",5,3,5,5,1,0.19,82,Completed,0.059549133,0.175,0.538461538,0.264150943,0.025641026,0.083333333,0.039215686,0.175,0.538461538,0.264150943,0.175,0.538461538,0.264150943
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', '', 'Guizhou Jinyan Energy Technology Co.,Ltd', ''], ['Contact person', '', 'Zhu Kunlei', ''], ['Title', '', 'General Manager', ''], ['Address', '', 'Caifuxincheng A2 Building, Yingbin Avenue, Dafang County, Bijie City,', ''], [None, None, 'Guizhou Province, China', None], ['Telephone', '', '+86 21 6246 2036', ''], ['Email', '', '3542346576@qq.com', '']]
 [['Organization name', None, None, '', 'Climate Bridge (Shanghai) Ltd.', ''], ['Role in the project', None, None, '', 'VCU Buyer', ''], ['Contact person', None, None, '', 'Gao Zhiwen', ''], ['Title', None, None, '', 'General Manager', ''], ['Address', None, None, '', 'Block B, Level 24, Jiangong Mansion, 33 Fushan Road, Pudong New', ''], [None, None, None, None, 'Area, Shanghai, China 200120', None], ['', 'Telephone', '', '', '+86-2162462036', '']]
@@ -4043,7 +4043,7 @@ NA.
 1.5 Project Proponent
 1.6 Other Entities Involved in the Project
 6","The organization responsible for managing this carbon project is Guizhou Jinyan Energy Technology Co., Ltd. The contact person is Zhu Kunlei, the general manager. The organization's address is Caifuxincheng A2 Building, Yingbin Avenue, Dafang County, Bijie City, Guizhou Province, China. The telephone number is +86 21 6246 2036, and the email address is 3542346576@qq.com.","{'organization_name': 'Guizhou Jinyan Energy Technology Co., Ltd.', 'country': 'China'}",5,5,5,5,1,0.25,83,Completed,0.111013259,0.140350877,0.8,0.23880597,0.089285714,0.555555556,0.153846154,0.140350877,0.8,0.23880597,0.140350877,0.8,0.23880597
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', 'YPF EnergÃ­a ElÃ©ctrica S.A. (YPF LUZ)'], ['', 'Contact person', 'Santiago Sajaroff'], ['', 'Title', 'Chief Operation Officer'], ['', 'Address', 'Macacha GÃ¼emes 515, Buenos Aires'], ['', 'Telephone', '+54 11 54413985'], ['', 'Email', 'santiago.sajaroff@ypf.com']]
 [['', 'Organization name', 'Not applicable'], ['', 'Role in the project', 'Not applicable'], ['', 'Contact person', 'Not applicable'], ['', 'Title', 'Not applicable'], ['', 'Address', 'Not applicable'], ['', 'Telephone', 'Not applicable'], ['', 'Email', 'Not applicable']]
@@ -4064,7 +4064,7 @@ Start date: 01/08/2018
 End date: 31/07/2028
 1.7 Project Scale and Estimated GHG Emission Reductions or Removals
 v3.3 4","The project proponents responsible for managing this carbon project are YPF EnergÃ­a ElÃ©ctrica S.A. (YPF LUZ). The contact person is Santiago Sajaroff, the Chief Operation Officer. The organization's phone number is +54 11 54413985 and the email address is santiago.sajaroff@ypf.com. The organization is located at Macacha GÃ¼emes 515, Buenos Aires, Argentina.",{'organization_name': 'YPF Energia Electrica S.A.'},5,5,5,5,5,0.08,84,Completed,0.049844479,0.06779661,0.571428571,0.121212121,0.017241379,0.166666667,0.03125,0.050847458,0.428571429,0.090909091,0.050847458,0.428571429,0.090909091
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'China Three Gorges New Energy Corp.'], ['', 'Contact person', '', 'Wang Hongye'], ['', 'Title', '', 'General Manager Assistant'], ['', 'Address', '', 'No. 12, Lane 2, Baiguang Road, Xicheng District, China'], ['', 'Telephone', '', '+86(010)-58689628'], ['', 'Email', '', 'Hollywang816@126.com']]
 [['', 'Organization name', '', 'KOE Environment Consultancy, Inc.'], ['', 'Role in the project', '', 'The project consultant'], ['', 'Contact person', '', 'Daniel Cao'], ['', 'Title', '', 'General Manager'], ['', 'Address', '', 'Room 604,Tower D, Meihui Edifice, Dongzhong Street No.58, Dongcheng\nDistrict, 100027, Beijing, PR China'], ['', None, None, None], ['', 'Telephone', '', '010-65546372-'], ['', 'Email', '', 'cy@cncdm.cn']]
@@ -4152,7 +4152,7 @@ Everest is introducing electric vehicles which is a new and developing technolog
 replace fossil fuel based vehicles which pollute the environment by direct GHG emissions.
 Social Aspects:
 12",The provided context does not contain any information about the start and end dates of the crediting period for the project.,"{'crediting_period_start': '2023-04-01', 'crediting_period_end': '2033-03-31'}",1,1,3,1,1,0,86,Completed,0,0.19047619,0.333333333,0.242424242,0.05,0.090909091,0.064516129,0.142857143,0.25,0.181818182,0.142857143,0.25,0.181818182
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Name of Party\ninvolved (*) ((host)\nindicates a host\nParty)', 'Private and/or public entity(ies)\nproject participants (*) (as\napplicable)', 'Kindly indicate if the Party\ninvolved wishes to be\nconsidered as\nproject participant\n(Yes/No)'], ['China (host)', 'Tieling Longyuan Wind Power\nCo., Ltd.', 'No'], ['Switzerland', 'Essent Trading International S.A.', 'No'], ['(*) In accordance with the CDM modalities and procedures, at the time of making the CDM-\nPDD public at the stage of validation, a Party involved may or may not have provided its\napproval. At the time of requesting registration, the approval by the Party(ies) involved is\nrequired.', None, None]]
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03
@@ -4386,7 +4386,7 @@ Country: Tunisia
 Latitude: 33Â°3'7.79"" N
 
 Longitude: 10Â°27'38.47"" E","{'project_name': 'Tataouine Solar Photovoltaic Plant in Tunisia', 'project_summary': 'The project activity involves installation of a 9.98 MW Greenfield solar power project in Tataouine Governorate, Tunisia. The project will be connected to the National Electrical Grid of Tunisia, which is mainly dominated by thermal/fossil fuel based power plant. The total installed capacity of the project activity is 9.98 MW, and the estimated average annual net electricity supply is 21.928 GWh/year. The project will displace an equivalent amount of power generation from fossil fuel combustion and reduce approximately 14,376 tCO2e anthropogenic emissions of greenhouse gases (GHGâs) per annum.  A 30 day public comment period was held for this project from 16 October to 17 November. No comments were received during the public comment period', 'project_state_province': 'Tataouine Governorate', 'project_country': 'Tunisia', 'project_latitude': 33.38, 'project_longitude': 10.27}",5,5,5,5,5,0.25,92,Completed,0.041512952,0.72,0.244897959,0.365482234,0.387755102,0.130136986,0.194871795,0.56,0.19047619,0.284263959,0.56,0.19047619,0.284263959
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Project Scale', None, ''], ['Project', None, '', None], ['Large project', None, 'â', None]]
 [['', 'Organization name', '', 'Guizhou Xinzhanxin Agricultural Technology Co., Ltd.'], ['', 'Contact person', '', 'Heng Zhang'], ['', 'Title', '', 'Project Manager'], ['Address', 'Address', None, 'No. 2, Floor 1, Unit 2, Building 71, Pantaoyuan Community, Nanming\nDistrict, Guiyang City, Guizhou Province, China.'], ['', 'Telephone', '', '+86 1391777852'], ['', 'Email', '', 'Xinzhanxin_2014@163.com']]
@@ -4413,7 +4413,7 @@ Their contact information is as follows:
 - Phone number: +86 1391777852
 - Email address: Xinzhanxin_2014@163.com
 - City and country: Guiyang City, Guizhou Province, China.","{'organization_name': 'Guizhou Xinzhanxin Agricultural Technology Co., Ltd.'}",5,5,5,5,5,0.24,93,Completed,0.122143404,0.170212766,1,0.290909091,0.152173913,1,0.264150943,0.170212766,1,0.290909091,0.170212766,1,0.290909091
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Project', '', 'Yes'], ['', 'Mega-project', '', 'N/A']]
 PROJECT DESCRIPTION : VCS Version 3
@@ -4649,7 +4649,7 @@ Ana Zapata, email: azapata@mgminnova.com
 (Document developed by Christian Ehrat, christian.ehrat@gmail.com)
 (MGM International S.A.S. is not a project participant)
 v3.0 4",There is no specific mention of the project sector in the provided context.,{'project_sector': 'Renewable Energy'},1,1,3,1,1,0,98,Completed,0,0.153846154,0.5,0.235294118,0.083333333,0.333333333,0.133333333,0.153846154,0.5,0.235294118,0.153846154,0.5,0.235294118
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['AMS-I.L applicability criteria', 'Project activity applicability'], ['Electrification of a community through the\ninstallation of renewable electricity generation\nsystems, which displace fossil fuel use, such as\nin fuel-based lighting systems, stand-alone\npower generators, and fossil fuel based mini-\ngrids.', 'As described in section 1.11, the project\nsubscribes to the goal of electrification of\ncommunities and the reduction of\ngreenhouse gas emissions. This is achieved\nthrough the installation of a renewable\nhydropower generation system, which\ndisplaces fossil fuel use in non-electrified\ncommunities.'], ['Implementation of individual, renewable\nenergy systems such as roof top solar\nphotovoltaic systems;', 'Not applicable'], ['Installation or extension of an isolated mini-grid\nwhich distributes electricity generated only\nfrom renewable energy systems.', 'As described in section 1.11, the project\naims at the installation of an isolated mini-\ngrid which distributes electricity generated\nfrom a renewable energy source.'], ['Greenfield individual, renewable energy system\nprojects or mini-grid activities;', 'As described in section 1.11, the project\naims at installing and operating a Greenfield\nhydropower plant connected to a mini-grid.'], ['Rehabilitation (or refurbishment) of individual,\nrenewable energy systems if it can be\ndemonstrated that the baseline system(s) are\nnot part of another CDM activity and are non-\noperational and require a substantial investment', 'Not applicable']]
 Project Description: VCS Version 4.2
@@ -4934,7 +4934,7 @@ Province: No information about the province is provided.
 Country: No information about the country is provided.
 
 Latitude and Longitude: No information about the latitude and longitude is provided.","{'project_name': 'Rochester Institute of Technology Campus Wide Clean Energy and Energy Efficiency Project', 'project_summary': 'Campus Wide Clean Energy and Energy Efficiency Project', 'project_state_province': 'NY', 'project_country': 'United States', 'project_latitude': 43.08, 'project_longitude': -77.67}",1,1,1,1,1,0.11,105,Completed,0,0.209302326,0.225,0.21686747,0.023809524,0.025641026,0.024691358,0.162790698,0.175,0.168674699,0.186046512,0.2,0.192771084
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESCRIPTION : VCS Version 3
 Based on the information provided in the UNFCCC website, 4 projects identified in step 2, have been
@@ -4973,7 +4973,7 @@ Where:
 BE = Baseline emissions in year y (tCO /yr) y 2
 EG = Quantity of net electricity generation that is produced and fed into the PJ,y
 v3.3 26","The methodology of this project is outlined in the ""Tool for demonstration and assessment of additionality."" It involves determining the factor F, which represents the share of similar projects that apply technologies different from the proposed project activity. The project activity is considered a ""common practice"" if the factor F is greater than 0.2 and there are more than 3 similar projects. In this case, the factor F is 0.00, indicating that the proposed project activity is not a common practice. There are no deviations from the applicable methodology.",{'project_methodologies': ['ACM0002']},4,3,5,5,1,0,106,Completed,0,0.021978022,0.666666667,0.042553191,0,0,0,0.021978022,0.666666667,0.042553191,0.021978022,0.666666667,0.042553191
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'M/s NSL Wind Power Company (Satara) Pvt. Ltd.'], ['', 'Contact person', '', 'Mr. A. Rajnikant'], ['', 'Title', '', 'DGM â Power Division'], ['', 'Address', '', '#8-2-684/2/A, NSL ICON, Road No. 12, Banjara Hills, Town / City:\nHyderabad, Andhra Pradesh, PIN: 500034, India.'], ['', None, None, None], ['', 'Telephone', '', '+91 40 3051 4444'], ['', 'Email', '', 'rajnikant.a@nslpower.com']]
 [['', 'Project Scale', None, ''], ['Project', None, 'Yes', None], ['Large project', None, '-', None]]
@@ -5031,7 +5031,7 @@ Phone number: +91 40 3051 4444
 Email address: rajnikant.a@nslpower.com
 City: Hyderabad
 Country: India","{'organization_name': 'NSL Wind Power Company (Satara) Pvt. Ltd.', 'telephone': '+91 9581412675', 'email': 'rajnikant.a@nslpower.com', 'state/city': 'InÄija', 'country': 'India'}",5,5,5,5,1,0.6,107,Completed,0.401916484,0.666666667,0.782608696,0.72,0.423076923,0.5,0.458333333,0.666666667,0.782608696,0.72,0.666666667,0.782608696,0.72
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', None, None, '', 'ONE CARBON WORLD', ''], ['Contact person', None, None, '', 'Andrew Bowen', ''], ['', 'Title', '', '', 'CEO', ''], ['Address', 'Address', None, '', 'Registered Office: B3 Kingfisher House,', ''], [None, None, None, None, 'Kingsway, Team Valley Trading Estate, Gateshead, England, NE11 0JQ', None], ['', 'Telephone', '', '', '(+44) 191 432 6322', ''], ['', 'Email', '', '', 'andrew.bowen@onecarbonworld.com', '']]
 [['Organization name', None, None, '', 'Tambuzi', ''], ['Role in the project', None, None, '', '', ''], ['Contact person', None, None, '', 'Timothy Hobbs', ''], ['', 'Title', '', '', 'CEO', ''], ['', 'Address', '', '', 'Tambuzi, P.O. Box 1148 Nanyuki, 10400, Kenya, Africa', ''], ['', 'Telephone', '', '', '+254 (0)722 716 158', ''], ['', 'Email', '', '', 'tim.hobbs@tambuzi.co.ke', '']]
@@ -5100,7 +5100,7 @@ Maharashtra.  The information allowing for the unique identification of the WEGs
                                                 
  
 2 http://envfor.nic.in/divisions/ccd/cdm_iac.html  - Sustainable Development Guidelines by MoEF, GoI. ",The project sector is Renewable Energy.,{'project_sector': 'Renewable Energy'},5,5,5,5,5,0.5,109,Completed,0,0.666666667,1,0.8,0.4,0.666666667,0.5,0.666666667,1,0.8,0.666666667,1,0.8
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 VCS Project Description
 2 VCS Methodology:
@@ -5296,7 +5296,7 @@ Country: Chile
 Latitude: -39.75 / -39Â° 45' 0""
 
 Longitude: -72.58 / -72Â° 34' 47.9994""","{'project_name': 'San Pedro Hydropower Plant', 'project_summary': ""San Pedro Hydropower Plant is a greenfield electricity generation project activity which consists in a run-off-river power plant to be developed by ColbÃºn S.A., including a reservoir, adduction tunnels, a powerhouse, two turbines and an electrical substation. The nominal installed capacity of each turbine is 75 MW, with a resulting total installed capacity of 150 MW  and an expected average annual power generation of 932,400  MWh. The planned operational starting date will be on 01 May 2 017 and the project is fully authorised by the respective national authoritiesThe project is located in the San Pedro River, about 14.5 km downstream from the drain of Lake RiÃ±ihue, in Valdivia province in Los RÃ­os Region .The electricity generated is delivered to the Central Interconnected System (Sistema Interconectado Central â SIC) in the Substation Los Ciruelos located in the area of San JosÃ© de la Mariquina, through a  220 kV power transmission line with a length of 40 km .The project activity is considered as Sectoral Scope 1, Energy Industries (renewableon renewable sources), as consists in the installation of a new grid-connected renewable power plant, then the baseline scenario is the following: Electricity delivered to the grid by the project activity would have otherwise been generated by the operation of grid-connected power plants and by the addition of new generation sources, as reflected in the combined margin (CM) calculations described in the âTool to calculate the emission factor for an electricity systemâ (version 03.0.0, EB70). The baseline scenario is the same as the scenario existing prior to the start of implementation of the project activity.The need to incorporate and use new technologies in all of energy areas, allows maintaining a parallel and efficient development to meet the requirement of different production areas of the country. In this context, and considering that hydropower use a renewable and non-polluting resource, and that does not depend on foreign issues, this project is presented as a convenient alternative to avoid the energy dependence on other countries and some of environmental problems, such as climate change.The energy generated by this project activity, will be produced from environmentally safe and sound technology of hydroelectricity generation equipment designed, engineered and manufactured by a respected supplier. Any of trusted manufacturers are then, going to transfer to the Host Party its know-how by means of training the power plant staff during the construction, commissioning and operation of the project activity.The implementation of this hydropower project will displace the dispatch of thermoelectric power plants currently operating in the system and will contribute with greenhouse gases (GHG) emission reductions, specifically by avoiding the emissions of CO2 produced by the combustion of fossil fuels, delivering clean energy to the grid that would have otherwise been generated by the operation of grid-connected power plants and by the addition of new generation sources. Thus, the expected annual emission reduction of the project activity is 610,724 tCO2.In addition, San Pedro Hydropower Plant diversifies the energy pool through the implementation of renewable energy sources helping to reduce Chile's dependence on natural gas coming from Argentina and other countries and to supply the progressive increase in the energy sector demand, which has grown strongly in recent years, thus contributing with the sustainable development of the country."", 'project_state_province': 'Valdivia province in Los RÃ­os Region', 'project_country': 'Chile', 'project_latitude': -39.75, 'project_longitude': -72.58}",5,5,5,5,5,0.12,113,Completed,3.03E-05,0.865384615,0.076791809,0.141065831,0.470588235,0.041025641,0.075471698,0.730769231,0.064846416,0.119122257,0.730769231,0.064846416,0.119122257
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['Applicability condition', '', 'Fulfilment of applicability', ''], [None, None, 'conditions', None], ['This methodology is applicable to grid-connected renewable\nenergy power generation project activities that: (a) install a\nGreenfield power plant; (b) involve a capacity addition to (an)\nexisting plant(s); (c) involve a retrofit of (an) existing operating\nplants/units; (d) Involve a rehabilitation of (an) existing\nplant(s)/unit(s); or (e) involve a replacement of (an) existing\nplant(s)/unit(s).', 'The project activity considers\ninstalling a grid-connected\nrenewable energy power\ngeneration project activity.\nSpecifically, the project\ncorresponds to a Greenfield power\nplant that will be connected to the\nSIC grid.', None, None], ['The project activity may include renewable energy power\nplant/unit of one of the following types: hydro power plant/unit\nwith or without reservoir, wind power plant/unit, geothermal\npower plant/unit, solar power plant/unit, wave power plant/unit or\ntidal power plant/unit.', 'The project activity considers the\ninstallation of a Greenfield run-of-\nriver hydro power plant with a\nreservoir.', None, None]]
 PROJECT DESCRIPTION : VCS Version 3
@@ -5329,7 +5329,7 @@ PROJECT DESCRIPTION : VCS Version 3
 Therefore, all methodological applicability conditions are met by PHAM project activity.
 2.3 Project Boundary
 v3.2 13","Methodology: The methodology for this project is ""ACM0002 Grid-connected electricity generation from renewable sources"" version 16.0, Sectoral Scope 01. This methodology is applicable to grid-connected renewable energy power generation projects that involve the installation of a Greenfield power plant.",{'project_methodologies': ['ACM0002']},3,3,5,5,5,0.05,114,Completed,0,0.071428571,1,0.133333333,0,0,0,0.047619048,0.666666667,0.088888889,0.047619048,0.666666667,0.088888889
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['3. Eligible ALM activities include:\nImproved Cropland Management (ICM): This\ncategory includes practices that demonstrably\nreduce net GHG emissions of cropland systems by\nincreasing soil carbon stocks, reducing soil N O\n2\nemissions, and/or reducing CH emissions.\n4', 'This project practices intermittent flooded method on\ncroplands, which is demonstrated that can reduce net\nGHG emissions by reducing CH emissions. So, this\n4\nproject is an eligible ICM activity.']]
 [['', 'Organization name', '', '', 'Guangxi Meiluo Agricultural Science and Technology Co., Ltd.', ''], ['', 'Role in the project', '', '', 'Project Proponent', ''], ['', 'Contact person', '', '', 'Hui Wu', ''], ['', 'Title', '', '', 'Manager', '']]
@@ -5661,7 +5661,7 @@ accordance with VCS Standard, version 4.2 dated 20 January 2022, as detailed in 
 below:
 Table 1: Eligibility of project under the scope of the VCS Program
 5",The project sector is Forestry and Land Use.,{'project_sector': 'Forestry and Land Use'},5,5,5,5,5,0.67,121,Completed,0.149139886,0.75,1,0.857142857,0.571428571,0.8,0.666666667,0.75,1,0.857142857,0.75,1,0.857142857
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [['area; it may be the route of a\ngovernment aircraft.', '', 'prevent effective reflection of\nlight. To prevent reflection of\nlight up to 95% to make the cell\npanels absorb as much solar\nenergy as possible.']]
 [['All the questions raised by the stakeholders were clarified by the project owner. No concerns raised'], ['by the stakeholders that require change in project design']]
@@ -6098,7 +6098,7 @@ Province: The project is located in the state of Acre, Northern Brazil.
 Country: The project is located in Brazil.
 
 Latitude and Longitude: No specific latitude and longitude coordinates are provided in the given context.","{'project_name': 'Hiwi REDD+ Project', 'project_summary': 'The Hiwi REDD+ Project is a 20,505 hectare area of tropical rainforest located close to the municipalities of Bujari, Rio Branco and Porto Acre, in the state of Acre, Northern Brazil. The state of Acre is facing a rise in deforestation due to cattle ranching activities, with an 8.3% increase of cattle heads from 2020 to 2021. The municipality of Rio Branco has the highest cattle herd in the State, with 14% of the total . Bujari also presented an increase of 15.5% from 2018 to 2020 , while Porto Acre the growth was of 23.5% in the same period. Deforestation in the municipalities from 2018 to 2020  had a boost of 198%, 89% and 154%, respectively. The project will promote forest conservation and, consequently, reduce greenhouse gas emission that would occur due to deforestation. A consortium of 4 rural properties comprises the Hiwi REDD+ Project Area.', 'project_state_province': 'Acre', 'project_country': 'Brazil', 'project_latitude': -9.07, 'project_longitude': -68.08}",4,3,5,4,3,0.42,130,Completed,0.144389505,0.738095238,0.362573099,0.48627451,0.457831325,0.223529412,0.300395257,0.488095238,0.239766082,0.321568627,0.369047619,0.18128655,0.243137255
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Entity', '', '', 'Description', '', '', 'Function', ''], ['Swiss Carbon Value Ltd. is a Zurich-based\ndeveloper of CER and VER projects as well as\nprovider of consultancy services. Ltd.\nYougha von Laer:\nForestry Project Manager Latin America\nSouth Pole Carbon MÃ©xico S. de R. L. de C.V.\nCampeche No. 290 4o Piso\nHipÃ³dromo\n06100, MÃ©xico D. F., MÃ©xico\nT +52 (55) 5564 6793 / 5531 9013\nE y.vonlaer@southpolecarbon.com\nW http://www.southpolecarbon.com', None, None, 'Swiss Carbon Value\nLtd. is a Zurich-based\ndeveloper of CER and\nVER projects as well\nas provider of\nconsultancy services.', None, None, 'Development of\nthe documentation\nto register the\nproject under the\nVCS', None, None], ['Asorpar Ltd.,\nCalle 11a No. 43D-79\nMedellin, Antioquia\nColombia\nT +57 4 2661153 / +57 4 2661280\nE asistente.asorparltda@hotmail.com', None, None, 'ASOPAR (AsesorÃ­as\nen Ornato Paisajismo y\nReforestaciÃ³n, Ltda.)\nis a private company.\nThe legal\nrepresentative is Juan\nGuillermo Molina, the\ntechnical manager is\nLuis Gonzalo\nMoscoso.', None, None, 'Land owner,\nproject\ndeveloper', None, None]]
 VCS Project Description Template
@@ -6599,7 +6599,7 @@ confirm the same.
 Eligibility Criteria
 This is not a grouped project activity. Thus, this section is not applicable for this project
 v3.3 10","The start date of the crediting period for this project is June 21, 2019. The end date of the crediting period is June 20, 2029.","{'crediting_period_start': '2019-06-21', 'crediting_period_end': '2029-06-20'}",5,5,5,5,5,0,142,Completed,0,0.4,0.833333333,0.540540541,0.083333333,0.181818182,0.114285714,0.24,0.5,0.324324324,0.24,0.5,0.324324324
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', '', 'DumanoÄu Enerji YatÄ±rÄ±m Anonim Åirketi', ''], ['', 'Contact person', '', '', 'Mr. Halil SÃ¶yler', ''], ['', 'Title', '', '', 'Executive Board Member', ''], ['Address', 'Address', None, '', 'Sulusaray Beldesi, Cumhuriyet Mah. Ãniversite KÃ¼me Evleri TÄ±bbi AtÄ±k', ''], [None, None, None, None, 'Sterilizasyon Tesisi Blok No:40 Merkez/ NevÅehir', None], ['', 'Telephone', '', '', '+90 533 607 95 35', ''], ['Email', 'Email', None, '', 'halil@atakulasim.com', ''], [None, None, None, None, 'info@dumanogluenerji.com', None]]
 Project Description: VCS Version 4.1
@@ -6645,7 +6645,7 @@ The estimated annual GHG emission reductions/removals of the project are:
 â <20,000 tCO e/year 2
 â 20,000 â 100,000 tCO e/year 2
 6","The project proponent for the carbon project is DumanoÄu Enerji YatÄ±rÄ±m Anonim Åirketi. The organization's phone number is +90 533 607 95 35 and the email address is info@dumanogluenerji.com. The city and country of the entity responsible for managing the project is NevÅehir, Turkey.","{'organization_name': 'EKI Energy Services Limited', 'telephone': '919907534900', 'email': 'registry@enkingint.org', 'link': 'https://enkingint.org', 'state/city': 'InÄija', 'country': 'India'}",5,5,5,5,1,0.08,143,Completed,0,0.078431373,0.181818182,0.109589041,0,0,0,0.078431373,0.181818182,0.109589041,0.078431373,0.181818182,0.109589041
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 Higher Operating and Maintenance (O&M) expenses: For the proposed
 wind power project considered in this PDD, as per the O&M contract
@@ -6720,7 +6720,7 @@ City: Bangalore
 Country: India
 Phone number: +91-80-2227 2271
 Email address: info@bhorukapower.com","{'organization_name': 'Bhoruka Power Corporation Limited', 'state/city': 'Ä°stanbul', 'country': 'Turkey'}",5,5,5,5,1,0.22,144,Completed,0.039577974,0.162790698,0.636363636,0.259259259,0.071428571,0.3,0.115384615,0.162790698,0.636363636,0.259259259,0.162790698,0.636363636,0.259259259
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'Astidey S.A.'], ['', 'Contact person', '', 'Sebastian Benitez'], ['', 'Title', '', 'Accountant'], ['', 'Address', '', '1180 Soriano St'], ['', 'Telephone', '', '+(598) 2 900 73 16'], ['', 'Email', '', 'sbenitez@astidey.com.uy']]
 [['', 'Organization name', '', 'Instalaciones Inabensa, S. A. â Zeroemissions'], ['', 'Role in the project', '', 'VCS Consultant'], ['', 'Contact person', '', 'MarÃ­a Elena FernÃ¡ndez IbÃ¡Ã±ez'], ['', 'Title', '', 'Managing Director']]
@@ -6748,7 +6748,7 @@ The proposed project activity is not a grouped project.
 1.3 Project Proponent
 1.4 Other Entities Involved in the Project
 v3.2 3","The project proponent for this carbon project is Astidey S.A. The contact person is Sebastian Benitez, the accountant of the organization. The organization's phone number is +(598) 2 900 73 16 and the email address is sbenitez@astidey.com.uy. The city and country of the entity responsible for managing this carbon project is not provided in the context.","{'organization_name': 'Astidey S.A', 'telephone': '23154789', 'country': 'China'}",3,3,1,3,1,0.11,145,Completed,0.024225079,0.081967213,0.555555556,0.142857143,0.033333333,0.25,0.058823529,0.06557377,0.444444444,0.114285714,0.06557377,0.444444444,0.114285714
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 JOINT PROJECT DESCRIPTION & MONITORING REPORT: VCS Version 3
 The project activities employ the best available technology and it lead to the promotion
@@ -6779,7 +6779,7 @@ since commissioning and registration.
 Not Applicable as project is registered under CDM.
 v3.1
 11",There is no information provided about the methodology of the project.,{'project_methodologies': ['ACM0018']},1,1,1,1,1,0,146,Completed,0,0.181818182,0.666666667,0.285714286,0,0,0,0.090909091,0.333333333,0.142857143,0.090909091,0.333333333,0.142857143
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', '', 'Guizhou Xinzhanxin Agricultural Technology Co., Ltd.', ''], ['', 'Role in the project', '', '', 'Project Proponent', ''], ['', 'Contact person', '', '', 'Heng Zhang', ''], ['', 'Title', '', '', 'Manager', ''], ['Address', 'Address', None, '', 'No. 2, Floor 1, Unit 2, Building 71, Pantaoyuan Community, Nanming', ''], [None, None, None, None, 'District, Guiyang City, Guizhou Province, China.', None], ['', 'Telephone', '', '', '+86 18984067590', ''], ['', 'Email', '', '', 'xinzhanxin_2014@163.com', '']]
 Project Description: VCS Version 4.0
@@ -6801,7 +6801,7 @@ The project is not a grouped project.
 1.5 Project Proponent
 1.6 Other Entities Involved in the Project
 6","The organization responsible for managing this carbon project is Guizhou Xinzhanxin Agricultural Technology Co., Ltd. The contact person is Heng Zhang, the manager. The phone number is +86 18984067590 and the email address is xinzhanxin_2014@163.com. The organization is located at No. 2, Floor 1, Unit 2, Building 71, Pantaoyuan Community, Nanming District, Guiyang City, Guizhou Province, China.","{'organization_name': 'Guizhou Xinzhanxin Agricultural Technology Co., Ltd.', 'country': 'China'}",5,5,5,5,1,0.23,147,Completed,0.105242336,0.133333333,0.8,0.228571429,0.084745763,0.555555556,0.147058824,0.133333333,0.8,0.228571429,0.133333333,0.8,0.228571429
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization', '', 'Gujarat Forest Department'], [None, 'name', None, None]]
 Project Description: VCS Version 4.0
@@ -6837,7 +6837,7 @@ This does not apply because it is not a grouped project.
 Project Description: VCS Version 4.0
 1.6 Other Entities Involved in the Project
 6","The organization responsible for managing this carbon project is the Gujarat Forest Department. The contact person is Dr. K. Sasikumar, the Conservator of Forests Surat Circle. The phone number for Dr. K. Sasikumar is 7574950036 / 02642-240702. The email address for the project is cfbharuch@gmail.com. The city and country of the entity responsible for managing this carbon project is Surat, Gujarat, India.","{'organization_name': 'Gujarat Forest Department', 'state/city': 'GujrÄt', 'country': 'India'}",5,5,5,5,5,0.17,148,Completed,0,0.109375,0.636363636,0.186666667,0.031746032,0.2,0.054794521,0.109375,0.636363636,0.186666667,0.109375,0.636363636,0.186666667
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['o The project activity would create direct and indirect employment opportunities for the local'], ['population and lead to development of the region.']]
 [['The CDM project activity should bring in additional investment consistent with the needs of the'], ['people.']]
@@ -6866,7 +6866,7 @@ A.4. Technical description of the project activity:
 A.4.1. Location of the project activity:
 A.4.1.1. Host Party(ies):
 India","The provided context does not contain the specific information requested, such as the organization name, phone number and email address, city and country of the entity responsible for managing this carbon project.","{'organization_name': 'Hindustan Zinc Limited', 'email': 'v.jayaraman@vedanta.co.in', 'state/city': 'InÄija', 'country': 'India'}",1,1,1,1,1,0.11,149,Completed,0,0.15625,0.294117647,0.204081633,0.032258065,0.0625,0.042553191,0.15625,0.294117647,0.204081633,0.15625,0.294117647,0.204081633
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Organization name', None, None, '', 'Rivulis Pte. Ltd.', ''], ['Contact person', None, None, '', 'Jonathan Baravir', ''], ['', 'Title', '', '', 'Rivulis Climate Director', ''], ['', 'Address', '', '', 'Migdal Menivim, Hatana 1, Kfar Saba, Israel', ''], ['', 'Telephone', '', '', '+972 52-439-6309', ''], ['', 'Email', '', '', 'Jonathan.Baravir@rivulis.com', '']]
 [['', 'Project start date', '', '', '30-July-2021', '']]
@@ -7061,7 +7061,7 @@ Sustainable Development Contributions Activity Monitoring
 The project activity contributes towards sustainable development but PP does not monitor the
 sustainable development contributions. Hence, PP has not reported the SD contribution below:
 15",The start and end dates of the crediting period for this project are not mentioned in the provided context.,"{'crediting_period_start': '2011-08-19', 'crediting_period_end': '2021-08-18'}",1,1,3,1,1,0,153,-,0,0.210526316,0.333333333,0.258064516,0.055555556,0.090909091,0.068965517,0.157894737,0.25,0.193548387,0.157894737,0.25,0.193548387
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', '', 'Cree First Nation of Waswanipi', ''], ['', 'Contact person', '', '', 'Steven Blacksmith', ''], ['', 'Title', '', '', 'Director of Natural Resources Departement', ''], ['', 'Address', '', '', '1, Chief Louis R. Gull Street, Waswanipi (QuÃ©bec) J0Y 3C0', ''], ['', 'Telephone', '', '', '(819) 753-2587', ''], ['', 'Email', '', '', 'stevenblacksmith@waswanipi.com', '']]
 [['', 'Organization name', '', '', 'Cree First Nation of Waswanipi', ''], ['', 'Contact person', '', '', 'Laurie Neeposh', ''], ['', 'Title', '', '', 'Secretary treasurer', ''], ['', 'Address', '', '', '1, Chief Louis R. Gull Street, Waswanipi (QuÃ©bec) J0Y 3C0', ''], ['', 'Telephone', '', '', '(819) 753-2587', ''], ['', 'Email', '', '', 'lneeposh@waswanipi.com', '']]
@@ -7086,7 +7086,7 @@ Project Description: VCS Version 4.0
    - Phone number: 418-683-2385 ext: 230
    - Email address: william.metivier@dgr.ca
    - City and country: QuÃ©bec (QuÃ©bec), Canada","{'organization_name': 'Cree First Nation of Waswanipi.', 'telephone': '819-753-2587', 'email': 'michel.ares@cfnw.ca', 'country': 'Canada'}",5,3,5,4,1,0.22,154,-,0.07530865,0.205479452,0.833333333,0.32967033,0.125,0.529411765,0.202247191,0.191780822,0.777777778,0.307692308,0.205479452,0.833333333,0.32967033
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03.1
 CDM â Executive Board
@@ -7256,7 +7256,7 @@ Province: Not mentioned in the context.
 Country: Not mentioned in the context.
 
 Latitude and Longitude: Not mentioned in the context.","{'project_name': 'THE NAGALAND 4 CHANGE REDD+ PROJECT', 'project_summary': 'The Nagaland 4 Change is proposing an AFOLU Project under REDD+ Category in Peren district of Nagaland, North-eastern India. Nagaland is one of the few states of India having forest cover more than 50% of its geographical area. The forests provide multiple goods and services to the local Naga communities, such as fruits, seeds, medicines and recreation. Moreover, Nagaland state is located in the Indo-Burma Biodiversity Hotspot Region, which is among the 36 most biodiverse regions of the Earth. Some of the rare and endangered species, such as Spotted Linsang (Prionodon pardicolor), Clouded Leopard (Neofelis nebulosa), and Black Softshell Turtle (Nilssonia nigricans). In addition, forests of Nagaland protect the fragile hilly ecosystems of the state by preventing soil erosion and landslides.\r\n   \r\nHowever, specifically forests in Peren are gradually reducing in size. As well as the forests are also becoming increasingly prone to the fires during the dry summer months (April, May and June). Because of high anthropogenic pressures, the forests are also under extreme stress as a result of firewood collections. Therefore, Nagaland 4 Change, the Project Proponent is proposing a forest conservation project through funding from carbon financing under Verra VCS Mechanism. The main aim of the projects are as follows:\r\n1.\tConservation of existing forests by protecting the forest cover.\r\n2.\tIncreasing the forest cover as well as increasing density of the vegetation in forests.\r\n3.\tEnhancing the capacity of carbon storage of the forests, therefore generating carbon credits revenue out of it.\r\n4.\tMonitoring and reporting of the rare and endangered flora and fauna living the forests.\r\n5.\tProviding livelihood improvement to the local Naga communities through various interventions such as improved cookstoves, clean drinking water, etc.', 'project_state_province': 'Nagaland', 'project_country': 'India', 'project_latitude': 25.51, 'project_longitude': 93.74}",3,1,5,3,1,0.13,158,-,0.00160337,0.566666667,0.107936508,0.181333333,0.084745763,0.015923567,0.026809651,0.3,0.057142857,0.096,0.316666667,0.06031746,0.101333333
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'at project crediting period renewal, as set\nout in Section 3.8.9.', '']]
 [['', 'Organization name', '', '', 'Hunan Yueyang Huabanqiao Market Development Co., Ltd.', ''], ['', 'Contact person', '', '', 'Liu Peng', ''], ['', 'Title', '', '', 'Project manager', ''], ['', 'Address', '', '', 'No. 369 Pipawang Road, Yueyanglou District, Yueyang City', ''], ['', 'Telephone', '', '', '+86 18601249697', ''], ['', 'Email', '', '', 'peng20876275@163.com', '']]
@@ -7272,7 +7272,7 @@ The project is not a grouped project. So, itâs not applicable.
 1.5 Project Proponent
 1.6 Other Entities Involved in the Project
 8","The organization responsible for managing this carbon project is the Hunan Yueyang Huabanqiao Market Development Co., Ltd. The contact person is Liu Peng, the project manager. The organization's address is No. 369 Pipawang Road, Yueyanglou District, Yueyang City. The telephone number is +86 18601249697 and the email address is peng20876275@163.com. The city and country of the organization is Yueyang City, China.","{'organization_name': 'Hunan Yueyang Huabanqiao Market Development Co., Ltd.', 'telephone': '20876275', 'email': 'peng20876275@163.com', 'state/city': 'Yueyang', 'country': 'China'}",5,5,5,5,5,0.38,159,-,0.163217728,0.265625,0.85,0.404761905,0.126984127,0.421052632,0.195121951,0.25,0.8,0.380952381,0.25,0.8,0.380952381
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'Organization name', '', 'SEI Suryashakti Power Private Limited'], ['', 'Contact person', '', 'Murali Krishnam Raju M'], ['', 'Title', '', 'Sr Manager - CDM & GIMS'], ['Address', 'Address', None, 'Madlerhalli, Nagalamadike (Village and Post) , Pavagada Taluk, Tumkur\nDistrict, Karnataka- 572136, India'], ['', 'Telephone', '', '+91 40 40300100'], ['', 'Email', '', 'info@greenkogroup.com']]
 [['', 'Organization name', '', 'EKI Energy Services Limited'], ['', 'Role in the project', '', 'Project Consultant'], ['', 'Contact person', '', 'Manish Dabkara'], ['', 'Title', '', 'CEO & MD'], ['Address', 'Address', None, 'EnKing Embassy, Office No 201, Plot 48, Scheme 78, Part 2, Vijay\nNagar, Indore- 452010, Madhya Pradesh, India.'], ['', 'Telephone', '', '+91-731-4289086']]
@@ -7549,7 +7549,7 @@ development of its region and country:
 â¢ It generates extra income for landowners, while they can continue using the area for
 other activities, thus it increases and diversifies the lands productivity;
 v3.3 9",The start and end dates of the crediting period for this project are not provided in the given context.,"{'crediting_period_start': '2020-05-14', 'crediting_period_end': '2030-05-13'}",1,1,1,1,1,0,166,-,0,0.210526316,0.333333333,0.258064516,0.055555556,0.090909091,0.068965517,0.157894737,0.25,0.193548387,0.157894737,0.25,0.193548387
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 VCS Project Description Template
 3 Monitoring:
@@ -7629,7 +7629,7 @@ Country: P.R. China
 Latitude: 31Â°0Â´15â³ north latitude
 
 Longitude: 113Â°09Â´13â³ east longitude","{'project_name': 'Jingshan Kaidi Biomass Power Project', 'project_summary': 'Jingshan Biomass Power Project is a biomass utilization project developed by Jingshan Kaidi Green Energy Development Co., Ltd. and is located in Southeast of Jingshan Economic Development Park, Hubei Province, P.R. China. The center of plant has geographical coordinates of 113Â¡Ã£09Â¡Ã¤13Â¡Ã¥ east longitude 31Â¡Ã£0Â¡Ã¤15Â¡Ã¥north latitude.  The proposed project is designed to process about 185,700tonnes (wet) of biomass residue annually, of which rice husk and rice straw, wheat straw, oil seed rape straw, cotton straw and maize straw are the main biomass fuels. 2 sets of 65t/h Circulating Fluidized Bed (CFB) boiler and 2 sets of 12MW steam turbines generator units are installed and the total installed capacity of the Project is 24MW. The annual equivalent operation hours at full load is estimated to be 6000 hours with a net electricity generation of 126,720MWh and a net heat generation of 541,602GJ per year.', 'project_state_province': 'Hubei Province', 'project_country': 'China', 'project_latitude': 31.0, 'project_longitude': 113.15}",5,1,5,5,5,0.3,168,-,0.047757235,0.851851852,0.259887006,0.398268398,0.58490566,0.176136364,0.270742358,0.592592593,0.18079096,0.277056277,0.666666667,0.203389831,0.311688312
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 PROJECT DESCRIPTION : VCS Version 3
 Picture 2: After the Project Implementation (Simulation)
@@ -7730,7 +7730,7 @@ local air pollution. Additional benefits include the increase of employment oppo
 through full-time and permanent positions, etc.
 The Project will contribute to sustainable development in the following ways:
 10",There is no information provided about the start and end dates of the crediting period for this project.,"{'crediting_period_start': '2021-12-27', 'crediting_period_end': '2031-12-26'}",1,1,1,1,1,0,171,-,0,0.222222222,0.333333333,0.266666667,0.058823529,0.090909091,0.071428571,0.166666667,0.25,0.2,0.166666667,0.25,0.2
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 PROJECT DESCRIPTION : VCS Version 3
 1 PROJECT DETAILS
@@ -7870,7 +7870,7 @@ written permit â see forest example the Forest Proclamation1. Sometimes the
 practices in some parts of the forest, mainly in the areas along the border between Tigray and
 1 Forest Development, Conservation and Utilization Proclamation No. 1065/2018.
 30","The start date of the crediting period for this project is January 1st, 2018, and the end date is December 31st, 2068.","{'crediting_period_start': '2018-01-01', 'crediting_period_end': '2067-12-31'}",5,5,5,5,5,0,173,-,0,0.227272727,0.416666667,0.294117647,0.047619048,0.090909091,0.0625,0.181818182,0.333333333,0.235294118,0.181818182,0.333333333,0.235294118
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['List of Project Proponents', None, None, None, 'Roles'], ['The project activity was\ncommissioned by project proponent\nMs. Aishwarya Rai. All the\ncommunications were/would be\ntaken care by her Authorised\nSignatory Mr. K.R. Rai. Letter\nstating Power of Attorney to Mr.\nK.R. Rai has been provided to\nValidator.', None, None, None, 'Project Development\nProject monitoring\nSupervision of O&M Activities\nData monitoring'], ['VCS Project Consultant', None, None, None, None], ['', 'Organization', '', 'M/s Positive Climate Care Private Limited', None], ['', 'Street/P.O.Box:', '', '108', None], ['', 'Building:', '', 'Ashirwad Complex, Central Spine, Vidyadhar Nagar', None], ['', 'City:', '', 'Jaipur', None], ['', 'State/Region:', '', 'Rajasthan', None], ['', 'Postfix/ZIP:', '', '302023', None], ['', 'Country:', '', 'India', None], ['', 'Tele -Fax:', '', '+91-141-2338078', None], ['', 'URL:', '', 'www.positiveclimatecare.com', None], ['', 'Represented by:', '', 'Ms. Meenakshi Jain', None], ['', 'Title:', '', 'Miss', None], ['', 'Salutation:', '', 'Chief Managing Director', None]]
 VCS Project Description
@@ -8012,7 +8012,7 @@ Province: The project is located in Nakula Natural Area Reserve (NAR) and Kahiki
 Country: The project is in the State of HawaiÊ»i, United States.
 
 Latitude and Longitude: The latitude and longitude coordinates for the project are not provided in the given context.","{'project_name': 'Ola Hou â Restoring Hawaiiâs Native Forests', 'project_summary': 'In 2015, the State of Hawaii initiated the grouped project âOla Hou â Restoring Native Hawaiian Forestsâ. In this reforestation project, the State of Hawaii is taking efforts to permanently remove feral ungulates from the land and to plant native trees to promote the restoration of native forest throughout the Hawaiian Islands. This grouped project promotes reforestation of land that would remain as degraded grassland, pasture, and abandoned agricultural land in the absence of carbon finance.', 'project_state_province': 'HI', 'project_country': 'United States', 'project_latitude': 20.68, 'project_longitude': -156.23}",3,3,5,4,1,0.3,176,-,0.099911881,0.412280702,0.460784314,0.435185185,0.115044248,0.128712871,0.121495327,0.254385965,0.284313725,0.268518519,0.289473684,0.323529412,0.305555556
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESCRIPTION : VCS Version 3
 1.12.4 Other Forms of Environmental Credit
@@ -8178,7 +8178,7 @@ which is less than 300,000 tonnes of CO2e per year, thus the project falls in th
 Project.
 8https://cdm.unfccc.int/Projects/DB/SGS-UKL1427395680.34/view
 7",The start date of the project activity is 30/03/2014. The crediting period for the project is 7 years.,"{'crediting_period_start': '2021-03-30', 'crediting_period_end': '2028-03-29'}",3,3,5,3,1,0,179,-,0,0.25,0.416666667,0.3125,0.052631579,0.090909091,0.066666667,0.2,0.333333333,0.25,0.2,0.333333333,0.25
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 PROJECT DESCRIPTION : VCS Version 3
 â¢ Social: SOCIALCARBON methodology is being applied in order to improve long term
@@ -8360,7 +8360,7 @@ Total estimated ERs  319,540
 Total number of crediting years  10 
 Average annual ERs  31,954  
 Description of the Project Activity  ",The start and end dates of the crediting period for this project are from 20/09/2018 to 19/09/2028.,"{'crediting_period_start': '2018-09-20', 'crediting_period_end': '2028-09-19'}",5,3,5,5,5,0,183,-,0,0.476190476,0.833333333,0.606060606,0.05,0.090909091,0.064516129,0.238095238,0.416666667,0.303030303,0.238095238,0.416666667,0.303030303
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['', 'no credit may be claimed for GHG\nemission reductions or removals\ngenerated during a previous verification\nperiod.', 'removals generated during a previous\nverification period.']]
 [['Organization name', None, None, '', 'Carbisure Tech Private Limited', ''], ['Contact person', None, None, '', 'Harish Yadav', ''], ['', 'Title', '', '', 'Director', ''], ['Address', 'Address', None, '', '203, 2-A/3, Asaf Ali Road, Kundan Mansion, Turkman G, Ajmeri', ''], [None, None, None, None, 'Gate Extn., New Delhi â 110002 (India)', None], ['', 'Telephone', '', '', '+91 7988735327', ''], ['', 'Email', '', '', 'hello@earthonly.io', '']]
@@ -8898,7 +8898,7 @@ Country: India
 Latitude: 210.05' North
 
 Longitude: 810.05' East","{'project_name': '1.5 MW Rice Husk Based Cogeneration Project at Rajaram Maize Products, Mohad, Dist. Rajnandgaon (CG), India', 'project_summary': 'Rajaram Maize Products (RMP) is operating a Starch, Glucose & Dextrose Monohydrate manufacturing plant at Village Mohad, Dist. Rajnandgaon in Chhattisgarh. In the production process, steam and electricity are required as source of energy. Before the project activity, steam was generated in two solid fuel fired boilers (One 10 TPH for regular operation and one 6 TPH as a standby) and electricity was taken from state electricity grid. Fuel for boiler was mostly coal. In order to improve electricity availability and plant productivity the plant management decided to go for captive power generation.  The plant management had mainly two options for choosing fuel for co-generation plant, viz. coal & rice husk. The management decided to go for rice husk fired co-generation plant. Thus the project activity aims at reducing the GHG emissions that would have been generated by using coal as a fuel for co-generation plant.', 'project_state_province': 'Chhattisgarh', 'project_country': 'India', 'project_latitude': 21.08, 'project_longitude': 81.08}",3,1,5,5,1,0.08,196,-,0,0.555555556,0.081967213,0.142857143,0.153846154,0.021978022,0.038461538,0.518518519,0.076502732,0.133333333,0.518518519,0.076502732,0.133333333
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 Joint Project Description & Monitoring Report: VCS Version 4.1
 wastes of the project will be properly treated with a clear direction and will not cause secondary
@@ -8987,7 +8987,7 @@ Country: India
 Latitude: 16Âº 55â 43â N
 
 Longitude: 81Âº 51â 47â E","{'project_name': 'Combined cycle natural gas based grid connected power plant at Jegurupadu, India', 'project_summary': 'The purpose of the project activity is construction and operation of a new 228 MW natural gas based power plant. The electricity generated will be exported to the southern grid. The project activity once operational will help in reducing the carbon intensity and power deficit on the southern grid.', 'project_state_province': 'East Godavari District, Andhra Pradesh', 'project_country': 'India', 'project_latitude': 16.93, 'project_longitude': 81.86}",5,5,5,5,5,0.3,198,-,0.132417605,0.476923077,0.369047619,0.416107383,0.234375,0.180722892,0.204081633,0.384615385,0.297619048,0.33557047,0.384615385,0.297619048,0.33557047
-"What is the project proponents, includind organization name, phone number and email address, city and country of the entity responsible for managing this carbon project?","
+"What are the project proponents, including organization name, phone number, email address, state/city and country of the entity responsible for managing this carbon project?","
 
 [['Name of Party involved (*)\n(host) indicates a host Party)', 'Private and/or public entity(ies) project\nparticipants (*) (as applicable)', 'Kindly indicate if the Party\ninvolved wishes to be\nconsidered as project\nparticipant (Yes/No)'], [""People's Republic of China\n(host)"", 'Sichuan Huadian Xixi River Hydro-\nelectricity Development Co., Ltd', 'No'], ['United Kingdom of Great\nBritain and Northern Ireland', 'EcoSecurities International Limited', 'No'], ['(*) In accordance with the CDM modalities and procedures, at the time of making the CDM-PDD public at the stage of\nvalidation, a Party involved may or may not have provided its approval. At the time of requesting registration, the approval by the\nParty(ies) involved is required.', None, None]]
 PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03
@@ -9018,7 +9018,7 @@ The exact location of the Project is defined using geographic coordinates obtain
 Positioning System (GPS) receiver:
 Powerhouse: Longitude 102Â°59â² 43.12â³E, latitude 27Â°49â²33.51â³ N;
 Dam Site: longitude 102Â°55â²28.33â³ E, latitude 27Â°56â²45.56â³ N","The organization responsible for managing this carbon project is Sichuan Huadian Xixi River Hydro-electricity Development Co., Ltd. The location of the project is near Zhaojue County in Sichuan Province, People's Republic of China. However, the context does not provide any information regarding the organization's phone number, email address, or the city and country of the entity.","{'organization_name': 'Sichuan Huadian Xixi River Hydroelec. Dev. Co., Lt', 'state/city': 'Huadian'}",3,2,3,1,1,0.17,199,-,0.093026051,0.118644068,0.538461538,0.194444444,0.051724138,0.25,0.085714286,0.118644068,0.538461538,0.194444444,0.118644068,0.538461538,0.194444444
-What is the methodology of this project?,"
+What are the methodologies of this project?,"
 
 [[''], ['The current and expected practice of predominantly relying on thermal sources and some large hydro in'], ['expanding the generation capacity, as well as the combination of lack of access to finance, institutional'], ['and regulatory barriers, and perceived risks of the selected technology, clearly demonstrate that the'], ['Cuyamel project is additional and therefore not the baseline scenario. The prohibitive barriers that exist'], ['in Honduras are confirmed by the observed trend in recent capacity additions and small hydro plantsâ low'], ['share of the total electricity generation in the country.'], ['']]
 [['The project boundary is defined as the notional margin around a project within which the projectâs'], ['impact (in terms of carbon emission reductions) will be assessed. As referred to in Appendix B for'], ['small-scale project activities, the project boundary for a small scale hydropower project that provides'], ['electricity to a grid encompasses the physical, geographical site of the renewable generation source. For'], ['the Cuyamel project this includes emissions from activities that occur at the project location.'], [''], ['The system boundary for the proposed project is defined as the national grid in Honduras. The project'], ['boundary for the baseline will include all the direct emissions, being the emissions related to the'], ['electricity produced by the facilities and power plants to be replaced by the Cuyamel project. This'], ['involves emissions from displaced fossil fuel use at power plants.'], [''], ['Conforming to the guidance and rules for small scale project activities, the emissions related to'], ['production, transport and distribution of the fuel used for the power plants in the baseline are not'], ['included in the project boundary as these do not occur at the physical and geographical site of the'], ['project. For the same reason the emissions related to the transport are also excluded from the project'], ['boundary.']]

@@ -1,11 +1,7 @@
-import logging, re, warnings
+import re, warnings
 import pandas as pd
 
-warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.simplefilter(action='ignore', category=DeprecationWarning)
-
-# Set up logging configuration with timestamps
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+warnings.filterwarnings("ignore", category=(FutureWarning, DeprecationWarning))
 
 # Load emissions reductions data from Excel and CSV sources
 cb_df = pd.read_excel('data/training/data_collection/CarbonMarkets_ghg.xlsx', sheet_name='Emissions Reductions Sum')
@@ -54,4 +50,4 @@ df = df.groupby('Project ID').apply(lambda x: dict(zip(x['Year'], x['Value']))).
 df.columns = ['Project ID', 'GHG Emission Reductions']
 
 # Save processed data to CSV file in the specified path
-df.to_csv(f'data/training/data_processing/processed_ground_truth_ghg.csv', index=False, encoding='utf-8')
+df.to_csv('data/training/data_processing/processed_ground_truth_ghg.csv', index=False, encoding='utf-8')
