@@ -19,8 +19,10 @@ Key Stages of the Project:
 - Model Evaluation: Comprehensive evaluation of the model's performance using unseen datasets with reference answers.
 - Information Extraction Pipeline: After fine-tuning, a robust pipeline is developed to use the model for efficiently extracting key information from unseen PDDs. 
 
+---
 
 ## Project Structure
+```
 ├── .env                                                # Stores environment variables like API keys.
 ├── requirements                                        # Project dependencies.
 │   ├──requirements.txt                                 # Python dependencies for the project.
@@ -98,7 +100,8 @@ Key Stages of the Project:
     ├── OpenAIConnection.py                             # Functions for OpenAI API connection.
     ├── PDFExtraction.py                                # PDF text extraction functions.
     └── utils.py                                        # General utilities.
-
+```
+---
 
 ## Environment Setup Instructions
 1. Install Python Version
@@ -120,6 +123,8 @@ Create a .env file and add the following variables:
 OPENAI_API_KEY=<your-openai-api-key>
 PYTHONPATH=<absolute-path-to-project-folder>
 
+---
+
 ## Jupyter Notebook Setup (For Data Analysis)
 1. Create a Conda Environment
 To create a Conda environment, run the following command:
@@ -132,6 +137,8 @@ Activate the environment with the following command:
 3. Launch Jupyter Notebook
 Start the Jupyter Notebook with the following command:
 `jupyter notebook scripts/analysis/`
+
+---
 
 ## How to Execute
 ### Information Extraction Pipeline
