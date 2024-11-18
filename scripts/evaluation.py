@@ -167,9 +167,9 @@ def _setup_args():
     """
     parser = argparse.ArgumentParser()
     parser.add_argument('id', type=str, nargs='?', help='Model ID')
-    parser.add_argument('-question', type=str, help='File containing prompts')
-    parser.add_argument('-answer', type=str, help='File containing answers')
-    parser.add_argument('-output', type=str, help='Output Filepath')
+    parser.add_argument('--question', type=str, help='File containing prompts')
+    parser.add_argument('--answer', type=str, help='File containing answers')
+    parser.add_argument('--output', type=str, help='Output Filepath')
     args = parser.parse_args()
 
     return args

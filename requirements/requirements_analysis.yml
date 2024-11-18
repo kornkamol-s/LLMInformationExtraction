@@ -1,4 +1,4 @@
-name: analysis_env
+name: analysis
 channels:
   - defaults
 dependencies:
@@ -177,4 +177,3 @@ dependencies:
     - threadpoolctl==3.5.0
     - tqdm==4.66.5
     - wordcloud==1.9.3
-prefix: C:\Users\KornkamolSampaongern\anaconda3\envs\analysis_env

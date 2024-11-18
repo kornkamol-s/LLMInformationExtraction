@@ -136,9 +136,9 @@ def _setup_args():
     """
     parser = argparse.ArgumentParser()
     parser.add_argument('ids', type=int, nargs='*', help='Project IDs which documents will be processed')
-    parser.add_argument('-m', type=str, help='Selected Model')
-    parser.add_argument('-input', type=str, default='data/inference/input', nargs='?', help='Input Folder')
-    parser.add_argument('-output', type=str, default='data/inference/intermediate/context.csv', nargs='?', help='Output File to store extracted context')
+    parser.add_argument('--m', type=str, help='Selected Model')
+    parser.add_argument('--input', type=str, default='data/inference/input', nargs='?', help='Input Folder')
+    parser.add_argument('--output', type=str, default='data/inference/intermediate/context.csv', nargs='?', help='Output File to store extracted context')
     args = parser.parse_args()
 
     return args

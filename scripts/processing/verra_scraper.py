@@ -281,7 +281,7 @@ def _setup_args():
     parser.add_argument('input', help='Text file containing IDs', nargs='?')
     parser.add_argument('--ids', type=int, nargs='+', help='Project IDs')
     parser.add_argument('--dirs', type=str, default='data/training/data_collection/pdds', help='Local filepath to store PDDs')
-    parser.add_argument('--output', type=str, default='data/training/data_collection/verra_data_1.csv', help='Output filename for keeping scraped information')
+    parser.add_argument('--output', type=str, default='data/training/data_collection/verra_data.csv', help='Output filename for keeping scraped information')
     args = parser.parse_args()
 
     return args

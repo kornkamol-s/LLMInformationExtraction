@@ -54,11 +54,11 @@ def _setup_args():
     """
     parser = argparse.ArgumentParser()
     parser.add_argument('output_dir', type=str, help='Output Directory for keeping logs')
-    parser.add_argument('-train_file', type=str, help='File containing training data')
-    parser.add_argument('-validate_file', type=str, help='File containing validation data')
-    parser.add_argument('-epoch', type=int, nargs='?', help='Epoch')
-    parser.add_argument('-bsize', type=int, nargs='?', help='Batch Size')
-    parser.add_argument('-lr', type=float, nargs='?', help='Learning Rate')
+    parser.add_argument('--train_file', type=str, help='File containing training data')
+    parser.add_argument('--validate_file', type=str, help='File containing validation data')
+    parser.add_argument('--epoch', type=int, nargs='?', help='Epoch')
+    parser.add_argument('--bsize', type=int, nargs='?', help='Batch Size')
+    parser.add_argument('--lr', type=float, nargs='?', help='Learning Rate')
     args = parser.parse_args()
 
     return args
