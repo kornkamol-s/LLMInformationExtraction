@@ -1,5 +1,3 @@
-PDF Information Extraction using GPT-3.5
-
 ## Project Description
 This repository is dedicated to the study "Leveraging Large Language Models for Advanced Information Extraction in the Carbon Insurance Domain." The goal of this project is to automate the extraction of critical data from Project Design Documents (PDDs) registered with Verra under the VCS, focusing primarily on carbon activity projects in the Forestry and Land Use or Renewable Energy sectors. 
 
