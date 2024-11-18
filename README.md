@@ -155,13 +155,13 @@ Start the Jupyter Notebook with the following command:
 
 ## How to Execute
 ### Information Extraction Pipeline
->> Step 1: Prepare Input Files
+#### Step 1: Prepare Input Files
 Place PDF files in the folder:
 ```
     data/inference/input
 ```
 
->> Step 2: Run the Script
+#### Step 2: Run the Script
 To run the the pipeline, use the following command:
 ```
     python scripts\run_pipeline.py [1234 1235] [--m ft:gpt-3.5-turbo-0125::APFxmJCP] [--input data/inference/input] [--output data/inference/intermediate/context.csv]
@@ -173,7 +173,7 @@ To run the the pipeline, use the following command:
     --output: (Optional) Absolute path for saving the context extraction results (for debugging purposes).
 ```
 
->> Step 3: View Results
+#### Step 3: View Results
 The extracted context will be saved in:
 ```
     data/inference/intermediate/context.csv
@@ -185,13 +185,13 @@ The final results from IE task will be saved in:
 ```
 
 ### Model Training and Evaluation
->> Step 1: Prepare Input Files
+#### Step 1: Prepare Input Files
 Place PDF files in the folder:
 ```
     data/training/data_collection/pdds/
 ```
 
->> Step 2: Extract Context from PDDs
+#### Step 2: Extract Context from PDDs
 Run the following command to extract context from the PDDs:
 ```
     python scripts\processing\context_extractor.py [input data/training/data_collection/pdds] [--ids 1234 1235] [--output data/training/data_processing/pdd_context_retrieval.csv]
@@ -205,7 +205,7 @@ Run the following command to extract context from the PDDs:
     data/training/data_processing/pdd_context_retrieval.csv
 ```
 
->> Step 3: Prepare Ground Truth
+#### Step 3: Prepare Ground Truth
 To clean and format the datasets into JSON key-value format, run:
 
 For comprehensive project dataset:
@@ -224,7 +224,7 @@ The processed ground truth will be saved in:
     data/training/data_processing/processed_ground_truth_ghg.csv
 ```
 
->> Step 4: Transform Data for Fine-Tuning
+#### Step 4: Transform Data for Fine-Tuning
 To merge context and ground truth, and partition data into train, validation, and test sets, run:
 
 For SQuAD dataset:
@@ -249,7 +249,7 @@ The transformed datasets will be saved in:
     data/training/data_partitioning/test/
 ```
 
->> Step 5: Train the Model
+#### Step 5: Train the Model
 To train the GPT-3.5 model on the training and validation sets, run:
 ```
     python scripts\training.py [output_dir squad] [--train_file squad_train] [--validate_file squad_validate] [--epoch 4] [--bsize 8] [--lr 2]
@@ -266,7 +266,7 @@ To train the GPT-3.5 model on the training and validation sets, run:
     data/training/result/{dataset}/logs/
 ```
 
->> Step 6: Evaluate the Model
+#### Step 6: Evaluate the Model
 To evaluate the model’s performance and compare generated responses with reference answers, run:
 ```
     python scripts\evaluation.py [id ft:gpt-3.5-turbo-0125::APFxmJCP] [--question squad_test_prompt] [--answer squad_test_answer] [--output squad]
