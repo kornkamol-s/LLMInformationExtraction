@@ -272,3 +272,35 @@ class PDFExtraction:
                 word_area[1] > table_area[1] and
                 word_area[2] < table_area[2] and
                 word_area[3] < table_area[3])
+    
+
+    def _search_keywords(self, keys):
+        """
+        Searches for specified keywords within the PDF document.
+
+        Parameters:
+            keys (list): A list of keywords to search for in the PDF.
+
+        Returns:
+            dict: A dictionary where each key is a keyword and the value is a list of page numbers containing that keyword.
+        """        
+        results = {key: [] for key in keys}
+
+        # Iterate through all the pages
+        for _, page in enumerate(self.pdf.pages):
+
+            # Extract text from the current page
+            text = page.dedupe_chars().extract_text()
+
+            # Check for each keyword
+            for key in keys:
+                pattern = re.escape(key) if '|' not in key else key
+
+                # Search for the pattern in the text
+                if re.search(pattern, text, re.IGNORECASE):
+
+                    # Append the page number to the result list for that keyword
+                    results[key].append(page.page_number)
+            page.flush_cache()   
+
+        return results
