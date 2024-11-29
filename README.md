@@ -1,8 +1,5 @@
 ## Project Description
-This repository is dedicated to the study "Leveraging Large Language Models for Advanced Information Extraction in the Carbon Insurance Domain." The goal of this project is to automate the extraction of critical data from Project Design Documents (PDDs) registered with Verra under the VCS, focusing primarily on carbon activity projects in the Forestry and Land Use or Renewable Energy sectors. 
-
-By automating the extraction process, the project aims to enhance the efficiency and accuracy of risk assessments in the carbon insurance sector while significantly reducing the manual workload.
-
+This repository is dedicated to the study "Leveraging Large Language Models for Advanced Information Extraction in the Carbon Insurance Domain." The goal of this project is to automate the extraction of critical data from Project Design Documents (PDDs) registered with Verra under the VCS using GPT-3.5, focusing primarily on carbon activity projects in the Forestry and Land Use or Renewable Energy sectors. By automating the extraction process, the project aims to enhance the efficiency and accuracy of risk assessments in the carbon insurance sector while significantly reducing the manual workload.
 
 Key Stages of the Project: 
 - Data Collection: Scraping and gathering relevant project data from Verra, including PDDs and associated project details.
@@ -47,7 +44,7 @@ Key Stages of the Project:
 │       │   ├── pdds                                    # Raw PDD files.
 │       │   ├── verra_data.csv                          # Verra project information.
 │       │   ├── multiple_proponents.csv                 # Information related to multiple project proponents.
-│       │   ├── CDM methodologies.csv                   # Methodology metadata.
+│       │   ├── CDM methodologies.xlsx                  # Methodology metadata.
 │       │   ├── CarbonMarkets_ghg.xlsx                  # GHG emission reduction value from Clearblue Markets
 │       │   ├── AlliedOffsets_project_info.csv          # Project information from AlliedOffsets
 │       │   └── AlliedOffsets_ghg.csv                   # GHG emission reductions from AlliedOffset.

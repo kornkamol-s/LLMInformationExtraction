@@ -12,9 +12,6 @@ def find_pdf_files(folder_location):
     Returns:
     - list: A list of PDF files in the folder.
     """
-    if not os.path.isdir(folder_location):
-        raise FileNotFoundError("The provided location does not exist")
-
     # Only search for PDF format
     pdf_files = [
         file for file in os.listdir(folder_location)

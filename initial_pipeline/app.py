@@ -17,18 +17,18 @@ from section import other_entities, project_proponents, ghg_emission_reductions
 
 
 search_headers = {
-    # "project_proponents": [
-    #     "project proponent",
-    #     "projectpropoonent",
-    #     "promotorul de proiect",
-    #     "proponente del proyecto",
-    # ],
-    # "other_entities": [
-    #     "other entities",
-    #     "roles and responsibilities, including contact information",
-    #     "other project participant",
-    #     "alte entități implicate în proiect",
-    # ],
+    "project_proponents": [
+        "project proponent",
+        "projectpropoonent",
+        "promotorul de proiect",
+        "proponente del proyecto",
+    ],
+    "other_entities": [
+        "other entities",
+        "roles and responsibilities, including contact information",
+        "other project participant",
+        "alte entități implicate în proiect",
+    ],
     "ghg_emission_reductions": [
         "estimated ghg emission reductions",
         "reduceri și eliminări nete de emisii de ges",
