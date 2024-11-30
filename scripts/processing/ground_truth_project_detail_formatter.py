@@ -4,7 +4,6 @@ import numpy as np
 from flashgeotext.geotext import GeoText
 from commonregex import CommonRegex
 
-warnings.filterwarnings("ignore", category=(FutureWarning, DeprecationWarning))
 
 def _filter_na(data):
     """

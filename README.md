@@ -124,8 +124,15 @@ To install all required dependencies, run the following command:
 Update value of the following variables in .env file:
 ```
     OPENAI_API_KEY=<your-openai-api-key>
-    PYTHONPATH=<absolute-path-to-project-folder>
 ```
+
+5. Set Python Path
+To ensure the project can access internal tools, 
+add the project directory to the PYTHONPATH environment variable. Run the following command:
+```
+    set PYTHONPATH=<absolute-path-to-project-folder>
+```
+
 ---
 
 ## Jupyter Notebook Setup (For Data Analysis)

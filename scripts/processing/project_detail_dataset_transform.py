@@ -333,8 +333,8 @@ test_df = test_df.sample(frac=1, random_state=42).reset_index(drop=True)
 val_df = val_df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Transform and save to local file
-_save_jsonl(train_df, f'{filepath}/train/project_info_train_1.jsonl', _transform_record)
-_save_jsonl(val_df, f'{filepath}/validate/project_info_validate_1.jsonl', _transform_record)
-_save_jsonl(test_df, f'{filepath}/test/project_info_test_prompt_1.jsonl', lambda row: _transform_record(row, is_test=True))
+_save_jsonl(train_df, f'{filepath}/train/project_info_train.jsonl', _transform_record)
+_save_jsonl(val_df, f'{filepath}/validate/project_info_validate.jsonl', _transform_record)
+_save_jsonl(test_df, f'{filepath}/test/project_info_test_prompt.jsonl', lambda row: _transform_record(row, is_test=True))
 test_df = test_df.rename(columns={'value': 'answers'})
-test_df['answers'].to_csv(f'{filepath}/test/project_info_test_answer_1.csv', index=False)
+test_df['answers'].to_csv(f'{filepath}/test/project_info_test_answer.csv', index=False)

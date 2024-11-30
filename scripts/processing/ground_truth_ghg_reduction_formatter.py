@@ -1,7 +1,6 @@
 import re, warnings
 import pandas as pd
 
-warnings.filterwarnings("ignore", category=(FutureWarning, DeprecationWarning))
 
 # Load emissions reductions data from Excel and CSV sources
 cb_df = pd.read_excel('data/training/data_collection/CarbonMarkets_ghg.xlsx', sheet_name='Emissions Reductions Sum')
