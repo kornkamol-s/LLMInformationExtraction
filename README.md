@@ -1,5 +1,5 @@
 ## Project Description
-This repository is dedicated to the study "Leveraging Large Language Models for Advanced Information Extraction in the Carbon Insurance Domain." The goal of this project is to automate the extraction of critical data from Project Design Documents (PDDs) registered with Verra under the VCS using GPT-3.5, focusing primarily on carbon activity projects in the Forestry and Land Use or Renewable Energy sectors. By automating the extraction process, the project aims to enhance the efficiency and accuracy of risk assessments in the carbon insurance sector while significantly reducing the manual workload.
+This repository is dedicated to the study "Leveraging Large Language Models for Advanced Information Extraction in the Carbon Insurance Domain." The goal of this project is to automate the extraction of critical data from Project Design Documents (PDDs) registered with Verra using GPT-3.5, focusing primarily on carbon activity projects in the Forestry and Land Use or Renewable Energy sectors. By automating the extraction process, the project aims to enhance the efficiency and accuracy of risk assessments in the carbon insurance sector while significantly reducing the manual workload.
 
 Key Stages of the Project: 
 - Data Collection: Scraping and gathering relevant project data from Verra, including PDDs and associated project details.
@@ -20,7 +20,7 @@ Key Stages of the Project:
 ```
 ├── .env                                                # Stores environment variables like API keys.
 ├── requirements                                        # Project dependencies.
-│   ├──requirements.txt                                 # Python dependencies for the project.
+│   ├── requirements.txt                                # Python dependencies for the project.
 │   └── requirements_analysis.yml                       # Conda environment setup file for analysis.
   
 ├── config                                              # Configuration files.
@@ -78,14 +78,14 @@ Key Stages of the Project:
     ├── training.py                                     # Training script for the model.
     ├── analysis                                        # Analysis-specific scripts.
     │   ├── EDA.ipynb                                   # Exploratory Data Analysis notebook.
-    │   ├── find_keywords.py                            # Keywords analysis in PDFs.
+    │   ├── find_keyword_in_pdf.py                      # Keywords analysis in PDFs.
     │   ├── PDD_categorization.py                       # Analysis of PDDs structure.
-    │   └── score_visualization.ipynb                   # Fine-tuning performance visualization.
+    │   └── Score Visualisation.ipynb                   # Performance metrics visualization.
     └── processing                                      # Data processing scripts.
         ├── verra_scraper.py                            # Verra data scraper and downloader.
         ├── project_ids.txt                             # List of project IDs for Verra scraping.
         ├── context_extractor.py                        # Extracts context from PDDs.
-        ├── ground_truth_ghg_formatter.py               # GHG emission reduction ground truth formatter.
+        ├── ground_truth_ghg_reduction_formatter.py     # GHG emission reduction ground truth formatter.
         ├── ground_truth_project_detail_formatter.py    # Project detail ground truth formatter.
         ├── squad_dataset_transform.py                  # Transforms SQuAD for question-answer tasks.
         ├── project_detail_dataset_transform.py         # Transforms project detail for question-answer tasks.
@@ -109,18 +109,19 @@ To install, run the following commands:
 2. Create and Activate Virtual Environment
 To create and activate a virtual environment, run the following command:
 ```
-    python -m venv LLMInformationExtraction
-    \LLMInformationExtraction\Scripts\activate
+    python -m venv LLMInformationExtraction_env
+    LLMInformationExtraction_env\Scripts\activate
 ```
 
 3. Install Project Dependencies
 To install all required dependencies, run the following command:
 ```
+    cd LLMInformationExtraction
     pip install -r requirements/requirements.txt
 ```
 
 4. Configure Environment Variables
-Create a .env file and add the following variables:
+Update value of the following variables in .env file:
 ```
     OPENAI_API_KEY=<your-openai-api-key>
     PYTHONPATH=<absolute-path-to-project-folder>
@@ -151,7 +152,7 @@ Start the Jupyter Notebook with the following command:
 ## How to Execute
 ### Information Extraction Pipeline
 #### Step 1: Prepare Input Files
-Place PDF files in the folder:
+Place PDF files to be processed in the specified folder for extraction:
 ```
     data/inference/input
 ```
@@ -181,7 +182,7 @@ The final results from IE task will be saved in:
 
 ### Model Training and Evaluation
 #### Step 1: Prepare Input Files
-Place PDF files in the folder:
+Place PDF files to be processed in the specified folder for training and evaluation:
 ```
     data/training/data_collection/pdds/
 ```
@@ -247,7 +248,7 @@ The transformed datasets will be saved in:
 #### Step 5: Train the Model
 To train the GPT-3.5 model on the training and validation sets, run:
 ```
-    python scripts\training.py [output_dir squad] [--train_file squad_train] [--validate_file squad_validate] [--epoch 4] [--bsize 8] [--lr 2]
+    python scripts\training.py [squad] [--train_file squad_train] [--validate_file squad_validate] [--epoch 4] [--bsize 8] [--lr 2]
 
     Arguments:
     output_dir: Directory to store logs and learning curves (e.g., squad, project_info, or ghg_emission_reduction).
@@ -264,7 +265,7 @@ To train the GPT-3.5 model on the training and validation sets, run:
 #### Step 6: Evaluate the Model
 To evaluate the model’s performance and compare generated responses with reference answers, run:
 ```
-    python scripts\evaluation.py [id ft:gpt-3.5-turbo-0125::APFxmJCP] [--question squad_test_prompt] [--answer squad_test_answer] [--output squad]
+    python scripts\evaluation.py [ft:gpt-3.5-turbo-0125::APFxmJCP] [--question squad_test_prompt] [--answer squad_test_answer] [--output squad]
 
     Arguments:
     id: Model ID to generate responses.
@@ -272,7 +273,7 @@ To evaluate the model’s performance and compare generated responses with refer
     --answer: Filename containing correct answers.
     --output: Folder to store performance metrics.
 
-    Evaluation results will be saved in:
+    Model generated results and performance metrics will be saved in:
     data/training/result/{dataset}/responses/{modelID}
     data/training/result/{dataset}/metrics/{modelID}
 ```
@@ -280,7 +281,7 @@ To evaluate the model’s performance and compare generated responses with refer
 ### To Scrape Data and Download PDDs from Verra Website
 To scrape project data and download PDDs, run:
 ```
-    python scripts\processing\verra_scraper.py [input scripts/processing/project_ids.txt] [--ids 1234 1235] [--dirs data/training/data_collection/pdds] [--output data/training/data_collection/verra_data.csv]`
+    python scripts\processing\verra_scraper.py [scripts/processing/project_ids.txt] [--ids 1234 1235] [--dirs data/training/data_collection/pdds] [--output data/training/data_collection/verra_data.csv]
 
     Arguments:
     input: (Optional) Text file containing project IDs.
@@ -303,18 +304,18 @@ For Exploratory Data Analysis:
 
 #### To Visualize Fine-Tuning Performance Scores:
 ```
-    jupyter notebook scripts/analysis/Score Visualisation.ipynb
+    jupyter notebook "scripts/analysis/Score Visualisation.ipynb"
 ```
 
 #### To Search Keywords in PDDs:
 To search for keywords under each category and identify their locations in the PDDs, run:
 ```
-    python scripts\analysis\find_keyword_in_pdf.py [input data/training/data_collection/pdds/] [-ids 1234 1235] [-output keywords_found_in_pages]
+    python scripts\analysis\find_keyword_in_pdf.py [data/training/data_collection/pdds/] [--ids 1234 1235] [--output keywords_found_in_pages]
 
     Arguments:
     input: (Optional) Folder to search for the PDFs.
-    -ids: (Optional) Specific project IDs to process.
-    -output: (Optional) Output filename to store keyword search results.
+    --ids: (Optional) Specific project IDs to process.
+    --output: (Optional) Output filename to store keyword search results.
 
     Keyword search results will be saved in:
     data/training/data_analysis/keywords_found_in_pages.csv

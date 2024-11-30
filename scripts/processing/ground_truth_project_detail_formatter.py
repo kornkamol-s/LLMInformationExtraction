@@ -121,7 +121,7 @@ scrape_df['id'] = scrape_df['id'].astype('int')
 # Load project information from AlliedOffsets
 project_detail_df = pd.read_csv('data/training/data_collection/AlliedOffsets_project_info.csv', encoding='utf-8', low_memory=False)
 
-# Filter project sector and proejcts registered in VCS, and extract project ID into numerical format
+# Filter project sector and projects registered in VCS, and extract project ID into numerical format
 project_detail_df = project_detail_df[
     (project_detail_df['UID'].str.contains('VCS', na=False)) &
     (project_detail_df['Project Sector'].isin(['Forestry and Land Use', 'Renewable Energy']))
@@ -165,7 +165,7 @@ df[['Start Date', 'End Date']] = df['Crediting Period Term'].str.extractall(r'(\
 df['Start Date'] = pd.to_datetime(df['Start Date'], format='%d/%m/%Y', errors='coerce').dt.strftime('%Y-%m-%d')
 df['End Date'] = pd.to_datetime(df['End Date'], format='%d/%m/%Y', errors='coerce').dt.strftime('%Y-%m-%d')
 
-# Fille empty value in AlliedOffsets using Verra dataset if exists
+# Fill empty value in AlliedOffsets using Verra dataset if exists
 df.fillna({'Crediting Period Start Date': df['Start Date'], 'Crediting Period End Date': df['End Date']}, inplace=True)
 
 # Initialize GeoText for geographic extraction

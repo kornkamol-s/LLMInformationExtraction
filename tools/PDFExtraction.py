@@ -30,6 +30,8 @@ class PDFExtraction:
 
         Returns:
         - DataFrame: A DataFrame containing the sections and their corresponding page ranges.
+
+        This code was inspired by the concepts and evolved from the preliminary framework, which is referenced in Appendix 5 of the main report.
         """
         toc = []
 
@@ -159,6 +161,8 @@ class PDFExtraction:
 
         Returns:
         - The extracted text from the page range.
+
+        This code was inspired by the concepts and evolved from the preliminary framework, which is referenced in Appendix 5 of the main report.
         """
         texts = ''
 
@@ -282,7 +286,7 @@ class PDFExtraction:
             keys (list): A list of keywords to search for in the PDF.
 
         Returns:
-            dict: A dictionary where each key is a keyword and the value is a list of page numbers containing that keyword.
+            A dictionary where each key is a keyword and the value is a list of page numbers containing that keyword.
         """        
         results = {key: [] for key in keys}
 

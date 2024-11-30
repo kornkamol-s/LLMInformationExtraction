@@ -22,7 +22,7 @@ ao_df = ao_df[['id', 'Vintage (forecast vs actual issuance)', 'Measure Values']]
 # Exclude any rows where 'Measure Values' is zero, to avoid irrelevant data
 ao_df = ao_df[ao_df['Measure Values']!=0.0]
 
-# Reshape data from CarbonMarkets to have emission values across multiple years
+# Reshape data to have emission values across multiple years
 cb_df = cb_df.melt(id_vars=['Project ID'], var_name='Year', value_name='Value')
 
 # Remove rows with missing data
@@ -37,7 +37,7 @@ cb_df['Project ID'] = cb_df['Project ID'].astype('int')
 # Merge data from both sources
 df = pd.merge(ao_df, cb_df, right_on='Project ID', left_on='id', how='outer')
 
-# Fill missing value in carbonmarkets dataset with alliedoffsets
+# Fill missing value in clearblue markets dataset with alliedoffsets
 df['Project ID'] = df['Project ID'].fillna(df['id']).astype('int')
 df['Year'] = df['Year'].fillna(df['Vintage (forecast vs actual issuance)']).astype('int')
 df['Value'] = df['Value'].fillna(df['Measure Values'])

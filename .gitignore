@@ -6,3 +6,4 @@ test/*
 log/*
 data-science-task/data/*
 data/training/data_collection/pdds/*
+scripts/analysis/iframe_figures/*

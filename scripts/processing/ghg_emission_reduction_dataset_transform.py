@@ -88,7 +88,7 @@ df = pd.merge(context_df, answer_df, left_on='id', right_on='Project ID', how='i
 # Add question for ghg emission reduction
 df['question'] = df['section_category'].map(config.QUESTION_MAPPING)
 
-# Remove all whitespace to remain consisten with model's generated answers
+# Remove all whitespace to remain consistent with model's generated answers
 df['GHG Emission Reductions'] = df['GHG Emission Reductions'].str.replace(r'\s+', '', regex=True)
 
 # Remove records containing inconsistency between contexts and answers

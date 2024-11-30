@@ -51,7 +51,7 @@ def _fuzzy_match(answer, contexts, threshold=80):
     Parameters:
         answer (str): The string to search for in the contexts.
         contexts (List): A list of strings to compare with the answer.
-        threshold (int): Minimum match score (0-100) for a match to be considered valid. Default is 80.
+        threshold (int): Minimum match score. Default is 80.
 
     Returns:
         bool: True if any context matches the answer above threshold.
@@ -72,7 +72,7 @@ def _filter_groundtruth(row):
     # Convert to dictionary
     value_dict = ast.literal_eval(row['value'])
 
-    # Handle Crediting Period by checkping the start year of crediting period whether it matches with the context
+    # Handle Crediting Period by checking the start year of crediting period whether it matches with the context
     if row['section_category'] == 'crediting_period':
         start_date_str = value_dict.get('crediting_period_start', '')
         if start_date_str:
@@ -218,7 +218,7 @@ def create_split_proponent(df, total_records, no_relevant_count, comma_count, te
         no_relevant_count (int): Number of rows with "No relevant information found in context" to include.
         comma_count (int): Number of rows containing multiple proponents to include.
         telephone_count (int): Number of rows containing telephone information to include.
-        email_count (int): Number of rows containing email' to include.
+        email_count (int): Number of rows containing email to include.
         state_count (int): Number of rows containing state to include.
 
     Returns:
@@ -264,21 +264,21 @@ def _data_partitioning(df):
     remaining_credit_df = remaining_credit_df[~remaining_credit_df.index.isin(credit_test_df.index)]
     credit_val_df = create_split_crediting_period(remaining_credit_df, total_records=50, no_relevant_count=2)
 
-    # Split proejct sector data into train-validate-test
+    # Split project sector data into train-validate-test
     sector_train_df = create_split_sector(sector_df, total_records=400, no_relevant_count=10)
     remaining_sector_df = sector_df[~sector_df.index.isin(sector_train_df.index)]
     sector_test_df = create_split_sector(remaining_sector_df, total_records=50, no_relevant_count=2)
     remaining_sector_df = remaining_sector_df[~remaining_sector_df.index.isin(sector_test_df.index)]
     sector_val_df = create_split_sector(remaining_sector_df, total_records=50, no_relevant_count=2)
 
-    # Split proejct methodology data into train-validate-test
+    # Split project methodology data into train-validate-test
     method_train_df = create_split_methodology(method_df, no_relevant_count=10, comma_count=155, acm0002_count=80, other_count=155)
     remaining_method_df = method_df[~method_df.index.isin(method_train_df.index)]
     method_test_df = create_split_methodology(remaining_method_df, no_relevant_count=2, comma_count=20, acm0002_count=8, other_count=20)
     remaining_method_df = remaining_method_df[~remaining_method_df.index.isin(method_test_df.index)]
     method_val_df = create_split_methodology(remaining_method_df, no_relevant_count=2, comma_count=20, acm0002_count=8, other_count=20)
 
-    # Split proejct location data into train-validate-test
+    # Split project location data into train-validate-test
     location_train_df = create_split_location(location_df, no_relevant_count=10, geo_count=101, other_count=289)
     remaining_location_df = location_df[~location_df.index.isin(location_train_df.index)]
     location_test_df = create_split_location(remaining_location_df, no_relevant_count=2, geo_count=10, other_count=38)
@@ -309,7 +309,7 @@ filepath = 'data/training/data_partitioning'
 context_df = pd.read_csv('data/training/data_processing/pdd_context_retrieval.csv', encoding='utf-8')
 answer_df = pd.read_csv('data/training/data_processing/processed_ground_truth_project_info.csv', encoding='utf-8')
 
-# Conver ID to integer, and merge using id and information type
+# Convert ID to integer, and merge using id and information type
 context_df['id'] = context_df['id'].astype('int')
 answer_df['id'] = answer_df['id'].astype('int')
 context_df = context_df[~context_df['context'].isna()]

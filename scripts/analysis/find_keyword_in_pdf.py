@@ -6,6 +6,7 @@ from tools.PDFExtraction import PDFExtraction
 # Set up logging configuration with timestamps
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Keywords gained from initial analysis using subset of projects
 kws = [
         {'Project Proponent': ['project proponent']},
         {'GHG Emission Reductions': ['ghg emission reduction']},

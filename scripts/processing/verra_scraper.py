@@ -252,7 +252,7 @@ def _download_files(detail, output_dir):
     if response.status_code == 200:
 
         # Open a file in write mode in the specified output directory
-        with open(f'{output_dir}/{detail['filename']}', 'wb') as file:
+        with open(f"{output_dir}/{detail['filename']}", 'wb') as file:
 
             # Iterate over the content in chunks of 8 KB to prevents loading 
             # the entire file into memory at once
@@ -262,7 +262,7 @@ def _download_files(detail, output_dir):
                 file.write(chunk)
                 file_size += len(chunk)
 
-        logging.info(f'Download {detail['filename']} Successfully')
+        logging.info(f"Download {detail['filename']} Successfully")
 
     # Update the dictionary with the total file size
     detail['file_size'] = file_size
